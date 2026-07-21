@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20",
+  "updated_at": "2026-07-21",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -29,6 +29,168 @@
         "电子与封装"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169648837",
+      "title": "Enhancing the tensile performance of GFRE composites: a comparative study of micro- and nano-copper fillers",
+      "authors": [
+        "AM Sadoun",
+        "M. Megahed",
+        "El-Sayed R. Negeed",
+        "D. Morsy",
+        "A. Fathy",
+        "Obaidullah Alfahmi",
+        "M. A. El-Naggar",
+        "Amr Seif"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-61434-5",
+      "url": "https://doi.org/10.1038/s41598-026-61434-5",
+      "abstract": "Incorporation of micron-to-nanometer fillers into fiber-reinforced epoxy composites is a viable way to improve mechanical performance. The study presents an in-depth evaluation of micro- and nano-scale copper additives within GFRE (glass fiber-reinforced epoxy) composites subjected to similar fabrication and loading conditions, accompanied by a performance-cost analysis adopting a multi-criteria decision-making (Entropy-TOPSIS) technique. GFRE laminates were manufactured incorporating three different contents of 0.2 wt%, 2 wt%, and 4 wt% micro/nano Cu fillers utilizing controlled sonication and mechanical stirring. The study simultaneously evaluates the tensile characteristics (on- and off-axis), hardness, void content, and cost-effectiveness. The results, presented as mean values with related standard deviations shown in the figures, indicated an improvement in on-axis tensile strength of 21% and 20.6% for 4 wt% micro-Cu and 2 wt% nano-Cu, respectively. However, improvement in off-axis tensile strength of 33.8% and 38.2% for 2 wt% micro- Cu and 2 wt% nano-Cu. Maximum enhancement of on axis strain is 65.7% for 2 wt% nano-Cu and for off axis strain of 43.6% is attained also with 2 wt% nano-Cu. The analysis indicates nano-Cu performed better at modest contents, while micro-Cu is cost-effective and more stable at higher contents. These outcomes serve to optimize GFRE composites for structural applications that require performance-to-cost balances.",
+      "summary": "Incorporation of micron-to-nanometer fillers into fiber-reinforced epoxy composites is a viable way to improve mechanical performance. The results, presented as mean values with related standard deviations shown in the figures, indicated an improvement in on-axis tensile strength of 21% and 20.6% for 4 wt% micro-Cu and 2 wt% nano-Cu, respectively. These outcomes serve to optimize GFRE composites for structural applications that require performance-to-cost balances.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169721086",
+      "title": "Utilization of Sewage Sludge-Derived Biochar as a Functional UV Stabilizer in Recycled Poly(ethylene terephthalate) Nanocomposite Materials",
+      "authors": [
+        "Nikolaos Pardalis",
+        "Lazaros Karagiannidis",
+        "Panagiotis Α. Klonos",
+        "Eleftheria Maria Pechlivani",
+        "Rafail O. Ioannidis",
+        "Apostolos Kyritsis",
+        "Konstantinos Chrisafis",
+        "Dimitrios Ν. Bikiaris"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141758",
+      "url": "https://doi.org/10.3390/polym18141758",
+      "abstract": "This work investigates the incorporation of sewage sludge-derived biochar (BC) into a recycled poly(ethylene terephthalate) (rPET) matrix at loadings ranging from 0.5 to 5% wt. in order to develop sustainable nanocomposite materials. The materials were comprehensively characterized using complementary structural, thermal, and morphological techniques to evaluate the effect of BC on the properties of the recycled polymer. XRD, DSC, and PLM analyses demonstrated that BC acts as a heterogeneous nucleating agent, without significantly altering the final crystalline fraction of rPET, while SEM observations confirmed the homogeneous dispersion of particles within the matrix. TGA and Py–GC/MS further indicated that BC moderates thermal degradation, reducing the relative formation of low-molecular-weight degradation products and promoting the retention of larger terephthalate-containing fragments. Accelerated UV irradiation experiments further demonstrated the protective role of BC against photo-induced degradation. Intrinsic viscosity (IV) measurements showed that BC-containing nanocomposites exhibited a smaller molecular-weight reduction after UV exposure compared to neat rPET, indicating reduced chain scission, while complementary DSC analyses confirmed improved preservation of thermal transitions after aging. Overall, sewage sludge-derived biochar is demonstrated to be a promising multifunctional additive for rPET, acting both as a nucleating agent and a UV stabilizer. This approach provides an alternative route for the valorization of two waste streams, contributing to enhanced materials in a circular economy framework.",
+      "summary": "This work investigates the incorporation of sewage sludge-derived biochar (BC) into a recycled poly(ethylene terephthalate) (rPET) matrix at loadings ranging from 0.5 to 5% wt. The materials were comprehensively characterized using complementary structural, thermal, and morphological techniques to evaluate the effect of BC on the properties of the recycled polymer. Overall, sewage sludge-derived biochar is demonstrated to be a promising multifunctional additive for rPET, acting both as a nucleating agent and a UV stabilizer.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "循环利用与可持续材料",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169713602",
+      "title": "Fracture and viscoelastic behavior of SWCNT-reinforced bio-based epoxy nanocomposites: role of dispersion and interfacial interactions",
+      "authors": [
+        "Vivekanand Singh",
+        "Sanjay Mishra",
+        "Sanjeev Kumar Singh Yadav",
+        "Sushil Kumar Singh"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Figshare",
+      "doi": "https://doi.org/10.6084/m9.figshare.33028429.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.33028429.v1",
+      "abstract": "This study explores the viscoelastic behavior and fracture toughness response of single-walled carbon nanotube (SWCNT)-reinforced bio-based epoxy nanocomposites, with emphasis on underlying reinforcement behavior. Nanocomposites with SWCNT loadings of 0–0.45 wt.% were fabricated and characterized using dynamic mechanical analysis (DMA), fracture toughness testing, Shore D hardness, scanning electron microscopy (SEM), and X-ray diffraction (XRD). The fracture toughness showed a significant increase (up to 46.2%) with SWCNT incorporation. SEM analysis revealed a transition from smooth, brittle fracture surfaces in neat epoxy to rough, tortuous morphologies with crack deflection and branching at intermediate loadings, indicating enhanced energy dissipation. The DMA results showed substantial increases in storage modulus (69.7% at 25°C and 134.7% at 35°C) and a shift in glass transition temperature (52.8°C), reflecting restricted polymer chain mobility owing to effective filler–matrix interactions. Shore D hardness increased moderately (~5%), while XRD confirmed that the epoxy remained amorphous. The results indicate a balance between improved load transfer at lower filler contents and agglomeration-induced stress concentrations at higher loadings. This study provides insight into structure–property relationships governing the viscoelastic and fracture performance of bio-based epoxy nanocomposites.",
+      "summary": "This study explores the viscoelastic behavior and fracture toughness response of single-walled carbon nanotube (SWCNT)-reinforced bio-based epoxy nanocomposites, with emphasis on underlying reinforcement behavior. The DMA results showed substantial increases in storage modulus (69.7% at 25°C and 134.7% at 35°C) and a shift in glass transition temperature (52.8°C), reflecting restricted polymer chain mobility owing to effective filler–matrix interactions. The results indicate a balance between improved load transfer at lower filler contents and agglomeration-induced stress concentrations at higher loadings.",
+      "techniques": [
+        "DMA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169733262",
+      "title": "Kombucha-Derived Bacterial Cellulose Nanowhisker-Reinforced Electroblown Gelatin/PVA Nanofibrous Mats as Candidate Materials for Sustainable Food Packaging",
+      "authors": [
+        "Salih Birhanu Ahmed",
+        "Andinet Kumella Eticha",
+        "Harun Çuğ",
+        "Nurcan Doğan",
+        "Cemhan Dogan",
+        "Sedef Şişmanoğlu",
+        "Nagham Elberishy",
+        "Yasin Akgul"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141764",
+      "url": "https://doi.org/10.3390/polym18141764",
+      "abstract": "The growing demand for sustainable food packaging materials has accelerated the development of biodegradable alternatives to conventional petroleum-based plastic. This study investigates the reinforcement of electroblown gelatin/polyvinyl alcohol (G-PVA) nanofibrous mats with kombucha-derived bacterial cellulose nanowhiskers (BCNWs) to enhance their mechanical, thermal, and surface properties while promoting the valorization of symbiotic culture of bacteria and yeast (SCOBY) waste. BCNWs were incorporated into the G-PVA matrix at different loadings, and the resulting nanocomposites were characterized using scanning electron microscopy (SEM), Fourier-transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), thermogravimetric analysis (TGA), tensile testing, and water contact angle measurements. The addition of BCNW significantly improved the tensile strength of the nanofibrous mats, with a maximum increase about 120% compared with neat G-PVA nanofibers. SEM images revealed uniform, bead-free fiber structures at appropriate BCNW concentrations, while FTIR and XRD analyses confirmed effective interactions between the nanowhiskers and the polymer matrix. TGA results indicated enhanced thermal stability at moderate BCNW loadings, whereas excessive BCNW content promoted agglomeration and reduced thermal resistance. Furthermore, the incorporation of BCNWs increased the water contact angle to 144.11 ± 1.45°, demonstrating improved surface hydrophobicity. Overall, kombucha-derived BCNWs effectively reinforced electroblown G-PVA nanofibers, producing biodegradable nanocomposite mats with improved performance and strong potential for sustainable food packaging applications.",
+      "summary": "The growing demand for sustainable food packaging materials has accelerated the development of biodegradable alternatives to conventional petroleum-based plastic. TGA results indicated enhanced thermal stability at moderate BCNW loadings, whereas excessive BCNW content promoted agglomeration and reduced thermal resistance. Overall, kombucha-derived BCNWs effectively reinforced electroblown G-PVA nanofibers, producing biodegradable nanocomposite mats with improved performance and strong potential for sustainable food packaging applications.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169726351",
+      "title": "Hydrogenolysis of alkali lignin using spent cell-phone battery electrode coating derived lithium cobalt oxide on carbon catalyst",
+      "authors": [
+        "Ananda S. Amarasekara",
+        "Gabriel Murillo Morales",
+        "Ambar B. Shrestha",
+        "Tony Grady"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Discover Catalysis.",
+      "doi": "https://doi.org/10.1007/s44344-026-00046-7",
+      "url": "https://doi.org/10.1007/s44344-026-00046-7",
+      "abstract": "Hydrogenolysis of plentiful lignin offers a sustainable approach to producing aromatic renewable feedstocks and intermediates for biofuels. This study demonstrates that a low-cost catalyst derived from Li-ion cell-phone battery waste can serve as an excellent substitute to expensive noble metal catalysts for the hydrogenolysis of alkali and methanol-fractionated lignin, yielding phenols. Catalyst was prepared by pyrolyzing the electrode coating in spent Motorola SNN5749A, 3.6 V cellphone batteries at 600 °C in air and was characterized as LiCo 0.9 O x on graphite carbon using elemental analysis, SEM, EDX, XRD and XPS. The hydrogenolysis of alkali lignin and methanol fractionated alkali lignin in methanol produced liquefaction yields of 62 and 73% respectively in a process using 10% catalyst loading (w/w), 5.5 MPa H 2 , 300 °C for 4.0 h. The major products obtained from alkali lignin were 2-methoxy-phenol ( o -guaiacol), 4-methyl-phenol ( p -cresol) and 4-methoxy-phenol ( p -guaiacol) in 35, 25 and 15% selectivities, respectively. The same three major products were observed in hydrogenolysis of MeOH fractionated alkali lignin in 34, 27 and 20% selectivities. Reuse of LiCo 0.9 O x /C catalyst showed a small gradual decline in catalytic activity resulting in a 73 to 58% decrease in MeOH fractionated alkali liquefaction yield after four cycles.",
+      "summary": "Hydrogenolysis of plentiful lignin offers a sustainable approach to producing aromatic renewable feedstocks and intermediates for biofuels. The hydrogenolysis of alkali lignin and methanol fractionated alkali lignin in methanol produced liquefaction yields of 62 and 73% respectively in a process using 10% catalyst loading (w/w), 5.5 MPa H 2 , 300 °C for 4.0 h. Reuse of LiCo 0.9 O x /C catalyst showed a small gradual decline in catalytic activity resulting in a 73 to 58% decrease in MeOH fractionated alkali liquefaction yield after four cycles.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169718523",
+      "title": "Fracture and viscoelastic behavior of SWCNT-reinforced bio-based epoxy nanocomposites: role of dispersion and interfacial interactions",
+      "authors": [
+        "Vivekanand Singh",
+        "Sanjay Mishra",
+        "Sanjeev Kumar Singh Yadav",
+        "Sushil Kumar Singh"
+      ],
+      "publication_date": "2026-07-19",
+      "journal": "Figshare",
+      "doi": "https://doi.org/10.6084/m9.figshare.33028429",
+      "url": "https://doi.org/10.6084/m9.figshare.33028429",
+      "abstract": "This study explores the viscoelastic behavior and fracture toughness response of single-walled carbon nanotube (SWCNT)-reinforced bio-based epoxy nanocomposites, with emphasis on underlying reinforcement behavior. Nanocomposites with SWCNT loadings of 0–0.45 wt.% were fabricated and characterized using dynamic mechanical analysis (DMA), fracture toughness testing, Shore D hardness, scanning electron microscopy (SEM), and X-ray diffraction (XRD). The fracture toughness showed a significant increase (up to 46.2%) with SWCNT incorporation. SEM analysis revealed a transition from smooth, brittle fracture surfaces in neat epoxy to rough, tortuous morphologies with crack deflection and branching at intermediate loadings, indicating enhanced energy dissipation. The DMA results showed substantial increases in storage modulus (69.7% at 25°C and 134.7% at 35°C) and a shift in glass transition temperature (52.8°C), reflecting restricted polymer chain mobility owing to effective filler–matrix interactions. Shore D hardness increased moderately (~5%), while XRD confirmed that the epoxy remained amorphous. The results indicate a balance between improved load transfer at lower filler contents and agglomeration-induced stress concentrations at higher loadings. This study provides insight into structure–property relationships governing the viscoelastic and fracture performance of bio-based epoxy nanocomposites.",
+      "summary": "This study explores the viscoelastic behavior and fracture toughness response of single-walled carbon nanotube (SWCNT)-reinforced bio-based epoxy nanocomposites, with emphasis on underlying reinforcement behavior. The DMA results showed substantial increases in storage modulus (69.7% at 25°C and 134.7% at 35°C) and a shift in glass transition temperature (52.8°C), reflecting restricted polymer chain mobility owing to effective filler–matrix interactions. The results indicate a balance between improved load transfer at lower filler contents and agglomeration-induced stress concentrations at higher loadings.",
+      "techniques": [
+        "DMA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -98,8 +260,8 @@
       "journal": "The Journal of Physical Chemistry B",
       "doi": "https://doi.org/10.1021/acs.jpcb.6c02825",
       "url": "https://doi.org/10.1021/acs.jpcb.6c02825",
-      "abstract": "High Resolution Image Download MS PowerPoint Slide β-Cyclodextrin (β-CD)-based polymers have shown high adsorption capacities for removing per- and polyfluoroalkyl substances (PFAS) from drinking water. PFAS capture by these materials involves many physical and chemical processes, such as adsorption and inclusion complexation. Quantifying the underlying host–guest binding between CDs and PFAS nevertheless remains essential because it governs the primary inclusion step. Here, we investigated native and linker-modified CD–PFAS inclusion complexes in aqueous solution using isothermal titration calorimetry (ITC) and molecular dynamics (MD) simulations with the attach–pull–release (APR) method. We computed the Gibbs free energies of binding for α-, β-, and γ-CDs with seven linear PFAS, including perfluorocarboxylic acids and perfluorosulfonic acids, and found reasonable agreement with our experimental measurements and previously reported data. Comparison between implicit and explicit solvent calculations suggests that the apparently better agreement of the implicit solvent model for some native monomer complexes is likely due to error cancellation rather than a more transferable physical description, whereas explicit solvent is required to capture solvent-related salt and linker effects. Overall, β-CD exhibited the strongest binding affinities, whereas α-CD showed negligible affinities and γ-CD bound PFAS more weakly than β-CD. Hydrogen bonding, interaction-energy decomposition, and solvent-accessible surface area showed that host–guest hydrogen bonding cannot uniquely predict affinities, and that hydrophobic dehydration plays a dominant role in binding. We further examined how background ion concentration affects β-CD–PFAS binding and found that explicit solvent simulations capture a clear salt dependence, with Li/Merz ion parameters describing the high-salinity trend more reasonably than the Joung–Cheatham model. To mimic the local microenvironment surrounding CD units in polymers, we also examined three linker-modified β-CD models containing phenyl groups. Bind3P water correctly reproduced the experimentally reported enhancement of PFAS adsorption with increasing linker number, and energy decomposition showed that linker groups strengthen PFAS binding by enhancing local hydrophobic confinement and specific linker–guest interactions. Overall, this combined experimental and computational study provides molecular-level insight into the building blocks of cyclodextrin polymers and lays the groundwork for future in silico construction of CD polymer models for PFAS adsorption under diverse water-matrix conditions.",
-      "summary": "High Resolution Image Download MS PowerPoint Slide β-Cyclodextrin (β-CD)-based polymers have shown high adsorption capacities for removing per- and polyfluoroalkyl substances (PFAS) from drinking water. Here, we investigated native and linker-modified CD–PFAS inclusion complexes in aqueous solution using isothermal titration calorimetry (ITC) and molecular dynamics (MD) simulations with the attach–pull–release (APR) method. Bind3P water correctly reproduced the experimentally reported enhancement of PFAS adsorption with increasing linker number, and energy decomposition showed that linker groups strengthen PFAS binding by enhancing local hydrophobic confinement and specific linker–guest interactions.",
+      "abstract": "β-Cyclodextrin (β-CD)-based polymers have shown high adsorption capacities for removing per- and polyfluoroalkyl substances (PFAS) from drinking water. PFAS capture by these materials involves many physical and chemical processes, such as adsorption and inclusion complexation. Quantifying the underlying host-guest binding between CDs and PFAS nevertheless remains essential because it governs the primary inclusion step. Here, we investigated native and linker-modified CD-PFAS inclusion complexes in aqueous solution using isothermal titration calorimetry (ITC) and molecular dynamics (MD) simulations with the attach-pull-release (APR) method. We computed the Gibbs free energies of binding for α-, β-, and γ-CDs with seven linear PFAS, including perfluorocarboxylic acids and perfluorosulfonic acids, and found reasonable agreement with our experimental measurements and previously reported data. Comparison between implicit and explicit solvent calculations suggests that the apparently better agreement of the implicit solvent model for some native monomer complexes is likely due to error cancellation rather than a more transferable physical description, whereas explicit solvent is required to capture solvent-related salt and linker effects. Overall, β-CD exhibited the strongest binding affinities, whereas α-CD showed negligible affinities and γ-CD bound PFAS more weakly than β-CD. Hydrogen bonding, interaction-energy decomposition, and solvent-accessible surface area showed that host-guest hydrogen bonding cannot uniquely predict affinities, and that hydrophobic dehydration plays a dominant role in binding. We further examined how background ion concentration affects β-CD-PFAS binding and found that explicit solvent simulations capture a clear salt dependence, with Li/Merz ion parameters describing the high-salinity trend more reasonably than the Joung-Cheatham model. To mimic the local microenvironment surrounding CD units in polymers, we also examined three linker-modified β-CD models containing phenyl groups. Bind3P water correctly reproduced the experimentally reported enhancement of PFAS adsorption with increasing linker number, and energy decomposition showed that linker groups strengthen PFAS binding by enhancing local hydrophobic confinement and specific linker-guest interactions. Overall, this combined experimental and computational study provides molecular-level insight into the building blocks of cyclodextrin polymers and lays the groundwork for future in silico construction of CD polymer models for PFAS adsorption under diverse water-matrix conditions.",
+      "summary": "β-Cyclodextrin (β-CD)-based polymers have shown high adsorption capacities for removing per- and polyfluoroalkyl substances (PFAS) from drinking water. Here, we investigated native and linker-modified CD-PFAS inclusion complexes in aqueous solution using isothermal titration calorimetry (ITC) and molecular dynamics (MD) simulations with the attach-pull-release (APR) method. Bind3P water correctly reproduced the experimentally reported enhancement of PFAS adsorption with increasing linker number, and energy decomposition showed that linker groups strengthen PFAS binding by enhancing local hydrophobic confinement and specific linker-guest interactions.",
       "techniques": [
         "DSC"
       ],
@@ -445,6 +607,577 @@
         "医药与生物材料"
       ],
       "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169653235",
+      "title": "Erucic acid-based alkyd–acrylic hybrid copolymers: Synthesis, characterization, and coating applications",
+      "authors": [
+        "Shivani",
+        "Shayoraj",
+        "Geeta",
+        "Neeru Devi",
+        "Mohit Saini",
+        "Sanjay Sharma",
+        "Satish Kumar"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Next Materials",
+      "doi": "https://doi.org/10.1016/j.nxmate.2026.102840",
+      "url": "https://doi.org/10.1016/j.nxmate.2026.102840",
+      "abstract": "This investigation examines the preparation and characterization of alkyd-acrylic hybrid copolymers obtained from erucic acid obtained from mustard oil, aiming to develop a sustainable alternative to traditional petroleum-based coating materials. An alkyd macromer was synthesised from phthalic anhydride, glycerol, and erucic acid, followed by copolymerisation with butyl acrylate (BA) and methyl methacrylate (MMA) in different ratios. Structural confirmation of both macromer and copolymer formation was compared through FTIR with a strong ester carbonyl peak at 1720 cm −1 and 1 H NMR spectroscopy, with the disappearance of vinylic peak at 5.8 ppm confirming successful polymerisation. Thermal analysis using TGA demonstrated an enhancement in thermal stability of copolymers containing higher alkyd content, showing an increase from 385.8 to 392.6℃. This improvement is primarily due to the presence of aromatic components and increased crosslinking density within the polymer network. DSC analysis showed a single, broad glass transition temperature for each sample, demonstrating the formation of homogeneous, amorphous copolymer films. The T g values exhibited a gradual increase from 62.6 to 104.5℃, with rising MMA content. DLS revealed bimodal particle size distributions, with particle populations spanning approximately 22–190 nm. SEM showed that optimized macromer/MMA/BA compositions significantly influenced the surface morphology, highlighting the combined impact of alkyd and acrylate content on the resulting material morphology. Overall, the findings demonstrate that erucic acid-based alkyd-acrylic copolymers possess well-balanced physicochemical and mechanical properties, underscoring the suitability of alkyd-MMA-BA-based copolymers for diverse applications, highlighting their potential as high-performance coating materials.",
+      "summary": "This investigation examines the preparation and characterization of alkyd-acrylic hybrid copolymers obtained from erucic acid obtained from mustard oil, aiming to develop a sustainable alternative to traditional petroleum-based coating materials. Thermal analysis using TGA demonstrated an enhancement in thermal stability of copolymers containing higher alkyd content, showing an increase from 385.8 to 392.6℃. Overall, the findings demonstrate that erucic acid-based alkyd-acrylic copolymers possess well-balanced physicochemical and mechanical properties, underscoring the suitability of alkyd-MMA-BA-based copolymers for diverse applications, highlighting their potential as high-performance coating materials.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169663284",
+      "title": "Integrated experimental and theoretical investigations on Zn(II), Co(II), and Ni(II) chelates: Preparation, structural insights, DFT simulation, and biological assessment",
+      "authors": [
+        "Mashael M. Alharbi",
+        "Kholood Alkhamis"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Arabian Journal of Chemistry",
+      "doi": "https://doi.org/10.25259/ajc_159_2026",
+      "url": "https://doi.org/10.25259/ajc_159_2026",
+      "abstract": "Novel znic (II), cobalt (II), and nickel (II) series chelates were synthesized; the divalent ions reacted with the synthesized ligand N-(benzothiazol-2-yl)-3-(2-(2-hydroxy-3-methoxybenzylidene) hydrazineyl)-3-oxopropanamide (H 3 L). Some experimental and theoretical investigations were applied to interpret the structures of ligand and its chelates; hence, some available spectroscopic and microscopic approaches, in addition to elemental and magnetic measurements, were introduced. The practical interpretation clarifies the fabrication of metal complexes with different intrinsic and extrinsic characteristics of the ligand. Also, thermal studies through thermogravimetric and differential thermal analyses (TGA/DTA) procedures were theoretically confirmed via Horowitz-Metzger and Coats-Redfern output parameters. The molecular structures of all prepared compounds were computationally simulated via density functional theory using the generalized gradient approximation with the revised Perdew-Burke-Ernzerh of function (DFT/GGA/RPBE) to evaluate some quantum parameters. Moreover, Co(II) chelate reflected the behavior of semiconductor after statistic calculation of band gap energies for ligand and its metal chelates, besides the preservation of metal complexes to the electronic dislocation and molecular stiffness than free ligand by evaluation of Urbach energy for all compounds. As well, all structures were subjected to anti-bacterial, anti-fungal, DNA binding, antioxidant, and 3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyl tetrazolium bromide (MTT) cytotoxicity tests to anticipate the biological functions of the produced molecules. Finally, the molecular docking was estimated to confirm the DNA binding behavior, which mirrors that [Co(H 2 L)(H 2 O) 2 ].2H 2 O has the best binding profile.",
+      "summary": "Novel znic (II), cobalt (II), and nickel (II) series chelates were synthesized; the divalent ions reacted with the synthesized ligand N-(benzothiazol-2-yl)-3-(2-(2-hydroxy-3-methoxybenzylidene) hydrazineyl)-3-oxopropanamide (H 3 L). The molecular structures of all prepared compounds were computationally simulated via density functional theory using the generalized gradient approximation with the revised Perdew-Burke-Ernzerh of function (DFT/GGA/RPBE) to evaluate some quantum parameters. Finally, the molecular docking was estimated to confirm the DNA binding behavior, which mirrors that [Co(H 2 L)(H 2 O) 2 ].2H 2 O has the best binding profile.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169729830",
+      "title": "Design and Optimization of Transethosomal Drug Delivery Systems for Ritonavir: Comparative Evaluation, Characterization, and Release Kinetics",
+      "authors": [
+        "Padekar Chetana A",
+        "Vivek Daniel"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "International Journal of Drug Delivery Technology",
+      "doi": "https://doi.org/10.25258/ijddt.16.66s.52",
+      "url": "https://doi.org/10.25258/ijddt.16.66s.52",
+      "abstract": "The present study focused on the characterization and microencapsulation of Eperisone hydrochloride to develop sustained release formulations. The drug’s melting point was determined using the capillary method (183.0 ± 0.6 °C) and validated by DSC (183.5 °C), confirming its thermal stability and purity. FTIR analysis established drug identity and compatibility with Amberchrom resins, with characteristic peaks observed for functional groups such as N–H, C–H, C=C, C–N, and C–O, and no evidence of chemical interaction in drug–resin complexes. Microencapsulation was performed using the O/O method, yielding high drug content recovery (49.00–49.58 mg) and encapsulation efficiencies above 98%, demonstrating reproducibility and minimal drug loss. Particle size analysis showed uniformity across formulations (198.5–206.5 µm), ensuring consistent release behavior. The extent of coating varied from 4.8% to 20.6%, directly influencing drug release rates. In vitro release studies revealed that higher polymer concentration (20% Eudragit RS100) and PEG 400 plasticizer slowed drug release, while increased rotation speed (1500 rpm) enhanced release due to thinner coatings. Kinetic modeling indicated that most formulations followed zero order kinetics, while others aligned with Korsmeyer–Peppas or first order models, confirming diffusion controlled mechanisms. Among all formulations, F4 (20% Eudragit RS100, 10% PEG 400, 500 rpm) exhibited the most controlled release profile, consistent with sustained release objectives. Overall, the study demonstrated that formulation parameters significantly affect drug release, and F4 was identified as the optimal batch for achieving effective sustained delivery of Eperisone hydrochloride",
+      "summary": "The present study focused on the characterization and microencapsulation of Eperisone hydrochloride to develop sustained release formulations. The drug’s melting point was determined using the capillary method (183.0 ± 0.6 °C) and validated by DSC (183.5 °C), confirming its thermal stability and purity. Microencapsulation was performed using the O/O method, yielding high drug content recovery (49.00–49.58 mg) and encapsulation efficiencies above 98%, demonstrating reproducibility and minimal drug loss.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169673678",
+      "title": "RBM15 impairs Hepatic Mitochondria and β-Oxidation through m6A-dependent degradation of MCM3 mRNA",
+      "authors": [
+        "Kai Chen",
+        "Yi Xiang",
+        "Daqing Deng",
+        "Yu Zhang",
+        "Xin Su",
+        "Fang Hu"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Communications Biology",
+      "doi": "https://doi.org/10.1038/s42003-026-10673-3",
+      "url": "https://doi.org/10.1038/s42003-026-10673-3",
+      "abstract": "Diabesity, defined as obesity accompanied by Type 2 diabetes mellitus, is characterized by metabolic dysfunction and mitochondrial impairment. Here, we investigate the role of N6-methyladenosine (m6A)-mediated RNA regulation in regulating hepatic mitochondrial function and fatty acid β-oxidation during diabesity progression. Diabesity was modeled in male C57BLKS/J db/db mice, with db/m lean mice as controls; in vitro models were established using primary hepatocytes isolated from male C57BL/6J mice exposed to high glucose and palmitate. Our results showed that MCM3 was significantly downregulated in diabesity models. MCM3 overexpression improved hepatic mitochondrial function and fatty acid β-oxidation. Mechanistically, MCM3 increased NRF2 in hepatocytes by competitive combination with KEAP1. In addition, RBM15 overexpression accelerated m6A-YTHDF2-mediated MCM3 mRNA decay. As expected, MCM3 knockdown negated the metabolic benefits of RBM15 knockdown. In conclusion, m6A-dependent MCM3 downregulation by RBM15/YTHDF2 impaired hepatic mitochondrial function and fatty acid β-oxidation in diabesity by reducing NRF2. RBM15 exacerbates diabesity by impairing mitochondrial function and fatty acid β-oxidation in hepatocytes through promoting degradation of MCM3 mRNA in an m6A YTHDF2-dependent manner.",
+      "summary": "Diabesity, defined as obesity accompanied by Type 2 diabetes mellitus, is characterized by metabolic dysfunction and mitochondrial impairment. Diabesity was modeled in male C57BLKS/J db/db mice, with db/m lean mice as controls; in vitro models were established using primary hepatocytes isolated from male C57BL/6J mice exposed to high glucose and palmitate. Our results showed that MCM3 was significantly downregulated in diabesity models.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169682413",
+      "title": "Beyond Resolution: Recent Progress and Industrial Challenges of Nanoimprint Lithography for Advanced Semiconductor Manufacturing",
+      "authors": [
+        "Shuhao Si",
+        "Yuexu Si",
+        "Cheng Chen"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "X-Disciplinarity",
+      "doi": "https://doi.org/10.63174/xdi.nzlb4235",
+      "url": "https://doi.org/10.63174/xdi.nzlb4235",
+      "abstract": "The relentless downscaling of semiconductor devices has pushed conventional lithography toward both economic and physical limits. Deep Ultraviolet (DUV) lithography with multi-patterning schemes causes exponential cost escalation, while Extreme Ultraviolet (EUV) lithography imposes prohibitive capital investment exceeding US$150 million per scanner and megawatt-scale power consumption. Within this landscape, nanoimprint lithography (NIL) has re-emerged as a compelling complementary patterning technology. Unlike projection-based methods, NIL achieves pattern definition through mechanical contact and material displacement. Therefore, rendering it bypasses optical diffraction limits and stochastic effects caused by photo-shot noise. This review provides a systematic evaluation of the transition of NIL from laboratory demonstration to semiconductor high-volume manufacturing (HVM), with emphasis on progress made during 2023-2025. We highlight the paradigm shift from resolution-centric studies to manufacturing-driven metrics including overlay accuracy, defect density, throughput, template lifetime, residual layer uniformity, and cost of ownership. We then examine recent advances across six key technology modules: tool architecture, overlay improvement, defect suppression, template ecosystems, resist engineering, and application-specific integration. We argue that NIL is positioned as a high-value strategic complement targeting specific layers in DRAM, 3D NAND, and advanced packaging, where sub-10 nm resolution, three-dimensional patterning capability, and order-of-magnitude lower cost-of-ownership provide decisive advantages. The review concludes by projecting potential trajectory of NIL through 2028, identifying template ecosystem maturation, artificial intelligence-driven process optimization, and hybrid mix-and-match lithography strategies as critical factor for adoption.",
+      "summary": "The relentless downscaling of semiconductor devices has pushed conventional lithography toward both economic and physical limits. We then examine recent advances across six key technology modules: tool architecture, overlay improvement, defect suppression, template ecosystems, resist engineering, and application-specific integration. The review concludes by projecting potential trajectory of NIL through 2028, identifying template ecosystem maturation, artificial intelligence-driven process optimization, and hybrid mix-and-match lithography strategies as critical factor for adoption.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169684854",
+      "title": "Evaluating the Role of Virtual Influencers as CSR Ambassadors: Impact of Human-Likeness on Environmental Advocacy",
+      "authors": [
+        "Haoyu Liu",
+        "Enzhu Dong",
+        "Jo-Yun Li"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "International Journal of Business Communication",
+      "doi": "https://doi.org/10.1177/23294884261462485",
+      "url": "https://doi.org/10.1177/23294884261462485",
+      "abstract": "Given the rapid technological advances, organizations are increasingly adopting technologies to reach their audiences. Virtual influencers—computer-generated characters that mimic real human beings—have emerged as AI-driven communication tools on social media. Grounded in social presence theory, this study explores how their visual and mental human-likeness influence audience responses to corporate social responsibility (CSR) messages on environmental issues. An online survey of 502 U.S. social media users revealed that virtual influencers’ lifelike appearance and cognition enhance perceived expertise and issue-influencer congruence. These perceptions, in turn, increase CSR message acceptance. The study offers theoretical and practical implications for adopting virtual influencers.",
+      "summary": "Given the rapid technological advances, organizations are increasingly adopting technologies to reach their audiences. social media users revealed that virtual influencers’ lifelike appearance and cognition enhance perceived expertise and issue-influencer congruence. The study offers theoretical and practical implications for adopting virtual influencers.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169722038",
+      "title": "Chemical Treatment of Some Lignosulfonates Under DBD Plasma Conditions–II: Characterization of the Modified Lignosulfonates Microparticles",
+      "authors": [
+        "Georgeta Cazacu",
+        "Daniela Pamfil",
+        "Oana Chirilă",
+        "Marian Totolin",
+        "Diana Ciolacu",
+        "Alina Ghilan",
+        "Loredana Niţă",
+        "Niță Tudorachi"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141756",
+      "url": "https://doi.org/10.3390/polym18141756",
+      "abstract": "The chemically modified ammonium lignosulfonate (ALS) powders with carboxylic acids such as, oleic (OA) and lactic acid (LA) and γ-butyrolactone (BL) under dielectric barrier plasma discharge (DBD) have been characterized by average molecular weight and particle size determinations, morphology examination by optical and electronic microscopy (SEM), the study of the thermal properties by thermogravimetry (TG/DTG), differential scanning calorimetry (DSC), differential thermal analysis (DTA) and antioxidant activity tests by DPPH method. The thermal characterization of the modified lignosulfonates reveals their improved thermal stability comparatively with ALS. It has been established that the obtained microparticles are aggregates of particles, covered by modified polymer and exhibit a particular behavior depending on the chemical structure of the used modifier, leading to multifunctional active lignin-based products with better homogeneity. By surface modification, the antioxidant capacity of modified lignosulfonate powders has been maintained.",
+      "summary": "The chemically modified ammonium lignosulfonate (ALS) powders with carboxylic acids such as, oleic (OA) and lactic acid (LA) and γ-butyrolactone (BL) under dielectric barrier plasma discharge (DBD) have been characterized by average molecular weight and particle size determinations, morphology examination by optical and electronic microscopy (SEM), the study of the thermal properties by thermogravimetry (TG/DTG), differential scanning calorimetry (DSC), differential thermal analysis (DTA) and antioxidant activity tests by DPPH method. The thermal characterization of the modified lignosulfonates reveals their improved thermal stability comparatively with ALS. By surface modification, the antioxidant capacity of modified lignosulfonate powders has been maintained.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169680095",
+      "title": "MOF-Derived ZrO 2/COF/Carbon Composites for High-Performance Supercapacitor",
+      "authors": [
+        "Hani Nasser Abdelhamid"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Cluster Science",
+      "doi": "https://doi.org/10.1007/s10876-026-03075-2",
+      "url": "https://doi.org/10.1007/s10876-026-03075-2",
+      "abstract": "Abstract Improvements in efficient electrode materials are crucial for improving the performance of electrochemical supercapacitors. This study integrated zirconium dioxide (ZrO 2 ) with a melamine-based covalent organic framework (COF, denoted as MATFB) to develop hybrid electrode materials for energy storage applications. Two sources of ZrO 2 were analyzed: commercial ZrO 2 and ZrO 2 obtained from the Zr-based metal-organic framework (MOF), i.e., UiO-66. The resulting composites were carbonized at 400, 600, and 800 °C to produce porous ZrO 2 /C@COF materials with enhanced electrochemical properties. The electrochemical performance was evaluated by cyclic voltammetry (CV), galvanostatic charge-discharge (GCDC), and kinetic analysis employing the b-value and Dunn techniques. The ZrO 2 @MATFB composite demonstrated an exceptional specific capacitance of around 306 F/g at 1 A/g, significantly exceeding that of MATFB (81 F/g) and UiO-66@MATFB (174 F/g). Carbonized composites demonstrated enhanced performance, with UiO-66@MATFB_600 offering specific capacitance of 199 F/g and ZrO 2 @MATFB_800 achieving around 191 F/g at 1 A/g. Kinetic analysis revealed b-values between 0.69 and 0.87, signifying a hybrid charge-storage mechanism that combines surface-capacitive activity with diffusion-controlled processes. The findings suggest that ZrO 2 /MATFB-derived carbon composites are promising candidates for high-performance supercapacitor electrodes.",
+      "summary": "Abstract Improvements in efficient electrode materials are crucial for improving the performance of electrochemical supercapacitors. Carbonized composites demonstrated enhanced performance, with UiO-66@MATFB_600 offering specific capacitance of 199 F/g and ZrO 2 @MATFB_800 achieving around 191 F/g at 1 A/g. The findings suggest that ZrO 2 /MATFB-derived carbon composites are promising candidates for high-performance supercapacitor electrodes.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169652399",
+      "title": "Sodium alginate, corn starch, and herbal medicines: potential blend to stimulate the tissue regeneration",
+      "authors": [
+        "Carina M. da Silva",
+        "Rui L. Reis",
+        "Vítor M. Correlo",
+        "Lucilia P. da Silva",
+        "Emanuel M. Fernandes",
+        "Vilásia Martins",
+        "Natasha Spindola",
+        "Vanusca D. Jahno"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Biomaterials Science Polymer Edition",
+      "doi": "https://doi.org/10.1080/09205063.2026.2703614",
+      "url": "https://doi.org/10.1080/09205063.2026.2703614",
+      "abstract": ") to improve mechanical stability. The membranes characterization was followed by thermal behavior by thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC). The chemical, structural, and morphological characteristics of the membranes were evaluated using X-ray diffraction (XRD) and scanning electron microscopy (SEM). The hydrolytic degradation of the membranes was also evaluated, and the contact angle was analyzed to determine the hydrophobic/hydrophilic character. The cytotoxicity analysis was assessed by the MTS method, and the mechanical analyses also were evaluated. The results indicated similarity among A, B, and C membranes concerning thermal behavior, despite the morphology having shown differences among the formulations. Furthermore, the amorphous character of all membranes was evidenced through XRD analyses, contributing to the hydrophilicity of the membranes, confirmed by contact angle. In mechanical analyses, results consistent with literature can be seen, including an elastic modulus close to the stiffness of human skin. Based on the obtained results, and the non-cytotoxic behavior of membranes A and B, it is concluded that both membranes are promising candidates for application as biomaterials in tissue dressings.",
+      "summary": "The cytotoxicity analysis was assessed by the MTS method, and the mechanical analyses also were evaluated. The results indicated similarity among A, B, and C membranes concerning thermal behavior, despite the morphology having shown differences among the formulations. Based on the obtained results, and the non-cytotoxic behavior of membranes A and B, it is concluded that both membranes are promising candidates for application as biomaterials in tissue dressings.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169722066",
+      "title": "Multi-Scale Hydrogen Bonding and Microphase Separation Synergistically Engineered Polyurethane-Polyurea (PU-PUa) as High-Performance Binder",
+      "authors": [
+        "Hao Wu",
+        "Xiaobao Chen",
+        "Yi Chi",
+        "Weimin Song",
+        "Jinyao Li",
+        "Zhiqiang Cheng"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141757",
+      "url": "https://doi.org/10.3390/polym18141757",
+      "abstract": "Driven by the rising frequency of extreme climatic events and the escalating demand for sustainable infrastructure, modern pavement materials must deliver enhanced resilience, structural stability, and environmental adaptability. This study presents the design and synthesis of a novel polyurethane-polyurea (PU-PUa) pavement binder, engineered via a synergistic framework combining nanoscale microphase separation and a hierarchical hydrogen-bonding network. Utilizing a streamlined, one-step synthesis approach involving an aliphatic isocyanate, a polyaspartic ester, polytetramethylene ether glycol, and 1,4-butanediol, the PU-PUa copolymer achieves distinct nanoscale phase separation between its hard and soft segments. Fourier transform infrared (FTIR) spectroscopy verifies the successful formation of characteristic PU-PUa moieties and a multi-scale hydrogen-bonding network, while DSC and DMA reveal SSC-dependent soft-segment mobility, crystallization/melting behavior, and viscoelastic relaxation. These intra- and inter-segmental interactions, together with thermally activated soft-segment transitions, establish the structural foundation for the macro-performance enhancement of the system. Comprehensive evaluations demonstrate that the PU-PUa binder exhibits excellent mechanical and highly tunable properties. Rheological measurements indicate that increasing the soft segment content (SSC) or incorporating an appropriate diluent concentration significantly lowers the system viscosity, thereby enhancing processing workability during mixing and paving. Contact angle goniometry reveals that the surface hydrophobicity of PU-PUa can be effectively regulated by adjusting the SSC, offering a viable strategy to optimize moisture damage resistance. Moreover, curing behavior analyses show that the polymerization kinetics are strictly governed by both the SSC and environmental temperature, where a lower SSC or elevated curing temperature accelerates strength development. Mechanically, the PU-PUa binder displays desirable surface hardness (&gt;80 Shore A) and exceptional aggregate adhesion (&gt;2 MPa), ensuring robust bonding stability and resistance to traffic-induced abrasion. Characterized by balanced tensile performance, the elongation at break of the binder can be tailored from 90% to 161%, while its tensile strength varies between 6.4 MPa and 17.8 MPa at intermediate temperatures, manifesting excellent resilience and cracking resistance. Overall, this molecular-to-macroscopic design strategy establishes the PU-PUa copolymer as a highly promising, durable binder for next-generation resilient pavement infrastructures.",
+      "summary": "Driven by the rising frequency of extreme climatic events and the escalating demand for sustainable infrastructure, modern pavement materials must deliver enhanced resilience, structural stability, and environmental adaptability. These intra- and inter-segmental interactions, together with thermally activated soft-segment transitions, establish the structural foundation for the macro-performance enhancement of the system. Moreover, curing behavior analyses show that the polymerization kinetics are strictly governed by both the SSC and environmental temperature, where a lower SSC or elevated curing temperature accelerates strength development.",
+      "techniques": [
+        "DSC",
+        "DMA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169671343",
+      "title": "Hydration kinetics and phase evolution in thermo-mechanically activated recycled cementitious composites",
+      "authors": [
+        "K. N. Shivaprasad",
+        "K Snehal",
+        "Jitendra Kumar Singh",
+        "Hyun Min Yang",
+        "Sanghyo Lee"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Sustainable Cement-Based Materials",
+      "doi": "https://doi.org/10.1080/21650373.2026.2702033",
+      "url": "https://doi.org/10.1080/21650373.2026.2702033",
+      "abstract": "This study investigates the hydration kinetics, setting behavior and compressive strength development of recycled cementitious composites. Ordinary Portland cement (OPC) was partially replaced with recycled cement (RC) powders at varying levels, maintaining a consistent water-to-cement ratio across all mixes. Isothermal calorimetry revealed distinct hydration kinetics: slow and subdued heat evolution for raw RC, accelerated early heat release for ball milled RC (BMRC) due to high surface area and for thermally treated ball milled RC (HBMRC), heat flow closely parallels that of pure OPC. Vicat setting times correlated well with calorimetric data, with HBMRC showing high correlation with isothermal data. Compressive strength development exhibited strong linear correlations with cumulative hydration heat, especially beyond 24 h, underscoring the efficacy of calorimetry to predict strength gains. Thermogravimetric analysis and X-ray diffraction confirmed suppressed portlandite accumulation, transformation of carbonate phases, and formation of metastable alite/belite polymorphs. Scanning Electron Microscope with Energy Dispersive X-ray Spectroscopy showed enhanced nucleation density and densified C-S-H/C-A-S-H gels.",
+      "summary": "This study investigates the hydration kinetics, setting behavior and compressive strength development of recycled cementitious composites. Compressive strength development exhibited strong linear correlations with cumulative hydration heat, especially beyond 24 h, underscoring the efficacy of calorimetry to predict strength gains. Scanning Electron Microscope with Energy Dispersive X-ray Spectroscopy showed enhanced nucleation density and densified C-S-H/C-A-S-H gels.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169673907",
+      "title": "Coordination electrochemistry taming reversible hypervalent bromine redox for energetic six-electron-transfer lithium-bromine battery",
+      "authors": [
+        "Rumeng Feng",
+        "Wenyu Xu",
+        "Hongwei Wang",
+        "Binfen Wang",
+        "Jialin Li",
+        "Zelin Chang",
+        "Zhaodong Huang",
+        "Ze Chen"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-026-75860-6",
+      "url": "https://doi.org/10.1038/s41467-026-75860-6",
+      "abstract": "Abstract Conversion-type static bromine batteries demonstrate promise in high output voltage and large capacity for rechargeable energy storage due to the inherent polyvalent reaction potential. Nevertheless, the combination of the limited two-electron 2Br - /Br 2 redox couple and the redox-inactive organic ligands presents a fundamental bottleneck for the overall specific energy. Herein, ethyl viologen dibromide is developed as an energetically active positive electrode for organic lithium-bromine batteries by efficient coordination chemistry, featuring an advanced six-electron redox mechanism triggered by both intercalation and conversion reactions. The activated redox couple of 2Br - /2Br + incubates a collaborative increase in capacity (632.8 mAh g −1 Br ) and discharge voltage (3.7 V). Besides, ethyl viologen undergoes reversible two-step intercalation and extraction of Li + ions, contributing to additional energy storage. Reciprocal spectroscopic characterizations and computational electrochemistry indicate the chemisorption effect and interhalogen confinement and detail the dynamic mass-charge transfer pathway. This work sets a paradigm worth emulating for designing high-performance halogen batteries.",
+      "summary": "Abstract Conversion-type static bromine batteries demonstrate promise in high output voltage and large capacity for rechargeable energy storage due to the inherent polyvalent reaction potential. Reciprocal spectroscopic characterizations and computational electrochemistry indicate the chemisorption effect and interhalogen confinement and detail the dynamic mass-charge transfer pathway. This work sets a paradigm worth emulating for designing high-performance halogen batteries.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能",
+        "电子与封装"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169673221",
+      "title": "Autoencoder-Based Detection of Nanoplastics in Biological Matrices via Infrared Hyperspectral Imaging",
+      "authors": [
+        "Daniel Prezgot",
+        "Sadman Sakib",
+        "Maohui Chen",
+        "Adrian F. Pegoraro",
+        "David Corriveau",
+        "Shan Zou"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "ACS Measurement Science Au",
+      "doi": "https://doi.org/10.1021/acsmeasuresciau.6c00067",
+      "url": "https://doi.org/10.1021/acsmeasuresciau.6c00067",
+      "abstract": "High Resolution Image Download MS PowerPoint Slide Mid-infrared hyperspectral imaging is an emerging tool for the qualitative and quantitative analysis of micro- and nanoplastics (MNPs) and for the characterization of biological tissues and complex matrices. Detecting MNPs in biological materials is of particular interest for assessing toxicological and ecological impacts; however, significant spectral overlap between polymer vibrational bands and those of proteins, lipids, and other biological components complicates identification at low MNP levels. In this work, an autoencoder-based anomaly detection approach is employed to learn the spectral characteristics of biological matrix signals from infrared spectra acquired with quantum cascade laser infrared (QCL-IR) microscopy. Residual-based anomaly mapping preserves chemically meaningful spectral features, enabling heatmap visualization of nanoscale plastic (NP) accumulation in two- and three-dimensional cell culture models. Fully connected (FC), convolutional neural network (CNN) and hybrid (CNN-FC) autoencoder architectures were evaluated, with FC and CNN-FC models providing a balance between accurate biological matrix reconstruction and preservation of NP spectral signatures. The method enabled detection of ∼50 nm plastic particles when present as localized accumulations corresponding to approximately 1% (m/m) of the dried biological material, equivalent to surface density on the order of 10 3 particles/μm 2 . These results demonstrate that residual anomaly detection can extend hyperspectral imaging to visualize nanoscale plastic accumulations in complex biological media at concentrations approaching the instrumental detection limit.",
+      "summary": "High Resolution Image Download MS PowerPoint Slide Mid-infrared hyperspectral imaging is an emerging tool for the qualitative and quantitative analysis of micro- and nanoplastics (MNPs) and for the characterization of biological tissues and complex matrices. The method enabled detection of ∼50 nm plastic particles when present as localized accumulations corresponding to approximately 1% (m/m) of the dried biological material, equivalent to surface density on the order of 10 3 particles/μm 2 . These results demonstrate that residual anomaly detection can extend hyperspectral imaging to visualize nanoscale plastic accumulations in complex biological media at concentrations approaching the instrumental detection limit.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169648231",
+      "title": "Experimental Investigation of a PV-Powered Blower-Assisted Solar Still: Effects of Seawater Volume on Evaporation–Condensation Efficiency",
+      "authors": [
+        "Zaenal Ikhsan Abdullah",
+        "Ridwan Ridwan",
+        "Iwan Setyawan",
+        "Hamzah Ali Nashirudin",
+        "Deni Haryadi"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "International Journal of Engineering Continuity",
+      "doi": "https://doi.org/10.58291/ijec.v5i1.554",
+      "url": "https://doi.org/10.58291/ijec.v5i1.554",
+      "abstract": "This study investigates the performance of a photovoltaic-assisted solar still integrated with a blower system to enhance desalination efficiency. The system was experimentally evaluated to examine the influence of thermal parameters on freshwater productivity and system efficiency. The results show that distilled water production ranges from 0.35 to 0.55 L/day, with an efficiency of 7–8%. The highest productivity occurred at an evaporator temperature of 47.6–48 °C, confirming temperature as the dominant parameter. The PV-powered blower increased the temperature gradient between the evaporator and condenser by promoting forced air circulation, improving heat and mass transfer. However, the system performance remains within the conventional range, indicating that heat losses and limited condensation efficiency are key constraints. This study demonstrates the potential of photovoltaic-powered, blower-assisted solar stills to enhance evaporation–condensation processes and provides a baseline for further system optimization.",
+      "summary": "This study investigates the performance of a photovoltaic-assisted solar still integrated with a blower system to enhance desalination efficiency. The results show that distilled water production ranges from 0.35 to 0.55 L/day, with an efficiency of 7–8%. This study demonstrates the potential of photovoltaic-powered, blower-assisted solar stills to enhance evaporation–condensation processes and provides a baseline for further system optimization.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169685420",
+      "title": "Geological Hazard Prediction and Prevention: A Review of Mechanisms, Monitoring, and Mitigation",
+      "authors": [
+        "Jeevana Sasindu Wickramaarachchige",
+        "Daim Safeer Mughal"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "International Journal of Latest Technology in Engineering Management & Applied Science",
+      "doi": "https://doi.org/10.51583/ijltemas.2026.150600164",
+      "url": "https://doi.org/10.51583/ijltemas.2026.150600164",
+      "abstract": "As industrialization expands, modern infrastructure increasingly collides with volatile geological environments, driving a sharp escalation of complex, cascading geohazards. These destructive hazard chains represent a critical global threat to structural and economic resilience. Despite this escalating risk, current early warning systems predominantly rely on fragmented, static methodologies that fail to capture the dynamic reality of temporal hazard evolution. Furthermore, contemporary predictive models are bifurcated between deterministic physical models demanding exhaustive geotechnical parameters and data-driven artificial intelligence algorithms functioning as opaque black boxes devoid of physical interpretability. To resolve these limitations, this review systematically evaluates the modern geohazard landscape through a coupled active-passive conceptual model. This framework systematically evaluates how primary high-energy failures trigger subsequent instability in surrounding geomaterials. The synthesis reveals that integrating space-air-ground multi-scale monitoring including orbital InSAR, UAV photogrammetry, and distributed ground sensors establishes a vital surveillance continuum for early hazard identification. Because these heterogeneous data streams possess significant environmental noise, rigorous multi-source data fusion remains essential to minimize false alarms and resolve spatial discontinuities. Analytically, physically based models provide indispensable mechanical transparency by explicitly simulating material deformation, whereas data-driven ensemble algorithms excel at processing high-dimensional, nonlinear geospatial inputs. Ultimately, transitioning toward proactive, real-time risk reduction demands the integration of physics-informed neural networks (PINNs) that embed geomechanical constraints into computational pipelines. Coupling these hybrid architectures with interactive digital twin technologies will transform static hazard mapping into dynamic virtual environments, empowering engineers to successfully mitigate evolving disaster chains globally.",
+      "summary": "As industrialization expands, modern infrastructure increasingly collides with volatile geological environments, driving a sharp escalation of complex, cascading geohazards. This framework systematically evaluates how primary high-energy failures trigger subsequent instability in surrounding geomaterials. The synthesis reveals that integrating space-air-ground multi-scale monitoring including orbital InSAR, UAV photogrammetry, and distributed ground sensors establishes a vital surveillance continuum for early hazard identification.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169671257",
+      "title": "Immune responses of Galleria mellonella L. (Lepidoptera: Pyralidae) to Beauveria bassiana infection: hemolymph antimicrobial activity and total Hemocyte Count)",
+      "authors": [
+        "Pınar GÜNER",
+        "Aylin Er",
+        "Tülin Aşkun",
+        "Görkem Deniz Sönmez",
+        "İrem Engin",
+        "Beyza Akdeniz"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Anatolian Environmental and Animal Sciences",
+      "doi": "https://doi.org/10.35229/jaes.1916720",
+      "url": "https://doi.org/10.35229/jaes.1916720",
+      "abstract": "Beauveria bassiana is a widely used entomopathogenic fungus and an eco-friendly alternative to chemical pesticides in sustainable pest management. Although its efficacy as a biopesticide is well established, early immune responses of insect hosts to B. bassiana infection remain poorly understood. In this study, the short-term innate immune response of Galleria mellonella larvae following topical exposure to a naturally isolated B. bassiana strain was investigated. The fungus was obtained using the Galleria trap method and identified by morphological traits and ITS rDNA sequencing. Larvae were exposed to different conidial concentrations, and humoral and cellular immune responses were evaluated at 24 and 48 hours post-infection. Humoral immunity was assessed by measuring the antimicrobial activity of hemolymph against Gram-positive and Gram-negative bacteria and Candida albicans, while cellular responses were evaluated by total hemocyte count (THC). Infected larvae showed significantly enhanced antimicrobial activity compared to controls, with dose-, time-, and microorganism-dependent effects. Lower conidial doses increased THC, indicating immune activation, whereas higher doses caused a marked reduction in hemocyte numbers, suggesting immune suppression during infection progression. Overall, G. mellonella exhibited a dynamic innate immune response involving both humoral and cellular components. These findings provide new insights into early host–pathogen interactions during entomopathogenic fungal infection and support the use of G. mellonella as a reliable in vivo model for biocontrol research.",
+      "summary": "Beauveria bassiana is a widely used entomopathogenic fungus and an eco-friendly alternative to chemical pesticides in sustainable pest management. The fungus was obtained using the Galleria trap method and identified by morphological traits and ITS rDNA sequencing. Lower conidial doses increased THC, indicating immune activation, whereas higher doses caused a marked reduction in hemocyte numbers, suggesting immune suppression during infection progression.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169662171",
+      "title": "Global Viral Lower Respiratory Disease Episodes, Hospitalisations, and Clinical Outcomes by Aetiology, 2010–2021",
+      "authors": [
+        "Ekaterina Maslova",
+        "Quinn Rafferty",
+        "Jiali Lei",
+        "C Wang",
+        "Jam Suba",
+        "Maja Pasovic",
+        "Samuel Ewald",
+        "Darwin Del Castillo"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Infectious Diseases and Therapy",
+      "doi": "https://doi.org/10.1007/s40121-026-01406-4",
+      "url": "https://doi.org/10.1007/s40121-026-01406-4",
+      "abstract": "INTRODUCTION: Viral lower respiratory tract disease (LRTD) is a major cause of global morbidity and mortality, but pathogen-specific estimates remain limited. We aimed to quantify the global burden of viral LRTD episodes, hospitalisations, and severe clinical outcomes by aetiology from 2010 to 2021. METHODS: We used the Global Burden of Disease (GBD) 2021 modelling framework to generate estimates of viral LRTD incidence, hospitalisations, and clinical outcomes from 2010 to 2021 for 204 countries and territories, 21 regions, and seven super-regions. Aetiology-specific estimates were generated for five viral categories: influenza, respiratory syncytial virus (RSV), human metapneumovirus (hMPV), SARS-CoV-2, and \"other\" viral pathogens. Data inputs included surveillance systems, clinical informatics, published literature, surveys, and vital registration. Viral LRTD incidence was estimated using DisMod-MR 2.1, a GBD Bayesian meta-regression tool for disease incidence. We then applied location-specific admission scalars, adjusted for healthcare access, to derive hospitalisations. Aetiology-specific clinical outcome proportions-including intensive care unit (ICU) need, invasive mechanical ventilation (IMV) need, and in-hospital mortality-were estimated using meta-regression-Bayesian, regularised, trimming models. These were then applied to the hospitalisation estimates. COVID-19 incidence and hospitalisations were estimated using established GBD COVID-19 methods. All estimates are reported with 95% uncertainty intervals (UIs). RESULTS: Globally, viral LRTD episodes increased from 82.3 million (95% UI 76.4-88.2) in 2010 to 94.9 million (88.8-101.2) in 2019, while episode rates remained relatively stable at approximately 1200 per 100,000 population. Over the same period, hospitalisation rates increased by 40%, from 103.7 (96.1-111.4) to 145.4 (134.6-156.4) per 100,000 population. In 2020 and 2021, the emergence of SARS-CoV-2 resulted in sharp increases in burden, with episodes exceeding 1.1 billion in 2020 and 1.5 billion in 2021. During this period, 2020-2021, episode and hospitalisation rates associated with influenza, RSV, and hMPV declined by nearly 50%. Between 2010 and 2019, global rates of ICU need increased from 16.1 (14.3-18.0) to 23.7 (21.0-26.6) per 100,000 population, IMV need from 7.5 (6.7-8.4) to 11.2 (10.0-12.6), and in-hospital mortality from 9.4 (8.4-10.5) to 13.9 (12.3-15.6). In 2020-2021, SARS-CoV-2 dominated severe outcomes, with in-hospital mortality reaching 87.7 (83.3-92.2) per 100,000 population in 2021. Across the study period, older adults consistently experienced the highest rates of severe outcomes, and substantial regional variation was observed. CONCLUSIONS: Before 2020, global incidence of viral LRTD was stable; however, hospitalisations and severe outcomes increased substantially, suggesting rising clinical severity and healthcare demand. The COVID-19 pandemic profoundly altered the global viral LRTD landscape, driving unprecedented increases in hospitalisations, intensive care use, and mortality, while suppressing other respiratory viruses in the years 2020 and 2021. These findings demonstrate a substantial burden of severe viral LRTD globally, with marked age and regional variations, underscoring the importance of sustained aetiology-specific surveillance, adequate healthcare capacity, and equitable access to preventive and therapeutic interventions.",
+      "summary": "INTRODUCTION: Viral lower respiratory tract disease (LRTD) is a major cause of global morbidity and mortality, but pathogen-specific estimates remain limited. COVID-19 incidence and hospitalisations were estimated using established GBD COVID-19 methods. These findings demonstrate a substantial burden of severe viral LRTD globally, with marked age and regional variations, underscoring the importance of sustained aetiology-specific surveillance, adequate healthcare capacity, and equitable access to preventive and therapeutic interventions.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W4404078222",
+      "title": "A Floating Frame of Reference Approach to Study Fracture in Flexible Multibody Systems using Peridynamics",
+      "authors": [
+        "J. Pagaimo",
+        "Francisco S. Vieira",
+        "A.L. Araújo",
+        "Jorge Ambrósio"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Peridynamics and Nonlocal Modeling",
+      "doi": "https://doi.org/10.1007/s42102-026-00145-x",
+      "url": "https://doi.org/10.1007/s42102-026-00145-x",
+      "abstract": "Abstract Multibody dynamic (MBD) analysis enables the study of mechanical systems with bodies undergoing large displacements and rotations, connected by joints and force elements. These bodies often interact with their environment and operate over long time frames. A previous study proposed integrating peridynamics (PD) into MBD to model structural deformations, including nonlinear behaviour like crack initiation and propagation. However, the high computational cost of that formulation limited its application to realistic materials and long simulations. This work introduces two new formulations to address the computational challenges arising from the contrasting time scales of rigid and flexible motions. Both approaches are based on a floating frame of reference (FFR), allowing the separation of rigid body motion from flexible deformation. When deformations are small, component mode synthesis (CMS) reduces the model order and limits high frequencies, enabling larger time steps while maintaining accuracy and stability. For nonlinear deformations or fracture, a full FFR without order reduction is used. Numerical examples of a slider-crank system compare the new approaches with the previous one, showing significant efficiency improvements. A landing gear model further demonstrates their potential in realistic applications. These developments lay the groundwork to explore fracture prediction in mechanical systems.",
+      "summary": "Abstract Multibody dynamic (MBD) analysis enables the study of mechanical systems with bodies undergoing large displacements and rotations, connected by joints and force elements. A landing gear model further demonstrates their potential in realistic applications. These developments lay the groundwork to explore fracture prediction in mechanical systems.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169649468",
+      "title": "Improved <sup>140</sup> Nd Production for the <sup>140</sup> Nd/ <sup>140</sup> Pr In Vivo Generator through Target Recycling and Radiochemical Optimization",
+      "authors": [
+        "Mangi lal Godara",
+        "Gabriel Dufour",
+        "Anna Buryachenko",
+        "Suzanne E. Lapi"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "ACS Omega",
+      "doi": "https://doi.org/10.1021/acsomega.6c03114",
+      "url": "https://doi.org/10.1021/acsomega.6c03114",
+      "abstract": "High Resolution Image Download MS PowerPoint Slide Theranostic strategies that utilize f-block therapeutic radionuclides, including 161 Tb, 177 Lu, 225 Ac, and 227 Th, suffer from a shortage of positron emission tomography (PET) imaging counterparts in the same chemical space and often rely on 68 Ga as a surrogate. The 140 Nd/ 140 Pr in vivo PET generator, which belongs to the f-block, may address this issue and can be produced via the 141 Pr(p,2n) 140 Nd production route by using medium-energy cyclotrons. However, impurities in the target material, including stable Nd, and the inherent difficulty of adjacent lanthanide separations limit the achievable radionuclidic and chemical purity of 140 Nd. In this work, we address these challenges through the purification and recycling of praseodymium target material and optimization of Nd/Pr separation. The resulting purified 140 Nd was evaluated using DOTA and Macropa chelators via radiolabeling and in vitro stability studies. A target material purification and recycling method was developed for the monoisotopic 141 Pr starting material to remove stable Nd impurities, yielding 90.3 ± 4.7% ( n = 3) recovery. The purified 141 Pr was isolated as Pr 6 O 11 and irradiated with 24 MeV protons (20.07 MeV at the target surface) at 20 μA for 4 h, which produced 1417.0 ± 83.4 MBq (38.3 ± 2.2 mCi) of 140 Nd at the end of bombardment (EOB). The produced 140 Nd was purified through an optimized DGA normal method to recover 71.6 ± 6.3% pure 140 Nd. The amount of stable Nd reduced progressively in each target purification cycle from >340 ppm without purification to <250 ppb after three cycles, while other measured metallic impurities were below 30 ppb. This improvement in target purity was reflected in the direct increase of apparent molar activity (AMA), when purified 140 Nd was evaluated with DOTA and Macropa chelators. AMA of [ 140 Nd]Nd-DOTA and [ 140 Nd]Nd-Macropa increased from 70.3 MBq/μmol (1.9 mCi/μmol) and 74 MBq/μmol (2.0 mCi/μmol) to 8025.3 MBq/μmol (216.9 mCi/μmol) and 8473.0 MBq/μmol (229.0 mCi/μmol), respectively, after the third target purification cycle. Further evaluation of chelator-labeled 140 Nd showed that [ 140 Nd]Nd-DOTA was stable in phosphate-buffered saline (PBS), saline, human serum, and mouse serum, whereas [ 140 Nd]Nd-Macropa was stable in all except human serum. This work established a practical methodological advance for the production of 140 Nd/ 140 Pr in vivo PET generators, combining optimized target recycling and radiochemical separation to enable scaled-up and high-molar activity 140 Nd suitable for preclinical imaging. These advances support broader development of 140 Nd/ 140 Pr as a robust PET analogue, especially for f-block therapeutics.",
+      "summary": "High Resolution Image Download MS PowerPoint Slide Theranostic strategies that utilize f-block therapeutic radionuclides, including 161 Tb, 177 Lu, 225 Ac, and 227 Th, suffer from a shortage of positron emission tomography (PET) imaging counterparts in the same chemical space and often rely on 68 Ga as a surrogate. The resulting purified 140 Nd was evaluated using DOTA and Macropa chelators via radiolabeling and in vitro stability studies. A target material purification and recycling method was developed for the monoisotopic 141 Pr starting material to remove stable Nd impurities, yielding 90.3 ± 4.7% ( n = 3) recovery.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169682681",
+      "title": "Sodium contamination in electrolyte: Consequences for high power NMC831–graphite lithium-ion cells",
+      "authors": [
+        "S. Jabri",
+        "Krum Banov",
+        "Anita Roethke",
+        "Wibke Dempwol",
+        "Olaf Rienitz",
+        "Petr Novák",
+        "Markus Etzkorn",
+        "Uta Schlickum"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Power Sources",
+      "doi": "https://doi.org/10.1016/j.jpowsour.2026.240985",
+      "url": "https://doi.org/10.1016/j.jpowsour.2026.240985",
+      "abstract": "Sodium (Na + ) is a common trace impurity in batteries originating from raw materials, manufacturing processes, and/or recycling pathways. In this study, the impact of Na + contamination in LP572 electrolyte on the electrochemical performance of high-power NMC 831 –graphite full cells was systematically investigated. Even at low concentrations (as low as 3 μg/mL), Na + led to a noticeable decrease in discharge capacity and a significant increase in cell impedance compared with cells containing Na + -free electrolyte. The presence of Na + , a larger alkali-metal cation, adversely affects interfacial stability at both electrodes. Degradation phenomena such as intraparticle cracking and graphite exfoliation are observed, likely arising from increased mechanical stress associated with enhanced volume changes during cycling. Although Na + can, in principle, insert into graphite under certain conditions, its larger ionic radius alters both interfacial chemistry and structural evolution within the electrodes. The degradation effects induced by Na + contamination were further analyzed through post-mortem characterization, including morphological analysis and Raman spectroscopy of aged graphite anodes and NMC 831 cathodes.",
+      "summary": "Sodium (Na + ) is a common trace impurity in batteries originating from raw materials, manufacturing processes, and/or recycling pathways. In this study, the impact of Na + contamination in LP572 electrolyte on the electrochemical performance of high-power NMC 831 –graphite full cells was systematically investigated. The presence of Na + , a larger alkali-metal cation, adversely affects interfacial stability at both electrodes.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169658850",
+      "title": "CRISPR-Cas-based nucleic acid detection for medicinal plant authentication: Recent advances and industrial prospects",
+      "authors": [
+        "Zhao Yang",
+        "Zuming Lu",
+        "Lin Yang",
+        "Fan Tang",
+        "Yong Bian",
+        "Chong Cai",
+        "Cheng Zhu",
+        "Leilei Zhang"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Industrial Crops and Products",
+      "doi": "https://doi.org/10.1016/j.indcrop.2026.123932",
+      "url": "https://doi.org/10.1016/j.indcrop.2026.123932",
+      "abstract": "Chinese medicinal resources play a significant role in the global pharmaceutical, health supplement, and food industries. However, the prevalence of adulteration and misidentification threatens medication safety and industry sustainability. Traditional and even modern molecular methods often lack the speed, simplicity, and cost-effectiveness required for on-site application. The CRISPR/Cas12 system, particularly Cas12a, demonstrates transformative potential as an innovative solution for on-site authentication of medicinal plants. Unlike conventional techniques, Cas12a, upon target DNA recognition, exhibits a unique “collateral cleavage” activity that nonspecifically cuts ssDNA. This property, when combined with isothermal amplification techniques (such as RPA, LAMP), enables the development of highly sensitive and specific nucleic acid detection platforms. These platforms are characterized by minimal equipment dependency, visual readout capability, and suitability for field use, thereby enhancing quality control across the entire industrial crop processing chain. This review introduces the latest advances in CRISPR/Cas12 applications for medicinal plant identification, covering its detection mechanism, integration with portable technologies, field applicability, and enhanced capability for discriminating closely related species. We systematically evaluate how this technology bridges the gap between laboratory accuracy and practical, field‑ready quality assurance in the herbal supply chain, highlighting its potential for industrial adoption and scalable crop verification. Finally, this article presents the challenges and prospects of the CRISPR-Cas system in medicinal plants, aiming to provide a comprehensive reference for the integration of CRISPR-based diagnostics into herbal authentication systems, thereby promoting the modernization and global standardization of traditional medicine.",
+      "summary": "Chinese medicinal resources play a significant role in the global pharmaceutical, health supplement, and food industries. Traditional and even modern molecular methods often lack the speed, simplicity, and cost-effectiveness required for on-site application. Finally, this article presents the challenges and prospects of the CRISPR-Cas system in medicinal plants, aiming to provide a comprehensive reference for the integration of CRISPR-based diagnostics into herbal authentication systems, thereby promoting the modernization and global standardization of traditional medicine.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169658564",
+      "title": "Narrative negotiation over migrant agency: framing fire, resistance, and criminalisation in the #FreeTheMoria6ampaign",
+      "authors": [
+        "Jannis Julien Grimm",
+        "Elsa Rimmele"
+      ],
+      "publication_date": "2026-07-18",
+      "journal": "Journal of Ethnic and Migration Studies",
+      "doi": "https://doi.org/10.1080/1369183x.2026.2702725",
+      "url": "https://doi.org/10.1080/1369183x.2026.2702725",
+      "abstract": "People on the move are often represented either as victims in need of protection or as security threats in need of control. Both constructions challenge efforts to publicly articulate migrant political agency, particularly in relation to disruptive forms of resistance. This article tackles these challenges through a frame analysis of debates on the 2020 Moria fire and the trial of the so-called ‘Moria 6.’ Drawing on #FreeTheMoria6 campaign publications and communication by Greek officials, it reconstructs competing interpretations of the fires and their effects. Governmental messaging presented the fire as an apolitical catastrophe, framing the return to order as inevitable. By contrast, campaign actors engaged in careful narrative negotiation, seeking to portray people on the move as political agents while simultaneously emphasising the innocence of those accused of arson. The oscillation of the #FreeTheMoria6 campaign between depoliticisation and repoliticisation emerged precisely from the need to operate across different arenas of struggle and accommodate their countervailing logics. Our findings caution against treating contentious migrant action as analytically mute, whether as senseless violence or as self-evident acts of resistance. Instead, they suggest that migrant agency should be studied as a precarious public achievement produced through legal, media, activist and humanitarian infrastructures.",
+      "summary": "People on the move are often represented either as victims in need of protection or as security threats in need of control. Our findings caution against treating contentious migrant action as analytically mute, whether as senseless violence or as self-evident acts of resistance. Instead, they suggest that migrant agency should be studied as a precarious public achievement produced through legal, media, activist and humanitarian infrastructures.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
