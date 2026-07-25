@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23",
+  "updated_at": "2026-07-25",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -32,6 +32,35 @@
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
+      "id": "https://openalex.org/W7170068923",
+      "title": "Graphene Nanoplatelet–Driven Structural Modifications in Synthetic Calcium-Silicate-Hydrate",
+      "authors": [
+        "Weam Elmahmoud",
+        "Hunain Alkhateb",
+        "Sasan Nouranian",
+        "Hashem Khaled Almashaqbeh",
+        "Rami Alsughayer",
+        "Mine G. Ucak‐Astarlioglu",
+        "Oussama Oulhakem",
+        "Charles Weiss"
+      ],
+      "publication_date": "2026-07-23",
+      "journal": "Journal of Materials in Civil Engineering",
+      "doi": "https://doi.org/10.1061/jmcee7.mteng-21746",
+      "url": "https://doi.org/10.1061/jmcee7.mteng-21746",
+      "abstract": "Abstract Graphene nanoplatelets (GnPs) have shown promise in enhancing cementitious materials, yet their interaction with calcium-silicate-hydrate (C-S-H), the primary cement binding phase, remains insufficiently understood. This study examines the structural and microstructural modifications of synthetic C-S-H induced by GnPs of varying particle sizes (M15, C300, and C750) and dosages (0.03%–0.1% by weight) across calcium-to-silicon (C/S) ratios of 1, 1.5, and 2, synthesized using a modified double-decomposition method and characterized by X-ray diffraction (XRD), thermogravimetric analysis (TGA), Fourier-transform infrared spectroscopy (FTIR), and scanning electron microscope (SEM). Results showed that GnPs significantly influenced C-S-H nucleation and domain evolution, with smaller GnPs (C750) reducing calcium carbonate formation and promoting more ordered C-S-H domains, whereas larger GnPs (M15) enhanced C-S-H content and increased interlayer spacing. At a C/S ratio of 1.5, C750 reduced calcite content by 12%, whereas M15 increased C-S-H content by 7%. Overall, GnPs facilitated calcium ion retention within C-S-H layers, limiting carbonation and suggesting a pathway for engineering cementitious composites with improved durability and tailored performance.",
+      "summary": "Abstract Graphene nanoplatelets (GnPs) have shown promise in enhancing cementitious materials, yet their interaction with calcium-silicate-hydrate (C-S-H), the primary cement binding phase, remains insufficiently understood. Results showed that GnPs significantly influenced C-S-H nucleation and domain evolution, with smaller GnPs (C750) reducing calcium carbonate formation and promoting more ordered C-S-H domains, whereas larger GnPs (M15) enhanced C-S-H content and increased interlayer spacing. Overall, GnPs facilitated calcium ion retention within C-S-H layers, limiting carbonation and suggesting a pathway for engineering cementitious composites with improved durability and tailored performance.",
+      "techniques": [
+        "TGA",
+        "TGA-FTIR"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
       "id": "https://openalex.org/W7169886961",
       "title": "Precipitation co-polymerization of ethylene and 2-allylanisole for preparing self-healing polymers",
       "authors": [
@@ -54,6 +83,1119 @@
         "高分子与复合材料"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170047134",
+      "title": "Synthesis and Characterization of Poly(vinylidene fluoride)- <i>g</i> -poly(oxazoline) Graft Copolymers",
+      "authors": [
+        "Umut Uğur Özköse",
+        "Olinda Gimello",
+        "Nadim Eid",
+        "Samuel Devisme",
+        "Anthony Bonnet",
+        "Vincent Lapinte",
+        "Bruno Améduri"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Macromolecules",
+      "doi": "https://doi.org/10.1021/acs.macromol.6c00246",
+      "url": "https://doi.org/10.1021/acs.macromol.6c00246",
+      "abstract": "Novel graft copolymers based on poly(vinylidene fluoride) (PVDF) bearing poly(2-alkyl-2-oxazoline) (POx) side chains, PVDF- g -POx, were synthesized via a two-step strategy. First, POx macromonomers end-functionalized with 2-(trifluoromethyl)acrylic acid (MAF-POx) were prepared through cationic ring-opening polymerization of 2-alkyl-2-oxazolines, followed by radical copolymerization with vinylidene fluoride (VDF). A series of MAF-POx macromonomers with number-average molar masses ( M n ) ranging from 200 to 1200 g·mol –1 were successfully synthesized and characterized by 1 H and 19 F NMR spectroscopy as well as MALDI-TOF mass spectrometry. The subsequent graft (statistical) copolymerization was optimized by varying the [VDF]/[MAF-POx] initial molar ratio, the initiator type (peroxide or persulfate), and the reaction conditions. The incorporation of sodium trifluoromethanesulfinate enabled the introduction of CF 3 end-groups, providing a useful probe for molar mass assessment by 19 F NMR. The resulting PVDF- g -POx copolymers were obtained in yields reaching 62% and exhibited number-average molar masses up to 17,000 g·mol –1 . The copolymer compositions were tunable via the feed ratio considering that VDF was more reactive than MAF-POx. Thermal analysis revealed that the incorporation of POx side chains slightly reduced the thermal stability compared to that of pristine PVDF. Differential scanning calorimetry highlighted melting temperatures ranging between 116 and 168 °C, depending on composition and molar mass, while the copolymers containing less than 70 mol % VDF were amorphous.",
+      "summary": "Novel graft copolymers based on poly(vinylidene fluoride) (PVDF) bearing poly(2-alkyl-2-oxazoline) (POx) side chains, PVDF- g -POx, were synthesized via a two-step strategy. The resulting PVDF- g -POx copolymers were obtained in yields reaching 62% and exhibited number-average molar masses up to 17,000 g·mol –1 . Thermal analysis revealed that the incorporation of POx side chains slightly reduced the thermal stability compared to that of pristine PVDF.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170067866",
+      "title": "Sequential removal of oppositely charged multi pollutants from wastewater using sugarcane bagasse",
+      "authors": [
+        "Magda A. Akl",
+        "AZZA A. FAHIM",
+        "Aya G. Mostafa"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-62305-9",
+      "url": "https://doi.org/10.1038/s41598-026-62305-9",
+      "abstract": "Abstract Efficient removal of organic pollutants from water remains a major challenge. In this work, a circular economy strategy is adopted to address critical challenges associated with excessive waste generation, resource limitations, and economic sustainability. Sugarcane bagasse (SCB), an abundant lignocellulosic agricultural waste, was utilized as a sustainable adsorbent for the sequential removal of oppositely charged dyes from aqueous solutions. Pristine SCB was first employed for the adsorption of the anionic dye Alizarin Red S (ARS), and the resulting spent adsorbent (SCB@ARS) was subsequently reused without regeneration for the removal of the cationic dyes Crystal Violet (CV) and Methyl Green (MG). The adsorbents were characterized using point of zero charge (pH PZC ), Fourier-transform infrared spectroscopy (FTIR), Thermogravimetric analysis (TGA), Scanning electron microscopy (SEM), and Energy-dispersive X-ray spectroscopy (EDX). The effects of adsorption parameters, including shaking time, pH, dye concentration, and adsorbent dose, were studied. The maximum adsorption capacities of SCB for ARS and SCB@ARS for CV and MG were 99.38, 136.84, and 452.26 mg/g, respectively. Kinetic, isotherm, and thermodynamic studies indicated that the adsorption process was best described by the linear pseudo-2nd-order and nonlinear pseudo-1st-order kinetic models and the Langmuir isotherm model, and was thermodynamically feasible and spontaneous. The adsorption mechanism was further elucidated using pH PZC and FTIR analyses. Recovery studies in pharmaceutical and real water samples demonstrated removal efficiencies exceeding 90%. A one-way ANOVA statistical analysis was used to evaluate the effect of pH on adsorption. These findings highlight the potential of sequential adsorption using renewable agricultural waste as an effective and sustainable wastewater treatment strategy.",
+      "summary": "Abstract Efficient removal of organic pollutants from water remains a major challenge. A one-way ANOVA statistical analysis was used to evaluate the effect of pH on adsorption. These findings highlight the potential of sequential adsorption using renewable agricultural waste as an effective and sustainable wastewater treatment strategy.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "循环利用与可持续材料",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170081283",
+      "title": "Ammonia fumigation combined with nitrogen inhibitor reduces root-knot nematode populations and N2O emission but not bacterial alpha diversity",
+      "authors": [
+        "Fengyu Shi",
+        "Jiawei Fu",
+        "Pengyuan Li",
+        "Xiaotong Li",
+        "Jianbin Liu",
+        "Yingbo Zhu"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Microbiology",
+      "doi": "https://doi.org/10.3389/fmicb.2026.1756683",
+      "url": "https://doi.org/10.3389/fmicb.2026.1756683",
+      "abstract": "Aqueous ammonia can release high nitrogen inorganic substances of ammonia and has been used as soil fumigant. However, the information about how fumigation with ammonia affects the soil microbial community is still limited. In this study, a laboratory microcosm experiment was conducted to evaluated the effectiveness of ammonia fumigation in controlling root-knot nematodes (RKNs), its influence on soil microbial diversity, and its impact on nitrous oxide (N 2 O) emissions. The results indicated that Ammonia treatment increased N 2 O emissions and decreased the RKNs population by 75.73%. Adding the inhibitors N-(N-butyl) thiophosphoric triamide (NBPT) and Dicyandiamide (DCD) to aqueous ammonia can mitigate N 2 O emissions. Compared with CK treatment, Soil enzyme activities, including those of urease, nitrate reductase, and nitrite reductase, were enhanced in each treatment. The fungal Sobs index was significantly higher in CK treatment than in the other treatments, whereas bacterial alpha diversity remained unaffected. This study also indicates that soil fumigation with aqueous ammonia has the potential to regulate fungal communities and important key reactions involved in nitrogen cycling.",
+      "summary": "Aqueous ammonia can release high nitrogen inorganic substances of ammonia and has been used as soil fumigant. The results indicated that Ammonia treatment increased N 2 O emissions and decreased the RKNs population by 75.73%. This study also indicates that soil fumigation with aqueous ammonia has the potential to regulate fungal communities and important key reactions involved in nitrogen cycling.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170036812",
+      "title": "Development of low-calorie high protein cookies by replacing solid-fat with Brewer’s spent grains protein-based oleogel",
+      "authors": [
+        "Navin Rohit Thirumugam",
+        "Rithanya Rajamane Kaavya",
+        "Tharun Vignesh Kumaraganesh",
+        "Gnana Moorthy Eswaran Ulaganathan",
+        "Rakesh Kumar Gupta",
+        "Shyam K. Singh"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Sustainable Food Systems",
+      "doi": "https://doi.org/10.3389/fsufs.2026.1870051",
+      "url": "https://doi.org/10.3389/fsufs.2026.1870051",
+      "abstract": "The demand for alternate fats to conventional solid fats is rising due to their positive impact on a healthy lifestyle. By utilizing the structure-forming properties of Brewer’s spent grains (BSG) protein, the protein oleogel has been fabricated using beeswax and Grape pomace oil (GPO) by sous-vide and shear mixing method. The functional and stability properties of Brewer’s spent grains protein have been investigated and found to have a water-holding capacity of 62.13%, oil absorption capacity of 32.21%, emulsifying absorption index of 27.1 m 2 /100 g, solubility of 52.2%, foaming capacity of 60.8%, and thermal stability of 106.57 °C. Cookies are prepared by replacing butter using developed oleogel in the range of 25, 50, 75, and 100% and analyzed for texture analysis, overall sensory acceptability, proximate composition, and morphological properties. The results show that developed cookies contain high protein, less saturated fat, zero trans-fat, high unsaturated fat, and low calorific value. The developed Brewer’s spent grain protein-based oleogel demonstrated significant potential as a sustainable and healthier alternative to conventional solid fat in bakery applications. The incorporation of oleogel improved the protein content while reducing saturated fat and calorific value, thereby supporting the development of functional low-calorie bakery products.",
+      "summary": "The functional and stability properties of Brewer’s spent grains protein have been investigated and found to have a water-holding capacity of 62.13%, oil absorption capacity of 32.21%, emulsifying absorption index of 27.1 m 2 /100 g, solubility of 52.2%, foaming capacity of 60.8%, and thermal stability of 106.57 °C. The results show that developed cookies contain high protein, less saturated fat, zero trans-fat, high unsaturated fat, and low calorific value. The developed Brewer’s spent grain protein-based oleogel demonstrated significant potential as a sustainable and healthier alternative to conventional solid fat in bakery applications.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170061535",
+      "title": "Plasma HPV ctDNA as a dynamic biomarker for treatment response and prognosis in locally advanced cervical cancer: protocol for a prospective cohort study",
+      "authors": [
+        "Hailing Hou",
+        "Li Zhang",
+        "C Y Li",
+        "Miao Liu"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Oncology",
+      "doi": "https://doi.org/10.3389/fonc.2026.1844938",
+      "url": "https://doi.org/10.3389/fonc.2026.1844938",
+      "abstract": "Background Locally advanced cervical cancer (LACC) remains a major global health burden, and current imaging-based assessment after standard concurrent chemoradiotherapy (CCRT) is limited by delayed detection of treatment failure and poor sensitivity for microscopic residual disease. Circulating human papillomavirus DNA (HPV ctDNA) represents a tumor-specific biomarker with potential for real-time treatment monitoring. This prospective cohort study aims to evaluate whether dynamic monitoring of plasma HPV ctDNA can predict treatment response and prognosis in patients with LACC receiving CCRT. Methods/design This single-center, observational cohort study will enroll 57 patients with histologically confirmed LACC (FIGO 2018 stage IB2–IVA) and baseline high-risk HPV infection. All patients will receive standard CCRT including external beam radiotherapy (45–50.4 Gy), concurrent weekly cisplatin (40 mg/m²), and intracavitary brachytherapy. Peripheral blood samples (10 mL) will be collected at five predefined time points: baseline (T0), mid-treatment (T1), end of CCRT (T2), 3 months post-CCRT (T3), and every 6 months thereafter for 24 months. Plasma HPV ctDNA will be quantified using droplet digital PCR targeting HPV16/18 E6/E7 genes. The primary endpoint is progression-free survival (PFS), comparing patients with detectable versus undetectable ctDNA at 3 months post-CCRT. Conclusion This study will provide prospective evidence for HPV ctDNA as a minimally invasive biomarker for treatment monitoring and prognostic stratification in LACC, potentially informing future risk-adapted therapeutic strategies.",
+      "summary": "Background Locally advanced cervical cancer (LACC) remains a major global health burden, and current imaging-based assessment after standard concurrent chemoradiotherapy (CCRT) is limited by delayed detection of treatment failure and poor sensitivity for microscopic residual disease. This prospective cohort study aims to evaluate whether dynamic monitoring of plasma HPV ctDNA can predict treatment response and prognosis in patients with LACC receiving CCRT. Plasma HPV ctDNA will be quantified using droplet digital PCR targeting HPV16/18 E6/E7 genes.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "电子与封装"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170089606",
+      "title": "Study In Silico and Nanoparticle-Based Evaluation of Arbutinyl Undecylenate Targeting AChE and iNOS for Neuroprotection",
+      "authors": [
+        "Nur Ain Thomas",
+        "Yusnita Rifai",
+        "Andi Arjuna",
+        "Ayu Masyita"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "F1000Research",
+      "doi": "https://doi.org/10.12688/f1000research.182909.1",
+      "url": "https://doi.org/10.12688/f1000research.182909.1",
+      "abstract": "<ns5:p>Alzheimer’s disease is a multifactorial neurodegenerative disorder involving cholinergic dysfunction, oxidative stress, and neuroinflammation. This study aimed to evaluate the neuroprotective potential of arbutinyl undecylenate through an integrated approach combining molecular modeling and nanoparticle formulation. Molecular docking and molecular dynamics simulations were performed to assess ligand interactions with acetylcholinesterase (AChE) and inducible nitric oxide synthase (iNOS). The results demonstrated that arbutinyl undecylenate exhibited favorable binding affinity toward both targets, with stable interaction profiles confirmed by RMSD, RMSF, radius of gyration, and hydrogen bonding analyses. MM-GBSA calculations further supported these findings, indicating favorable binding free energy, particularly toward iNOS. To enhance delivery, the compound was formulated into PLGA nanoparticles via emulsification. The nanoparticles exhibited a size range of approximately 176–191 nm, a polydispersity index of ~0.3, and a high entrapment efficiency (~97%). Morphological analysis confirmed the formation of spherical particles, while FTIR indicated no chemical interaction between the drug and the polymer. XRD and DSC analyses revealed a reduction in crystallinity, suggesting successful encapsulation in an amorphous or molecularly dispersed state. In conclusion, arbutinyl undecylenate demonstrates promising molecular interaction and can be effectively incorporated into PLGA nanoparticles with suitable physicochemical properties. This integrated strategy highlights the potential of combining molecular modification with nanotechnology-based delivery systems to develop neuroprotective agents. Further experimental validation is required to confirm its therapeutic applicability.</ns5:p>",
+      "summary": "This study aimed to evaluate the neuroprotective potential of arbutinyl undecylenate through an integrated approach combining molecular modeling and nanoparticle formulation. The results demonstrated that arbutinyl undecylenate exhibited favorable binding affinity toward both targets, with stable interaction profiles confirmed by RMSD, RMSF, radius of gyration, and hydrogen bonding analyses. XRD and DSC analyses revealed a reduction in crystallinity, suggesting successful encapsulation in an amorphous or molecularly dispersed state.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169835815",
+      "title": "Technical design and hydrogeochemical evaluation of a stormwater-based managed aquifer recharge pilot site in an intensively cultivated region (Hallertau, Germany)",
+      "authors": [
+        "Lea Augustin",
+        "Teresa Jansen",
+        "Thomas Baumann"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Hydrogeology Journal",
+      "doi": "https://doi.org/10.1007/s10040-026-03124-0",
+      "url": "https://doi.org/10.1007/s10040-026-03124-0",
+      "abstract": "Abstract Managed aquifer recharge (MAR) with stormwater remains underexplored in rural settings due to uncertainties related to source-water variability, treatment performance, and groundwater-quality impacts. This study presents the design and hydrogeochemical evaluation of a stormwater-based MAR pilot site implemented in 2024 in Hüll (Bavaria, Germany), a flood-prone agricultural region underlain by a heterogeneous Tertiary aquifer. The system integrates a stormwater retention basin, treatment units, an infiltration well, and a comprehensive monitoring framework combining multi-parameter online sensors, detailed laboratory analyses, and contextual information on catchment activities. Hydraulic testing confirmed strong aquifer heterogeneity but also demonstrated high injectivity of the target formation. Hydrochemical monitoring evaluated raw water characteristics, treatment efficiency, and groundwater responses. The treatment unit effectively removed pesticides and substantially reduced suspended solids, while stormwater nitrate concentrations were consistently lower than those in groundwater, indicating dilution potential during recharge. The pilot demonstrates that rural stormwater can serve as a reliable MAR source under variable hydrological conditions. The integrated design and monitoring concept provides a transferable framework for similar agricultural regions and supports future calibration of site-scale hydrogeological and reactive transport models.",
+      "summary": "Abstract Managed aquifer recharge (MAR) with stormwater remains underexplored in rural settings due to uncertainties related to source-water variability, treatment performance, and groundwater-quality impacts. Hydrochemical monitoring evaluated raw water characteristics, treatment efficiency, and groundwater responses. The pilot demonstrates that rural stormwater can serve as a reliable MAR source under variable hydrological conditions.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170062474",
+      "title": "Thermal enhancement of salt-based phase change materials using silica and mesoporous silica nanoparticles for thermal energy storage",
+      "authors": [
+        "Marwa Khalil",
+        "Aida Azab",
+        "Fouad Abulfotouh",
+        "S. Ebrahim",
+        "A. M. Elshaer",
+        "Ayman Eltahan"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Journal of Thermal Analysis and Calorimetry",
+      "doi": "https://doi.org/10.1007/s10973-026-15990-7",
+      "url": "https://doi.org/10.1007/s10973-026-15990-7",
+      "abstract": "Abstract Enhancing the thermal properties of phase change materials is critical for improving the efficiency of thermal energy storage (TES) systems. In this work, silica (SNs) and mesoporous silica nanoparticles (MSNs) were synthesized via a sol–gel method and incorporated into potassium nitrate (KNO 3 ) at varying mass fractions (0.1–2.5 mass%) to evaluate their impact on thermo-physical performance. The nanostructures were characterized using FTIR, XRD, HRTEM, and SEM, confirming the formation of amorphous silica phases, spherical particle morphology, and well-dispersed mesoporous structures. Thermal characterization using differential scanning calorimetry showed that 0.5 mass% MSNs enhanced the specific heat of KNO 3 by 15.97% (solid) and 22.4% (liquid), with a corresponding TES capacity increase of 11.11%. Similarly, 1.0 mass% SNs increased specific heat by 7.14% and 10.2%, with a TES improvement of 3.4%. Thermal conductivity measured at 25 °C reached maximum values of 0.77 W m −1 K −1 for SNs and 0.79 W m −1 K −1 for MSNs at 1.0 mass% loading; however, further increases in nanoparticle content caused a decline due to agglomeration, reduced effective interfacial area, and increased thermal resistance. These results demonstrate that low concentrations of silica-based nanoparticles, especially 0.5 mass% MSNs, can significantly enhance both heat storage and heat transfer characteristics of KNO 3 , making them promising candidates for next-generation TES materials in solar thermal and high-temperature energy applications.",
+      "summary": "In this work, silica (SNs) and mesoporous silica nanoparticles (MSNs) were synthesized via a sol–gel method and incorporated into potassium nitrate (KNO 3 ) at varying mass fractions (0.1–2.5 mass%) to evaluate their impact on thermo-physical performance. Thermal characterization using differential scanning calorimetry showed that 0.5 mass% MSNs enhanced the specific heat of KNO 3 by 15.97% (solid) and 22.4% (liquid), with a corresponding TES capacity increase of 11.11%. These results demonstrate that low concentrations of silica-based nanoparticles, especially 0.5 mass% MSNs, can significantly enhance both heat storage and heat transfer characteristics of KNO 3 , making them promising candidates for next-generation TES materials in solar thermal and high-temperature energy applications.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "新能源与储能"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170082355",
+      "title": "Phased regulatory mechanism of sowing date-meteorological factor interaction on maize yield formation and resource use efficiency in Southwest China hilly region under climate warming conditions",
+      "authors": [
+        "Y N Wang",
+        "F W Liu",
+        "Liu W",
+        "Pijiang Yin",
+        "Xinglong Wang",
+        "Yuxin Zhou",
+        "Cailing Xu",
+        "Xiaolong Li"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Plant Science",
+      "doi": "https://doi.org/10.3389/fpls.2026.1889116",
+      "url": "https://doi.org/10.3389/fpls.2026.1889116",
+      "abstract": "Introduction Climate warming has increased extreme weather events, threatening maize yield stability in Southwest China. Optimizing sowing date is crucial for matching meteorological resources with crop growth demands, yet the stage-specific regulatory mechanisms remain unclear. Methods A five-year field experiment (2015–2016 and 2019–2021) with five sowing dates (March to May) was conducted at the Zhongjiang Experimental Station in the Sichuan Basin. Meteorological factors, grain yield, and its components were measured, and correlation analyses were performed. Results The climate in the study area has warmed significantly over the past 35 years, with a substantial increase in the frequency of extreme heat events. Early sowing (SD1) significantly increased maize yield and enhanced its stability. For each day of sowing delay, dry matter accumulation decreased by 77.4 kg ha-1, leading to a yield reduction of 58.0 kg ha-1. The coefficient of variation for yield increased significantly for sowings in May, primarily attributed to the increased frequency of adverse weather conditions, such as high temperatures and heavy rain, during the pollination and grain-filling period. Different yield components were governed by dominant meteorological factors specific to key growth stages. Total dry matter accumulation was primarily driven by solar radiation (Sr), growing degree days (GDD) and diurnal temperature range (DTR) over the entire growth period. The kernel number per ear was sensitive to the maximum temperature (Tmax) during the 10 days before and after silking, with temperatures exceeding 33 ℃ causing significant reduction. The 1000-grain weight was positively regulated by Sr and GDD during the grain-filling period but negatively correlated with precipitation (for each 1 mm increase, the 1000-grain weight decreased by 0.063 g). With delayed sowing date, solar radiation and temperature utilization efficiency during the grain-filling period exhibited a linear decline. Discussion This study identified late-March as the optimal sowing date for maize in the Sichuan Basin, as it achieved the best meteorological resources matching across all growth stages. The findings revealed the interaction mechanism of sowing date-meteorology-maize yield formation from a stage-specific perspective, providing a theoretical foundation and technical pathway for achieving high- and stable-yield in Southwest China under climate change.",
+      "summary": "Introduction Climate warming has increased extreme weather events, threatening maize yield stability in Southwest China. The kernel number per ear was sensitive to the maximum temperature (Tmax) during the 10 days before and after silking, with temperatures exceeding 33 ℃ causing significant reduction. The findings revealed the interaction mechanism of sowing date-meteorology-maize yield formation from a stage-specific perspective, providing a theoretical foundation and technical pathway for achieving high- and stable-yield in Southwest China under climate change.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170093043",
+      "title": "Gut metabolites: key factors in the cross-talk between the gut microbiota and tumor immunotherapy",
+      "authors": [
+        "Lizhu Zeng",
+        "Yuxin Ren",
+        "Hui Huang",
+        "Qiurong Wang",
+        "Hui Li",
+        "Jieyu Song",
+        "Feng He",
+        "Li J"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1882542",
+      "url": "https://doi.org/10.3389/fimmu.2026.1882542",
+      "abstract": "This review synthesizes recent research findings and proposes an integrated “microbiota–metabolite–immune–oncology” framework, highlighting how gut-derived metabolites regulate the dynamics of tumor immunity and informing the development of next-generation immunotherapies. Key metabolites—including short-chain fatty acids (SCFAs), bile acids (BAs), trimethylamine N-oxide (TMAO), indole-3-propionic acid (IPA), and urolithin A—exert bidirectional effects on antitumor immunity through multiple mechanisms. These include histone acetylation-driven epigenetic reprogramming, aryl hydrocarbon receptor (AhR)- and farnesoid X receptor (FXR)-mediated metabolic reprogramming, and direct regulation of immune effectors such as CD8 + T cells and myeloid-derived suppressor cells. Emerging evidence highlights specific roles of these metabolites within the tumor microenvironment (TME): microbial dysbiosis can amplify immunosuppressive circuits, whereas targeted enrichment of certain metabolites may enhance the efficacy of immune checkpoint blockade. Integrative multi-omics analyses have revealed the vascular remodeling effect of TMAO and the spatiotemporal heterogeneity of BAs, thereby connecting the gut-liver-tumor axis and achieving overall immune regulation. By mapping a precision-oriented metabolic roadmap, this review identifies underexplored therapeutic avenues—such as metabolite-targeted interventions and engineered probiotics—that, when combined with immune checkpoint inhibitors, may enable personalized, microbiome−based strategies with the potential to improve outcomes in cancer immunotherapy.",
+      "summary": "This review synthesizes recent research findings and proposes an integrated “microbiota–metabolite–immune–oncology” framework, highlighting how gut-derived metabolites regulate the dynamics of tumor immunity and informing the development of next-generation immunotherapies. Integrative multi-omics analyses have revealed the vascular remodeling effect of TMAO and the spatiotemporal heterogeneity of BAs, thereby connecting the gut-liver-tumor axis and achieving overall immune regulation. By mapping a precision-oriented metabolic roadmap, this review identifies underexplored therapeutic avenues—such as metabolite-targeted interventions and engineered probiotics—that, when combined with immune checkpoint inhibitors, may enable personalized, microbiome−based strategies with the potential to improve outcomes in cancer immunotherapy.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "电子与封装"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170082069",
+      "title": "Rewired DDR-TGF-β-β-catenin-PD-L1 axis accelerates progression and shapes therapy in human papillomavirus-driven cancer",
+      "authors": [
+        "Liu W",
+        "Shanmei Chen",
+        "Liwei Wang",
+        "Hua Xiang",
+        "Siyi Tao"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1907171",
+      "url": "https://doi.org/10.3389/fimmu.2026.1907171",
+      "abstract": "Understanding Human papillomavirus (HPV) oncogenic mechanisms is essential for developing preventive and therapeutic strategies and overcoming therapy resistance in HPV-related cancers. These challenges may arise from the ability of high-risk HPV to subvert host tumor suppressors such as p53 and Rb, and to drive oncogenesis through homologous recombination deficiency (HRD) and multi-network dysregulation. Mechanistically, HPV exerts context-dependent effects on the host DNA damage response (DDR). During episomal replication, E6/E7 activate DDR and recruit BRCA1/RAD51 to replication foci to support viral replication without significantly compromising host HR repair. Upon viral integration, however, sustained E6/E7 expression drives HRD and shifts DNA repair toward error-prone end joining, generating genomic instability that fuels malignant transformation. These alterations are most clearly established in cervical cancer, whereas evidence in HPV-positive non-cervical cancer is more variable and requires further context-specific validation. In parallel, HPV E6/E7 antagonize transforming growth factor-β (TGF-β)-mediated tumor suppression and, potentially through FAT Atypical Cadherin 4 (FAT4) down-regulation, engage Wnt/β-catenin signaling. The resultant elevation of nuclear β-catenin induces programmed death-ligand 1 (PD-L1) expression promotes immune evasion, stemness, and invasiveness. Of note, while the DDR-TGF-β-β-catenin-PD-L1 axis is backed by substantial evidence in HPV-related cancers, certain connections within this pathway are extrapolated from non-HPV models or general pathway biology and are explicitly denoted as such in the main text. With residual p53 activity, HRD may confer initial sensitivity to DNA-damaging agents, but resistance frequently develops—a pattern reminiscent of the initial response followed by acquired resistance observed with immunotherapies in HPV-related cancers. Integrating these mechanistic insights, we propose ablative therapies (e.g., ablation, photodynamic therapy, surgery) for cervical intraepithelial neoplasia (CIN), and for advanced or resistant disease, a synthetic-lethality framework combining genotoxic therapies with DDR inhibitors, targeting DDR-TGF-β-β-catenin-PD-L1 axis, and antiviral approaches. The proposed therapeutic strategies, however, should be interpreted with caution, as their evidence base varies across tumor types and warrants further investigation.",
+      "summary": "Understanding Human papillomavirus (HPV) oncogenic mechanisms is essential for developing preventive and therapeutic strategies and overcoming therapy resistance in HPV-related cancers. The resultant elevation of nuclear β-catenin induces programmed death-ligand 1 (PD-L1) expression promotes immune evasion, stemness, and invasiveness. With residual p53 activity, HRD may confer initial sensitivity to DNA-damaging agents, but resistance frequently develops—a pattern reminiscent of the initial response followed by acquired resistance observed with immunotherapies in HPV-related cancers.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169864569",
+      "title": "Sparse bottlebrush poly (OEGMA-stat-MMA) copolymers for 3D printing and multicellular spheroids harvesting",
+      "authors": [
+        "Nafiseh Babaei",
+        "Miroslav Mrlík",
+        "Josef Osička",
+        "Zuzana Kroneková",
+        "Josef Kollar",
+        "Premysl Fajkus",
+        "Miroslav Šlouf",
+        "Ivana Šloufová"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Communications Materials",
+      "doi": "https://doi.org/10.1038/s43246-026-01301-y",
+      "url": "https://doi.org/10.1038/s43246-026-01301-y",
+      "abstract": "Tissue engineering demands biomaterials that integrate tunable mechanical properties, cytocompatibility, and simple processability. Here, we report the synthesis and characterization of a new class of sparse bottlebrush thermoplastic elastomers— poly(oligo(ethylene glycol) methyl methacrylate-stat-methyl methacrylate) (poly(OEGMA-stat-MMA)) copolymers—prepared via atom transfer radical polymerization (ATRP). By incorporating oligo(ethylene glycol) side chains, the materials with strain-hardening behavior and high elasticity, and Young’s moduli ranging from 3 to 750 MPa were achieved, mimicking tensile properties of native tissues. These copolymers demonstrate excellent melt processability, enabling extrusion-based 3D printing at temperatures starting from 80 °C and with high shape fidelity. The temperature dependent contact angle measurements showed thermoresponsive behavior. The 3T3 fibroblast tissue cultured on copolymers grew in the form of 3D spheres that were able to detach from surface upon cooling. Such materials performance of thermoplastic elastomer has not been reported so far. The results showed a new pathway for preparation of substrates for tissue harvesting. Tissue engineering requires cytocompatible biomaterials with tunable mechanical properties and simple processing. Here, the authors report thermoresponsive, 3D-printable bottlebrush thermoplastic elastomers with tissue-like mechanics and potential for tissue harvesting.",
+      "summary": "Tissue engineering demands biomaterials that integrate tunable mechanical properties, cytocompatibility, and simple processability. Such materials performance of thermoplastic elastomer has not been reported so far. The results showed a new pathway for preparation of substrates for tissue harvesting.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170069615",
+      "title": "Feeding or Failing? Rethinking Nutrition Therapy in Pediatric Critical Care",
+      "authors": [
+        "Cecilia Gállego Suárez",
+        "Nora Ponchak",
+        "Senthilkumar Sankararaman",
+        "Akash Pandey"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Current Nutrition Reports",
+      "doi": "https://doi.org/10.1007/s13668-026-00785-x",
+      "url": "https://doi.org/10.1007/s13668-026-00785-x",
+      "abstract": "PURPOSE OF REVIEW: Malnutrition, whether pre-existing or acquired in the ICU, is common in critically ill children. This narrative review synthesizes current evidence on nutritional assessment and therapy, highlighting how illness phase, underlying disease, and medical interventions influence energy expenditure and nutrient requirements. RECENT FINDINGS: International guidelines recommend comprehensive nutritional assessment and early initiation of enteral nutrition (EN) for all patients admitted to the Pediatric ICU. However, EN is frequently underutilized or insufficient to meet metabolic demands and sometimes contraindicated. Barriers to delivery persist, and parenteral nutrition (PN) may be required when EN is not feasible or adequate. Nutrition plays a crucial yet complex role in the care of critically ill children. Optimizing individualized nutrition strategies, including timely EN and appropriate PN use, is essential to improve clinical outcomes, support recovery, and enhance long-term rehabilitation, while highlighting the need for improved implementation and future research.",
+      "summary": "PURPOSE OF REVIEW: Malnutrition, whether pre-existing or acquired in the ICU, is common in critically ill children. However, EN is frequently underutilized or insufficient to meet metabolic demands and sometimes contraindicated. Optimizing individualized nutrition strategies, including timely EN and appropriate PN use, is essential to improve clinical outcomes, support recovery, and enhance long-term rehabilitation, while highlighting the need for improved implementation and future research.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170092638",
+      "title": "Artificial intelligence in the early diagnosis of prostate cancer: from multimodal imaging to liquid biopsy",
+      "authors": [
+        "Jun Xie",
+        "Ziwei Yin",
+        "Ruisong Gao",
+        "Zerui Qiu",
+        "Qing Zhou"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Oncology",
+      "doi": "https://doi.org/10.3389/fonc.2026.1906810",
+      "url": "https://doi.org/10.3389/fonc.2026.1906810",
+      "abstract": "Prostate cancer (PCa) is the most prevalent malignant tumor in the urogenital system among men worldwide. Due to its subtle early symptoms and strong tumor heterogeneity, traditional diagnostic methods relying on a single prostate-specific antigen (PSA) initial screening and subjective imaging evaluations often lead to high false positives, overt biopsies, and missed small lesions. The rapid development of artificial intelligence (AI) provides innovative solutions to overcome these clinical bottlenecks. This article comprehensively reviews the application of AI in the early intelligent diagnosis of PCa. In the fields of ultrasound, magnetic resonance imaging (MRI), and positron emission tomography/computed tomography (PET/CT) imaging, AI significantly enhances the accuracy of target lesion identification. It achieves this by deep decoding high-dimensional quantitative features and effectively reducing subjective bias. In non-invasive liquid biopsy, AI-driven multi-omics networks have successfully addressed challenging screening blind spots, such as the PSA gray zone. In light of current challenges such as limited model generalization capability and the “black box effect” of algorithms, this article looks forward to the development prospects of constructing multimodal fusion models based on federated learning and explainable AI (XAI), aiming to promote the transition of PCa diagnosis and treatment from algorithm development to real clinical decision support.",
+      "summary": "Prostate cancer (PCa) is the most prevalent malignant tumor in the urogenital system among men worldwide. This article comprehensively reviews the application of AI in the early intelligent diagnosis of PCa. In light of current challenges such as limited model generalization capability and the “black box effect” of algorithms, this article looks forward to the development prospects of constructing multimodal fusion models based on federated learning and explainable AI (XAI), aiming to promote the transition of PCa diagnosis and treatment from algorithm development to real clinical decision support.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170049324",
+      "title": "The cycle of infectious fever – how it affects bacterial infections",
+      "authors": [
+        "Kinga Kramarczyk",
+        "Piotr Schmidt",
+        "Karina Krasna",
+        "Weronika Jasińska",
+        "Anna Jarząb"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Cellular and Infection Microbiology",
+      "doi": "https://doi.org/10.3389/fcimb.2026.1866500",
+      "url": "https://doi.org/10.3389/fcimb.2026.1866500",
+      "abstract": "Fever is one of the human body’s most effective strategies in fighting infections. However, its precise role in eliminating pathogens, specifically the influence of heat on the bacterial cells on the mechanistic level under febrile temperatures has never been fully delineated. The concept of fever, as the immune system’s first line of defense against pathogens involves two main components: the inflammatory response and the heat, which stimulates the host’s immune cells and affects pathogens. This article summarizes independent findings, grouping the development of fever into a circular model, starting with pathogen invasion and the release of bacteria’s exogenous pyrogens, continuing through the host immune response, and debating on the impact of fever on numerous human pathogens. This model focuses broadly on processes occurring within bacteria, particularly pathogen adaptation and the detrimental effect of heat released during fever on pathogen death. We also discussed the impact of commonly used antipyretics, such as acetaminophen, ibuprofen, and aspirin, on the overall outcome of infection and provided a framework within which new concepts and findings in this field can be developed.",
+      "summary": "Fever is one of the human body’s most effective strategies in fighting infections. This article summarizes independent findings, grouping the development of fever into a circular model, starting with pathogen invasion and the release of bacteria’s exogenous pyrogens, continuing through the host immune response, and debating on the impact of fever on numerous human pathogens. We also discussed the impact of commonly used antipyretics, such as acetaminophen, ibuprofen, and aspirin, on the overall outcome of infection and provided a framework within which new concepts and findings in this field can be developed.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170050970",
+      "title": "Synthesis, characterisation and electrochemical behaviour of calcium carbonate nanoparticles derived from automobile oxy-acetylene gas welding waste",
+      "authors": [
+        "N. Eddy",
+        "Sunday Nweze",
+        "Ifeanyi Samson Eze",
+        "Rajni Garg",
+        "Raymond Taziwa",
+        "Hamimullah Watandost"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Discover Nano",
+      "doi": "https://doi.org/10.1186/s11671-026-04796-z",
+      "url": "https://doi.org/10.1186/s11671-026-04796-z",
+      "abstract": "In actualizing the management of this toxic waste, resource recovery was designed to convert the Ca(OH) 2 rich waste (generated by automobile welding process) to calcium carbonate nanoparticles (CaCO 3 NPs). The synthesized nanoparticles were characterized using XRF, SEM–EDX, XRD, FTIR, XPS, TGA/DTA, BET, DFT and EIS. Results from XRF and SEM–EDX analyses showed calcium as the dominant element, with CaO and Ca contents of 98.59 wt% and 84.30 wt%, respectively. However, based on XRD, XPS, XRF and SEM–EDX results, minor impurities, including Si Al, Fe, and Mg, were also detected at concentrations less than 0.2% respectively.. SEM micrographs also showed rough, irregular, partially agglomerated surfaces and features that reflect heterogeneous particle sizes. XRD patterns identified a dominant calcite phase (~ 81%) and minor vaterite (< 19%), with crystallite sizes ranging from 12.0 to 21.6 nm (average 16.28 nm) while the FTIR spectrum showed characteristic carbonate vibrations at 1507.71, 1149.88, and 877.79 cm⁻ 1 , that futher confirms high purity. Thermal analysis of the nanoparticles indicated initial weight loss of less than 3% below 200 °C due to adsorbed moisture, and complete decomposition between 600 and 850 °C, with an activation energy of 178 kJ/mol and estimated purity of 97.75%. BET and DFT analyses revealed high surface areas (134 m 2 /g, BET; 36.6 m 2 /g, DFT), mesoporous structure, average pore diameter of 2.65 nm, pore volume of 0.16678 m 3 /g, and surface area-to-volume ratio of 819 m⁻ 1 . Electrochemical impedance spectroscopy in 0.5 M H 2 SO 4 showed two relaxation processes in Nyquist plots. The first relaxation represented a high-frequency grain boundary processes having R ct = 4.0 × 10⁶ Ω, C = 3.98 × 10⁻⁹ F, τ = 0.016 s, θ min = 43°, n = 0.38, Q = 1.66 × 10⁻⁸ S s n , and C dl = 204 μF, indicating dispersive capacitive behaviour and significant interfacial polarization. However, the low-frequency bulk charge transfer processes had R ct = 2.4 × 10⁷ Ω, C = 2.10 × 10⁻ 13 F, τ = 5.03 × 10⁻⁶ s, θ min = 73°, n = 0.81, Q = 1.36 × 10⁻ 12 S s n , and C dl = 34.3 μF, indicating high resistance and dielectric behaviour. Frequency-dependent capacitance analysis further confirmed strong double-layer formation at low frequencies and intrinsic insulating characteristics at high frequencies. The combination of nanoscale dimensions, high surface area, mesoporosity, thermal stability, wide bandgap (6.01 eV), and distinctive electrochemical behaviour indicated that the CaCO 3 NPs has potentials for dielectric fillers, corrosion-resistant coatings, adsorbents, and inert supports in electrochemical applications.",
+      "summary": "In actualizing the management of this toxic waste, resource recovery was designed to convert the Ca(OH) 2 rich waste (generated by automobile welding process) to calcium carbonate nanoparticles (CaCO 3 NPs). Results from XRF and SEM–EDX analyses showed calcium as the dominant element, with CaO and Ca contents of 98.59 wt% and 84.30 wt%, respectively. The combination of nanoscale dimensions, high surface area, mesoporosity, thermal stability, wide bandgap (6.01 eV), and distinctive electrochemical behaviour indicated that the CaCO 3 NPs has potentials for dielectric fillers, corrosion-resistant coatings, adsorbents, and inert supports in electrochemical applications.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170076109",
+      "title": "Real-world experience with RESCUE BT2 tirofiban protocol versus standard care for select patients with acute ischemic stroke at a United States comprehensive stroke center: a single-center retrospective study",
+      "authors": [
+        "Supreet Kaur",
+        "Kevin Dang",
+        "Diane McLaughlin",
+        "Kassu Mehari Beyene",
+        "Alexander Nicholas",
+        "J. Tyler Haller",
+        "Bryan Franzen",
+        "Vishal Harnoor"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Neurology",
+      "doi": "https://doi.org/10.3389/fneur.2026.1768603",
+      "url": "https://doi.org/10.3389/fneur.2026.1768603",
+      "abstract": "Background Tirofiban, a glycoprotein IIb/IIIa receptor inhibitor, has shown promise in acute ischemic stroke (AIS) without medium- or large-vessel occlusion. The RESCUE BT2 trial demonstrated improved functional outcomes with IV tirofiban versus aspirin, but was conducted predominantly in Han Chinese populations, limiting generalizability to U.S. practice. This study evaluated the safety, operational feasibility, and exploratory clinical associations of a RESCUE BT2-based tirofiban protocol at a U.S. comprehensive stroke center. Methods This retrospective single-center cohort study compared patients treated with tirofiban per RESCUE BT2 protocol (Nov 2023–June 2025) with a historical standard care cohort meeting similar eligibility criteria (Jan 2021–Oct 2023). Primary outcomes focused on safety, including any intracranial hemorrhage (ICH), symptomatic ICH, extracranial bleeding, thrombocytopenia, and mortality. Exploratory clinical outcomes included NIHSS trajectories, discharge modified Rankin Scale (mRS), discharge disposition, hospital length of stay, and available 90-day mRS. Multivariate regression models adjusted for baseline severity, early therapies, and neurological severity at the clinical decision point. Propensity score matching and/or multiple imputation were conducted as sensitivity analyses, and the results were interpreted as exploratory. Results Seventy-four patients were included (32 tirofiban, 42 standard care). No patients in the tirofiban group developed symptomatic or asymptomatic ICH, and no thrombocytopenia was observed. Extracranial bleeding occurred in 3 patients (9.4%). In adjusted exploratory analyses, tirofiban was associated with lower discharge NIHSS ( β = −2.199; 95% CI, −3.850 to −0.548; p = 0.011), greater NIHSS improvement from the decision point to discharge ( β = 2.815; 95% CI, 1.173–4.456; p = 0.001), and a favorable shift in discharge mRS (OR 0.274; 95% CI, 0.087–0.86; p = 0.027). In propensity-matched analysis, the direction of effect for discharge mRS was consistent but did not reach statistical significance. 90-day mRS analyses were limited by substantial differential missingness; complete-case and propensity-matched analyses were non-significant, and multiple-imputation results were sensitive to model assumptions. Conclusion Implementation of a RESCUE BT2-based IV tirofiban protocol in a U.S. comprehensive stroke center was feasible and demonstrated a favorable safety profile in carefully selected AIS patients. Exploratory associations with improved neurological trajectories warrant prospective evaluation in larger multicenter studies.",
+      "summary": "Background Tirofiban, a glycoprotein IIb/IIIa receptor inhibitor, has shown promise in acute ischemic stroke (AIS) without medium- or large-vessel occlusion. 90-day mRS analyses were limited by substantial differential missingness; complete-case and propensity-matched analyses were non-significant, and multiple-imputation results were sensitive to model assumptions. comprehensive stroke center was feasible and demonstrated a favorable safety profile in carefully selected AIS patients.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170056691",
+      "title": "Substrate-selective mTORC1 regulation and gene dosage–dependent tissue divergence in Birt–Hogg–Dubé syndrome",
+      "authors": [
+        "Zhi-Lie Cao",
+        "S Zhao",
+        "Lin Feng",
+        "You-Huang Liu",
+        "Xu-Tao Hong",
+        "Ling-Ye Hong",
+        "Lei Xu",
+        "Li Fq"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Oncology",
+      "doi": "https://doi.org/10.3389/fonc.2026.1848740",
+      "url": "https://doi.org/10.3389/fonc.2026.1848740",
+      "abstract": "Birt-Hogg-Dubé (BHD) syndrome, caused by mutations in the tumor suppressor gene FLCN , has traditionally been classified as a classic “mTORopathy” characterized by global mTORC1 activation. Recent structural and multi-omic studies have fundamentally challenged this view, revealing that FLCN functions as a GAP for RagC/D to govern substrate-selective mTORC1 regulation. Synthesizing emerging evidence, we describe an integrated pathogenic framework: biallelic FLCN inactivation drives renal tumorigenesis via constitutive MiT/TFE nuclear accumulation and metabolic reprogramming, whereas haploinsufficiency suffices to disrupt structural integrity in the lung and skin. By reconciling the “mTORC1 paradox” through the lens of gene dosage and temporal signaling dynamics, we highlight novel therapeutic vulnerabilities targeting MiT/TFE factors and kinase rewiring, providing a rationale for organ-specific precision medicine in BHD.",
+      "summary": "Birt-Hogg-Dubé (BHD) syndrome, caused by mutations in the tumor suppressor gene FLCN , has traditionally been classified as a classic “mTORopathy” characterized by global mTORC1 activation. Recent structural and multi-omic studies have fundamentally challenged this view, revealing that FLCN functions as a GAP for RagC/D to govern substrate-selective mTORC1 regulation. By reconciling the “mTORC1 paradox” through the lens of gene dosage and temporal signaling dynamics, we highlight novel therapeutic vulnerabilities targeting MiT/TFE factors and kinase rewiring, providing a rationale for organ-specific precision medicine in BHD.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170052811",
+      "title": "“Dead” Layer Dynamics of Poly(ethyl methacrylate) in Nanotubes",
+      "authors": [
+        "Jianwei Zhang",
+        "Jiajia Zhou",
+        "Hans‐Jürgen Butt",
+        "George Floudas"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "ACS Macro Letters",
+      "doi": "https://doi.org/10.1021/acsmacrolett.6c00291",
+      "url": "https://doi.org/10.1021/acsmacrolett.6c00291",
+      "abstract": "-ethyl methacrylate) melts forming nanotubes inside cylindrical alumina nanopores (AAOs). Long nanotubes were fabricated at the inner pore walls by the polymer precursor film during the complete wetting transition at high temperatures. Using differential scanning calorimetry and dielectric spectroscopy, we show that the segmental dynamics in the nanotubes are bimodal and slower than in bulk with a broad distribution of relaxation times. These features reflect the dynamic properties of the \"dead layer\" formed by the adsorbed polymer chains at the pore walls.",
+      "summary": "-ethyl methacrylate) melts forming nanotubes inside cylindrical alumina nanopores (AAOs). Using differential scanning calorimetry and dielectric spectroscopy, we show that the segmental dynamics in the nanotubes are bimodal and slower than in bulk with a broad distribution of relaxation times. These features reflect the dynamic properties of the \"dead layer\" formed by the adsorbed polymer chains at the pore walls.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170055482",
+      "title": "Characterization of mining-induced overburden deformation beneath extremely thick conglomerate using optical fiber frequency shift variation",
+      "authors": [
+        "Feng Jin",
+        "Fenglin Ma",
+        "Jun Song",
+        "Yong Liu",
+        "Peng Wang",
+        "Guorui Su",
+        "Guodong Song"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Earth Science",
+      "doi": "https://doi.org/10.3389/feart.2026.1908682",
+      "url": "https://doi.org/10.3389/feart.2026.1908682",
+      "abstract": "To address the difficulty of continuously monitoring overburden fracture and mining pressure in stopes controlled by deep extremely thick conglomerate, this study proposes an average fiber frequency shift variation method based on BOTDA distributed optical fiber sensing. Combined with a mechanical model of key stratum fracture, a characterization relationship between fiber frequency shift variation and working face weighting is established. Two-dimensional and three-dimensional similar material model tests and UDEC numerical simulation are employed to investigate overburden fracture, key stratum movement, and deformation characteristics of extremely thick conglomerate during mining. The results show that the amplitude and morphology of the fiber frequency shift curve effectively reflect the deformation degree of overlying strata at different horizons. The average fiber frequency shift variation can identify working face weighting and key stratum structural adjustment. The numerical simulation results agree well with the physical model observations, verifying the feasibility of the proposed method for characterizing overburden fracture and mining pressure manifestation under the control of extremely thick conglomerate.",
+      "summary": "To address the difficulty of continuously monitoring overburden fracture and mining pressure in stopes controlled by deep extremely thick conglomerate, this study proposes an average fiber frequency shift variation method based on BOTDA distributed optical fiber sensing. The results show that the amplitude and morphology of the fiber frequency shift curve effectively reflect the deformation degree of overlying strata at different horizons. The numerical simulation results agree well with the physical model observations, verifying the feasibility of the proposed method for characterizing overburden fracture and mining pressure manifestation under the control of extremely thick conglomerate.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170056536",
+      "title": "Extended numerical simulation model for HVDC gas insulated systems considering gas humidity and gas convection",
+      "authors": [
+        "Hendrik Hensel",
+        "Lucas Müller",
+        "Markus Clemens"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "COMPEL The International Journal for Computation and Mathematics in Electrical and Electronic Engineering",
+      "doi": "https://doi.org/10.1108/compel-11-2025-0548",
+      "url": "https://doi.org/10.1108/compel-11-2025-0548",
+      "abstract": "Purpose The application of high voltage direct current (DC) gas insulated lines in the power grid is expected to increase in the near future, due to its advantages considering safety, compactness and high voltage capacity. However, there are challenges in the design of the system which need to be addressed, such as space charge accumulation and high electric field stress. Therefore, precise simulation models of the gas insulated line need to be developed for examination purposes. One important aspect is the accurate representation of the conduction behavior of the insulating gas. Factors influencing the electrical conductivity, such as electric field strength, temperature, gas pressure and gas humidity, must be considered. In addition, an accurate determination of the temperature is essential for precise simulation results, since practical applications show different temperature distributions in the gas, depending on a horizontally or vertically arrangement of the gas insulated line. This study aims to develop a simulation model, which incorporates such phenomena. Design/methodology/approach A three dimensional model of a high voltage DC gas insulated line is developed, with the application of a nonlinear electrical conductivity model for the insulation gas, sulphur hexalfluoride. The conductivity model is derived from experimental measurements. The electric field distribution is investigated with a focus on the humidity content of the gas. For the determination of the temperature distribution, heat conduction is considered in the solid domain of the system and heat convection and heat radiation is considered in the gaseous domain, where the dynamic gas flow is explicitly modeled. Findings The simulation results reveal distinct electric field distributions for dry (2% humidity) or humid gas (30% humidity), where the difference of the maximum electric field value is up to 35%. The inclusion of heat convection and thermal radiation in the gaseous domain allows to consider the effect of a vertical or horizontal arrangement of the gas insulated line, where higher temperature values are seen on the upper parts in a horizontal construction, compared to a vertical arrangement. However, the consideration of such physical phenomena increases the complexity of the model and results in up to 12 times longer computation times. Originality/value In most scientific studies, the electrical conductivity of the sulphur hexalfluoride gas is assumed to be constant, and heat conduction is considered the dominant heat transfer mechanism throughout the system. In contrast, the present work describes the conduction behaviour of the gas by a nonlinear electrical conductivity model, e.g. enabling a comparative analysis of dry and humid gas conditions. In addition, heat convection and thermal radiation is considered as a heat transfer mechanism in the gaseous domain, to account for the influence of the geometrical configuration of the system on the temperature and electric field distributions.",
+      "summary": "Purpose The application of high voltage direct current (DC) gas insulated lines in the power grid is expected to increase in the near future, due to its advantages considering safety, compactness and high voltage capacity. In addition, an accurate determination of the temperature is essential for precise simulation results, since practical applications show different temperature distributions in the gas, depending on a horizontally or vertically arrangement of the gas insulated line. Design/methodology/approach A three dimensional model of a high voltage DC gas insulated line is developed, with the application of a nonlinear electrical conductivity model for the insulation gas, sulphur hexalfluoride.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169862601",
+      "title": "Uncovering QTLs associated with agronomic traits determining biomass yield of Miscanthus sinensis",
+      "authors": [
+        "Yeon-Ho Park",
+        "Min‐Jung Yook",
+        "Soo‐Hyun Lim",
+        "Jae-Hyoung You",
+        "Jin‐Won Kim",
+        "Do‐Soon Kim"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Industrial Crops and Products",
+      "doi": "https://doi.org/10.1016/j.indcrop.2026.123943",
+      "url": "https://doi.org/10.1016/j.indcrop.2026.123943",
+      "abstract": "Miscanthus is a perennial rhizomatous C 4 grass primarily cultivated for lignocellulosic biomass production. Developing high-biomass-yielding varieties is a priority goal for Miscanthus breeding programs. Marker-assisted breeding represents a promising strategy to overcome the challenges in breeding Miscanthus due to its genomic complexity, short breeding history, and the extensive period required for its phenotyping. In this study, we focused on identifying quantitative trait loci (QTL) associated with biomass yield of M. sinensis through a comprehensive dissection of biomass traits into simpler components. A full-sib bi-parental F 1 M. sinensis population consisting of 278 progenies with 3 clonal replications was evaluated for 17 biomass-related traits three years post-transplanting when biomass yield was stabilized. Plant volume, stem dry weight and compressed canopy diameter exhibited the strongest correlations with biomass yield. Path analysis further revealed that the number of tillers was the most decisive trait influencing compressed canopy diameter. Through QTL mapping, 65 significant QTLs and 100 closely linked SNP markers were identified. Functional annotation of these SNPs identified 14 genes, including two genes related to lignin biosynthesis ( FAH1, SCL14 ) and five related to stress regulation ( LEN1, GRAS2, UBDK, HSP70, NLM2 ). This study provides improved phenotypic insight into biomass yield traits of M. sinensis and offers valuable trait-related markers for future Miscanthus breeding programs.",
+      "summary": "Miscanthus is a perennial rhizomatous C 4 grass primarily cultivated for lignocellulosic biomass production. sinensis population consisting of 278 progenies with 3 clonal replications was evaluated for 17 biomass-related traits three years post-transplanting when biomass yield was stabilized. Path analysis further revealed that the number of tillers was the most decisive trait influencing compressed canopy diameter.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170093543",
+      "title": "Distribution and diversity of Salmonella serovars from beef cattle before, at, and after processing in relation to human-derived serovars",
+      "authors": [
+        "Emma Teague",
+        "Babafela Awosile"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Veterinary Science",
+      "doi": "https://doi.org/10.3389/fvets.2026.1897484",
+      "url": "https://doi.org/10.3389/fvets.2026.1897484",
+      "abstract": "Background Globally, Salmonella enterica remains a leading cause of foodborne illness, and cattle serve as an important reservoir. Understanding serovar distribution across the beef production continuum and its contribution to human salmonellosis is critical for surveillance and control strategies. Methods We analyzed Salmonella isolates from cattle (cecal, HACCP, retail meat), and human clinical sources using multivariate approaches, including principal component analysis (PCA), multidimensional scaling (MDS), analysis of similarities (ANOSIM), and permutational analysis of multivariate dispersions (PERMDISP). Results Ordination analyses revealed clear ecological structuring of serovars by sampling source. Typhimurium , Newport , and Enteritidis dominated human isolates and exhibited the greatest diversity, consistent with multiple exposure pathways. Retail isolates formed a compact cluster that overlapped with human isolates and were associated with Montevideo and Infantis , suggesting that contaminated retail meat may contribute to human exposure. Cecal and HACCP isolates were the most homogeneous, clustering tightly with serovars such as Cerro , Anatum , Kentucky , Mbandaka , Muenchen , Meleagridis , and Muenster , reflecting stable pre-harvest reservoirs. ANOSIM confirmed significant ecological separation among sources (R = 0.512, p &amp;lt; 0.001), while PERMDISP revealed significantly greater variability among human isolates than among retail, HACCP, and cecal sources. Conclusion Salmonella serovar distributions are shaped by sampling sources, with human and retail serovars aligning closely, cecal and HACCP serovars reflecting homogeneous cattle-associated pools, and human cases showing the broadest serovar diversity. These findings highlight retail meat as a critical transmission link, underscore the value and limitations of surveillance, and emphasize the need for integrated monitoring to improve understanding of Salmonella ecology across the One Health interface.",
+      "summary": "Background Globally, Salmonella enterica remains a leading cause of foodborne illness, and cattle serve as an important reservoir. Methods We analyzed Salmonella isolates from cattle (cecal, HACCP, retail meat), and human clinical sources using multivariate approaches, including principal component analysis (PCA), multidimensional scaling (MDS), analysis of similarities (ANOSIM), and permutational analysis of multivariate dispersions (PERMDISP). Results Ordination analyses revealed clear ecological structuring of serovars by sampling source.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170093887",
+      "title": "Flavonoids from mulberry leaves: physiological functions, molecular mechanisms and applications in juvenile animal health—A review",
+      "authors": [
+        "Ying Liu",
+        "Wen-Xin Jiang",
+        "Yu Chen",
+        "Hua-Li Li",
+        "Yuanhao Sun",
+        "Huibo Ren",
+        "HU Xiong-gui",
+        "Chen Chen"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Veterinary Science",
+      "doi": "https://doi.org/10.3389/fvets.2026.1903941",
+      "url": "https://doi.org/10.3389/fvets.2026.1903941",
+      "abstract": "The intensive use of antibiotics in juvenile livestock and aquaculture has led to serious public health risks such as drug residues, bacterial resistance, and environmental pollution, creating an urgent need for safe and efficient antibiotic alternatives. Flavonoids from mulberry leaves (FML), as typical natural polyphenolic compounds, exhibit strong antioxidant, anti-inflammatory, immunomodulatory, intestinal microbiota-regulating, and metabolic-improving activities, showing great potential in promoting juvenile animal health. This review sorts out global published literature concerning FML biological functions and animal feeding trials to clarify its multi-target regulatory mechanisms and practical application value in young animals. We integrated research data covering weaned piglets, calves, juvenile fish and broiler chicks, summarized core signaling pathways mediated by FML, and consolidated in vivo phenotypic effects observed across different juvenile animal models. Mechanistic analysis demonstrates that FML activates the Nrf2 pathway to alleviate oxidative damage, inhibits NF-κB/TLR4/MAPK inflammatory cascades, stabilizes intestinal barrier integrity and microbiota homeostasis, and regulates IRS-1/PI3K/GLUT4 and PPARα pathways to optimize glucose and lipid metabolism. Feeding trials further confirm that FML supplementation effectively mitigates weaning stress, lowers diarrhea rates, enhances non-specific immunity and improves overall growth performance of juvenile animals. Nevertheless, widespread application of FML is still constrained by unresolved issues including inconsistent optimal dosages across species, low in vivo bioavailability, and insufficient large-scale farm verification data. This paper summarizes these critical limitations and proposes feasible directions for subsequent mechanistic and applied research. Overall, this review offers comprehensive theoretical references for the development and popularization of FML as green feed additives within sustainable livestock and aquaculture systems.",
+      "summary": "The intensive use of antibiotics in juvenile livestock and aquaculture has led to serious public health risks such as drug residues, bacterial resistance, and environmental pollution, creating an urgent need for safe and efficient antibiotic alternatives. Nevertheless, widespread application of FML is still constrained by unresolved issues including inconsistent optimal dosages across species, low in vivo bioavailability, and insufficient large-scale farm verification data. Overall, this review offers comprehensive theoretical references for the development and popularization of FML as green feed additives within sustainable livestock and aquaculture systems.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170057104",
+      "title": "Deproteinization-Induced Deterioration of the Mechanical and Tribological Behaviors of Mature Giant Panda Enamel",
+      "authors": [
+        "Fang Zheng",
+        "Haojie Xu",
+        "Yifan Wen",
+        "Yipeng Jin"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Animals",
+      "doi": "https://doi.org/10.3390/ani16142270",
+      "url": "https://doi.org/10.3390/ani16142270",
+      "abstract": "The giant panda (Ailuropoda melanoleuca) relies on bamboo as its principal food source, exposing its enamel to sustained indentation, shearing, and abrasive loading. Mature enamel is highly mineralized but retains a small residual organic phase, whose contribution to wear resistance remains insufficiently defined. A gradient deproteinization model of mature giant panda enamel was established using KOH treatment. Thermogravimetric analysis (TGA), Fourier-transform infrared spectroscopy (FTIR), X-ray photoelectron spectroscopy (XPS), and scanning electron microscopy (SEM) were used to verify organic-phase removal and mineral-framework preservation. Nanoindentation, indentation creep, nanoscratch testing, atomic force microscopy (AFM), and SEM were then used to evaluate mechanical response, scratch resistance, and surface morphological evolution. The mass loss within 200–450 °C decreased with increasing KOH exposure and reached a plateau after 9 days. FTIR showed reduced organic-related or surface-sensitive bands, whereas phosphate bands were retained. XPS revealed decreased C and N contents; increased O, Ca, and P contents; and a higher Ca/P ratio. Deproteinization decreased the elastic modulus, shifted load–displacement curves toward greater indentation depth, and reduced the relative creep index. The critical load in nanoscratch testing decreased from 12.53 ± 0.35 mN to 6.07 ± 0.77 mN, while scratch depth, width, and residual depth increased. AFM showed a rightward shift in aggregate-size distribution and increased roughness. SEM revealed a transition from shallow plowing grooves to complex damage involving cracks, debris accumulation, and local spallation. Therefore, KOH treatment for 9 days provided an effective deproteinization endpoint for mature giant panda enamel. These findings suggest that the residual organic phase may contribute to surface interfacial continuity, local deformation accommodation, scratch-damage resistance, and reduced permanent damage accumulation. This material role may contribute to the adaptation of giant panda enamel to the mechanical demands of a bamboo-based, high-wear diet.",
+      "summary": "The giant panda (Ailuropoda melanoleuca) relies on bamboo as its principal food source, exposing its enamel to sustained indentation, shearing, and abrasive loading. SEM revealed a transition from shallow plowing grooves to complex damage involving cracks, debris accumulation, and local spallation. These findings suggest that the residual organic phase may contribute to surface interfacial continuity, local deformation accommodation, scratch-damage resistance, and reduced permanent damage accumulation.",
+      "techniques": [
+        "TGA",
+        "TGA-FTIR"
+      ],
+      "categories": [
+        "食品与脂质",
+        "电子与封装"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170054059",
+      "title": "Real-world safety profile of mitotane in adrenocortical carcinoma: a retrospective cross-sectional study integrating pharmacovigilance and interpretable machine learning",
+      "authors": [
+        "Yi-Xiang Wang",
+        "Y Yang",
+        "Ke Xu",
+        "Ning Hou",
+        "Chenyu Guo"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Endocrinology",
+      "doi": "https://doi.org/10.3389/fendo.2026.1862262",
+      "url": "https://doi.org/10.3389/fendo.2026.1862262",
+      "abstract": "Background Mitotane remains the cornerstone of adrenocortical carcinoma. However, its real-world safety profile is poorly defined. This study systemically evaluated mitotane-associated adverse events (AEs) and characterized multivariable patterns of serious outcomes using a combined pharmacovigilance and machine learning approach. Methods Mitotane-related AE reports (2004-2025) were extracted from the FDA Adverse Event Reporting System (FAERS). Disproportionality analyses were performed via four algorithms. Detected signals were categorized using a clinical priority scoring system based on signal strength, mortality, seriousness, and existing evidence. Time-to-onset was evaluated utilizing Kaplan-Meier methods. Elastic net logistic regression and Extreme Gradient Boosting (XGBoost) models characterized features associated with serious outcomes, with performance assessed by the area under the receiver operating characteristic curve (AUROC). Results Among 870 identified reports, 45.7% involved serious outcomes. We detected 75 safety signals, predominantly involving gastrointestinal, neurological, endocrine, and metabolic systems. Notably, 21 signals (28.0%) were assigned moderate clinical priority, with adrenal insufficiency as the highest-priority signal. Time-to-onset analysis showed that endocrine AEs had a significantly longer onset time than non-endocrine AEs. Both models demonstrated consistent characterization of multivariable patterns associated with serious outcomes (elastic net AUROC = 0.830, XGBoost AUROC = 0.869). Key contributors to serious outcomes included reporting country, medical event designation, organ system involvement, and medication complexity. Conclusion This large-scale study provides a real-world safety assessment of mitotane. Integrating signal detection, clinical prioritization, and interpretable machine learning reveals multivariable patterns underlying serious AEs. These findings support a risk-stratified monitoring approach to enhance the clinical safety of mitotane therapy.",
+      "summary": "Background Mitotane remains the cornerstone of adrenocortical carcinoma. This study systemically evaluated mitotane-associated adverse events (AEs) and characterized multivariable patterns of serious outcomes using a combined pharmacovigilance and machine learning approach. Time-to-onset was evaluated utilizing Kaplan-Meier methods.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170071448",
+      "title": "Sugarcane bagasse ash as an alkali activator: production and characterization of geopolymer mortars with partial sodium silicate replacement",
+      "authors": [
+        "Lívia Costa da Silva",
+        "Afonso Rangel Garcez de Azevedo",
+        "Markssuel Teixeira Marvila",
+        "Carlos Maurício Fontes Vieira"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Materials and Structures",
+      "doi": "https://doi.org/10.1617/s11527-026-03210-5",
+      "url": "https://doi.org/10.1617/s11527-026-03210-5",
+      "abstract": "Abstract Portland cement production accounts for about 9% of global CO 2 emissions, underscoring the need for alternative materials with a lower environmental impact. In this context, geopolymers emerge as a promising option, offering good mechanical performance, chemical stability, and a reduced carbon footprint. Among the residues with potential for geopolymer applications is sugarcane bagasse ash (SCBA), which is abundant in Brazil and rich in silica. In this study, the partial replacement of sodium silicate with SCBA (5%, 10%, and 15%) in the activating solution of metakaolin-based geopolymer mortars was evaluated. Flow table and compressive strength tests (14, 21, 28, and 90 days) were performed. The 10% replacement level achieved the best performance, reaching 16.58 MPa at 90 days, higher than the reference mix (12.03 MPa). The reference samples and those with 10% SCBA were further characterized by XRD, TGA, calorimetry, SEM, and density, porosity, and water absorption tests. In a subsequent stage, the effect of activator molarity (6 M, 8 M, and 9 M) was investigated, maintaining the 10% replacement. The 6 M solution was the most efficient, reaching 17.82 MPa at 28 days. Replacing 10% of commercial SiO₂ with SCBA-derived silica in a 6 M solution may reduce approximately 7.3 kg of CO 2 per ton of mortar produced.",
+      "summary": "Abstract Portland cement production accounts for about 9% of global CO 2 emissions, underscoring the need for alternative materials with a lower environmental impact. In this context, geopolymers emerge as a promising option, offering good mechanical performance, chemical stability, and a reduced carbon footprint. In a subsequent stage, the effect of activator molarity (6 M, 8 M, and 9 M) was investigated, maintaining the 10% replacement.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170038073",
+      "title": "Prognostic value of red cell distribution width in patients undergoing percutaneous coronary intervention: a systematic review and meta-analysis",
+      "authors": [
+        "Wanying Peng",
+        "Bingyan Deng",
+        "Yi-Xiang Wang",
+        "M H Liu",
+        "Bokai Wan",
+        "Yi Yang",
+        "Xiaolin Yu"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Cardiovascular Medicine",
+      "doi": "https://doi.org/10.3389/fcvm.2026.1787857",
+      "url": "https://doi.org/10.3389/fcvm.2026.1787857",
+      "abstract": "Background Published studies have reported inconsistent findings regarding the association between preprocedural red cell distribution width (RDW) and adverse outcomes after percutaneous coronary intervention (PCI), and earlier reviews no longer reflect the currently available evidence. This updated systematic review and meta-analysis was conducted to reassess the association between preprocedural RDW and adverse outcomes in patients with coronary artery disease (CAD) undergoing PCI. Methods PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception to November 22, 2025. Standard major adverse cardiovascular events (MACE), all-cause mortality (ACM), and cardiovascular mortality (CVM) were prespecified as the primary outcomes, whereas PCI-specific stent-related outcomes were analyzed separately as exploratory outcomes. Hazard ratios (HRs) and odds ratios (ORs) with 95% confidence intervals (CIs) were extracted for quantitative synthesis when appropriate. Results Twenty-four studies comprising 31 comparison groups and approximately 83,000 patients were included in the meta-analysis. Elevated preprocedural RDW was associated with higher risks of ACM (HR 1.46, 95% CI 1.31–1.63) and CVM (HR 1.66, 95% CI 1.33–2.07), with the most consistent association observed for ACM. The HR-based analysis of standard MACE showed a statistically significant association (HR 1.24, 95% CI 1.06–1.45; p = 0.007), but the finding was unstable in sensitivity analysis and should therefore be interpreted cautiously. After endpoint reclassification, only one study remained eligible for the OR-based analysis of standard MACE, precluding quantitative synthesis. In-stent restenosis (ISR) was analyzed separately as an exploratory stent-related outcome when eligible studies were available. Conclusions Elevated preprocedural RDW was associated with adverse outcomes after PCI. The most consistent association was observed for ACM, whereas the evidence for CVM and standard MACE was less certain. PCI-specific stent-related outcomes should be interpreted as exploratory. Further prospective multicenter studies with standardized endpoint definitions and harmonized RDW cutoff values are warranted. Systematic Review Registration https://www.crd.york.ac.uk/PROSPERO/view/CRD420251249457 , PROSPERO, CRD420251249457.",
+      "summary": "Background Published studies have reported inconsistent findings regarding the association between preprocedural red cell distribution width (RDW) and adverse outcomes after percutaneous coronary intervention (PCI), and earlier reviews no longer reflect the currently available evidence. Results Twenty-four studies comprising 31 comparison groups and approximately 83,000 patients were included in the meta-analysis. The HR-based analysis of standard MACE showed a statistically significant association (HR 1.24, 95% CI 1.06–1.45; p = 0.007), but the finding was unstable in sensitivity analysis and should therefore be interpreted cautiously.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170074615",
+      "title": "Active Starch Films Incorporated with Citrus Essential Oils: Properties, Bioactivity, and Biodegradability",
+      "authors": [
+        "Jasamim Moreira Lemos",
+        "José Lopes",
+        "José Hilton Gomes Rangel",
+        "Sebastião Pereira Protázio",
+        "Gricirene Sousa Correia",
+        "Samuel Filgueiras Rodrigues",
+        "Walter José Martínez-Burgos",
+        "Paula Beatricy Weba Moreira"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141794",
+      "url": "https://doi.org/10.3390/polym18141794",
+      "abstract": "The demand for sustainable food preservation has driven the development of biodegradable alternatives to conventional, petroleum-based plastics. This study developed and evaluated bioactive starch-based films incorporated with citrus peel essential oils (lemon, orange, and tangerine) at concentrations ranging from 0.5% to 2% (w/w). The physical, chemical, mechanical, and antimicrobial properties of all film formulations containing 0.5–2% (w/w) essential oils were evaluated. Based on the experimental design, only the selected formulations containing 1 and 2% essential oils were subjected to structural and thermal characterization (XRD, SEM, FTIR, and TGA/DTG), transparency measurements, soil biodegradation, and phytotoxicity assays. FTIR spectroscopy revealed that oil incorporation did not alter the characteristic chemical bands of starch, indicating predominantly physical interactions. The essential oils modulated the physical and mechanical performance of the films. The films containing lemon and tangerine essential oils exhibited superior antimicrobial activity against foodborne pathogens. Furthermore, soil biodegradation was concentration-dependent, with mass loss exceeding 50% within 15 days, while phytotoxicity tests confirmed the environmental safety of the degraded residues. These findings demonstrate that the developed citrus-infused starch films hold great promise as active biodegradable packaging to extend the shelf life of bakery products and mitigate plastic waste.",
+      "summary": "The demand for sustainable food preservation has driven the development of biodegradable alternatives to conventional, petroleum-based plastics. This study developed and evaluated bioactive starch-based films incorporated with citrus peel essential oils (lemon, orange, and tangerine) at concentrations ranging from 0.5% to 2% (w/w). These findings demonstrate that the developed citrus-infused starch films hold great promise as active biodegradable packaging to extend the shelf life of bakery products and mitigate plastic waste.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170037254",
+      "title": "Morphology-Guided Screening of PLA/Cellulose Biocomposites for Melt-Spun Monofilaments: Micronized Eucalyptus Kraft Pulp Versus Microcrystalline Cellulose",
+      "authors": [
+        "Mário Pinto",
+        "Susana Gomes",
+        "Manuel Vieira",
+        "Juliana Silva",
+        "Alexandre Gaspar",
+        "Bruno F. A. Valente",
+        "Tomas Duarte",
+        "Paulo F. Teixeira"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18141787",
+      "url": "https://doi.org/10.3390/polym18141787",
+      "abstract": "Poly(lactic acid) (PLA) is a promising bio-based polymer for melt-spun fibres, but its low melt strength, brittleness and narrow processing window limit broader use. This study evaluates PLA/cellulose biocomposites for monofilament melt spinning by comparing micronized bleached Eucalyptus kraft pulp-derived fibres (P200) with microcrystalline cellulose (MCC) as a particulate reference, within a fixed compatibilizer/processing-aid formulation. Composites containing different cellulose contents were prepared by melt compounding and assessed by thermal analysis, oscillatory rheology, mechanical testing and fracture morphology; selected 5 wt.% formulations were then processed into monofilaments. Cellulose incorporation increased the onset degradation temperature of the PLA reference, while the rheological and mechanical responses depended strongly on reinforcement morphology. P200 promoted stronger low-frequency melt structuring, stiffness and crystallization tendency, but also a greater reduction in ductility, with notched impact strength decreasing significantly only at the highest P200 loading. MCC produced a more moderate composite-level response. Stable continuous monofilaments were obtained from both selected cellulose-containing formulations, although neither matched the drawable window or draw-induced mechanical development of the PLA reference formulation. Among the cellulose-containing systems, the 5 wt.% MCC formulation retained the more favourable balance between reinforcement and melt-spinning processability.",
+      "summary": "Poly(lactic acid) (PLA) is a promising bio-based polymer for melt-spun fibres, but its low melt strength, brittleness and narrow processing window limit broader use. This study evaluates PLA/cellulose biocomposites for monofilament melt spinning by comparing micronized bleached Eucalyptus kraft pulp-derived fibres (P200) with microcrystalline cellulose (MCC) as a particulate reference, within a fixed compatibilizer/processing-aid formulation. Stable continuous monofilaments were obtained from both selected cellulose-containing formulations, although neither matched the drawable window or draw-induced mechanical development of the PLA reference formulation.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170074872",
+      "title": "Temperature influence on the mechanical properties of CFRP laminates evaluated by DIC",
+      "authors": [
+        "Katarzyna Falkowicz",
+        "Patryk Różyło",
+        "Paweł Wysmulski"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-62311-x",
+      "url": "https://doi.org/10.1038/s41598-026-62311-x",
+      "abstract": "Abstract Carbon fiber reinforced polymer (CFRP) composites are widely used in aerospace, marine and automotive structures, where components may experience variable thermal conditions that affect stiffness, strength and load-bearing capacity. This study evaluates the influence of temperature on the mechanical properties of CFRP laminates manufactured from Gurit EP137 prepreg and tested using a universal testing machine supported by full-field Digital Image Correlation (ARAMIS/DIC). The complete set of tensile, compressive and shear properties was determined for 20–80 °C, whereas at − 20 °C only the in-plane shear modulus G₁₂ and shear strength FSU₄₅° were obtained because frosting/icing of the chamber window and specimen surface prevented reliable DIC image registration during selected tests. Between 20 °C and 80 °C, E₁ showed an apparent increase of approximately 8.2%, while E₂ and G₁₂ decreased by approximately 34.6% and 58.5%, respectively. The tensile strength FTU₀° decreased by 28.1%, the shear strength FSU₄₅° by 41.3%, and the compressive strengths FCU₀° and FCU₉₀° by 49.4% and 43.5%, respectively. The results confirm that matrix-dominated properties are particularly sensitive to elevated temperature and provide temperature-dependent material input for subsequent numerical modelling and stability analyses of thin-walled CFRP structures.",
+      "summary": "Abstract Carbon fiber reinforced polymer (CFRP) composites are widely used in aerospace, marine and automotive structures, where components may experience variable thermal conditions that affect stiffness, strength and load-bearing capacity. This study evaluates the influence of temperature on the mechanical properties of CFRP laminates manufactured from Gurit EP137 prepreg and tested using a universal testing machine supported by full-field Digital Image Correlation (ARAMIS/DIC). The results confirm that matrix-dominated properties are particularly sensitive to elevated temperature and provide temperature-dependent material input for subsequent numerical modelling and stability analyses of thin-walled CFRP structures.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170092117",
+      "title": "Duration-dependent gut microbiota disruption drives opposing effects on adipose thermogenesis in obese mice",
+      "authors": [
+        "Tianle Feng",
+        "Yuanjie Cui",
+        "Xinwen Bi",
+        "Yang Liu",
+        "L Yang",
+        "Dongyue Ouyang",
+        "Weixin Xu",
+        "Yu Zhao"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Microbiology",
+      "doi": "https://doi.org/10.3389/fmicb.2026.1860759",
+      "url": "https://doi.org/10.3389/fmicb.2026.1860759",
+      "abstract": "Background Antibiotic-induced disruption of the gut microbiota is known to influence host metabolism; however, whether its metabolic effects depend on the duration of exposure remains unclear, particularly in relation to adipose thermogenesis under high-fat diet (HFD) conditions. Methods C57BL/6 mice fed an HFD were treated with a broad-spectrum antibiotic cocktail for either short-term (2 weeks) or long-term (10 weeks). Body weight, adiposity, metabolic parameters, and energy expenditure were assessed. Thermogenic capacity was evaluated by histology and gene expression analysis in brown and white adipose tissues, following stimulation with the β3-adrenergic receptor agonist CL316243. Gut microbiota composition was analyzed using 16S rRNA sequencing. Results Short-term antibiotic treatment attenuated HFD-induced weight gain, reduced fat accumulation, and increased weight-adjusted CL316243-stimulated metabolic rate, accompanied by upregulation of thermogenic genes ( Ppargc1a , Pparg , Ucp1 ). In contrast, long-term treatment exacerbated obesity, decreased metabolic rate and rectal temperature, and suppressed thermogenic gene expression. Microbiota analysis revealed partial recovery of α -diversity after short-term intervention, whereas long-term treatment led to persistent dysbiosis with reduced diversity and altered community structure. Conclusion The metabolic consequences of antibiotic-induced microbiota disruption are strongly duration-dependent. Transient perturbation is associated with enhanced adipose thermogenesis and energy expenditure, whereas prolonged disruption correlates with impaired thermogenic capacity and worsened metabolic outcomes. However, causal relationships remain to be established. These findings highlight the importance of temporal dynamics in host–microbiota interactions and provide insight into microbiota-targeted strategies for metabolic disorders.",
+      "summary": "Background Antibiotic-induced disruption of the gut microbiota is known to influence host metabolism; however, whether its metabolic effects depend on the duration of exposure remains unclear, particularly in relation to adipose thermogenesis under high-fat diet (HFD) conditions. Results Short-term antibiotic treatment attenuated HFD-induced weight gain, reduced fat accumulation, and increased weight-adjusted CL316243-stimulated metabolic rate, accompanied by upregulation of thermogenic genes ( Ppargc1a , Pparg , Ucp1 ). Microbiota analysis revealed partial recovery of α -diversity after short-term intervention, whereas long-term treatment led to persistent dysbiosis with reduced diversity and altered community structure.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170043823",
+      "title": "Dual-component stearoyl polyoxyl-32 glyceride clay composites for enhanced curcumin solubility, stability, and antimicrobial activity",
+      "authors": [
+        "Prashant Gurav",
+        "Chetan Detroja"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "International Journal of Drug Delivery Technology",
+      "doi": "https://doi.org/10.25258/ijddt.16.67s.157",
+      "url": "https://doi.org/10.25258/ijddt.16.67s.157",
+      "abstract": "This research developed a polyoxylglycerides based solubilization system by combining a curcumin-Gelucire® 50/13 dispersion within a gellan gum-montmorillonite clay matrix. Dual-component composites were prepared in three clay: polymer ratios (1:1, 1:2, 1:3) using solvent dispersion and evaporation. Phase solubility studies identified the optimum curcumin: Gelucire® 50/13 ratio as 1:9.6, further supported by molecular docking. The 1:1 formulation (NCGC1) was examined through release profiling, with results validated by FTIR, TGA, DSC, and SEM-EDX. Antimicrobial activity was assessed by well-diffusion. Phase solubility showed more negative Gibbs free energy and Ks ≈ 1.286, indicating higher-order complexation, consistent with docking. Release studies of NCGC1 showed &gt;90% curcumin release, attributed to Gelucire® micellization and gellan gum swelling. pH stability confirmed reduced degradation at pH 8 (15.57% vs. 36.98% for free curcumin). SEM-EDX revealed increased carbon (47.64%) and oxygen (38.68%) with suppressed silicon (10.50%) and aluminum (2.52%), confirming organic incorporation. Characterization indicated curcumin excipient compatibility and amorphous dispersion within the clay matrix. NCGC1 also exhibited significant antimicrobial activity compared to aqueous curcumin suspension. Thus, reciprocal use of Gelucire® 50/13 and gellan gum-montmorillonite composites enhanced curcumin’s solubility, stability, and antimicrobial potential.",
+      "summary": "This research developed a polyoxylglycerides based solubilization system by combining a curcumin-Gelucire® 50/13 dispersion within a gellan gum-montmorillonite clay matrix. Characterization indicated curcumin excipient compatibility and amorphous dispersion within the clay matrix. Thus, reciprocal use of Gelucire® 50/13 and gellan gum-montmorillonite composites enhanced curcumin’s solubility, stability, and antimicrobial potential.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170093886",
+      "title": "Bacteria-related signals in brain metastases: evidence boundaries, tumor-microenvironment remodeling, and translational prospects",
+      "authors": [
+        "Guicheng Kuang",
+        "Z Qiu",
+        "Li Li",
+        "Jinjian Bai",
+        "Hang Ji",
+        "Yi Liu"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Cell and Developmental Biology",
+      "doi": "https://doi.org/10.3389/fcell.2026.1893882",
+      "url": "https://doi.org/10.3389/fcell.2026.1893882",
+      "abstract": "Brain metastases (BrM) develop within a highly specialized central nervous system niche shaped by the blood–brain barrier/blood–tumor barrier, brain-resident stromal cells, myeloid populations, and distinct metabolic constraints. Emerging studies suggest that bacteria-related signals can be detected in primary and metastatic brain tumors; however, their biological meaning remains incompletely defined. In particular, low-biomass brain tissues are highly vulnerable to reagent contamination, environmental carry-over, batch effects, and bioinformatic misclassification, making it essential to distinguish molecular bacterial traces from viable intratumoral bacteria or a bona fide tumor microbiome. In this review, we propose a graded conceptual framework that separates bacterial signals/elements, intratumoral bacteria, and intratumoral microbiota/microbiome according to evidentiary strength. We summarize current evidence for the spatial and cellular localization of bacteria-related signals in BrM and discuss potential source models, including primary-tumor carry-over, hematogenous dissemination, gut microbiota–derived metabolites, oral microbial input, and bacterial extracellular vesicles. We further examine how these signals may interact with the BrM tumor microenvironment by influencing tumor-cell stress adaptation, myeloid inflammatory niches, antigen-presentation pathways, vascular-barrier remodeling, and metabolic reprogramming. Particular attention is given to the emerging gut–brain–metastasis axis and to cancer-type-specific contexts in breast cancer, lung cancer, and melanoma brain metastases. From a translational perspective, bacteria-related signals in BrM may eventually contribute to biomarker development, patient stratification, and therapeutic modulation of the microbe–host axis. Nevertheless, current evidence remains insufficient to conclude that BrM broadly harbor stable, active, and clinically actionable microbial communities. Future progress will require multi-source matched cohorts, longitudinal sampling, stringent low-biomass contamination control, absolute quantification, spatial validation, functional models, and explicit separation of microbial presence, viability, and causality. A rigorous evidence-based approach will be essential for moving this field from intriguing associations toward biologically interpretable and clinically meaningful applications.",
+      "summary": "Brain metastases (BrM) develop within a highly specialized central nervous system niche shaped by the blood–brain barrier/blood–tumor barrier, brain-resident stromal cells, myeloid populations, and distinct metabolic constraints. Nevertheless, current evidence remains insufficient to conclude that BrM broadly harbor stable, active, and clinically actionable microbial communities. A rigorous evidence-based approach will be essential for moving this field from intriguing associations toward biologically interpretable and clinically meaningful applications.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170088020",
+      "title": "Therapy-imprinted fibroblast memory in cholangiocarcinoma: rewiring CAF niches for immune evasion and treatment-resistant relapse",
+      "authors": [
+        "Longhao Zhang",
+        "K C Zhang",
+        "Z F Chen",
+        "Lu Xh"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1907838",
+      "url": "https://doi.org/10.3389/fimmu.2026.1907838",
+      "abstract": "Cholangiocarcinoma (CCA) is a highly desmoplastic biliary malignancy in which durable benefit from chemotherapy, immune checkpoint blockade, targeted therapy and local treatment remains limited for many patients. Cancer-associated fibroblasts (CAFs) are increasingly recognized as dynamic regulators of immune escape and therapeutic resistance rather than passive matrix-producing bystanders. Here, we propose therapy-imprinted fibroblast memory as a framework for understanding how treatment-conditioned CAF states may persist after therapeutic or tissue-injury pressure and contribute to immune exclusion, residual tumor-cell survival and relapse in CCA. This concept is distinguished from baseline CAF heterogeneity and transient stromal activation by prior therapeutic exposure, persistence beyond the acute injury phase, measurable molecular or spatial signatures, functional effects on tumor or immune behavior, and potential reversibility or targetability. Throughout the review, CCA-specific studies are prioritized to define disease-relevant CAF states, hepatobiliary injury contexts and therapeutic pressures, whereas evidence from pancreatic cancer, breast cancer, colorectal cancer, lung cancer, fibrosis and wound-healing models is used as mechanistic support for conserved stromal biology and hypothesis generation rather than as direct proof of therapy-imprinted CAF memory in CCA. We first summarize the established baseline CAF landscape in treatment-naive CCA, including myofibroblastic, inflammatory, antigen-presentation-like, perivascular and FAP-positive immunoregulatory CAF states. We then discuss how cytotoxic therapy, immune pressure, targeted therapy, radiotherapy, hypoxia, bile-acid stress, cholestasis and wound-healing signals may reshape these baseline programs into persistent post-treatment CAF niches. We further describe how therapy-conditioned CAF programs may reorganize spatial niches at invasive fronts, fibrotic septa, perivascular regions, perineural compartments and immune-excluded tumor borders, thereby supporting residual tumor cells, restricting cytotoxic lymphocyte access and promoting treatment-resistant relapse. Finally, we outline biomarker and therapeutic strategies for identifying and rewiring pathogenic CAF niches using single-cell and spatial multiomics, multiplex imaging, patient-derived models, FAP imaging, senescence-associated interventions, ECM normalization and rational stromal-immunotherapy combinations. This framework emphasizes that post-treatment CAF evolution should be interpreted against the baseline CCA CAF landscape rather than treated as an extension of static CAF taxonomy alone.",
+      "summary": "Cholangiocarcinoma (CCA) is a highly desmoplastic biliary malignancy in which durable benefit from chemotherapy, immune checkpoint blockade, targeted therapy and local treatment remains limited for many patients. Finally, we outline biomarker and therapeutic strategies for identifying and rewiring pathogenic CAF niches using single-cell and spatial multiomics, multiplex imaging, patient-derived models, FAP imaging, senescence-associated interventions, ECM normalization and rational stromal-immunotherapy combinations. This framework emphasizes that post-treatment CAF evolution should be interpreted against the baseline CCA CAF landscape rather than treated as an extension of static CAF taxonomy alone.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170083409",
+      "title": "Nuclear IL-33 amplifies NF-κB signaling to drive neutrophil recruitment and activation in the endocervical epithelium during Mycoplasma genitalium infection",
+      "authors": [
+        "Yu Tian",
+        "K B Li",
+        "Na Xie",
+        "C H I Zhang",
+        "Hao Hu",
+        "Z H Huang",
+        "Min Du",
+        "Ranhui Li"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1820874",
+      "url": "https://doi.org/10.3389/fimmu.2026.1820874",
+      "abstract": "Mycoplasma genitalium has emerged as a clinically significant etiology of sexually transmitted infections that often establishes persistent infections within the female reproductive tract. Although the recruitment of neutrophils is a characteristic feature of the cervicitis associated with M. genitalium , the molecular mechanisms that govern this response at the mucosal interface remain incompletely defined. In this study, the infection of endocervical epithelial cells with M. genitalium was observed to induce a robust increase in IL-33 protein that localized within the nucleus. The transcriptional induction of the gene encoding IL-33 was mediated by a signaling axis involving Toll-like receptor 2 (TLR2) and TANK-binding kinase 1 (TBK1), which led to the nuclear translocation and promoter binding of Interferon Regulatory Factor 1 (IRF1) and 7 (IRF7). Within the nucleus, IL-33 physically complexed with the p65 subunit of NF-κB. This interaction facilitated the recruitment and occupancy of p65 at the promoters of the genes encoding CXCL1 and IL-8 , thereby specifically amplifying the secretion of these chemokines. Functional assays demonstrated that the secretion of chemokines dependent on nuclear IL-33 was required for the adhesion, chemotaxis, and oxidative activation of neutrophils. These findings identify a pathogenic mechanism whereby M. genitalium exploits the nuclear function of IL-33 to drive chronic neutrophilic inflammation and contribute to the immunopathology of the reproductive tract.",
+      "summary": "Mycoplasma genitalium has emerged as a clinically significant etiology of sexually transmitted infections that often establishes persistent infections within the female reproductive tract. Functional assays demonstrated that the secretion of chemokines dependent on nuclear IL-33 was required for the adhesion, chemotaxis, and oxidative activation of neutrophils. genitalium exploits the nuclear function of IL-33 to drive chronic neutrophilic inflammation and contribute to the immunopathology of the reproductive tract.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170045641",
+      "title": "Bibliometric and visualization analysis of arginine deiminase research from 2006 to 2025: trends, collaboration networks and emerging frontiers",
+      "authors": [
+        "Songtao Jiang",
+        "Lebin Gan",
+        "Qiang Wang",
+        "Guozheng Cao",
+        "Z Zhang",
+        "Feifei Jin",
+        "Jie Zhou",
+        "Panpan Chang"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1784910",
+      "url": "https://doi.org/10.3389/fimmu.2026.1784910",
+      "abstract": "Background Peptidylarginine Deiminase/Protein Arginine Deiminase (PAD/PADI) are a family of enzymes that catalyze protein citrullination, converting arginine residues to citrulline residues in a calcium-dependent manner. The net loss of positive charge of protein citrullination results in change of conformation, including probable formation of neoepitopes, and interactions with substances like DNA, which contributes to physiologic and pathophysiologic processes such as regulation of gene expression, Neutrophil Extracellular Traps (NETs), Rheumatoid Arthritis (RA), and Multiple Sclerosis (MS). To date, studies of PADs pan- and selective inhibitors have been deepening. This bibliometric analysis tries to give a comprehensive conclusion on research progress of peptidylarginine deiminases (PAD) and PAD inhibitors. Methods In this study, we aggregated publications using a dual-database strategy (Web of Science and PubMed) from January 1, 2006, to December 5, 2025, with a specific focus on the arginine deiminase research. Utilizing bibliometric methods, the data underwent processing to facilitate visual analysis of various aspects, including countries, institutions, authors, co-citations, keywords, references, gene characteristics, and diseases. Results Over the past two decades, the number of publications on the PAD family has increased continuously, with the United States contributing the largest number of publications. The University of Massachusetts emerged as the most prolific institution with 73 publications, while Paul R. Thompson was identified as the leading author in this field. Frontiers in Immunology published the highest number of PAD-related articles. High-frequency keywords included “rheumatoid arthritis”, “neutrophil extracellular traps”, “citrullination”, “PADI”, and “arginine deiminase”. Recent trends, identified through strong citation bursts from 2022 to 2025, include neutrophil extracellular traps, PADI4, and the tumor microenvironment. The high-frequency genes in the PADs field include PADI4, PADI2, TP53, and MPO. Additionally, pathways such as Lipid and atherosclerosis and viral infection-related pathways are significantly enriched in this research domain. Conclusions The research maps the evolving landscape of PAD research over the past two decades. However, cooperation between institutions and countries remains limited, although trends indicate increasing cooperation. This study identifies major research hotspots and evolving trends within the PAD field, helping to guide future research directions and providing an objective, data-driven reference for tracking new frontiers in the field, rather than drawing biological conclusions.",
+      "summary": "Background Peptidylarginine Deiminase/Protein Arginine Deiminase (PAD/PADI) are a family of enzymes that catalyze protein citrullination, converting arginine residues to citrulline residues in a calcium-dependent manner. Methods In this study, we aggregated publications using a dual-database strategy (Web of Science and PubMed) from January 1, 2006, to December 5, 2025, with a specific focus on the arginine deiminase research. However, cooperation between institutions and countries remains limited, although trends indicate increasing cooperation.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170056007",
+      "title": "Structural sensitivity of mechanical properties of tungsten-doped powdered iron aluminide produced by DPF method",
+      "authors": [
+        "Oleksandra Tolochyna",
+        "Oleksandr Tolochyn",
+        "Yan Yevych",
+        "Yurii Podrezov",
+        "Mykola Danylenko"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Materials Research Express",
+      "doi": "https://doi.org/10.1088/2053-1591/ae8955",
+      "url": "https://doi.org/10.1088/2053-1591/ae8955",
+      "abstract": "Abstract This work investigates the structural sensitivity and mechanical behavior of Fe–28Al alloys doped with 2–5 at.% W and manufactured using the direct powder forging method. The study examines the combined effects of powder milling, forging temperature, and deformation history on phase evolution, microstructural refinement, and mechanical performance across a wide temperature range. Differential scanning calorimetry reveals distinct phase transformations that correlate with variations in strength in materials fabricated from mixed powders. Mechanical testing shows that powder milling and multi-step forging significantly enhance yield strength, plasticity, and thermal stability, primarily through grain refinement, dispersion strengthening, and increased tungsten solubility in the matrix. The brittle-to-ductile transition temperature decreases to approximately 600 °C, demonstrating the beneficial influence of W on high-temperature ductility. Tensile tests at 700 °C and creep experiments at 650 °C–750 °C indicate that W-doped aluminides exhibit superior high-temperature strength and creep resistance, achieving strain rates as low as 10 −8 –10 −7 s −1 . Microstructural analysis confirms reduced damage accumulation in alloys subjected to multi-stage forging and highlights the crucial role of tungsten in suppressing cavity formation and stabilizing dislocation–particle interactions. The optimized processing route—triple forging at 1200 °C—yields exceptional room-temperature strength (up to 1.9 GPa) and high-temperature performance comparable to advanced stainless steels. These findings underscore the effectiveness of tungsten alloying and controlled thermomechanical processing in designing next-generation iron aluminides for high-temperature structural applications.",
+      "summary": "Abstract This work investigates the structural sensitivity and mechanical behavior of Fe–28Al alloys doped with 2–5 at.% W and manufactured using the direct powder forging method. Mechanical testing shows that powder milling and multi-step forging significantly enhance yield strength, plasticity, and thermal stability, primarily through grain refinement, dispersion strengthening, and increased tungsten solubility in the matrix. These findings underscore the effectiveness of tungsten alloying and controlled thermomechanical processing in designing next-generation iron aluminides for high-temperature structural applications.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169871847",
+      "title": "Integrated Metabolic and Micronutrient Dynamics Across the First Postoperative Year: Interval-Based Profiling in 340 Brazilian Women Undergoing Sleeve Gastrectomy",
+      "authors": [
+        "Alana Bonfim de Oliveira",
+        "Gabrielly Eduarda Piovezan Pereira",
+        "Eduarda Martinowski Henriques Guia",
+        "Otávio Sales",
+        "Thamira Fonteles de Moura",
+        "Wilson Paulo dos Santos",
+        "Mônica Maciel",
+        "Lucélia Donatti"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Obesity Surgery",
+      "doi": "https://doi.org/10.1007/s11695-026-08850-8",
+      "url": "https://doi.org/10.1007/s11695-026-08850-8",
+      "abstract": "AIMS: This study aimed to characterize the temporal dissociation between metabolic recovery and nutritional status during the first postoperative year following sleeve gastrectomy in women. MATERIALS AND METHODS: This retrospective cohort study evaluated 340 women undergoing sleeve gastrectomy using laboratory data from routine clinical follow-up. Biochemical markers were assessed preoperatively and at approximately 40, 120, 180, and 365 days postoperatively. A comprehensive multisystem panel was used to track longitudinal changes in nutritional, haematologic, metabolic, hepatic, inflammatory, renal, and endocrine parameters using an interval-based analytical approach. RESULTS: Distinct postoperative trajectories were identified between metabolic recovery and nutritional status. Metabolic and inflammatory parameters improved rapidly and remained stable throughout follow-up, including reductions in fasting glucose, triglycerides, liver enzymes, uric acid, and C-reactive protein, alongside sustained increases in HDL cholesterol. In contrast, several nutritional biomarkers showed progressive deterioration. Folate exhibited the earliest and most pronounced decline, decreasing by more than two-thirds within 40 days and remaining persistently reduced throughout follow-up. Vitamin B12 declined progressively, reaching concentrations compatible with early biochemical insufficiency. Ferritin showed continuous depletion across all intervals, whereas serum iron increased, indicating dissociation between circulating iron and iron stores. Zinc concentrations declined sharply and remained persistently reduced, while albumin and globulins exhibited modest but consistent decreases. Multivariate analyses confirmed coordinated metabolic-hepatic remodelling occurring in parallel with a weaker and progressively deteriorating nutritional trajectory. CONCLUSIONS: Metabolic recovery and nutritional adequacy represent partially dissociated physiological processes following sleeve gastrectomy. Micronutrient deterioration begins early and progresses before overt clinical manifestations, underscoring the need for frequent biochemical monitoring and individualized supplementation strategies during postoperative follow-up.",
+      "summary": "AIMS: This study aimed to characterize the temporal dissociation between metabolic recovery and nutritional status during the first postoperative year following sleeve gastrectomy in women. MATERIALS AND METHODS: This retrospective cohort study evaluated 340 women undergoing sleeve gastrectomy using laboratory data from routine clinical follow-up. Ferritin showed continuous depletion across all intervals, whereas serum iron increased, indicating dissociation between circulating iron and iron stores.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170091370",
+      "title": "Neural-immune-cardiovascular axis: from mechanistic crosstalk to therapeutic targets in cardiovascular disease",
+      "authors": [
+        "Junkang Cheng",
+        "Gao Ss",
+        "Haitao Zhang",
+        "Gao Ws",
+        "Zeyuan Mei",
+        "Xiaoling Liu",
+        "Jocelyn Gao",
+        "Chenghu Guo"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Frontiers in Immunology",
+      "doi": "https://doi.org/10.3389/fimmu.2026.1886102",
+      "url": "https://doi.org/10.3389/fimmu.2026.1886102",
+      "abstract": "The neural-immune-cardiovascular axis represents an emerging and highly integrated physiological and pathophysiological concept, describing a complex bidirectional communication network between the nervous, immune, and vascular systems. This review systematically examines the pivotal role of this axis in maintaining cardiovascular homeostasis and in the pathogenesis of cardiovascular diseases. We first provide an overview of the fundamental signaling pathways between the components of this axis. Subsequently, we delve into the specific crosstalk mechanisms within the axis in the context of major cardiovascular conditions, including atherosclerosis, hypertension, and heart failure. A central focus is placed on critically evaluating the potential therapeutic targets and intervention strategies that have emerged from our understanding of this axis’s mechanisms. This review aims to provide a comprehensive perspective for understanding the multi-system pathogenesis of cardiovascular diseases and for informing the development of novel therapeutic approaches.",
+      "summary": "The neural-immune-cardiovascular axis represents an emerging and highly integrated physiological and pathophysiological concept, describing a complex bidirectional communication network between the nervous, immune, and vascular systems. A central focus is placed on critically evaluating the potential therapeutic targets and intervention strategies that have emerged from our understanding of this axis’s mechanisms. This review aims to provide a comprehensive perspective for understanding the multi-system pathogenesis of cardiovascular diseases and for informing the development of novel therapeutic approaches.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170084747",
+      "title": "Ligand-stabilized Cu⁺/Cu²⁺ redox cycling in a water-stable cyamelurate coordination polymer for selective aerobic alcohol oxidation",
+      "authors": [
+        "Walker Vinícius Ferreira do Carmo Batista",
+        "Taís dos Santos da Cruz",
+        "Wanessa Lima de Oliveira",
+        "Anne A. Macedo",
+        "Dilton M. Pimentel",
+        "Valmor Roberto Mastelaro",
+        "Gabriel A. A. Diab",
+        "Ivo F. Teixeira"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Molecular Catalysis",
+      "doi": "https://doi.org/10.1016/j.mcat.2026.116216",
+      "url": "https://doi.org/10.1016/j.mcat.2026.116216",
+      "abstract": "Water-stable coordination polymers are highly desirable for green catalytic processes, yet systems based on cyamelurate ligands remain largely unexplored, despite their unique electronic structure and multiple coordination sites. Herein, we report a water-stable copper–cyamelurate coordination polymer (Cu-CP) featuring a mixed-valence Cu⁺/Cu²⁺ redox system synthesized under mild, aqueous, and environmentally benign conditions using earth-abundant and non-toxic precursors. Comprehensive characterization by XRD, FTIR, UV–Vis, XPS, EPR, and electron microscopy confirmed the formation of a crystalline polymeric framework comprising Cu⁺/Cu²⁺ sites, which are directly coordinated by nitrogen- and oxygen-donor atoms from cyamelurate ligands. The Cu-CP exhibited excellent catalytic activity toward the aerobic oxidation of benzyl alcohol, a lignin-derived model substrate, achieving over 70% conversion and >80% selectivity to benzaldehyde under atmospheric pressure and moderate temperature, with recyclability over multiple catalytic cycles while maintaining the structural integrity of the coordination framework. Kinetic and mechanistic studies, supported by radical scavenging and EPR analyses, revealed that molecular oxygen is activated in situ through Cu⁺/Cu²⁺ redox cycling, generating multiple reactive oxygen species that drive the oxidation process. This catalyst design demonstrates a sustainable route to valorize biomass under mild conditions, eliminating the need for hazardous oxidants or precious metals. The low-cost, water-processable synthesis and robust redox functionality of cyamelurate-based coordination polymers establish a versatile platform for next-generation, earth-abundant oxidation catalysts in sustainable chemical manufacturing.",
+      "summary": "Water-stable coordination polymers are highly desirable for green catalytic processes, yet systems based on cyamelurate ligands remain largely unexplored, despite their unique electronic structure and multiple coordination sites. Kinetic and mechanistic studies, supported by radical scavenging and EPR analyses, revealed that molecular oxygen is activated in situ through Cu⁺/Cu²⁺ redox cycling, generating multiple reactive oxygen species that drive the oxidation process. This catalyst design demonstrates a sustainable route to valorize biomass under mild conditions, eliminating the need for hazardous oxidants or precious metals.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170054767",
+      "title": "Formulation and Analytical Characterization of Phenprocoumon-Loaded κ-Carrageenan Hydrogels for Controlled-Release Applications",
+      "authors": [
+        "Iulia Gallo",
+        "Camelia Epuran",
+        "Ion Fratilescu",
+        "Raul Ștefan-Pantiș",
+        "Alexandru Pahomi",
+        "Mihaela Maria Budiul",
+        "Titus Vlase",
+        "Gabriela Vlase"
+      ],
+      "publication_date": "2026-07-22",
+      "journal": "Molecules",
+      "doi": "https://doi.org/10.3390/molecules31142540",
+      "url": "https://doi.org/10.3390/molecules31142540",
+      "abstract": "Oral administration of narrow therapeutic index anticoagulants like phenprocoumon (PHP) necessitates careful control of the kinetic release of the drug to avoid dose dumping and severe haemorrhagic effects. This study was carried out to prepare and characterize novel PHP delivery systems based on κ-carrageenan hydrogels, exploring the importance of potassium ion (K+) stabilization in controlling the release process. FT-IR, TG/DTG, and in vitro release studies were employed in combination with a new validated RP-HPLC assay. FT-IR and thermal analysis results showed that PHP is physically encapsulated into the polysaccharide matrix, where there are no chemical incompatibilities between them. Furthermore, potassium ions increase the stability and heat resistance of the polymer network. However, when K+ was considered for modelling the kinetic release using the Korsmeyer–Peppas equation, it was observed that PHP is released from the K+ stabilized matrix in a relaxation dominated diffusion-controlled transport. Ionic cross-linking effectively reduces the initial burst effect, demonstrating that these matrices are promising vehicles for the sustained delivery of phenprocoumon.",
+      "summary": "Oral administration of narrow therapeutic index anticoagulants like phenprocoumon (PHP) necessitates careful control of the kinetic release of the drug to avoid dose dumping and severe haemorrhagic effects. FT-IR and thermal analysis results showed that PHP is physically encapsulated into the polysaccharide matrix, where there are no chemical incompatibilities between them. However, when K+ was considered for modelling the kinetic release using the Korsmeyer–Peppas equation, it was observed that PHP is released from the K+ stabilized matrix in a relaxation dominated diffusion-controlled transport.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -1011,6 +2153,78 @@
         "高分子与复合材料"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7170060165",
+      "title": "How Climate Shapes Cropland: The Potential Pathways Through Human Activities in Northeast China",
+      "authors": [
+        "Haoran Xiong",
+        "Dandan Ren",
+        "Ying Yuan",
+        "Qingtao Ma",
+        "Sayidjakhon Khasanov"
+      ],
+      "publication_date": "2026-07-21",
+      "journal": "Land",
+      "doi": "https://doi.org/10.3390/land15071316",
+      "url": "https://doi.org/10.3390/land15071316",
+      "abstract": "Climate and human activity shape cropland dynamics, while their cascading interactions remain an intricate black box blocking mechanistic understanding of land system shifts. Taking Jilin Province as a case, we developed an integrated framework combining OPGD (optimal parameter geographic detector), SEM (structural equation modeling) and GWR (geographically weighted regression) to quantify multi-scale cascading mechanisms of 13 environmental factors and cropland. Cropland conversion showed distinct spatial disparities: western plains saw mainly grassland reclamation, central urban plains experienced cropland occupation by construction, and eastern mountain areas had forest-to-cropland expansion. Over 2010–2019, cropland decreased by 1.39% (1257.7 ha) for construction, compensated by conversions from 4.99% grassland (4518.8 ha) and 3.01% forestland (2720.2 ha). Climate dominated cropland variations through indirect human-mediated pathways, with path coefficients of 0.664 for Climate → Human and 0.571 for Human → Cropland; climate exerted direct driving effects on grass–cropland transition in western ecologically fragile plains. Greenhouse gases, evapotranspiration, humidity, temperature and leaf area index controlled overall cropland variations. Central and western croplands were dominated by topography, whereas precipitation, population and GDP determined eastern cropland dynamics. This framework differentiated direct and indirect driving pathways of cropland evolution, guiding policy formulation for regional grain security.",
+      "summary": "Climate and human activity shape cropland dynamics, while their cascading interactions remain an intricate black box blocking mechanistic understanding of land system shifts. Taking Jilin Province as a case, we developed an integrated framework combining OPGD (optimal parameter geographic detector), SEM (structural equation modeling) and GWR (geographically weighted regression) to quantify multi-scale cascading mechanisms of 13 environmental factors and cropland. Cropland conversion showed distinct spatial disparities: western plains saw mainly grassland reclamation, central urban plains experienced cropland occupation by construction, and eastern mountain areas had forest-to-cropland expansion.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169880075",
+      "title": "EFFECTS OF DOMESTIC STORAGE CONDITIONS ON THE PHYSICAL INTEGRITY AND ASSAY OF IBUPROFEN TABLETS",
+      "authors": [
+        "Adriana Gonçalves Ferreira Deo",
+        "Wanderley José Mantovani Bittencourt"
+      ],
+      "publication_date": "2026-07-21",
+      "journal": "Infarma - Ciências Farmacêuticas",
+      "doi": "https://doi.org/10.14450/infarma.e202605",
+      "url": "https://doi.org/10.14450/infarma.e202605",
+      "abstract": "Improper domestic storage of medicines may compromise product quality and patient safety, particularly for over-the-counter drugs. This study evaluated the effects of different household storage conditions on the physical integrity and assay of ibuprofen tablets over six months. Tablets were stored in four environments—bedroom, bathroom, kitchen, and car—across five households and analyzed at three time points. Visual inspection and titrimetric assay were performed according to the Brazilian Pharmacopoeia. Physical alterations, including cracking, capping, brittleness, and powder detachment, were mainly observed in tablets kept inside vehicles, indicating greater susceptibility to mechanical and thermal stress. The initial assay showed ibuprofen content above the pharmacopeial upper limit, suggesting baseline non-compliance before domestic exposure. During the study, no progressive reduction in active pharmaceutical ingredient content was detected under any condition. Although statistically significant variations over time were found (two-way ANOVA, p &lt; 0.05), no consistent decreasing trend indicative of chemical degradation was identified. These findings indicate that domestic storage may impair the physical stability of ibuprofen tablets without measurable loss of assay content by a pharmacopeial titrimetric method, underscoring the need for quality monitoring and public education on proper storage practices.",
+      "summary": "Improper domestic storage of medicines may compromise product quality and patient safety, particularly for over-the-counter drugs. The initial assay showed ibuprofen content above the pharmacopeial upper limit, suggesting baseline non-compliance before domestic exposure. These findings indicate that domestic storage may impair the physical stability of ibuprofen tablets without measurable loss of assay content by a pharmacopeial titrimetric method, underscoring the need for quality monitoring and public education on proper storage practices.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7169858821",
+      "title": "Methanol-specific methyltransferase isozymes have large carbon kinetic isotope effects that impact methane isotopic signatures",
+      "authors": [
+        "Jonathan Gropp",
+        "Markus Bill",
+        "Daniel A. Stolper",
+        "Dipti D. Nayak"
+      ],
+      "publication_date": "2026-07-21",
+      "journal": "Applied and Environmental Microbiology",
+      "doi": "https://doi.org/10.1128/aem.00664-26",
+      "url": "https://doi.org/10.1128/aem.00664-26",
+      "abstract": "ABSTRACT The stable carbon and hydrogen isotopic composition of methane is widely used to determine its sources. Methanogenic growth on methanol generates methane with significantly lower 13 C/ 12 C ratios relative to other substrates, which is used as a marker for this metabolism in environmental samples. The biochemical basis for the large carbon isotope effect associated with methanol growth is currently unknown. Here, we measure the change in the carbon and hydrogen stable isotopic compositions of the methane produced by Methanosarcina acetivorans during growth on methanol. We couple these results with an inverse modeling approach to calculate the kinetic isotopic effects (KIEs) of the rate-limiting step, catalyzed by the methanol-specific methyltransferase complex (MTA). Through this process, we estimate the carbon KIE of MTA ( 13 ε MTA ) to be −66‰ and the hydrogen KIE of MTA ( 2 ε MTA ) to be −56‰. Our results indicate that the 13 ε MTA contributes substantially to the large carbon isotope effect observed on methanol. We also show that mutant strains that express only a single copy of the MTA complex (MtaC1B1A1, MtaC2B2A1, or MtaC3B3A1) have 13 ε MTA and 2 ε MTA that are indistinguishable from the wild-type strain. Finally, we propose that methanol activation by MTA will remain rate-limiting, even at low environmental methanol concentrations, and the large 13 ε MTA would be expressed in situ as well. IMPORTANCE Mapping the biological sources of methane is vital for accurately modeling global emissions of this potent greenhouse gas. Methanogenic growth on methanol produces methane with a uniquely depleted carbon isotope signature, which is commonly used as an environmental indicator of this metabolism. The biochemical mechanisms driving this isotopic signature have remained unclear. In this study, we identify the methanol-specific methyltransferase (MTA) complex as the primary driver of these large carbon isotope effects in the model methanogen, Methanosarcina acetivorans . By utilizing M. acetivorans mutants that express a single MTA complex, we demonstrate that these effects are consistent across MTA isozymes that are expressed during different growth phases. Our results suggest these isotopic signatures are intrinsic to the enzyme complex and persist in natural environments. These findings provide a critical biochemical foundation for using stable isotopes to track methane production from methanol in diverse natural ecosystems.",
+      "summary": "Our results indicate that the 13 ε MTA contributes substantially to the large carbon isotope effect observed on methanol. Our results suggest these isotopic signatures are intrinsic to the enzyme complex and persist in natural environments. These findings provide a critical biochemical foundation for using stable isotopes to track methane production from methanol in diverse natural ecosystems.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
