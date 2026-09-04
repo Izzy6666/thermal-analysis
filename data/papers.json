@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-09-04",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -199,8 +199,8 @@
       "journal": "Scientific Reports",
       "doi": "https://doi.org/10.1038/s41598-026-69103-3",
       "url": "https://doi.org/10.1038/s41598-026-69103-3",
-      "abstract": "Abstract We present a high-throughput sustainable chemistry approach for the synthesis of palladium nanoparticles (PdNPs), which are widely employed as catalysts in industrial processes, using a commercial reaction device to perform parallel reactions under identical conditions. The synthesis parameters assessed included reaction temperature, and the concentrations of Pd, thiol ligands (3-mercaptopropionic acid (MPA), L-cysteine (Cys)) and reducing agent. The optimization of these parameters was accomplished via a multivariate approach. A characterization of the thoroughly purified thiol-capped PdNPs by transmission electron microscopy (TEM), energy-dispersive X-Ray spectroscopy (EDS), dynamic light scattering (DLS) and nanoparticle tracking analysis (NTA) confirmed the formation of irregularly shaped particles with mean sizes of 96 ± 33 nm and 71 ± 30 nm for PdNP-MPA and PdNP-Cys, respectively, with polydispersity indexes up to 0.270. Subsequent analysis via single particle-inductively coupled plasma-mass spectrometry (sp-ICP-MS) enabled a direct size and size distribution determination comparable to those obtained by TEM and NTA. sp-ICP-MS also allowed the determination of particle number concentration (PNC). Bulk ICP-MS was applied for the determination of the thiol ligand surface density from the measured sulfur-to-metal ratio. Overall, our study demonstrated the potential of multivariate approaches for sustainable NPs synthesis, and application of complementary analytical tools for NPs characterization.",
-      "summary": "Abstract We present a high-throughput sustainable chemistry approach for the synthesis of palladium nanoparticles (PdNPs), which are widely employed as catalysts in industrial processes, using a commercial reaction device to perform parallel reactions under identical conditions. Bulk ICP-MS was applied for the determination of the thiol ligand surface density from the measured sulfur-to-metal ratio. Overall, our study demonstrated the potential of multivariate approaches for sustainable NPs synthesis, and application of complementary analytical tools for NPs characterization.",
+      "abstract": "We present a high-throughput approach for synthesizing palladium nanoparticles (PdNPs), which are widely used as catalysts in industrial processes, employing an aqueous reaction medium and a commercial reaction platform that enables parallel reactions under identical conditions. The optimal synthesis conditions, including reaction temperature and the concentrations of Pd, thiol ligands (3-mercaptopropionic acid (MPA) and L-cysteine (Cys)), and reducing agent, were established using a Doehlert experimental design. The purified thiol-capped PdNPs were characterized by transmission electron microscopy (TEM), energy-dispersive X-ray spectroscopy (EDS), dynamic light scattering (DLS), and nanoparticle tracking analysis (NTA), confirming the formation of irregularly shaped PdNP-MPA and PdNP-Cys with polydispersity indices up to 0.270. Single particle-inductively coupled plasma-mass spectrometry (sp-ICP-MS) enabled determination of particle size and size distribution, demonstrating its suitability for characterizing polydisperse nanoparticles with irregular shapes and yielding results consistent with those obtained by TEM and NTA. Bulk ICP-MS was employed to determine the surface density of thiol ligands from the sulfur-to-palladium ratio. Overall, this study demonstrates the potential of multivariate experimental design for PdNP synthesis and the value of complementary analytical techniques for comprehensive nanoparticle characterization.",
+      "summary": "We present a high-throughput approach for synthesizing palladium nanoparticles (PdNPs), which are widely used as catalysts in industrial processes, employing an aqueous reaction medium and a commercial reaction platform that enables parallel reactions under identical conditions. Single particle-inductively coupled plasma-mass spectrometry (sp-ICP-MS) enabled determination of particle size and size distribution, demonstrating its suitability for characterizing polydisperse nanoparticles with irregular shapes and yielding results consistent with those obtained by TEM and NTA. Overall, this study demonstrates the potential of multivariate experimental design for PdNP synthesis and the value of complementary analytical techniques for comprehensive nanoparticle characterization.",
       "techniques": [
         "热分析"
       ],
@@ -531,6 +531,213 @@
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
+      "id": "https://openalex.org/W4416237686",
+      "title": "The Role of Deep Mesoscale Eddies in Ensemble Forecast Performance",
+      "authors": [
+        "Justin Cooke",
+        "Kathleen Donohue",
+        "Clark Rowley",
+        "Prasad G. Thoppil",
+        "D. Randolph Watts"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Journal of Physical Oceanography",
+      "doi": "https://doi.org/10.1175/jpo-d-25-0255.1",
+      "url": "https://doi.org/10.1175/jpo-d-25-0255.1",
+      "abstract": "Abstract Present forecasting efforts rely on assimilation techniques that adjust the model initial state, meaning that profiles of temperature and salinity are used as measured or converted to temperature and salinity through statistical relationships. This information influences the upper ocean ( < 1000 mdepth), while minimally influencing the deep ocean. Nevertheless, development of the full water column circulation critically depends upon the dynamical interactions between upper and deep fields. We review ensemble forecasts in the Gulf of Mexico demonstrating the importance of the initial deep ocean features in the evolution of the surface field. Initial conditions throughout the full water column that agree with observations are needed to improve the forecast predictions. Here, best and worst ensemble members in two 92-day forecasts are identified and contrasted in order to determine how the deep ocean features differ between these groups. The forecasts cover the duration of the Loop Current Eddy Thor separation event, which coincides with available deep observations. Model ensemble member performance is assessed with a newly developed ranking method, demonstrated with surface variables against verifying analysis and satellite altimeter data during the forecast time-period. Deep cyclonic and anticyclonic features are reviewed, and compared against deep observations, indicating subtle differences in locations of deep eddies at relevant times. These results highlight both the importance of deep circulation dynamics of the Loop Current system and more broadly motivate efforts to assimilate deep observations to better constrain the deep initial fields and improve surface and sub-surface predictions.",
+      "summary": "Abstract Present forecasting efforts rely on assimilation techniques that adjust the model initial state, meaning that profiles of temperature and salinity are used as measured or converted to temperature and salinity through statistical relationships. Model ensemble member performance is assessed with a newly developed ranking method, demonstrated with surface variables against verifying analysis and satellite altimeter data during the forecast time-period. These results highlight both the importance of deep circulation dynamics of the Loop Current system and more broadly motivate efforts to assimilate deep observations to better constrain the deep initial fields and improve surface and sub-surface predictions.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7154720766",
+      "title": "Orchard management alters citrus root and rhizosphere microbiomes with functional consequences for plant performance",
+      "authors": [
+        "Nichole Ginnan",
+        "R.Matthew Jones",
+        "Jessica Wu-Woods",
+        "Tariq Pervaiz",
+        "Ashraf El‐Kereamy",
+        "Vanessa ETM Ashworth",
+        "M. Imran Hamid",
+        "Emma K. Dawson"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "ISME Communications",
+      "doi": "https://doi.org/10.1093/ismeco/ycag248",
+      "url": "https://doi.org/10.1093/ismeco/ycag248",
+      "abstract": "Abstract Agricultural management practices act as ecological disturbances that can restructure soil and plant-associated microbial communities, but the functional consequences of these microbial shifts on crop performance remain poorly understood. Here, we examined how common orchard inputs, including wood mulch, glyphosate, and humic acid, affect citrus root and rhizosphere microbiomes, leaf nutrient trajectories, and tree performance over a three-year field experiment. Mulch emerged as the dominant driver of fungal community composition and taxonomic turnover, enriching for saprophytic fungi. Conversely, bacterial communities responded primarily to interactions among applications, particularly mulch x glyphosate, which was associated with significant depletions of bacterial genera in roots and rhizospheres. These microbiome changes corresponded with reduced tree carbon assimilation, transpiration, and yield, and altered leaf nutrients dynamics. To verify whether the microbial shifts were contributing to these plant phenotypic changes, we conducted a greenhouse experiment using field-derived soil microbiota. Active microbiota from mulch-treated soils reduced citrus seedling establishment and root growth relative to microbiota from non-mulched soils, whereas heat-killed controls eliminated these negative effects, demonstrating a causal relationship between management-induced microbiota changes and decreases in plant performance. The effect of mulch-associated microbiota on root growth further depended on glyphosate history, paralleling field observations. Humic acid increased root growth regardless of microbiota activity and moderated decreases in shoot growth by mulch-associated microbiota. Together, these results show that management practices can restructure citrus microbiomes and generate community-level traits that influence plant performance, highlighting the importance of incorporating microbial ecology and microbiome information when devising crop management strategies.",
+      "summary": "Abstract Agricultural management practices act as ecological disturbances that can restructure soil and plant-associated microbial communities, but the functional consequences of these microbial shifts on crop performance remain poorly understood. Active microbiota from mulch-treated soils reduced citrus seedling establishment and root growth relative to microbiota from non-mulched soils, whereas heat-killed controls eliminated these negative effects, demonstrating a causal relationship between management-induced microbiota changes and decreases in plant performance. Together, these results show that management practices can restructure citrus microbiomes and generate community-level traits that influence plant performance, highlighting the importance of incorporating microbial ecology and microbiome information when devising crop management strategies.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7167425830",
+      "title": "Load frequency control framework of renewable integrated power systems in multi scenario disturbance conditions with the proximal policy optimization",
+      "authors": [
+        "Dalia Debbarma",
+        "Dulal Chandra Das",
+        "Jeetu Debbarma"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-69509-z",
+      "url": "https://doi.org/10.1038/s41598-026-69509-z",
+      "abstract": "Abstract The rapid adoption of renewable energy sources has radically changed the dynamic qualities of the modern power system, making load frequency control (LFC) problem worse due to unforeseeable generation, reduced system inertia, and the constant changes in disturbances. This paper presents a control framework based only on Proximal Policy Optimisation (PPO) for secondary frequency management in renewable-integrated power systems subjected to realistic multi scenario disruptions. In contrast to traditional gain-tuned or deterministic intelligent controllers, the suggested method immediately acquires an effective frequency regulation policy via policy gradient reinforcement learning, devoid of supplementary heuristic tuning. The controller is carefully evaluated under four pertinent operating conditions namely renewable intermittency, long cycle disturbances, oscillatory conditions of stress and a realistic contingency with renewable outages, night peak loads and gradual recovery. The performance is compared to GA-PI, TS-Fuzzy-PI, GA-Fuzzy-PI and advanced deep reinforcement learning-based controllers DDPG, TD3 and SAC on the basis of frequency domain and time-domain stability. The proposed PPO architecture shows a high improvement in the frequency control performance. In Case 1, the Integral Square Error (ISE) is reduced to 0.45196, as opposed to approximately 1060 with benchmark controllers. At the presence of high cyclic variations (Case 2), the ISE reduces to 0.031126, but the mean amplitude change of the frequency is smaller, 0.00043351 Hz, compared to approximately 0.3125 Hz in other methods. In the realistic contingency (Case 4), an Integral Squared Error (ISE) of 0.10953 and a constrained overshoot of 0.023203 Hz are attained. The findings validate that PPO provides exceptionally resilient, adaptable, and cost-effective frequency stabilisation for renewable-dominated power systems under actual dynamic stress circumstances.",
+      "summary": "In contrast to traditional gain-tuned or deterministic intelligent controllers, the suggested method immediately acquires an effective frequency regulation policy via policy gradient reinforcement learning, devoid of supplementary heuristic tuning. The performance is compared to GA-PI, TS-Fuzzy-PI, GA-Fuzzy-PI and advanced deep reinforcement learning-based controllers DDPG, TD3 and SAC on the basis of frequency domain and time-domain stability. The proposed PPO architecture shows a high improvement in the frequency control performance.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7204870411",
+      "title": "An enhanced model for accurate fish keypoint detection and tracking in intensive aquaculture",
+      "authors": [
+        "Zhen Wang",
+        "GuangQiao Cao",
+        "Haolu Liu",
+        "Anlin Zhu"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Aquaculture Reports",
+      "doi": "https://doi.org/10.1016/j.aqrep.2026.103807",
+      "url": "https://doi.org/10.1016/j.aqrep.2026.103807",
+      "abstract": "Monitoring fish growth is critical for intensive aquaculture, yet traditional manual weighing methods are labor-intensive and inefficient. This study proposes FishPose-tracking, an enhanced deep learning model that automates keypoint detection and tracking of fish, improving the efficiency and accuracy of growth monitoring in complex aquaculture environments. Built upon the YOLOv8-Pose model, FishPose-tracking integrates several advanced components: underwater image enhancement, precise keypoint detection, posture estimation, and continuous fish tracking. Image quality is optimized through multi-level bilateral filtering and regional dark channel dehazing, addressing challenges posed by turbid and low-light underwater conditions. To improve feature extraction, FishPose-tracking incorporates the Swin Transformer encoder, which offers robust multi-scale capabilities, and the STIAU module, which enhances temporal consistency across video frames to reduce detection errors from motion blur and occlusion. The model was trained on a diverse dataset of 10,000 images encompassing multiple fish species under varying degrees of occlusion. Experimental evaluations show that FishPose-tracking improves detection and tracking precision, achieving mean Average Precision scores of 99.37% (mAP50) and 87.39% (mAP50:95), representing improvements of 13.74% and 8.86%, respectively, over baseline models. Residual analysis confirmed the high accuracy of the model, with the median keypoint error for the five species being less than or equal to ±2 pixels (IQR ≤ 3 pixels). FishPose-tracking provides a robust and real-time capable monitoring solution adaptable to various aquaculture environments. Future work will explore further enhancements, including integration with multi-source data and large-scale deployments.",
+      "summary": "Monitoring fish growth is critical for intensive aquaculture, yet traditional manual weighing methods are labor-intensive and inefficient. Experimental evaluations show that FishPose-tracking improves detection and tracking precision, achieving mean Average Precision scores of 99.37% (mAP50) and 87.39% (mAP50:95), representing improvements of 13.74% and 8.86%, respectively, over baseline models. Future work will explore further enhancements, including integration with multi-source data and large-scale deployments.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7204989040",
+      "title": "Renewable oil-derived comb polymers as green and shear-resistant wax-crystal modifiers for high-wax crude oils",
+      "authors": [
+        "Runbin Xue",
+        "Hongfu Li",
+        "Xia Liu",
+        "Yu He",
+        "Yan Li",
+        "Huimei Ding",
+        "Chu Chu",
+        "Mingwang Fan"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Journal of Dispersion Science and Technology",
+      "doi": "https://doi.org/10.1080/01932691.2026.2724334",
+      "url": "https://doi.org/10.1080/01932691.2026.2724334",
+      "abstract": "The formation of robust wax-crystal networks in high-wax crude oils during cooling leads to significant increases in viscosity, gelation, and restart stress, posing major challenges for pipeline transportation. Here, we present a renewable, oil-derived comb polymer strategy that integrates green feedstock utilization with controlled wax crystallization. A poly(octadecyl acrylate-co-maleic anhydride) (POM) precursor was synthesized via RAFT polymerization and subsequently grafted with glyceride/fatty acid side chains to yield four polymers: OM-GMS, OM-GMO, OM-ATO, and OM-DIO. Among these, OM-GMS demonstrated the most balanced co-crystallization anchoring and steric disruption. At a fixed comparative dosage of 3000 mg/L, OM-GMS reduced the crystallization rate (e.g., in Model oil I from 1.09 to 0.85 min−1 at 10 °C), increased the apparent crystallization activation energy (from 2.12 to 6.91 kJ mol−1), and lowered the crystallinity index (from 20.45% to 13.45%). In crude oils, OM-GMS substantially reduced viscosity (by 58.45% in Crude oil I at 15 °C), yield stress (by 70.7%), gelation temperature (by 5.64 °C), and thixotropic-loop area (by 43.7%). These results establish a direct link between microscopic wax-crystal regulation and macroscopic cold-flow improvement. Integrated DSC, isothermal crystallization kinetics, XRD, PLM, and rheology reveal a unified mechanism. Oil-derived long side chains anchor into wax crystals. Glyceride/polar groups disrupt ordered packing; and the comb architecture shields modified crystals from rapid network reconstruction after shear. This work positions renewable comb polymers as effective, low-carbon alternatives to conventional petroleum-based flow improvers.",
+      "summary": "The formation of robust wax-crystal networks in high-wax crude oils during cooling leads to significant increases in viscosity, gelation, and restart stress, posing major challenges for pipeline transportation. These results establish a direct link between microscopic wax-crystal regulation and macroscopic cold-flow improvement. Integrated DSC, isothermal crystallization kinetics, XRD, PLM, and rheology reveal a unified mechanism.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "食品与脂质",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7204998545",
+      "title": "A material centric review to enhance the thermal resistance and stability of natural fiber polymer composites supported by patent landscape analysis",
+      "authors": [
+        "L. Rajeshkumar",
+        "D. Balaji",
+        "T. P. Sathishkumar",
+        "V. Bhuvaneswari",
+        "M. Sathishkumar"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Discover Applied Sciences",
+      "doi": "https://doi.org/10.1007/s42452-026-09405-3",
+      "url": "https://doi.org/10.1007/s42452-026-09405-3",
+      "abstract": "High temperature resistance and thermal stability are the significant characteristics of the polymeric materials which are employed in elevated temperature applications. Such resistance and stability of the polymer composites reinforced with natural fibers are measured using their degradation temperature and residual masses. Polymer composites reinforced with natural fibers like jute, sisal, or banana might be assessed for their thermal stability using thermogravimetric analysis (TGA). The thermal behaviour of the natural fiber reinforced composites depends on the nature and origin of the natural fibers, their hybridization and application. The thermal resistance of sisal composites can be further increased through chemical treatments. While individual natural fiber composites break down at relatively low temperatures, polymer-based hybrid systems can increase stability to higher temperatures. Decomposition temperatures varied for the fiber-reinforced composites, with the range being affected by additives, matrix type, and fiber type. Addition of natural fillers to the natural fiber composites and the cellulose-based nanocomposites exhibit better thermal stability owing to their scalability factor. An examination of the WIPO patent database reveals an increasing focus on TGA in creating bio-based composites that are thermally stable and flame-retardant. This review caters the material scientists working on natural fiber composites to understand the thermal behaviour of various natural fiber composites and hybrid composites based on the aforesaid parameters. With the help of International Patent Classification (IPC) codes, TGA will play an increasingly important role in the study of composite materials in the future.",
+      "summary": "High temperature resistance and thermal stability are the significant characteristics of the polymeric materials which are employed in elevated temperature applications. Such resistance and stability of the polymer composites reinforced with natural fibers are measured using their degradation temperature and residual masses. Polymer composites reinforced with natural fibers like jute, sisal, or banana might be assessed for their thermal stability using thermogravimetric analysis (TGA).",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7206179623",
+      "title": "Preparation and characterization of tetraethoxysilane (TEOS), methyltriethoxysilane (MTES), and hydroxyapatite (HAp) coatings using the sol-gel method",
+      "authors": [
+        "Tabish Jan",
+        "Shafaq Ashraf Lone",
+        "Yashwant Mehta",
+        "Mehwish Jan",
+        "Mukhtar Ahmad Malik",
+        "Adnan Qayoum"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Proceedings of the Institution of Mechanical Engineers Part E Journal of Process Mechanical Engineering",
+      "doi": "https://doi.org/10.1177/09544089261483343",
+      "url": "https://doi.org/10.1177/09544089261483343",
+      "abstract": "In the present study, evolution of sol-gel based coatings on the glass substrates from basic precursors: tetraethoxysilane (TEOS), methyl triethoxysilane (MTES) to hybrid systems i.e., the combination of TEOS/MTES and TEOS/MTES/HAp (hydroxyapatite) have been discussed to present a comparative study between the coatings formed. The main objective is to investigate effect of molar ratio (MR) of water on hydrolysis and precursor molar ratio to formulate effective sol and prevent phase segregation with the aim of developing stable and effective coating formulations. The coating is prepared through sol-gel processing involving hydrolysis and condensation of silane precursors, which is then combined with HAp to form a coating material in a composite matrix of TEOS and MTES and further depositing the material on glass surfaces. The study also explores microstructural evolution, thickness progression, elemental, chemical and thermal analysis of the coated samples via characterization techniques. The time of gelation is found to be affected by varying content of water, where higher water corresponds to increased rate of reaction and vice versa suggesting the need to regulate such process parameters. The microstructural analysis reveals dense structure for TEOS while globular morphology for MTES and slightly homogeneous microstructure for combined coating while TEOS/MTES/HAp shows rough and interconnected network like morphology. FTIR confirms reduced hydroxyl peak for coatings with MTES, implying induced hydrophobic character and TGA suggests increased thermal stability of TEOS/MTES and HAp incorporated coating with approximately 45% residue while TEOS coating showed 25%, MTES showed 0% and TEOS/MTES combination showed 20–25% residue.",
+      "summary": "The main objective is to investigate effect of molar ratio (MR) of water on hydrolysis and precursor molar ratio to formulate effective sol and prevent phase segregation with the aim of developing stable and effective coating formulations. The microstructural analysis reveals dense structure for TEOS while globular morphology for MTES and slightly homogeneous microstructure for combined coating while TEOS/MTES/HAp shows rough and interconnected network like morphology. FTIR confirms reduced hydroxyl peak for coatings with MTES, implying induced hydrophobic character and TGA suggests increased thermal stability of TEOS/MTES and HAp incorporated coating with approximately 45% residue while TEOS coating showed 25%, MTES showed 0% and TEOS/MTES combination showed 20–25% residue.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7206197308",
+      "title": "Canabo microfiber and chitosan biopolymer reinforced with recycled PLA matrix using 3D printing technology for bone scaffold application. A characterization analysis",
+      "authors": [
+        "Rahamathullah I",
+        "T. Jayakumar",
+        "Karpagarajan S",
+        "Anandhan R"
+      ],
+      "publication_date": "2026-09-02",
+      "journal": "Journal of Composite Materials",
+      "doi": "https://doi.org/10.1177/00219983261481874",
+      "url": "https://doi.org/10.1177/00219983261481874",
+      "abstract": "This study investigates the mechanical durability, time-dependent deformation, physicochemical stability, and thermal behaviour of recycled PLA–based composites reinforced with Canabo microfiber and crab-shell-derived chitosan nanoparticles fabricated for bone scaffold applications. Fatigue, creep, swelling–degradation, and thermogravimetric analyses were systematically conducted to evaluate the suitability of different composite formulations. The results demonstrate that hybrid reinforcement significantly enhances the functional performance of recycled PLA. Among all compositions, specimen C3 containing 40 vol.% microfiber and 3 vol.% chitosan nanoparticles exhibited superior fatigue resistance, recording fatigue lives of 25,169, 22,113, and 19,088 cycles at 25%, 50%, and 75% of UTS respectively, which is attributed to the optimal synergistic interaction between uniformly dispersed chitosan nanoparticles and microfibers that effectively bridge cracks, dissipate cyclic energy, and delay crack propagation. Specimen C3 also showed controlled swelling behaviour increasing from 11.63% to 16.03% and moderate degradation from 1.13% to 6.2% over 4 weeks, indicating a balanced hydrophilicity that supports gradual degradation while maintaining structural integrity, which is desirable for bone tissue regeneration. In contrast, specimen C4 with 5 vol.% chitosan nanoparticles exhibited the lowest creep strain values of 0.0064, 0.0073, and 0.0091 at 5000 s, 10,000 s, and 15,000 s respectively, due to increased stiffness and stronger restriction of polymer chain mobility under sustained loading. Specimen C4 also showed the highest thermal stability with a maximum degradation temperature of 321°C in TGA, attributed to higher filler content and enhanced char formation that delays thermal decomposition. Overall, the results confirm that controlled chitosan loading plays a crucial role in tailoring the mechanical durability, degradation behaviour, and thermal stability of recycled PLA composites for advanced bone scaffold applications.",
+      "summary": "This study investigates the mechanical durability, time-dependent deformation, physicochemical stability, and thermal behaviour of recycled PLA–based composites reinforced with Canabo microfiber and crab-shell-derived chitosan nanoparticles fabricated for bone scaffold applications. The results demonstrate that hybrid reinforcement significantly enhances the functional performance of recycled PLA. Overall, the results confirm that controlled chitosan loading plays a crucial role in tailoring the mechanical durability, degradation behaviour, and thermal stability of recycled PLA composites for advanced bone scaffold applications.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
       "id": "https://openalex.org/W7167023944",
       "title": "Has Complexity of EU Law Increased?",
       "authors": [
@@ -713,7 +920,7 @@
         "Костянтин Каверін"
       ],
       "publication_date": "2026-09-01",
-      "journal": "Scientific periodicals of Ukraine",
+      "journal": "The Scientific Issues of Ternopil Volodymyr Hnatiuk National Pedagogical University Series pedagogy",
       "doi": "",
       "url": "http://tit.knuba.edu.ua/article/view/349457",
       "abstract": "Abstract. Thus, experimental studies have established that an untreated sample of wood ignited under thermal action, the flame spread over the entire surface, which led to its combustion with a mass loss of more than 60 %, and the temperature of flue gases increased by more than 500 ºС in 60 s of testing. The use of an intumescent coating under the influence of temperature leads to the formation of a foam coke layer and inhibition of heat transfer of high-temperature flame to the material and a decrease in mass loss to 6.6 g/(m2ˑs) and a temperature of less than 160 ºС. During the study of the flame spread index, it was found that when the flame acted on untreated wood samples for 21 s, their ignition occurred, the temperature was 367 °С and intensive flame spread over the surface, the flame spread index was 43.5. During the tests of fire-protected wood samples, the following values were obtained, namely, the wood sample treated with an inorganic coating caught fire for 890 s, the flame spread over the surface occurred only to the first section, the maximum temperature of flue gases was 82 °С for a time greater than 2.5 times, and the flame spread index decreased by 6.5 times. For a sample of wood treated with a fire-retardant intumescent coating, the wood did not ignite, the flame spread index was 0. Thus, there is reason to argue about the possibility of directed regulation of fire protection processes in wood by using fire-retardant coatings capable of forming a protective layer on the surface of the material that slows down the rate of wood burning",
@@ -1375,6 +1582,85 @@
         "高分子与复合材料"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7164708285",
+      "title": "Hemodynamic insights into TIPS intervention for portal hypertension management: a comprehensive computational study",
+      "authors": [
+        "Pavlos Varsos",
+        "Friederike Schäfer",
+        "Cristina Ripoll",
+        "Nicolas Golse",
+        "Irène Vignon-Clémentel"
+      ],
+      "publication_date": "2026-09-01",
+      "journal": "Computers in Biology and Medicine",
+      "doi": "https://doi.org/10.1016/j.compbiomed.2026.111909",
+      "url": "https://doi.org/10.1016/j.compbiomed.2026.111909",
+      "abstract": "The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established treatment for complications of portal hypertension in liver cirrhosis, effectively reducing the portal pressure gradient (PPG) and improving transplant-free survival. However, excessive shunting, particularly with larger graft diameters, may increase systemic ammonia levels, predisposing patients to hepatic encephalopathy, and may also precipitate cardiac complications. Computational modelling may therefore eventually serve as a predictive tool for patient selection and pre-procedural planning. In this study, patient-specific TIPS geometries were segmented from CT images and analyzed using computational fluid dynamics with physiologically grounded boundary conditions, before and after TIPS placement. Liver volumetry, hematocrit-dependent blood viscosity, and clinically measured pre-TIPS pressure gradients were incorporated within a coupled 3D-0D multiscale framework. We systematically evaluated the influence of shunt diameter (6-10 mm), puncture location (right, left portal branches and portal bifurcation), angulation, inflow distribution, and outflow partitioning on portal hemodynamics. Results show that the hemodynamic response varies substantially with shunt configuration and patient-specific parameters. Modulating diameter produces a clear trade-off between portal decompression and overshunting. Shunt position, length, and angulation influence PPG only mildly through changes in effective shunt resistance and alter the proportion of TIPS flow originating from the superior mesenteric vein by not more than 10% across configurations. Furthermore, hepatofugal and hepatopetal flow states are mechanistically reproduced, and are governed by the balance between TIPS, intrahepatic portal and sinusoidal-hepatic venous resistances. Overall, this study provides an integrated and physiologically informed framework for understanding and optimizing TIPS configuration in a patient-specific manner.",
+      "summary": "The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established treatment for complications of portal hypertension in liver cirrhosis, effectively reducing the portal pressure gradient (PPG) and improving transplant-free survival. We systematically evaluated the influence of shunt diameter (6-10 mm), puncture location (right, left portal branches and portal bifurcation), angulation, inflow distribution, and outflow partitioning on portal hemodynamics. Results show that the hemodynamic response varies substantially with shunt configuration and patient-specific parameters.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7203567724",
+      "title": "Real-World Multicentre Evaluation of GALEAS Bladder for Detecting Bladder Cancer in UK NHS Haematuria Clinics",
+      "authors": [
+        "Lee Silcock",
+        "Robert Hastings",
+        "Samuel Clokie",
+        "Rebecca Sadler",
+        "Michael Parks",
+        "Matthew Smith",
+        "Victoria Hewitt",
+        "Jayne Douglas‐Moore"
+      ],
+      "publication_date": "2026-09-01",
+      "journal": "European Urology Oncology",
+      "doi": "https://doi.org/10.1016/j.euo.2026.08.005",
+      "url": "https://doi.org/10.1016/j.euo.2026.08.005",
+      "abstract": "BACKGROUND AND OBJECTIVE: Cystoscopy is a core component of haematuria investigations; however, it is invasive and resource intensive. GALEAS Bladder is a DNA-based diagnostic urine test that measures mutations in 23 bladder cancer (BC)-associated genes. OBJECTIVE: We aimed to assess the diagnostic performance of GALEAS Bladder in real-world patients with haematuria and its utility as a molecular triage tool in this setting. METHODS: Patients referred for urgent investigation of haematuria were prospectively enrolled across seven UK National Health Service urology departments between October 2024 and June 2025. Urine samples were collected prior to cystoscopy and analysed by GALEAS Bladder. Assay results were compared with cystoscopy and biopsy/transurethral resection of bladder tumour findings. KEY FINDINGS AND LIMITATIONS: Cystoscopic findings and GALEAS Bladder results were available for 964 participants (575 visible and 294 non-visible haematuria, 95 unknown), including 77 (8.0%) newly diagnosed with pathology-confirmed BC. The assay detected 71 of the 77 BCs, including all 17 muscle-invasive BCs and 35 of the 36 high-grade BCs, with negative predictive value >99% (95% confidence interval [CI] 98-100), positive predictive value 50% (95% CI 42-58), positive likelihood ratio (LR) 11.5, and negative LR 0.09. Decision curve analysis showed net benefit over cystoscopy for all referrals. Limitations include observational study design over a limited timeframe and absence of subsequent diagnoses for participants with positive GALEAS Bladder test results without cystoscopically visible tumour. CONCLUSIONS AND CLINICAL IMPLICATIONS: GALEAS Bladder is a clinically implementable molecular urine test that detects new cases of BC with high negative predictive value and favourable LRs in patients undergoing urgent investigation of haematuria. These data show that GALEAS Bladder can be used now to triage patients with haematuria to immediate or deferred cystoscopy.",
+      "summary": "BACKGROUND AND OBJECTIVE: Cystoscopy is a core component of haematuria investigations; however, it is invasive and resource intensive. OBJECTIVE: We aimed to assess the diagnostic performance of GALEAS Bladder in real-world patients with haematuria and its utility as a molecular triage tool in this setting. These data show that GALEAS Bladder can be used now to triage patients with haematuria to immediate or deferred cystoscopy.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7204616006",
+      "title": "A Non-Isothermal Viscoplastic Constitutive Model for Clay Slip Surfaces",
+      "authors": [
+        "Saeed Tourchi",
+        "Ehsan Badakhshan",
+        "Milad Jabbarzadeh",
+        "Arash Lavasan",
+        "Jean Vaunat"
+      ],
+      "publication_date": "2026-09-01",
+      "journal": "Open Repository and Bibliography (University of Luxembourg)",
+      "doi": "https://doi.org/10.48550/arxiv.2609.01247",
+      "url": "https://orbilu.uni.lu/handle/10993/69001",
+      "abstract": "Clayey slip surfaces control the reactivation and long-term deformation of slow-moving landslides and may experience thermal fluctuations from climate, seasonal ground-temperature changes, or subsurface heat sources. Experiments show that residual shear strength depends on temperature and shearing rate, yet most numerical approaches use temperature-independent strength parameters. We present a non-isothermal viscoplastic constitutive model for clayey slip surfaces implemented with zero-thickness interface elements. It includes temperature-dependent normal and tangential stiffness, progressive degradation of cohesion and friction angle, and rate-dependent viscoplastic slip governed by a non-associated flow rule. Coupling with hydraulic and thermal balance equations allows the interface response to evolve with stress state, temperature, aperture, and accumulated irreversible displacement. Validation against temperature-controlled drained ring-shear tests on bentonite and smectite-rich soils covers heating--cooling, cooling--heating, and combined thermal paths. The simulations reproduce thermal strengthening at slow shearing rates and thermal weakening or limited sensitivity at higher rates. Application to the Congress Street cut benchmark shows that zero-thickness elements improve the representation of strain localization and progressive failure. Increasing temperature progressively degrades interface strength, increases displacement, joint aperture, and shear strain, and accelerates sliding. Temperature-dependent interface degradation can therefore reduce the apparent stability margin of clayey slopes and should be included in slope-stability assessments involving thermal fluctuations.",
+      "summary": "Clayey slip surfaces control the reactivation and long-term deformation of slow-moving landslides and may experience thermal fluctuations from climate, seasonal ground-temperature changes, or subsurface heat sources. Application to the Congress Street cut benchmark shows that zero-thickness elements improve the representation of strain localization and progressive failure. Temperature-dependent interface degradation can therefore reduce the apparent stability margin of clayey slopes and should be included in slope-stability assessments involving thermal fluctuations.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "电子与封装"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7375,301 +7661,6 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204262922",
-      "title": "Human factors considerations for safe and scalable human-robot collaboration in construction: A systematic review",
-      "authors": [
-        "Nana Kwabena Asamoah Antwi",
-        "Gilles Albeaino",
-        "Chukwuma Nnaji"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Journal of Safety Research",
-      "doi": "https://doi.org/10.1016/j.jsr.2026.08.009",
-      "url": "https://doi.org/10.1016/j.jsr.2026.08.009",
-      "abstract": "Introduction: Robotic systems are increasingly being introduced into construction to address persistent safety challenges, limited productivity growth, and skilled labor shortages. However, the collaboration between humans and robots introduces new interaction dynamics that can reshape human behavioral state and responses. While prior reviews have examined construction robotics from technological, application, and adoption perspectives, a construction-specific synthesis that systematically consolidates human factors across Human-Robot Collaboration (HRC) contexts remains limited. Method: This systematic review addresses that gap by identifying and categorizing the human factors examined in construction HRC research, synthesizing the subjective and objective measurement approaches used to assess these factors, and extracting recurring methodological and contextual limitations to inform a structured research roadmap for safe, scalable, and human-centered HRC deployment. Following PRISMA guidelines, Scopus and Web of Science were queried for records published between 2000 and 2026, resulting in 163 included studies after screening and eligibility assessment. Results: The findings showed that construction HRC research examines human responses across cognitive, affective, physical, and perceived acceptance and usability dimensions. These human-state outcomes are shaped by contextual and interaction parameters that define how robots are configured, introduced, and operated within construction environments. At the same time, assessment approaches for these responses were found to vary considerably, encompassing both self-report instruments and objective measurement techniques. Conclusions and Practical Applications: By consolidating dispersed empirical evidence into a coherent construction-focused synthesis and proposing a structured roadmap centered on human-focused responses, contextual scalability, and safety-system integration, this review provides actionable guidance for advancing deployment-ready, human-centered robotic interactions on active construction jobsites.",
-      "summary": "Introduction: Robotic systems are increasingly being introduced into construction to address persistent safety challenges, limited productivity growth, and skilled labor shortages. Results: The findings showed that construction HRC research examines human responses across cognitive, affective, physical, and perceived acceptance and usability dimensions. Conclusions and Practical Applications: By consolidating dispersed empirical evidence into a coherent construction-focused synthesis and proposing a structured roadmap centered on human-focused responses, contextual scalability, and safety-system integration, this review provides actionable guidance for advancing deployment-ready, human-centered robotic interactions on active construction jobsites.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204264395",
-      "title": "Anticorrosive potential of Garcinia mangostana L. peel extracts-doped hybrid sol-gel films on low carbon steel in salty water",
-      "authors": [
-        "Tuan Sherwyn Hamidon",
-        "Mimisyuhadah Puaad",
-        "M. Hazwan Hussin"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Journal of Sol-Gel Science and Technology",
-      "doi": "https://doi.org/10.1007/s10971-026-07238-5",
-      "url": "https://doi.org/10.1007/s10971-026-07238-5",
-      "abstract": "This study investigates the corrosion inhibition potential of Garcinia mangostana peel extracts using ethanol (MPE) and water (MPW) as corrosion inhibitors for low carbon steel in aqueous 3.5 wt.% NaCl. To ensure the purity of MP extracts, complementary spectroscopy techniques such as FT-IR, NMR, and TGA were adopted to characterize their structure as well as phytochemical analyses. MPE extract exhibited higher total phenolic content, total flavonoid content, total condensed tannin content, and antioxidant activity compared to MPW. Hybrid sol-gel matrices were synthesized using APTES and TEOS silanol precursors, where prepared films were applied via dip-coating. Electrochemical impedance spectroscopy (EIS) and potentiodynamic polarization (PDP) studies revealed that 50 ppm MPE-doped hybrid sol-gel coating achieved the highest inhibition efficiency (81.64%), followed by 75 ppm MPW-doped sol-gel coating (73.87%). Both extracts incorporated coating systems rendered mixed-type corrosion protection, predominantly influencing the cathodic reaction. SEM analysis surfaced an improvement in the surface morphology of low carbon steel in the presence of both inhibitors. The projected corrosion inhibition mechanism has also been discussed regarding anticorrosion behavior. Hence, the present work affords a value-added application by exploiting mangosteen peel as a waste material towards potential anticorrosion applications.",
-      "summary": "This study investigates the corrosion inhibition potential of Garcinia mangostana peel extracts using ethanol (MPE) and water (MPW) as corrosion inhibitors for low carbon steel in aqueous 3.5 wt.% NaCl. Electrochemical impedance spectroscopy (EIS) and potentiodynamic polarization (PDP) studies revealed that 50 ppm MPE-doped hybrid sol-gel coating achieved the highest inhibition efficiency (81.64%), followed by 75 ppm MPW-doped sol-gel coating (73.87%). Hence, the present work affords a value-added application by exploiting mangosteen peel as a waste material towards potential anticorrosion applications.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204266310",
-      "title": "Development and Characterization of Waste Polystyrene/Calcite Composites Prepared by Solution Casting",
-      "authors": [
-        "Asma Nouira",
-        "S. Attia-Essaies",
-        "Mehdi Ismail",
-        "P.A.M. Mourão",
-        "Ezzedine Srasra"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Applied Sciences",
-      "doi": "https://doi.org/10.3390/app16178494",
-      "url": "https://doi.org/10.3390/app16178494",
-      "abstract": "This work reports the development of sustainable composites based on waste polystyrene (WPS) reinforced with natural calcium carbonate (CaCO3), aiming at both plastic waste valorization and performance enhancement. The composites were fabricated via a solvent casting approach using recycled polystyrene cutlery and varying CaCO3 loadings. Structural analyses performed by X-ray diffraction (XRD), Fourier Transform Infrared Spectroscopy (FTIR), and photoluminescence (PL) spectroscopy confirmed the effective incorporation of calcite within the polymer matrix, as evidenced by characteristic peak shifts and intensity variations indicative of interfacial interactions. PL spectra exhibited two emission bands centered around 365 and 400 nm for all samples, with enhanced emission intensity at low filler contents (2 and 6 wt%), followed by pronounced quenching at 10 wt%, highlighting a concentration-dependent interaction and uniform filler dispersion at lower loadings. Thermal analyses (DSC, TGA, and DTA) demonstrated a systematic improvement in thermal stability upon CaCO3 addition, with decomposition temperatures increasing up to 432 °C compared to 429 °C for neat WPS, attributed to the barrier effect of the inorganic filler and restricted polymer chain mobility. Overall, these results demonstrate that natural calcite is an efficient, low-cost, and locally available reinforcing agent for recycled polystyrene, providing a viable and scalable strategy for the upcycling of plastic waste into value-added, thermally stable composite materials.",
-      "summary": "This work reports the development of sustainable composites based on waste polystyrene (WPS) reinforced with natural calcium carbonate (CaCO3), aiming at both plastic waste valorization and performance enhancement. Thermal analyses (DSC, TGA, and DTA) demonstrated a systematic improvement in thermal stability upon CaCO3 addition, with decomposition temperatures increasing up to 432 °C compared to 429 °C for neat WPS, attributed to the barrier effect of the inorganic filler and restricted polymer chain mobility. Overall, these results demonstrate that natural calcite is an efficient, low-cost, and locally available reinforcing agent for recycled polystyrene, providing a viable and scalable strategy for the upcycling of plastic waste into value-added, thermally stable composite materials.",
-      "techniques": [
-        "DSC",
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204267487",
-      "title": "Secoisolariciresinol diglucoside alleviates inflammatory injury in osteoarthritis chondrocytes through ERBB2-associated JAK2/STAT3 signaling: network pharmacology and experimental validation",
-      "authors": [
-        "Haibei Hu",
-        "Gaoshan Li",
-        "Yangxu Wang",
-        "Suyu Xie",
-        "Feng Cao",
-        "Li Huanyu",
-        "Xubin Gao"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Frontiers in Immunology",
-      "doi": "https://doi.org/10.3389/fimmu.2026.1891212",
-      "url": "https://doi.org/10.3389/fimmu.2026.1891212",
-      "abstract": "Background Cartilage injury is a hallmark of osteoarthritis (OA). erb-B2 receptor tyrosine kinase 2 (ERBB2) has been reported to be involved in mediating the therapeutic effects of polyphenols in orthopedic diseases. This study aimed to investigate the protective effects and underlying mechanisms of action of ERBB2 in OA chondrocytes. Methods Bioinformatics analysis and molecular docking were used to predict the binding relationship between ERBB2 and the polyphenolic compound, secoisolariciresinol diglucoside (SDG). ATDC5 cells were induced with insulin-transferrin-selenium (ITS), followed by lipopolysaccharide (LPS) exposure to mimic OA inflammation, and treated with SDG. Cell viability, collagen II expression, apoptosis, interleukin 6 (IL-6)/Tumor Necrosis Factor-α (TNF-α) secretion, and malondialdehyde (MDA)/superoxide dismutase (SOD) levels were evaluated using cell counting kit-8 (CCK-8), immunofluorescence, flow cytometry, enzyme-linked immunosorbent assay (ELISA), and commercial kits. Matrix metalloproteinase 13 (MMP13) and ERBB2 mRNA levels were assessed by quantitative real-time polymerase chain reaction (qRT-PCR). Extracellular matrix integrity was assessed by toluidine blue staining. The predicted SDG-ERBB2 interaction was validated using a cellular thermal shift assay (CETSA). Western blotting was performed to assess the expression of ERBB2 and JAK2/STAT3. Rescue experiments with ERBB2 overexpression or colivelin (a JAK/STAT activator) treatment confirmed the involvement of this pathway. Results SDG dose-dependently reversed the LPS-induced reduction in cell viability and collagen II expression, while suppressing apoptosis, IL-6/TNF-α secretion, and MDA levels, and increasing SOD activity. SDG significantly reduced MMP13 mRNA levels and enhanced extracellular matrix proteoglycan deposition, indicating the preservation of matrix integrity. ERBB2 has been identified as a candidate target for SDG. SDG inhibits ERBB2 protein expression and reduces JAK2 and STAT3 phosphorylation ERBB2 overexpression and colivelin treatment abrogated the protective effects of SDG on cell viability, collagen II expression, apoptosis, inflammation, and oxidative stress, as well as its suppression of MMP13 and preservation of matrix integrity. Conclusion SDG protects chondrocytes against LPS-induced inflammatory injury by targeting ERBB2 and suppressing the downstream JAK2/STAT3 signaling pathway. These findings provide mechanistic evidence supporting the chondroprotective potential of SDG under inflammatory conditions and suggest that ERBB2/JAK2/STAT3 signaling may represent a potential therapeutic target in OA.",
-      "summary": "Background Cartilage injury is a hallmark of osteoarthritis (OA). This study aimed to investigate the protective effects and underlying mechanisms of action of ERBB2 in OA chondrocytes. Cell viability, collagen II expression, apoptosis, interleukin 6 (IL-6)/Tumor Necrosis Factor-α (TNF-α) secretion, and malondialdehyde (MDA)/superoxide dismutase (SOD) levels were evaluated using cell counting kit-8 (CCK-8), immunofluorescence, flow cytometry, enzyme-linked immunosorbent assay (ELISA), and commercial kits.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204268719",
-      "title": "Migration of Erucamide in Polyethylene Film",
-      "authors": [
-        "Kelly Cristina Maziero",
-        "L. C. Malacarne",
-        "Monique de Souza",
-        "Raquel Palacios",
-        "Mauro Luciano Baesso",
-        "Alessandro F. Martins",
-        "Elisângela Corradini",
-        "Edvani C. Muniz"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Polymer Engineering and Science",
-      "doi": "https://doi.org/10.1002/pen.70795",
-      "url": "https://doi.org/10.1002/pen.70795",
-      "abstract": "ABSTRACT Erucamide is a migratory slip agent widely used in polyethylene (PE) films for flexible packaging applications, particularly those processed on high‐speed filling and packaging lines, where control of the coefficient of friction (COF) is critical; however, its uncontrolled migration can adversely affect surface and processing properties. In this study, the migration behavior of erucamide in a three‐layer low‐density polyethylene (LDPE) film was investigated as a function of aging time and storage temperature, and its impact on COF and sealing behavior were evaluated. The film was characterized by differential scanning calorimetry (DSC), x‐ray diffraction (XRD), and thermogravimetric analysis (TGA), confirming its LDPE composition. The erucamide concentration on prepared film was determined as 3500 ± 370 ppm by high‐performance liquid chromatography (HPLC). Crystallinity values obtained from DSC and XRD showed good agreement and were correlated with additive migration. Surface morphology, topographical changes, and slip‐agent distribution were analyzed by scanning electron microscopy (SEM) and atomic force microscopy (AFM), while surface energy changes were assessed by contact angle measurements. Fourier transform infrared photoacoustic spectroscopy (FTIR‐PAS) confirmed the presence of erucamide near the film surface. A rapid decrease in COF with increasing temperature was observed. So, COF values after 72 h at room temperature were similar to the ones obtained at 50°C on just warmed films; however, excessive surface crystallization was observed at elevated temperature, leading to an increase in the initial sealing temperature. The combined analytical approaches proved effective in elucidating erucamide migration and its influence on film performance.",
-      "summary": "ABSTRACT Erucamide is a migratory slip agent widely used in polyethylene (PE) films for flexible packaging applications, particularly those processed on high‐speed filling and packaging lines, where control of the coefficient of friction (COF) is critical; however, its uncontrolled migration can adversely affect surface and processing properties. In this study, the migration behavior of erucamide in a three‐layer low‐density polyethylene (LDPE) film was investigated as a function of aging time and storage temperature, and its impact on COF and sealing behavior were evaluated. The combined analytical approaches proved effective in elucidating erucamide migration and its influence on film performance.",
-      "techniques": [
-        "DSC",
-        "TGA",
-        "TGA-FTIR"
-      ],
-      "categories": [
-        "食品与脂质",
-        "电子与封装"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204270940",
-      "title": "Association between serum tumor necrosis factor-alpha levels and rheumatoid arthritis-associated interstitial lung disease: a cross-sectional study",
-      "authors": [
-        "Xiaoli Li",
-        "Lina Leng",
-        "Yaorong Han",
-        "Jinfeng Zhang",
-        "Xinfang Shang",
-        "Shusen Zhang",
-        "Dengxiang Liu",
-        "Yuhua Qiao"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Frontiers in Immunology",
-      "doi": "https://doi.org/10.3389/fimmu.2026.1881556",
-      "url": "https://doi.org/10.3389/fimmu.2026.1881556",
-      "abstract": "Background Rheumatoid arthritis-associated interstitial lung disease (RA-ILD) is one of the most severe extra-articular complications of rheumatoid arthritis (RA). Although tumor necrosis factor-α (TNF-α) plays a central role in RA pathogenesis, its relationship with RA-ILD remains uncertain. This study aimed to investigate the association between serum TNF-α levels and RA-ILD, with a focus on sex-stratified patterns. Methods We performed a cross-sectional study that initially included 1,191 consecutive RA inpatients at Xingtai People’s Hospital between March 2022 and December 2024. Clinical and laboratory data were extracted from electronic medical records. RA-ILD was diagnosed using high-resolution computed tomography, with subtypes classified by consensus. Multivariable logistic regression and generalized additive models were used to assess the association of TNF-α with RA-ILD. Serum TNF-α was natural log-transformed (ln) to improve linearity and reduce the influence of extreme values. Results After exclusions, 790 patients were included in the final analysis, of whom 149 (18.86%) had RA-ILD, with a higher prevalence in males than in females (30.68% vs 15.47%). In sex-stratified analyses, after adjusting for age, disease duration, rheumatoid factor, and anti-citrullinated protein antibody in both sexes, and additionally adjusting for smoking in males, serum TNF-α was associated with RA-ILD in females (highest vs lowest tertile: OR = 1.96, 95% CI: 1.10 – 3.48; P for trend < 0.01). This association followed a nonlinear pattern, with an exploratory inflection point above which elevated TNF-α showed a positive association with increased odds of RA-ILD. In males, no statistically significant association was observed across all models. However, the formal sex ×ln(TNF-α) interaction term was not statistically significant ( P = 0.08). Conclusion In sex-stratified analyses, serum TNF-α was associated with RA-ILD in females, exhibiting a nonlinear relationship with a potential inflection point; no statistically significant association was observed in males. However, as the interaction testing did not confirm a statistically significant sex difference, these findings are exploratory and warrant further prospective validation in larger cohorts.",
-      "summary": "Background Rheumatoid arthritis-associated interstitial lung disease (RA-ILD) is one of the most severe extra-articular complications of rheumatoid arthritis (RA). This study aimed to investigate the association between serum TNF-α levels and RA-ILD, with a focus on sex-stratified patterns. This association followed a nonlinear pattern, with an exploratory inflection point above which elevated TNF-α showed a positive association with increased odds of RA-ILD.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204274567",
-      "title": "Algerian honeybee venom antioxidant and antimicrobial activities: molecular docking of melittin as a dual inhibitor of PBP2a and Keap1",
-      "authors": [
-        "Djedjiga Bellouche",
-        "Abdenacer Mouffok",
-        "Abdelali Boussif",
-        "Abdelhalim Khenchouche",
-        "Ricardo Gómez-García",
-        "M. M. Zerroug",
-        "Manuela Pintado"
-      ],
-      "publication_date": "2026-08-26",
-      "journal": "Frontiers in Food Science and Technology",
-      "doi": "https://doi.org/10.3389/frfst.2026.1919918",
-      "url": "https://doi.org/10.3389/frfst.2026.1919918",
-      "abstract": "Introduction Honeybee venom is a complex bioactive secretion dominated by melittin, with recognized antioxidant and antimicrobial therapeutic potential. This study characterized Algerian honeybee venom (AHBV) through biochemical profiling, in vitro antioxidant and antimicrobial assays, and in silico molecular docking to explore melittin’s dual targeting capacity. Methods AHBV was characterized using size-exclusion fast protein liquid chromatography, Fourier-transform infrared spectroscopy, the Bradford assay, the ABTS radical-scavenging assay, antimicrobial evaluation, and molecular docking of melittin against PBP2a and Keap1 using pyDock. Results Size-exclusion fast protein liquid chromatography revealed a protein profile dominated by low-molecular-weight peptides (<5 kDa), with only minor higher-molecular-weight components, consistent with the known composition of Apis mellifera venom. Fourier-transform infrared spectroscopy confirmed the proteinaceous, peptide-rich nature of the venom through characteristic amide I and II bands. Total protein content, determined by the Bradford assay, was 204.8 ± 16.26 μg BSA equivalents/mL. AHBV exhibited marked antioxidant activity in the ABTS radical-scavenging assay (727.0 ± 4.9 μmol Trolox equivalents/mg). Antimicrobial evaluation demonstrated significant activity against Gram-positive bacteria, particularly Staphylococcus aureus (MIC 15.62–62.5 μg/mL), moderate efficacy against Gram-negative strains (MIC 125–500 μg/mL), and measurable antifungal activity against Candida albicans (MIC 250 μg/mL). Molecular docking of melittin against PBP2a and Keap1 revealed a potential dual targeting: melittin is predicted to bind the PBP2a allosteric pocket with a pyDock score of −40.406 kcal/mol, and potentially engage the Keap1 Kelch domain (−31.537 kcal/mol) through hydrophobic contacts critical for Nrf2 recognition. Discussion This interaction suggests a mechanism for resensitizing MRSA to β-lactam antibiotics, indicating a possible role in activating the antioxidant response pathway. Taken together, these findings provide region-specific data on Algerian honeybee venom and position melittin as a promising bifunctional therapeutic candidate against antimicrobial resistance and oxidative stress-related disorders.",
-      "summary": "Introduction Honeybee venom is a complex bioactive secretion dominated by melittin, with recognized antioxidant and antimicrobial therapeutic potential. Methods AHBV was characterized using size-exclusion fast protein liquid chromatography, Fourier-transform infrared spectroscopy, the Bradford assay, the ABTS radical-scavenging assay, antimicrobial evaluation, and molecular docking of melittin against PBP2a and Keap1 using pyDock. Results Size-exclusion fast protein liquid chromatography revealed a protein profile dominated by low-molecular-weight peptides (<5 kDa), with only minor higher-molecular-weight components, consistent with the known composition of Apis mellifera venom.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W4415689609",
-      "title": "Exploring internet hospital patient demand patterns from online consultation content using text clustering",
-      "authors": [
-        "Yingchun Liu",
-        "Yuzhe Wang",
-        "Chen Jing",
-        "Chunjie Jin",
-        "Tianzhi Yu"
-      ],
-      "publication_date": "2026-08-25",
-      "journal": "BMC Health Services Research",
-      "doi": "https://doi.org/10.1186/s12913-026-15379-0",
-      "url": "https://doi.org/10.1186/s12913-026-15379-0",
-      "abstract": "Abstract Background Internet hospital patient generated questions during online consultations are typically short, semantically incomplete, and expressed in a non-standardized manner, which poses challenges for demand recognition and knowledge discovery. This study aims to identify core categories of patient concerns through text clustering based on real-world online consultation data, and to explore their focal issues and dynamic evolution patterns. The findings are expected to provide empirical evidence for optimizing medical resource allocation and improving service delivery models. Methodology We used patient online consultation texts from an Internet hospital as the study material. A hybrid representation was constructed by combining TF-IDF weighted Word2Vec semantic features with LDA topic features, and clustering was performed using the K-means + + algorithm. The clustering performance was evaluated using the Silhouette Coefficient (SC), Davies–Bouldin Index (DBI), and Calinski-Harabasz Index (CHI). In addition, topic analysis and time-series visualization were applied to reveal the distribution and evolution of patient demand themes. Results The proposed model demonstrated superior performance compared with the baseline models, achieving higher stability and interpretability across the evaluation metrics (SC = 0.5473, DBI = 10773.26, CHI = 0.7908). Based on this framework, six major themes were identified: appointment and registration, doctor inquiry and consultation, examinations and tests, medication and inpatient medical records, fee settlement and insurance, and customer services and account management. Temporal evolution analysis further revealed that these themes exhibited stage-specific fluctuations and seasonal aggregation, highlighting the model’s ability to capture both static structures and dynamic trends in patient needs. Conclusion The multi-feature fusion clustering approach enables a more comprehensive exploration of patients’ concerns in online consultations. It provides empirical evidence for understanding the service landscape of internet hospitals. At the same time, it offers important references for advancing precision service delivery and informing policy development in online healthcare.",
-      "summary": "Abstract Background Internet hospital patient generated questions during online consultations are typically short, semantically incomplete, and expressed in a non-standardized manner, which poses challenges for demand recognition and knowledge discovery. The clustering performance was evaluated using the Silhouette Coefficient (SC), Davies–Bouldin Index (DBI), and Calinski-Harabasz Index (CHI). Results The proposed model demonstrated superior performance compared with the baseline models, achieving higher stability and interpretability across the evaluation metrics (SC = 0.5473, DBI = 10773.26, CHI = 0.7908).",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7121199899",
-      "title": "Clinical evaluation of novel deep learning‐based auto‐segmentation software: Utility and potential pitfalls",
-      "authors": [
-        "Ryota Tozuka",
-        "Masahide Saito",
-        "Masaki Matsuda",
-        "T. Akita",
-        "Hikaru Nemoto",
-        "Zhe Chen",
-        "Takafumi Komiyama",
-        "Kazuma Mochizuki"
-      ],
-      "publication_date": "2026-08-25",
-      "journal": "Journal of Applied Clinical Medical Physics",
-      "doi": "https://doi.org/10.1002/acm2.70757",
-      "url": "https://doi.org/10.1002/acm2.70757",
-      "abstract": "BACKGROUND: Accurate contouring of target volumes and organs at risk is critical in radiotherapy. While deep learning (DL) models offer automated contouring, their clinical applicability to real-world cases containing anatomical variations and artifacts requires rigorous validation. PURPOSE: To evaluate the clinical accuracy and potential vulnerabilities of RatoGuide, novel DL-based auto-segmentation software, using a dataset including atypical cases derived from routine clinical practice. METHODS: This single-center retrospective study included 69 thoracic and male pelvic cases. The cohort was intentionally selected to encompass diverse anatomies and artifacts (e.g., pacemakers, SpaceOAR implants, artificial femoral head replacements, and unilateral atelectasis). Auto-contours generated by RatoGuide were compared with expert-approved manual contours. Performance was evaluated quantitatively using the Dice Similarity Coefficient (DSC) and 95th percentile Hausdorff Distance (HD95), and qualitatively via a 5-point visual assessment scale by four independent reviewers. Statistical comparisons between cohorts were performed using the Mann-Whitney U test. Additionally, a dosimetric evaluation was conducted for male pelvic cases to assess clinical impact. RESULTS: In typical cases, the software maintained high segmentation accuracy (thorax: mean DSC 0.856, mean HD95 6.89 mm; male pelvis: mean DSC 0.874, mean HD95 4.11 mm). However, performance declined in atypical cohorts (thorax: mean DSC 0.808, p = 0.0457, mean HD95 12.22 mm, p = 0.0002; male pelvis: mean DSC 0.828, p = 0.1620, mean HD95 6.16 mm, p = 0.0075). Notable decreases in accuracy were observed in challenging scenarios, such as artificial femoral head replacements (DSC: 0.754) and unilateral atelectasis (DSC: 0.784). Qualitative assessment revealed that errors were primarily due to anatomical factors and artifacts. Furthermore, the dosimetric evaluation identified one critical false-negative error where a dose constraint violation was overlooked when the DL contour was used. CONCLUSIONS: RatoGuide demonstrated favorable performance in typical cases, but accuracy declined in atypical cases with artifacts or altered anatomy. For clinical implementation, rigorous visual verification and manual review by experts are essential, particularly for atypical cases and organs in high-dose gradient regions.",
-      "summary": "PURPOSE: To evaluate the clinical accuracy and potential vulnerabilities of RatoGuide, novel DL-based auto-segmentation software, using a dataset including atypical cases derived from routine clinical practice. Performance was evaluated quantitatively using the Dice Similarity Coefficient (DSC) and 95th percentile Hausdorff Distance (HD95), and qualitatively via a 5-point visual assessment scale by four independent reviewers. CONCLUSIONS: RatoGuide demonstrated favorable performance in typical cases, but accuracy declined in atypical cases with artifacts or altered anatomy.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7152116519",
-      "title": "Ice nucleation on microcline (001) in the absence of active sites",
-      "authors": [
-        "Florian Schneider",
-        "Rasmus Nilsson",
-        "Ralf Bechstein",
-        "Hans‐Georg Stammler",
-        "Bernhard Reischl",
-        "Thomas Koop",
-        "Angelika Kühnle",
-        "Tobias Dickbreder"
-      ],
-      "publication_date": "2026-08-25",
-      "journal": "Nature Communications",
-      "doi": "https://doi.org/10.1038/s41467-026-76548-7",
-      "url": "https://doi.org/10.1038/s41467-026-76548-7",
-      "abstract": "Abstract Heterogeneous ice nucleation is at the heart of a wide range of technological and natural fields ranging from cryopreservation 1 and the development of anti-icing coatings 2–4 to the glaciation of clouds 5–11 . The latter process has a profound impact on Earth’s climate as it changes major physical properties, such as the albedo and precipitation efficiency 6,7 . Of the many different ice-nucleating mineral particles, dust from feldspar mineral microcline stands out as being particularly active 11–17 . However, why microcline outperforms other particles remains a puzzle. Here, we use nanoscale imaging to show that the (001) surface of microcline is able to induce ice nucleation in the absence of active sites. In contrast, for the closely related feldspar sanidine, ice nucleation is dominant at step edges as expected. Atomistic simulations suggest that the ice nucleation is induced by a lattice match between the higher index (10.4) plane of hexagonal ice and microcline. Our findings provide a nanoscopic explanation for microcline’s exceptional ice nucleation ability and demonstrate the importance of taking higher-index surfaces into account. We expect that the latter insight will enhance our understanding of nucleation processes in nature and our ability to create materials with outstanding ice nucleating abilities.",
-      "summary": "Abstract Heterogeneous ice nucleation is at the heart of a wide range of technological and natural fields ranging from cryopreservation 1 and the development of anti-icing coatings 2–4 to the glaciation of clouds 5–11 . Atomistic simulations suggest that the ice nucleation is induced by a lattice match between the higher index (10.4) plane of hexagonal ice and microcline. Our findings provide a nanoscopic explanation for microcline’s exceptional ice nucleation ability and demonstrate the importance of taking higher-index surfaces into account.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7172450557",
-      "title": "Reversible hydrogen storage with aromatics: boosting LOHC effectiveness through oxygen functionality",
-      "authors": [
-        "Sergey P. Verevkin",
-        "Arina V. Elbakari",
-        "Artemiy Samarov",
-        "Sergey V. Vostrikov",
-        "Anton V. Eremin",
-        "Riko Siewert"
-      ],
-      "publication_date": "2026-08-25",
-      "journal": "Structural Chemistry",
-      "doi": "https://doi.org/10.1007/s11224-026-02878-3",
-      "url": "https://doi.org/10.1007/s11224-026-02878-3",
-      "abstract": "Abstract Liquid organic hydrogen carriers (LOHCs) represent a promising class of materials for reversible hydrogen storage and release, particularly when derived from renewable feedstocks such as lignin. Indane and indanone structures can form during lignin valorisation, especially under hydrogenolytic or pyrolytic conditions. Lignin-based compounds inherently contain oxygenated functional groups (e.g., carbonyl, methoxy, methyl, etc. substituents) that can influence the thermodynamics of hydrogenation and dehydrogenation reactions, thereby affecting overall storage efficiency. This study investigates the impact of oxygen functionalization in aromatic indane based systems on the thermodynamic parameters governing reversible hydrogenation. Reaction enthalpies, entropies, Gibbs free energies, and equilibrium temperatures were determined through a combination of experimental and empirical thermochemical data and high-level quantum chemical calculations. The results reveal that oxygen-substituted indane derivatives exhibit markedly lower reaction enthalpies and equilibrium temperatures compared to their unsubstituted aromatic counterparts. Overall, the results demonstrate that efficient hydrogen release from oxygen-functionalized aromatic molecules is thermodynamically feasible at temperatures well below 500 K - an essential criterion for practical LOHC operation. Graphical abstract Liquid organic hydrogen carriers (LOHCs) derived from lignin offer promising hydrogen storage. This study evaluates how oxygen functional groups affect hydrogenation thermodynamics of indane-based compounds. Quantum chemical and thermochemical analyses show reduced reaction enthalpies and equilibrium temperatures, enabling efficient hydrogen release below 500 K for practical LOHC applications",
-      "summary": "The results reveal that oxygen-substituted indane derivatives exhibit markedly lower reaction enthalpies and equilibrium temperatures compared to their unsubstituted aromatic counterparts. Overall, the results demonstrate that efficient hydrogen release from oxygen-functionalized aromatic molecules is thermodynamically feasible at temperatures well below 500 K - an essential criterion for practical LOHC operation. Quantum chemical and thermochemical analyses show reduced reaction enthalpies and equilibrium temperatures, enabling efficient hydrogen release below 500 K for practical LOHC applications",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "新能源与储能"
-      ],
-      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
