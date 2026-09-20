@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-20",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -304,8 +304,8 @@
       "journal": "Drug Development and Industrial Pharmacy",
       "doi": "https://doi.org/10.1080/03639045.2026.2736231",
       "url": "https://doi.org/10.1080/03639045.2026.2736231",
-      "abstract": "Objective To evaluate whether fused deposition modeling (FDM) 3D printing, combined with a simple filament soaking technique and modifications of infill pattern geometry, can modulate the release rate of ketoprofen from buccal films.Significance: This proof-of-concept approach explores a low-complexity strategy for producing personalized buccal dosage forms with adjustable drug release using commercially available materials and minimal processing steps.Methods Polyvinyl alcohol (PVA) filaments were loaded with ketoprofen by soaking in a saturated ketoprofen solution in absolute ethanol. Buccal films were 3D-printed using two infill patterns (lines and triangle). Drug content was quantified by UV/Vis spectrophotometry. Solid-state characterization was performed using DSC and FTIR. Dissolution testing was conducted for 120 min in 200 mL phosphate buffer (pH 6.8).Results Ketoprofen-loaded films were successfully printed from soaked commercial PVA filaments. DSC and FTIR indicated conversion of ketoprofen to an amorphous form and possible solid dispersion formation within the polymer matrix. Infill geometry influenced drug release: triangle-pattern films showed slower release (79 ± 2% at 120 min) compared with line-pattern films (96 ± 5% at 120 min).Conclusions Combining filament soaking with FDM 3D printing enables fabrication of ketoprofen buccal films with sustained release. Simple infill pattern modifications effectively modulate release profiles, highlighting the potential of this accessible approach for personalized buccal drug delivery.",
-      "summary": "Objective To evaluate whether fused deposition modeling (FDM) 3D printing, combined with a simple filament soaking technique and modifications of infill pattern geometry, can modulate the release rate of ketoprofen from buccal films.Significance: This proof-of-concept approach explores a low-complexity strategy for producing personalized buccal dosage forms with adjustable drug release using commercially available materials and minimal processing steps.Methods Polyvinyl alcohol (PVA) filaments were loaded with ketoprofen by soaking in a saturated ketoprofen solution in absolute ethanol. DSC and FTIR indicated conversion of ketoprofen to an amorphous form and possible solid dispersion formation within the polymer matrix. Infill geometry influenced drug release: triangle-pattern films showed slower release (79 ± 2% at 120 min) compared with line-pattern films (96 ± 5% at 120 min).Conclusions Combining filament soaking with FDM 3D printing enables fabrication of ketoprofen buccal films with sustained release.",
+      "abstract": "OBJECTIVE: To evaluate whether fused deposition modeling (FDM) 3D printing, combined with a simple filament soaking technique and modifications of infill pattern geometry, can modulate the release rate of ketoprofen from buccal films.Significance: This proof-of-concept approach explores a low-complexity strategy for producing personalized buccal dosage forms with adjustable drug release using commercially available materials and minimal processing steps. METHODS: Polyvinyl alcohol (PVA) filaments were loaded with ketoprofen by soaking in a saturated ketoprofen solution in absolute ethanol. Buccal films were 3D-printed using two infill patterns (lines and triangle). Drug content was quantified by UV/Vis spectrophotometry. Solid-state characterization was performed using DSC and FTIR. Dissolution testing was conducted for 120 min in 200 mL phosphate buffer (pH 6.8). RESULTS: Ketoprofen-loaded films were successfully printed from soaked commercial PVA filaments. DSC and FTIR indicated conversion of ketoprofen to an amorphous form and possible solid dispersion formation within the polymer matrix. Infill geometry influenced drug release: triangle-pattern films showed slower release (79 ± 2% at 120 min) compared with line-pattern films (96 ± 5% at 120 min). CONCLUSIONS: Combining filament soaking with FDM 3D printing enables fabrication of ketoprofen buccal films with sustained release. Simple infill pattern modifications effectively modulate release profiles, highlighting the potential of this accessible approach for personalized buccal drug delivery.",
+      "summary": "OBJECTIVE: To evaluate whether fused deposition modeling (FDM) 3D printing, combined with a simple filament soaking technique and modifications of infill pattern geometry, can modulate the release rate of ketoprofen from buccal films.Significance: This proof-of-concept approach explores a low-complexity strategy for producing personalized buccal dosage forms with adjustable drug release using commercially available materials and minimal processing steps. DSC and FTIR indicated conversion of ketoprofen to an amorphous form and possible solid dispersion formation within the polymer matrix. Infill geometry influenced drug release: triangle-pattern films showed slower release (79 ± 2% at 120 min) compared with line-pattern films (96 ± 5% at 120 min).",
       "techniques": [
         "DSC"
       ],
@@ -643,6 +643,48 @@
         "电子与封装"
       ],
       "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213541418",
+      "title": "Recent Advances in Albumin Stabilization: Impact on Therapeutic Applications",
+      "authors": [
+        "Amerh Aiad Alahmadi"
+      ],
+      "publication_date": "2026-09-18",
+      "journal": "International Journal of Drug Delivery Technology",
+      "doi": "https://doi.org/10.25258/ijddt.16.83s.105",
+      "url": "https://doi.org/10.25258/ijddt.16.83s.105",
+      "abstract": ".",
+      "summary": ".",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213544389",
+      "title": "IONIC LIQUID PURIFICATION OF PETROLEUM DISTILLATES",
+      "authors": [
+        "F. Nasirov"
+      ],
+      "publication_date": "2026-09-18",
+      "journal": "Scientific Journal",
+      "doi": "https://doi.org/10.30546/emnaa.2026.02.28.145",
+      "url": "https://doi.org/10.30546/emnaa.2026.02.28.145",
+      "abstract": "The solvents, traditionally employed in the industrially applied methods for the selective purification of oil fractions (furfural, N-methyl pyrrolidone -NMP, morpholine, sulfolane, etc.) are volatile, toxic, has corrosive nature and relatively low selectivity.These limitations highlight the urgent need for new approaches to the purification of petroleum distillates to ensure the production of high-quality fuels and oils while minimizing environmental impact.The use of ionic-liquid compounds as selective solvents for the extraction purification of petroleum distillates has garnered significant scientific and practical interest.Owing to their unique combination of properties including negligible volatility, low vapor pressure, high chemical and thermal stability, strong solvating ability across various compound classes, and superior selectivity role in the development of environmentally sustainable synthesis and refining processes.The objective of this study is to produce high-quality oils and fuels for diverse applications by employing ionic liquids synthesized from formic and acetic acids as selective solvents.Through systematic experimentation, optimal conditions for the extraction-based purification of different types of petroleum feedstocks such as diesel distillates, transformer oil, medicinal Naftalan oil, lubricating distillates, and kerosene have been identified.The study demonstrates the effectiveness and potential of ionic-liquid extraction as an environmentally friendly and economically viable method for the deep purification of petroleum fractions.",
+      "summary": "The solvents, traditionally employed in the industrially applied methods for the selective purification of oil fractions (furfural, N-methyl pyrrolidone -NMP, morpholine, sulfolane, etc.) are volatile, toxic, has corrosive nature and relatively low selectivity.These limitations highlight the urgent need for new approaches to the purification of petroleum distillates to ensure the production of high-quality fuels and oils while minimizing environmental impact.The use of ionic-liquid compounds as selective solvents for the extraction purification of petroleum distillates has garnered significant scientific and practical interest.Owing to their unique combination of properties including negligible volatility, low vapor pressure, high chemical and thermal stability, strong solvating ability across various compound classes, and superior selectivity role in the development of environmentally sustainable synthesis and refining processes.The objective of this study is to produce high-quality oils and fuels for diverse applications by employing ionic liquids synthesized from formic and acetic acids as selective solvents.Through systematic experimentation, optimal conditions for the extraction-based purification of different types of petroleum feedstocks such as diesel distillates, transformer oil, medicinal Naftalan oil, lubricating distillates, and kerosene have been identified.The study demonstrates the effectiveness and potential of ionic-liquid extraction as an environmentally friendly and economically viable method for the deep purification of petroleum fractions.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -1328,8 +1370,8 @@
       "journal": "Journal of Dairy Research",
       "doi": "https://doi.org/10.1017/s0022029926102684",
       "url": "https://doi.org/10.1017/s0022029926102684",
-      "abstract": "Abstract Colostrum is a valuable functional ingredient thanks to its rich composition of bioactive compounds, particularly immunoglobulins and growth factors, as well as its nutritional value. In addition to its use for calf nutrition and immune system support, colostrum is used to produce functional foods for human consumption. Various methods are available to prevent colostrum waste and to process it into various products. Traditional drying methods, such as spray and freeze drying, are widely used to extend shelf life. However, the resulting powders often exhibit poor instant drying properties, such as low dispersibility, solubility and wettability. Fluidized bed drying has emerged as a promising post-drying technology to address these limitations. This technique enables particle agglomeration and surface modification, increasing powder flowability, reducing cohesiveness and improving reconstitution behaviour in aqueous media. Furthermore, binders such as maltodextrin, lactose or sucrose during fluidized bed agglomeration can further stabilize the immunoglobulin content and reduce moisture uptake during storage. Optimizing process parameters such as inlet air temperature, binder concentration and fluidization air flow can yield colostrum powders with superior technological and functional properties. In this review, drying methods of colostrum powder are discussed comparatively and the potential of using the agglomeration process with a fluidized bed dryer to improve powder properties after drying is discussed. Consequently, fluidized bed drying represents a valuable strategy for developing instant colostrum powders, facilitating their application in various functional food matrices and increasing consumer acceptance.",
-      "summary": "Abstract Colostrum is a valuable functional ingredient thanks to its rich composition of bioactive compounds, particularly immunoglobulins and growth factors, as well as its nutritional value. In this review, drying methods of colostrum powder are discussed comparatively and the potential of using the agglomeration process with a fluidized bed dryer to improve powder properties after drying is discussed. Consequently, fluidized bed drying represents a valuable strategy for developing instant colostrum powders, facilitating their application in various functional food matrices and increasing consumer acceptance.",
+      "abstract": "Colostrum is a valuable functional ingredient thanks to its rich composition of bioactive compounds, particularly immunoglobulins and growth factors, as well as its nutritional value. In addition to its use for calf nutrition and immune system support, colostrum is used to produce functional foods for human consumption. Various methods are available to prevent colostrum waste and to process it into various products. Traditional drying methods, such as spray and freeze drying, are widely used to extend shelf life. However, the resulting powders often exhibit poor instant drying properties, such as low dispersibility, solubility and wettability. Fluidized bed drying has emerged as a promising post-drying technology to address these limitations. This technique enables particle agglomeration and surface modification, increasing powder flowability, reducing cohesiveness and improving reconstitution behaviour in aqueous media. Furthermore, binders such as maltodextrin, lactose or sucrose during fluidized bed agglomeration can further stabilize the immunoglobulin content and reduce moisture uptake during storage. Optimizing process parameters such as inlet air temperature, binder concentration and fluidization air flow can yield colostrum powders with superior technological and functional properties. In this review, drying methods of colostrum powder are discussed comparatively and the potential of using the agglomeration process with a fluidized bed dryer to improve powder properties after drying is discussed. Consequently, fluidized bed drying represents a valuable strategy for developing instant colostrum powders, facilitating their application in various functional food matrices and increasing consumer acceptance.",
+      "summary": "Colostrum is a valuable functional ingredient thanks to its rich composition of bioactive compounds, particularly immunoglobulins and growth factors, as well as its nutritional value. In this review, drying methods of colostrum powder are discussed comparatively and the potential of using the agglomeration process with a fluidized bed dryer to improve powder properties after drying is discussed. Consequently, fluidized bed drying represents a valuable strategy for developing instant colostrum powders, facilitating their application in various functional food matrices and increasing consumer acceptance.",
       "techniques": [
         "热分析"
       ],
@@ -1355,8 +1397,8 @@
       "journal": "Small",
       "doi": "https://doi.org/10.1002/smll.75772",
       "url": "https://doi.org/10.1002/smll.75772",
-      "abstract": "ABSTRACT Carbon dots (CDs) are emerging zero‐dimensional carbon‐based nanomaterials with unique optical properties. Among them, near‐infrared carbon dots (NIR‐CDs), exhibiting absorption/emission in the biological transparency window (650‐1700 nm), have attracted increasing attention due to their excellent biocompatibility, high spatial resolution, and low photo‐toxicity. In this review, we systematically summarize the development of NIR‐CDs including preparation methods, rational design and choice of precursors, optical characteristics and mechanisms, and multifunctional applications. A comprehensive and detailed methodological description encompassing the synthesis strategies, rational design, and precursor engineering of NIR‐CDs are provided. And then the optical properties of NIR‐CDs, including absorption, fluorescence, phosphorescence, nonlinear optical properties, and their mechanisms are further discussed and analyzed. Finally, recent advances in the multifunctional applications of NIR‐CDs are summarized, covering light‐emitting devices, fluorescence sensing, environmental, hydrogen energy, and biomedical fields. By consolidating current knowledge into a unified framework and identifying key challenges and opportunities, the review not only offers the most up‐to‐date and holistic perspective on NIR‐CDs but also serves as a guide to accelerate the translation of NIR‐CDs from laboratory research to practical applications.",
-      "summary": "ABSTRACT Carbon dots (CDs) are emerging zero‐dimensional carbon‐based nanomaterials with unique optical properties. In this review, we systematically summarize the development of NIR‐CDs including preparation methods, rational design and choice of precursors, optical characteristics and mechanisms, and multifunctional applications. By consolidating current knowledge into a unified framework and identifying key challenges and opportunities, the review not only offers the most up‐to‐date and holistic perspective on NIR‐CDs but also serves as a guide to accelerate the translation of NIR‐CDs from laboratory research to practical applications.",
+      "abstract": "Carbon dots (CDs) are emerging zero-dimensional carbon-based nanomaterials with unique optical properties. Among them, near-infrared carbon dots (NIR-CDs), exhibiting absorption/emission in the biological transparency window (650-1700 nm), have attracted increasing attention due to their excellent biocompatibility, high spatial resolution, and low photo-toxicity. In this review, we systematically summarize the development of NIR-CDs including preparation methods, rational design and choice of precursors, optical characteristics and mechanisms, and multifunctional applications. A comprehensive and detailed methodological description encompassing the synthesis strategies, rational design, and precursor engineering of NIR-CDs are provided. And then the optical properties of NIR-CDs, including absorption, fluorescence, phosphorescence, nonlinear optical properties, and their mechanisms are further discussed and analyzed. Finally, recent advances in the multifunctional applications of NIR-CDs are summarized, covering light-emitting devices, fluorescence sensing, environmental, hydrogen energy, and biomedical fields. By consolidating current knowledge into a unified framework and identifying key challenges and opportunities, the review not only offers the most up-to-date and holistic perspective on NIR-CDs but also serves as a guide to accelerate the translation of NIR-CDs from laboratory research to practical applications.",
+      "summary": "Carbon dots (CDs) are emerging zero-dimensional carbon-based nanomaterials with unique optical properties. In this review, we systematically summarize the development of NIR-CDs including preparation methods, rational design and choice of precursors, optical characteristics and mechanisms, and multifunctional applications. By consolidating current knowledge into a unified framework and identifying key challenges and opportunities, the review not only offers the most up-to-date and holistic perspective on NIR-CDs but also serves as a guide to accelerate the translation of NIR-CDs from laboratory research to practical applications.",
       "techniques": [
         "热分析"
       ],
@@ -1466,8 +1508,8 @@
       "journal": "Nature Plants",
       "doi": "https://doi.org/10.1038/s41477-026-02380-y",
       "url": "https://doi.org/10.1038/s41477-026-02380-y",
-      "abstract": "Abstract Precise ligand recognition by closely related leucine-rich repeat receptor kinases (LRR-RKs) is essential for plants to coordinate immunity, development and environmental adaptation. Here we show how the LRR-RK HSL3/NUT specifically recognizes the folded, disulfide-stabilized CTNIP4/SCREW2 phytocytokine in Arabidopsis . Quantitative binding assays define a minimal CTNIP4 region required for high-affinity HSL3 interaction and signalling activation. A 2.12-Å crystal structure of the HSL3–CTNIP4 complex reveals a unique C-terminal receptor pocket that accommodates the peptide’s cyclic architecture through a combination of hydrophobic and polar contacts, a feature absent in the closely related HAE/HSL LRR-RKs. The cyclic CTNIP4 fold further establishes a largely hydrophobic interface that bridges HSL3 to the SERK co-receptor, forming a distinct activation surface. Together, these structural, biochemical and physiological insights uncover a previously unrecognized mechanism of CTNIP4 peptide perception and HSL3 receptor activation, highlighting how subtle architectural variations enable precise ligand selectivity among highly conserved plant receptor kinases.",
-      "summary": "Abstract Precise ligand recognition by closely related leucine-rich repeat receptor kinases (LRR-RKs) is essential for plants to coordinate immunity, development and environmental adaptation. Here we show how the LRR-RK HSL3/NUT specifically recognizes the folded, disulfide-stabilized CTNIP4/SCREW2 phytocytokine in Arabidopsis . A 2.12-Å crystal structure of the HSL3–CTNIP4 complex reveals a unique C-terminal receptor pocket that accommodates the peptide’s cyclic architecture through a combination of hydrophobic and polar contacts, a feature absent in the closely related HAE/HSL LRR-RKs.",
+      "abstract": "Precise ligand recognition by closely related leucine-rich repeat receptor kinases (LRR-RKs) is essential for plants to coordinate immunity, development and environmental adaptation. Here we show how the LRR-RK HSL3/NUT specifically recognizes the folded, disulfide-stabilized CTNIP4/SCREW2 phytocytokine in Arabidopsis. Quantitative binding assays define a minimal CTNIP4 region required for high-affinity HSL3 interaction and signalling activation. A 2.12-Å crystal structure of the HSL3-CTNIP4 complex reveals a unique C-terminal receptor pocket that accommodates the peptide's cyclic architecture through a combination of hydrophobic and polar contacts, a feature absent in the closely related HAE/HSL LRR-RKs. The cyclic CTNIP4 fold further establishes a largely hydrophobic interface that bridges HSL3 to the SERK co-receptor, forming a distinct activation surface. Together, these structural, biochemical and physiological insights uncover a previously unrecognized mechanism of CTNIP4 peptide perception and HSL3 receptor activation, highlighting how subtle architectural variations enable precise ligand selectivity among highly conserved plant receptor kinases.",
+      "summary": "Precise ligand recognition by closely related leucine-rich repeat receptor kinases (LRR-RKs) is essential for plants to coordinate immunity, development and environmental adaptation. Here we show how the LRR-RK HSL3/NUT specifically recognizes the folded, disulfide-stabilized CTNIP4/SCREW2 phytocytokine in Arabidopsis. A 2.12-Å crystal structure of the HSL3-CTNIP4 complex reveals a unique C-terminal receptor pocket that accommodates the peptide's cyclic architecture through a combination of hydrophobic and polar contacts, a feature absent in the closely related HAE/HSL LRR-RKs.",
       "techniques": [
         "热分析"
       ],
@@ -7662,51 +7704,6 @@
         "电子与封装"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212171336",
-      "title": "Bark photosynthesis in woody perennials: mechanisms, ecological significance and climate resilience",
-      "authors": [
-        "Keisham Bindyalaxmi",
-        "Binu N Kamalolbhavan",
-        "A. V. Santhoshkumar",
-        "P. Boominathan"
-      ],
-      "publication_date": "2026-09-10",
-      "journal": "Current Science",
-      "doi": "https://doi.org/10.18520/cs/v131/i5/423-434",
-      "url": "https://doi.org/10.18520/cs/v131/i5/423-434",
-      "abstract": "Bark photosynthesis is a vital non-foliar physiological process that supports the carbon economy and enhances stress resilience in woody trees.It serves as an adaptive mechanism to withstand drought, enabling the continuous refixation of respiratory carbon dioxide and helping to maintain the tree's carbon reserves.This process primarily occurs in woody deciduous and arid species.It can persist in extreme environments when leaf photosynthesis ceases, acting as an essential survival bridge for trees in harsh conditions.The review aims to elucidate the anatomical locations and physiological mechanisms underlying bark photosynthesis.It also examines environmental factors such as light availability, temperature, and water status, along with structural traits such as bark thickness and chloroplast distribution, that influence its rate.The ecological and functional significance of this process in improving drought tolerance by facilitating embolism repair is also discussed.Understanding this trait is crucial for comprehending whole-tree carbon dynamics, restoring degraded extreme sites, and developing climate resilience strategies using species with high bark photosynthetic capacity.",
-      "summary": "Bark photosynthesis is a vital non-foliar physiological process that supports the carbon economy and enhances stress resilience in woody trees.It serves as an adaptive mechanism to withstand drought, enabling the continuous refixation of respiratory carbon dioxide and helping to maintain the tree's carbon reserves.This process primarily occurs in woody deciduous and arid species.It can persist in extreme environments when leaf photosynthesis ceases, acting as an essential survival bridge for trees in harsh conditions.The review aims to elucidate the anatomical locations and physiological mechanisms underlying bark photosynthesis.It also examines environmental factors such as light availability, temperature, and water status, along with structural traits such as bark thickness and chloroplast distribution, that influence its rate.The ecological and functional significance of this process in improving drought tolerance by facilitating embolism repair is also discussed.Understanding this trait is crucial for comprehending whole-tree carbon dynamics, restoring degraded extreme sites, and developing climate resilience strategies using species with high bark photosynthetic capacity.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212175011",
-      "title": "Microwave Assisted Synthesis and Characterization of Novel Schiff Base Ligand and Biological Activity of Transition Metal Complexes Derived From 4-Cyano-2-Fluoro Benzohydrazide with Indole-3-Carbaldehyde",
-      "authors": [
-        "Sadashiv N. Sinkar"
-      ],
-      "publication_date": "2026-09-10",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22694374",
-      "url": "https://doi.org/10.5281/zenodo.22694374",
-      "abstract": "A new series of novel Schiff base ligand (E)-N'-((1H-indol-3-yl) methylene)-4-cyano-2-fluorobenzohydrazide, was synthesized by using microwave assisted method of 4-cyano-2-fluorobenzohydrazide with indole-3-carbaldehyde. Transition metal complexes of Mn (II), Co (II), Ni (II), Cu (II), and Zn (II) were prepared and characterized using elemental analysis, FT-IR, UV-Vis spectroscopy, 1H NMR, Mass Spectrometry, and Thermal Analysis. The results confirmed bidentate coordination of the ligand through azomethine nitrogen and carbonyl oxygen atoms. The complexes exhibited octahedral geometry for Mn (II), Co (II), Ni (II), and Cu (II), while Zn (II) formed an octahedral complex. The ligand and its metal complexes were evaluated for antimicrobial activity against Escherichia coli, Staphylococcus aureus, S.Typhi. The complexes demonstrated enhanced biological activity compared to the free ligand, with Cu (II) complex showing the highest antimicrobial effect. These findings suggest the potential of Schiff base-metal complexes in pharmaceutical applications.",
-      "summary": "A new series of novel Schiff base ligand (E)-N'-((1H-indol-3-yl) methylene)-4-cyano-2-fluorobenzohydrazide, was synthesized by using microwave assisted method of 4-cyano-2-fluorobenzohydrazide with indole-3-carbaldehyde. The complexes demonstrated enhanced biological activity compared to the free ligand, with Cu (II) complex showing the highest antimicrobial effect. These findings suggest the potential of Schiff base-metal complexes in pharmaceutical applications.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
