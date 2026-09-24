@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -29,6 +29,36 @@
         "电子与封装"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7211975381",
+      "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
+      "authors": [
+        "Que Huang",
+        "Rui Du",
+        "Xu Yang",
+        "Yanwu Yu",
+        "Zirui Guo",
+        "Guohui Li",
+        "Qinpei Chen",
+        "Jianghui Xie"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "PubMed",
+      "doi": "https://doi.org/10.1016/j.jcis.2026.141499",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704931",
+      "abstract": "; infrared spectroscopy reveals minimal temperature variation during charge-discharge cycles. Accelerated Calorimetry (ARC), Thermogravimetric Analysis (TG) and Differential Scanning Calorimetry (DSC) tests further confirmed that element doping significantly improves the thermal stability of NVP, increases heat absorption and reduces the risk of thermal runaway. Building on this, a Random Forest (RF) machine learning model was developed to systematically analyze thermal runaway data and predict safety performance under different doping conditions. Model evaluation results indicate that the RF model possesses high predictive accuracy and good generalisation ability, enabling it to effectively identify key features influencing safety. Integrating experimental and modelling results, the combination of transition metal element doping modification and machine learning prediction methods provides a new technical pathway and theoretical basis for the design and feasibility assessment of high-safety sodium-ion batteries.",
+      "summary": "; infrared spectroscopy reveals minimal temperature variation during charge-discharge cycles. Model evaluation results indicate that the RF model possesses high predictive accuracy and good generalisation ability, enabling it to effectively identify key features influencing safety. Integrating experimental and modelling results, the combination of transition metal element doping modification and machine learning prediction methods provides a new technical pathway and theoretical basis for the design and feasibility assessment of high-safety sodium-ion batteries.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "新能源与储能"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -341,6 +371,7 @@
         "Jun Seo Seo",
         "Seo Hu Kim",
         "Si Heon Kim",
+        "Si Heon Kim",
         "Jung Myoung Lee"
       ],
       "publication_date": "2026-09-22",
@@ -537,6 +568,573 @@
         "热安全与失效分析"
       ],
       "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W4286899392",
+      "title": "A Heavy Traffic Theory of Matching Queues",
+      "authors": [
+        "Sushil Mahavir Varma",
+        "Siva Theja Maguluri"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Mathematics of Operations Research",
+      "doi": "https://doi.org/10.1287/moor.2024.0818",
+      "url": "https://doi.org/10.1287/moor.2024.0818",
+      "abstract": "Motivated by emerging applications in online matching platforms and marketplaces, we study a matching queue. Customers and servers that arrive in a matching queue depart as soon as they are matched. It is known that a matching queue without an external control is unstable, and so we study its behavior for a general state-dependent control. Whereas state-dependent control is an effective lever to regulate the throughput and delay, it often comes at a cost for matching platforms in practice. Optimizing this fundamental trade-off motivates the use of small amounts of control, so we study a matching queue in an asymptotic regime in which the state-dependent control decreases to zero. Unlike the heavy traffic regime in classical queues, there are two different ways the control can be sent to zero: via a magnitude scaling parameter [Formula: see text] that goes to zero and a time scaling parameter [Formula: see text] that goes to infinity. Depending on the cost of control, we show that the rates of [Formula: see text] and [Formula: see text] that optimize the trade-off between delay and cost of control could correspond to three different regimes. As we traverse these regimes, we observe a phase transition in the limiting distribution of the matching queue. We show that a low cost of control corresponds to the regime [Formula: see text], and we call it the delay-driven regime. The limiting behavior in this regime is an asymmetrical Laplace distribution. On the other hand, [Formula: see text] is the cost-driven regime corresponding to a high cost of control in which the limiting behavior is either a uniform or a truncated exponential distribution. We christen the in-between regime of [Formula: see text] the hybrid regime in which the limiting behavior is a Gibbs distribution. These results are obtained by novel generalizations of the transform method, in which each regime requires new ideas. The hybrid regime employs inverse Fourier transforms, whereas the other two regimes engineer multiple complex exponential test functions. Funding: This work was supported by the National Science Foundation [Grants CMMI-2140534 and EPCN-2144316].",
+      "summary": "Motivated by emerging applications in online matching platforms and marketplaces, we study a matching queue. These results are obtained by novel generalizations of the transform method, in which each regime requires new ideas. Funding: This work was supported by the National Science Foundation [Grants CMMI-2140534 and EPCN-2144316].",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7166710626",
+      "title": "Multiphysical Impedance Spectroscopy of Porous Electrodes Based on Linear Irreversible Thermodynamics",
+      "authors": [
+        "Junning Jiao",
+        "Juner Zhu"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of The Electrochemical Society",
+      "doi": "https://doi.org/10.1149/1945-7111/aeab12",
+      "url": "https://doi.org/10.1149/1945-7111/aeab12",
+      "abstract": "Abstract Porous electrodes couple electrical, chemical, mechanical, hydraulic, and thermal fields, yet conventional frequency-domain diagnostics interrogate only one of them: electrochemical impedance spectroscopy (EIS) the electrical response and dynamic mechanical analysis (DMA) the mechanical. Each reads a diagonal entry of the multiphysical constitutive matrix; the off-diagonal couplings — the basis of cross-domain transduction, and of degradation in electrodes — enter only implicitly. Starting from linear irreversible thermodynamics, we formulate a general theory of multiphysical impedance spectroscopy, in which perturbing one field and measuring the conjugate response of another probes off-diagonal entries explicitly. Specializing to the electro-chemo-mechanical pathway yields a closed-form theory of mechano-electrochemical impedance spectroscopy (MEIS), in which a small harmonic current is applied and the stack stress is measured. The impedance factorizes into a chemical-accumulation term multiplying the sum of a chemo-mechanical and a poro-mechanical kernel, with a porosity-accommodation bridge function derived from a Helmholtz free energy and a three-phase closure that interpolates between unsaturated and Biot-saturated limits. Because the mechanical kernel reduces to an equivalent spring–dashpot network, measured spectra can be fitted as in EIS or DMA with each element retaining a definite physical meaning, and MEIS emerges as one member of a broader family of cross-coupled spectroscopies.",
+      "summary": "Abstract Porous electrodes couple electrical, chemical, mechanical, hydraulic, and thermal fields, yet conventional frequency-domain diagnostics interrogate only one of them: electrochemical impedance spectroscopy (EIS) the electrical response and dynamic mechanical analysis (DMA) the mechanical. The impedance factorizes into a chemical-accumulation term multiplying the sum of a chemo-mechanical and a poro-mechanical kernel, with a porosity-accommodation bridge function derived from a Helmholtz free energy and a three-phase closure that interpolates between unsaturated and Biot-saturated limits. Because the mechanical kernel reduces to an equivalent spring–dashpot network, measured spectra can be fitted as in EIS or DMA with each element retaining a definite physical meaning, and MEIS emerges as one member of a broader family of cross-coupled spectroscopies.",
+      "techniques": [
+        "DMA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "新能源与储能"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213967263",
+      "title": "Lexical Features and Translation Strategies of Ceramic English",
+      "authors": [
+        "Yanan Song"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Literature Language and Cultural Studies",
+      "doi": "https://doi.org/10.63313/llcs.9215",
+      "url": "https://doi.org/10.63313/llcs.9215",
+      "abstract": "The ceramic industry is a precious traditional Chinese sector and an important part of modern materials industry. Accurate translation of ceramic terminology guarantees effective cross‑cultural and technical communication. Using case analysis, this paper summarizes core lexical features of ceramic English and proposes targeted translation strategies. It aims to offer practical references for terminology translation and promote the standardization of ceramic‑English translation.",
+      "summary": "The ceramic industry is a precious traditional Chinese sector and an important part of modern materials industry. Using case analysis, this paper summarizes core lexical features of ceramic English and proposes targeted translation strategies. It aims to offer practical references for terminology translation and promote the standardization of ceramic‑English translation.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213970516",
+      "title": "Bisphenol A in braces and beyond: A narrative review",
+      "authors": [
+        "Sreedevi R G",
+        "Abiraj K R",
+        "Sonu M Mohan",
+        "Aparna T Sona Pavithran M",
+        "Thasneem S"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "International Journal of Oral Health Dentistry",
+      "doi": "https://doi.org/10.18231/j.ijohd.63611.1790065478",
+      "url": "https://doi.org/10.18231/j.ijohd.63611.1790065478",
+      "abstract": "Bisphenol A (BPA; 2,2-bis(4-hydroxyphenyl)propane) is a synthetic compound used in dental resin-based materials, including sealants, composites, adhesives, and clear aligners. Intraoral conditions may enhance BPA release, raising concerns regarding potential systemic effects. This review aimed to evaluate BPA release from dental materials and summarize strategies to minimize exposure. A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science for studies published between 2000 and 2025 using keywords including Bisphenol A, BPA, Bis-GMA, Bis-DMA, BPA toxicity, and orthodontics. Laboratory, animal, and human studies investigating BPA release from dental materials were included, and reference lists were manually screened for additional relevant studies. Most studies reported BPA release immediately after placement, with peak levels occurring within the first hour or day, followed by a progressive decline. The estimated BPA release was generally below recommended tolerable daily intake limits. Polycarbonate brackets, resin composites, and aligners demonstrated variable BPA release, while newer BPA-free alternatives, including SiMA- and TTM-based resins, have shown promising potential. Although BPA exposure from individual dental materials appears to remain below safety thresholds, cumulative exposure from multiple sources warrants consideration. Appropriate material selection and adherence to clinical recommendations can further minimize BPA exposure, particularly in susceptible populations and dental professionals.",
+      "summary": "Bisphenol A (BPA; 2,2-bis(4-hydroxyphenyl)propane) is a synthetic compound used in dental resin-based materials, including sealants, composites, adhesives, and clear aligners. This review aimed to evaluate BPA release from dental materials and summarize strategies to minimize exposure. Polycarbonate brackets, resin composites, and aligners demonstrated variable BPA release, while newer BPA-free alternatives, including SiMA- and TTM-based resins, have shown promising potential.",
+      "techniques": [
+        "DMA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213970989",
+      "title": "Preparation and properties of coal slime-based biomass composite gel——Coal mine fire prevention and control",
+      "authors": [
+        "Jiangle Wu",
+        "Caiping Wang",
+        "Jun Deng",
+        "Yang Xiao",
+        "Yi Lu",
+        "Yikang Liu",
+        "Zujin Bai",
+        "Furu Kang"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Fuel",
+      "doi": "https://doi.org/10.1016/j.fuel.2026.141351",
+      "url": "https://doi.org/10.1016/j.fuel.2026.141351",
+      "abstract": "To improve coal spontaneous combustion (CSC) prevention while promoting the high-value utilization of coal slime (SM), a novel SM-based biomass composite gel (SA/H/X/SM) was developed. The formulation was optimized using an orthogonal experimental design, and its rheological behavior, thermal stability, sealing performance, and CSC inhibition mechanism were systematically investigated by rheological measurements, thermogravimetric analysis (TGA), air-leakage tests, temperature-programmed oxidation, and molecular dynamics (MD) simulations. The results show that sodium alginate (SA) and calcium lactate (CL) formed a three-dimensional gel network through ionic crosslinking, while hydroxypropyl methylcellulose (HPMC) and xanthan gum (XG) further reinforced the structure via hydrogen bonding and chain entanglement. SM particles contributed to network integrity through particle filling and interfacial interactions, improving the thermal stability and mechanical performance of the gel. SA/H/X/SM exhibited typical yield-pseudoplastic behavior and achieved an average air-leakage sealing efficiency exceeding 48.5% under different pressure and flow conditions, demonstrating excellent transportability and sealing performance. The composite gel effectively inhibited coal oxidation by delaying CO and C 2 H 4 release and increasing the apparent activation energy by 4.97% and 29.78% during the low-temperature and accelerated oxidation stages, respectively. MD simulations further revealed that abundant hydrophilic functional groups promoted the adsorption and diffusion of water molecules on the coal surface, thereby enhancing coal wetting. Consequently, SA/H/X/SM efficiently inhibited CSC through the synergistic effects of oxygen isolation and sealing, wetting and cooling, and high-temperature carbonization for thermal dissipation. These findings provide a sustainable and scalable strategy for CSC prevention and valorization of SM in underground fire control applications.",
+      "summary": "To improve coal spontaneous combustion (CSC) prevention while promoting the high-value utilization of coal slime (SM), a novel SM-based biomass composite gel (SA/H/X/SM) was developed. The formulation was optimized using an orthogonal experimental design, and its rheological behavior, thermal stability, sealing performance, and CSC inhibition mechanism were systematically investigated by rheological measurements, thermogravimetric analysis (TGA), air-leakage tests, temperature-programmed oxidation, and molecular dynamics (MD) simulations. SM particles contributed to network integrity through particle filling and interfacial interactions, improving the thermal stability and mechanical performance of the gel.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213976978",
+      "title": "Palm-Oil-Derived Phase-Change Materials for Thermal Energy Storage: Molecular Design, Encapsulation, Heat-Transfer Enhancement, and Engineering Applications A Critical Review",
+      "authors": [
+        "Loso Judijanto"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Material Sciences and Engineering Technology",
+      "doi": "https://doi.org/10.61440/jmset.2026.v4.119",
+      "url": "https://doi.org/10.61440/jmset.2026.v4.119",
+      "abstract": "Phase-change materials (PCMs) can decouple thermal-energy supply from demand by absorbing and releasing latent heat across a narrow temperature interval. Bio-based PCMs have consequently attracted attention as renewable alternatives to petroleum-derived paraffins, yet most reviews treat plant oils as a single broad category and rarely examine the palm-oil platform as an engineerable family of thermalstorage molecules. This critical qualitative literature review evaluates palm oil, palm fractions, palm-derived fatty acids, esters, and related lipids as tunable PCMs rather than as a single biological material. It synthesizes recent evidence on molecular structure–transition relationships, eutectic design, hydrogenation and fractionation; low thermal conductivity and heat-transfer enhancement; encapsulation, form stabilization and leakage control; thermal cycling, corrosion and chemical stability; and emerging applications in buildings, cold chains, photovoltaic systems, battery thermal management, solar-thermal storage and low-grade industrial heat recovery. The analysis shows that palm-derived PCMs are technically credible where phase-transition temperature, latent-heat density and source sustainability are matched deliberately to the application. However, conductivity enhancement creates a recurring latent-heat dilution penalty, while encapsulation improves handling but introduces shell mass, interfacial resistance, processing cost and end-of-life complexity. The most promising research direction is therefore not a search for a universal palm PCM, but application-specific co-design of molecular composition, conductive architecture, containment and life-cycle strategy. A development roadmap is proposed for moving palm-derived PCMs from laboratory characterization toward standardized, safe and scalable thermal-energy-storage systems.",
+      "summary": "Phase-change materials (PCMs) can decouple thermal-energy supply from demand by absorbing and releasing latent heat across a narrow temperature interval. It synthesizes recent evidence on molecular structure–transition relationships, eutectic design, hydrogenation and fractionation; low thermal conductivity and heat-transfer enhancement; encapsulation, form stabilization and leakage control; thermal cycling, corrosion and chemical stability; and emerging applications in buildings, cold chains, photovoltaic systems, battery thermal management, solar-thermal storage and low-grade industrial heat recovery. The analysis shows that palm-derived PCMs are technically credible where phase-transition temperature, latent-heat density and source sustainability are matched deliberately to the application.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "新能源与储能"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213984974",
+      "title": "Orange peel (Citrus sinensis) extract and conventional/gemini surfactant-assisted synthesis of CdS nanoparticles for photocatalytic dye degradation and antibacterial study",
+      "authors": [
+        "Swayam Prajna Sahoo",
+        "Amit Kumar Tiwari"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Results in Chemistry",
+      "doi": "https://doi.org/10.1016/j.rechem.2026.103898",
+      "url": "https://doi.org/10.1016/j.rechem.2026.103898",
+      "abstract": "In this study, CdS nanoparticles (NPs) were synthesised using orange peel extract with gemini surfactant 1,3-bis ( N , N -dimethyl, N-hexadecylammonium) propyl dibromide (16-3-16), and conventional surfactant Cetyltrimethylammonium bromide (CTAB) as stabilising and surface passivating agents. The structural, optical, and morphological properties of the NPs were evaluated using PXRD, HRTEM, FE-SEM, XPS, BET, FT-IR, Raman, TGA, UV–Vis DRS and Pl spectra. PXRD confirmed the formation of cubic-phase CdS NPs, with crystalline sizes of (2.08 nm to 2.70 nm),while the average particle size of was 7.44 ± 2.02 nm confirmed from TEM. Further SAED pattern confirmed diffraction patterns of CdS NPs from HRTEM analysis. UV–Vis DRS confirmed the CdS/Orange peel/16-3-16 NPs showed a narrow band gap of 2.18 eV. For the photocatalytic degradation CdS/Orange peel/16-3-16 nanoparticles degrades MO dye 99% within 120 min and RhB dye 93% within 300 min. LC-MS, and scavengers studies showed that OH and O₂ - radicals are the main reactive oxygen species for degradation. Antibacterial study showed concentration dependent (250 to 1000 μg/mL) inhibition zones (ZOI) against Escherichia coli and Staphylococcus aureus. The CdS/Orange peel/16-3-16 shows minimum inhibitory concentration (MIC) of 2 mg/mL against Staphylococcus aureus with Inhibition of growth percentage of 93.7%. Overall, this study demonstrated the combination of plant-extract and surfactants as stabilising agents for optimization of the structural characterizations and efficiency of CdS nanoparticles, for photocatalytic and antibacterial studies.",
+      "summary": "In this study, CdS nanoparticles (NPs) were synthesised using orange peel extract with gemini surfactant 1,3-bis ( N , N -dimethyl, N-hexadecylammonium) propyl dibromide (16-3-16), and conventional surfactant Cetyltrimethylammonium bromide (CTAB) as stabilising and surface passivating agents. The structural, optical, and morphological properties of the NPs were evaluated using PXRD, HRTEM, FE-SEM, XPS, BET, FT-IR, Raman, TGA, UV–Vis DRS and Pl spectra. Overall, this study demonstrated the combination of plant-extract and surfactants as stabilising agents for optimization of the structural characterizations and efficiency of CdS nanoparticles, for photocatalytic and antibacterial studies.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7213998723",
+      "title": "Bacterial Cellulose Acetate: Influence of Degree of Substitution on Structure, Properties and Functional Applications",
+      "authors": [
+        "Liana Franco Padilha",
+        "Suian Moreira Santos Fontes",
+        "Tereza Neuma de Castro Dantas",
+        "Márcia Regina da Silva Pedrini"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Materials and Polymer Science",
+      "doi": "https://doi.org/10.47485/2832-9384.1085",
+      "url": "https://doi.org/10.47485/2832-9384.1085",
+      "abstract": "Bacterial cellulose (BC) is a biopolymer characterized by high purity and a highly organized nanofibrillar structure; however, its insolubility and limited processability restrict its use in advanced polymer systems. Acetylation using acetic anhydride has emerged as an effective chemical modification strategy, enabling the controlled substitution of hydroxyl groups with acetyl groups and leading to the formation of bacterial cellulose acetate (BCA), a material with tunable properties. This review critically discusses the main reaction systems based on acetic anhydride, addressing reaction mechanisms, the influence of catalysts, and operational conditions, as well as their relationship with the degree of substitution (DS). Particular attention is given to the correlations between DS and structural, thermal, and morphological properties, including changes in crystallinity, thermal stability, thermoplastic behavior, and solubility in organic solvents. The implications of these modifications for the formation of films and membranes are also examined, highlighting the role of reaction control in materials engineering for applications in separation processes, functional packaging, and biomedical devices. Finally, current challenges related to precise DS control, reproducibility, and industrial scalability are discussed, which are essential aspects for consolidating BCA as a material of interest in applied polymer engineering.",
+      "summary": "Bacterial cellulose (BC) is a biopolymer characterized by high purity and a highly organized nanofibrillar structure; however, its insolubility and limited processability restrict its use in advanced polymer systems. Particular attention is given to the correlations between DS and structural, thermal, and morphological properties, including changes in crystallinity, thermal stability, thermoplastic behavior, and solubility in organic solvents. The implications of these modifications for the formation of films and membranes are also examined, highlighting the role of reaction control in materials engineering for applications in separation processes, functional packaging, and biomedical devices.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214001769",
+      "title": "Processing-Route Dependence and Adhesion of Polymer–Adhesive–Steel Interfaces with Recycled PA6/GF30 Composites Modified with Functional Additives: Injection Molding Versus Large-Format Fused Granulate Fabrication",
+      "authors": [
+        "Robert E. Przekop",
+        "Miłosz Frydrych",
+        "Natalia Kubiak",
+        "Kerstin Nowak",
+        "Bogna Sztorch",
+        "Daria Pakuła",
+        "Julia Głowacka",
+        "Magdalena Kustosz"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Materials",
+      "doi": "https://doi.org/10.3390/ma19194053",
+      "url": "https://doi.org/10.3390/ma19194053",
+      "abstract": "Large-scale additive manufacturing (LSAM) using fused granulate fabrication (FGF) offers a potential route for the high-value utilization of recycled thermoplastic composites. This study investigated recycled PA6 containing nominally 30 wt.% glass fibers as a candidate feedstock for large-format FGF. An unmodified reference and formulations containing SF315/PTFE, SF315/U15, and MIX-OH were examined. The granulates were characterized using melt mass flow rate measurements, thermogravimetric analysis, and differential scanning calorimetry, while mechanical properties were compared after injection molding and FGF processing. The best FGF performance was obtained for SF315/PTFE (polytetrafluoroethylene) and SF315/U15. Their tensile strengths reached 117.3 and 118.7 MPa, respectively, compared with 56.8 MPa for the FGF-processed reference. Flexural strengths reached 158.8 and 152.4 MPa, respectively, versus 88.0 MPa for the reference. The tensile and flexural improvements produced by MIX-OH after injection molding were not retained after FGF processing, confirming strong processing-route dependence. Preliminary pull-off screening demonstrated that TPU-bonded polymer–steel joints could be produced. Under the investigated conditions, SF315/PTFE and SF315/U15 were identified as promising recycled PA6/GF30 formulations for large-format FGF and further tooling-oriented development.",
+      "summary": "Large-scale additive manufacturing (LSAM) using fused granulate fabrication (FGF) offers a potential route for the high-value utilization of recycled thermoplastic composites. Preliminary pull-off screening demonstrated that TPU-bonded polymer–steel joints could be produced. Under the investigated conditions, SF315/PTFE and SF315/U15 were identified as promising recycled PA6/GF30 formulations for large-format FGF and further tooling-oriented development.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214012418",
+      "title": "Synthesis, Crystal Structure, Hirshfeld Surface, Vibrational Thermal Analyses, and NLO Properties of a New Hybrid Material: 2,4-Diamino-6-Phenyl-1,3,5-Triazinium Perchlorate, Supported by DFT Calculations",
+      "authors": [
+        "Louiza Ouksel",
+        "Rima Kiche",
+        "Boudjema Lotfi",
+        "Hakima Ait Youcef",
+        "Abdeltif Amrane",
+        "Thierry Roisnel",
+        "Riadh Bourzami"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Molecules",
+      "doi": "https://doi.org/10.3390/molecules31193369",
+      "url": "https://doi.org/10.3390/molecules31193369",
+      "abstract": "A novel organic–inorganic ionic crystal 2,4-diamino-6-phenyl-1,3,5-triaziniumperchlorate (C9H10N5+·ClO4−) was synthesized via the reaction of benzoguanamine with perchloric acid. Its structure was affined by single-crystal XRD and characterized by UV-Vis and FT-IR spectroscopies. It crystallizes in a monoclinic system, with P21/c space group and lattice parameters of a = 13.7975 (6), b = 5.0711 (2), c = 16.6471 (9) Å, and β = 91.869 (2) ° and a cell volume of V = 1164.15 (9) Å3. Additionally, the 3D-supramolecular network illustrates a supramolecular layer-by-layer arrangement. The two-dimensional fingerprint plots and Hirshfeld surface analysis showed that H∙∙∙O/O∙∙∙H dominates the interactions, contributing with 33.4%. The UV-Vis spectrum revealed two strong absorption bands at 204 and 247nm, indicating π→π* and n→π* electronic transitions, respectively, which were corroborated by TD-DFT calculations. FT-IR spectroscopy confirmed key vibrational modes consistent with triazinium cations and perchlorate anions, demonstrating strong agreement with the affined structure. TGA/DTG demonstrated enhanced thermal stability until 290 °C compared to benzoguanamine, with a four-stage degradation profile, illustrating robust thermal resilience. Moreover, BSSE-corrected interaction-energy calculations revealed that the charge-assisted cation–anion N-H···O hydrogen bond is the main cohesive force in the crystal, with a strong stabilization energy of −248.8 kJ mol−1, while π-associated contacts mainly contribute to layered supramolecular packing. C9H10N5+·ClO4− exhibits enhanced NLO properties in comparison to urea, due to the cooperative effect of ionic hydrogen bonding and ordered π-stacking.",
+      "summary": "A novel organic–inorganic ionic crystal 2,4-diamino-6-phenyl-1,3,5-triaziniumperchlorate (C9H10N5+·ClO4−) was synthesized via the reaction of benzoguanamine with perchloric acid. TGA/DTG demonstrated enhanced thermal stability until 290 °C compared to benzoguanamine, with a four-stage degradation profile, illustrating robust thermal resilience. Moreover, BSSE-corrected interaction-energy calculations revealed that the charge-assisted cation–anion N-H···O hydrogen bond is the main cohesive force in the crystal, with a strong stabilization energy of −248.8 kJ mol−1, while π-associated contacts mainly contribute to layered supramolecular packing.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "电子与封装"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214023125",
+      "title": "Engineering functional halloysite nanotubes via dual-biopolymer interfacial assembly for pH-responsive antibiotic delivery",
+      "authors": [
+        "Fatemeh Heydarifar",
+        "Bita Zamiri",
+        "Alireza Mohebali"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-72362-9",
+      "url": "https://doi.org/10.1038/s41598-026-72362-9",
+      "abstract": "Abstract Localized, pH-responsive drug delivery systems offer an effective strategy to enhance antibiotic efficacy and overcome the limitations of conventional systematic therapies for chronic infected wounds. In this study, functional halloysite–chitosan–xanthan gum (HNT–CS–XG) nanocomposites were engineered for the controlled release of minocycline (MC). The dual-biopolymer modification produced a hybrid interface on HNTs, not previously explored. The interfacial interactions established between chitosan, xanthan gum and the HNT surface generated a unique cohesive interfacial network that resulted in mechanical integrity and pH-responsive behavior, central to the design of advanced functional materials. Comprehensive physiochemical characterization (FTIR, XRD, zeta potential, TGA, DLS, SEM, and TEM) confirmed successful surface modification, strong polymer–polymer interactions, higher dispersion stability and preservation of the tubular structure of the halloysites. Among the formulations with different ratios, 2:1:2 ratio of HNT:CS:XG,HNT–CS–600XG exhibited optimal particle size (442 nm), excellent dispersion stability (PDI = 0.071) and high drug encapsulation (EE = 33%), offering a favourable balance between colloidal stability and bio-interface compatibility. In-vitro release studies for the nanocomposites, compared to halloysites alone, demonstrated a sustained and pH-responsive behavior, with significantly higher release at alkaline pH (43%) relative to acidic conditions (19%) proven advantageous for chronic infection. Kinetic modeling for MC release followed first-order and Korsmeyer–Peppas models, suggesting a diffusion-controlled mechanism. This observation arises from the hierarchical transport barriers created by the polymer-nanotube interface. The results highlight the potential of HNT–CS–XG as a biopolymer-based framework for prolonged and targeted antibiotic delivery.",
+      "summary": "Abstract Localized, pH-responsive drug delivery systems offer an effective strategy to enhance antibiotic efficacy and overcome the limitations of conventional systematic therapies for chronic infected wounds. Kinetic modeling for MC release followed first-order and Korsmeyer–Peppas models, suggesting a diffusion-controlled mechanism. The results highlight the potential of HNT–CS–XG as a biopolymer-based framework for prolonged and targeted antibiotic delivery.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214025548",
+      "title": "Effect of Drug-Excipient Interactions on the Properties of Mefenamic Acid Particles: A Laboratory Experiment for Pharmacy Undergraduates",
+      "authors": [
+        "Shuang Yang",
+        "Qiufang Jing",
+        "Xiaosi Ma",
+        "Qize Li",
+        "Weijia Ma",
+        "Yuzheng Zhao",
+        "Fuzheng Ren"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Chemical Education",
+      "doi": "https://doi.org/10.1021/acs.jchemed.6c00165",
+      "url": "https://doi.org/10.1021/acs.jchemed.6c00165",
+      "abstract": "Abstract In pharmaceutical formulations, excipients are not inert additives but critical determinants of the solid-state properties, dissolution performance, and oral bioavailability of active pharmaceutical ingredients (APIs). Therefore, an understanding of the intrinsic mechanisms behind the interactions between drugs and excipients has become a core fundamental competency for pharmacy undergraduates. Traditional pharmacy curricula are still predominantly focused on theory with limited practical sessions, which leaves students unable to effectively translate their theoretical knowledge into practical application. To address this pedagogical gap, we designed a four-week comprehensive experiment course, including the preparation and characterization of particles using mefenamic acid (MA) as an API and three excipients (Poloxamer 188, HPMCAS, and Eudragit L100) for pH-driven coprecipitation. The particles were systematically characterized using laser particle size analysis, scanning electron microscopy (SEM), powder X-ray diffraction (PXRD), differential scanning calorimetry (DSC), Fourier-transform infrared spectroscopy (FT-IR), and proton nuclear magnetic resonance spectroscopy (1H NMR). The data analysis elucidated that intermolecular interactions are the core regulatory mechanism. The assessment results for participating undergraduate students show that the intended learning objectives were fully achieved. The main outcomes included bottom-up particle preparation, solid-state characterization, and mechanistic analysis of hydrogen bond interactions between drugs and excipients. This experiment seamlessly integrates theory and practice by rational excipient selection and provides a robust, resource-adaptable teaching module to equip students for pharmaceutical R&D careers.",
+      "summary": "Abstract In pharmaceutical formulations, excipients are not inert additives but critical determinants of the solid-state properties, dissolution performance, and oral bioavailability of active pharmaceutical ingredients (APIs). The particles were systematically characterized using laser particle size analysis, scanning electron microscopy (SEM), powder X-ray diffraction (PXRD), differential scanning calorimetry (DSC), Fourier-transform infrared spectroscopy (FT-IR), and proton nuclear magnetic resonance spectroscopy (1H NMR). The assessment results for participating undergraduate students show that the intended learning objectives were fully achieved.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214028364",
+      "title": "Transport degradation of REBCO coated conductors under repeated overcritical-current pulses",
+      "authors": [
+        "Ningze Ma",
+        "Haitao Li",
+        "Tianli Dai",
+        "Bo Zhao",
+        "Peng Gao",
+        "Huan Jin",
+        "Jiang Gao"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Superconductor Science and Technology",
+      "doi": "https://doi.org/10.1088/1361-6668/aeab16",
+      "url": "https://doi.org/10.1088/1361-6668/aeab16",
+      "abstract": "Abstract Repeated overcritical-current pulses near the single-pulse thermal-burnout threshold threaten the reliability of REBCO windings in high-temperature superconducting pulse transformers. To determine how pulse amplitude controls cumulative degradation, five commercial REBCO tapes were tested at each of 9.9I_c0, 10.2I_c0, and 10.7I_c0 at 77 K under self-field conditions. Post-pulse E–I measurements were used to track I_c and the n value. The mean I_c/I_c0 was 0.971±0.005 after 160 pulses at 9.9I_c0, 0.667±0.119 after 120 pulses at 10.2I_c0, and 0.506±0.138 after only six pulses at 10.7I_c0. Thus, an approximately 8% increase in peak current changed the response from 2.9% mean I_c loss after 160 pulses to 49.4% loss after six pulses. This amplitude dependence was reproducible, although specimen-to-specimen scatter increased after damage initiation. At 10.7I_c0, the peak transient resistance remained at approximately 14–15 mΩ despite rapid reductions in I_c and n, and therefore could not be used alone to quantify post-pulse degradation. SEM of specimens with comparable residual I_c values of 32–39 A showed edge-localised Cu bulging and discontinuity and plate-like REBCO cracking under both 10.2I_c0 and 10.7I_c0; width-spanning ruptured bulges occurred only at 10.7I_c0. Local semiquantitative EDX was used as complementary evidence for the SEM observations. A two-dimensional electrothermal model of one representative 10.7I_c0 pulse reproduced the principal features of the measured terminal voltage and showed that the Cu stabilisers carried approximately 95% of the total current near the pulse peak and accounted for 93.3% of the Joule-energy deposition. One-way thermomechanical analysis predicted local Cu plastic-strain concentration near the tape edges, qualitatively supporting the SEM-observed defect locations. These results identify a narrow near-threshold regime in which a small increase in pulse amplitude sharply reduces repeated-pulse tolerance. They provide experimental evidence and numerical insight for pulse-tolerant structural optimisation and the definition of transient overcurrent margins in HTS pulse transformers.",
+      "summary": "Abstract Repeated overcritical-current pulses near the single-pulse thermal-burnout threshold threaten the reliability of REBCO windings in high-temperature superconducting pulse transformers. A two-dimensional electrothermal model of one representative 10.7I_c0 pulse reproduced the principal features of the measured terminal voltage and showed that the Cu stabilisers carried approximately 95% of the total current near the pulse peak and accounted for 93.3% of the Joule-energy deposition. These results identify a narrow near-threshold regime in which a small increase in pulse amplitude sharply reduces repeated-pulse tolerance.",
+      "techniques": [
+        "TMA"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214034884",
+      "title": "Preformulation, Drug–Polymer Compatibility and Analytical Method Validation for an Antidiabetic Dissolving Microneedle Patch",
+      "authors": [
+        "Shakshi Sharma",
+        "Prof (Dr.) Sushila Kalra -",
+        "Neetesh Kumar Jain"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "International Journal For Multidisciplinary Research",
+      "doi": "https://doi.org/10.36948/ijfmr.2026.v08i05.88168",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.88168",
+      "abstract": "Abstract: Dissolving polymeric microneedle patches offer a minimally invasive means of transporting antidiabetic molecules across the stratum corneum, but their development requires more than selecting a soluble polymer and demonstrating needle formation. The active pharmaceutical ingredient must remain stable during solution preparation, mould filling, drying, demoulding and storage; the polymer system must provide adequate rheology, mechanical strength, insertion and rapid hydration; and the analytical procedure must quantify the drug accurately in casting solutions, dry patches, skin extracts and permeation samples. This article presents an integrated framework for preformulation, drug–polymer compatibility assessment and analytical method validation for an antidiabetic dissolving microneedle patch. It describes drug-selection criteria, identity and solid-state characterization, solubility and ionization studies, partition behaviour, hygroscopicity, thermal analysis, spectroscopy, binary-mixture stress studies and compatibility decision-making. It then discusses analytical target profiles, UV–visible and chromatographic method development, matrix-specific sample recovery and validation according to ICH Q2(R2). Particular attention is given to the distinction between absence of a visible incompatibility and evidence of compatibility, and between high nominal drug content and accurate delivered-dose measurement. The paper proposes a risk-linked workflow in which analytical capability is established before formulation optimization and is challenged in all matrices relevant to microneedle manufacture and performance testing. This approach supports scientifically defensible formulation selection, data integrity and later scale-up without claiming unverified experimental results.",
+      "summary": "Abstract: Dissolving polymeric microneedle patches offer a minimally invasive means of transporting antidiabetic molecules across the stratum corneum, but their development requires more than selecting a soluble polymer and demonstrating needle formation. It then discusses analytical target profiles, UV–visible and chromatographic method development, matrix-specific sample recovery and validation according to ICH Q2(R2). This approach supports scientifically defensible formulation selection, data integrity and later scale-up without claiming unverified experimental results.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214035184",
+      "title": "PVA-7HCPC-DOPO composite film with complementary optical and flame-retardant properties",
+      "authors": [
+        "Reena Hirani",
+        "Shreyansh Mevada",
+        "Karan Kamle",
+        "Nishith Gamit",
+        "Rutvik Patel",
+        "Bhaveshkumar Makwana",
+        "Pooja Bhanderi",
+        "Dilip V. Vasava"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Thermoplastic Composite Materials",
+      "doi": "https://doi.org/10.1177/08927057261490237",
+      "url": "https://doi.org/10.1177/08927057261490237",
+      "abstract": "This study reports the development of multifunctional poly (vinyl alcohol) (PVA) composite films incorporating a phosphorus-based flame retardant such as 9,10-dihydro-9-oxa-10-phosphaphenanthrene-10-oxide (DOPO) as a flame-retardant component and a 4-(7-hydroxy-2-oxo-2H-chromen-3-yl)benzoic acid (7HCPC) as a coumarin-derived chromophore, PHDP film prepared through a solution-casting method using water-ethanol as a solvent. The resulting films were characterized by spectroscopic analyses FTIR and NMR that verified the successful incorporation of the functional components and indicated changes in the local chemical environment of the PVA matrix. Optical measurements showed absorption bands at 332 and 422 nm and a fluorescence maximum at approximately 476 nm, confirming retention of the chromophore’s fluorescence after incorporation into the composite. XRD and SEM–EDS analysis indicated partial structural reorganization and a broad distribution of additive-containing domains within the analyzed region. The PHDP film exhibited a tensile strength of approximately 4.75 MPa and a Young’s modulus of 5.94 MPa, together with substantial deformability. Thermal analysis showed multistage degradation and a residual char fraction, while UL-94 and LOI measurements resulted in a V-0 rating and an LOI value of 36%, respectively. The film also exhibited measurable inhibition zones against the tested bacterial and fungal strains. Overall, the results demonstrate that incorporation of DOPO and 7HCPC provides complementary flame-retardant and optical functionalities in a PVA-based composite film, together with measurable thermal, mechanical and antimicrobial characteristics.",
+      "summary": "This study reports the development of multifunctional poly (vinyl alcohol) (PVA) composite films incorporating a phosphorus-based flame retardant such as 9,10-dihydro-9-oxa-10-phosphaphenanthrene-10-oxide (DOPO) as a flame-retardant component and a 4-(7-hydroxy-2-oxo-2H-chromen-3-yl)benzoic acid (7HCPC) as a coumarin-derived chromophore, PHDP film prepared through a solution-casting method using water-ethanol as a solvent. Thermal analysis showed multistage degradation and a residual char fraction, while UL-94 and LOI measurements resulted in a V-0 rating and an LOI value of 36%, respectively. Overall, the results demonstrate that incorporation of DOPO and 7HCPC provides complementary flame-retardant and optical functionalities in a PVA-based composite film, together with measurable thermal, mechanical and antimicrobial characteristics.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214040745",
+      "title": "Sustainable geopolymers incorporating PCM ‐impregnated paper pulp sludge for energy‐efficient building applications",
+      "authors": [
+        "Savaş Öztürk",
+        "Mücahit Sütçü",
+        "Nilay Küçükdoğan",
+        "Abid Ustaoglu",
+        "Osman Gencel",
+        "Hasbi Yaprak",
+        "Selçuk Memiş",
+        "Ahmet Sari"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Structural Concrete",
+      "doi": "https://doi.org/10.1002/suco.70803",
+      "url": "https://doi.org/10.1002/suco.70803",
+      "abstract": "Abstract The integration of phase change materials (PCMs) into building components is an effective strategy to enhance thermal energy storage and reduce energy demand. This study presents a metasilicate‐activated waste‐based geopolymer composite produced by incorporating PCM‐impregnated paper pulp sludge (PPS) into a binder system composed of blast furnace slag and silica fume. PPS was impregnated with 45 wt% methyl palmitate to obtain a leakage‐resistant geopolymer composite. The mixtures were prepared with varying silica fume contents (0–5 wt%), Si/Al ratios (3.2–3.4), and a silica modulus (Ms≈2.8–3.1) under ambient curing at 30°C. The effects of PCM loading and silica fume content on physical, mechanical, and thermal behavior were examined through density, porosity, compressive strength, DSC, and solar thermoregulation tests. Calorimetric results confirmed that PPS effectively acted as a stable PCM carrier, ensuring reliable thermal storage with a melting enthalpy of ~110 J/g and excellent cyclic stability. PPS/PCM‐based panels reduced peak room‐center temperatures by up to 12.3%, while the maximum lower‐surface temperature reduction reached approximately 5°C compared with the reference geopolymer panel. The predicted thermal‐economic analysis demonstrated significant energy savings and feasible cost payback periods. These results highlight the potential of PPS/PCM integrated geopolymers as sustainable and energy‐efficient building materials.",
+      "summary": "Abstract The integration of phase change materials (PCMs) into building components is an effective strategy to enhance thermal energy storage and reduce energy demand. Calorimetric results confirmed that PPS effectively acted as a stable PCM carrier, ensuring reliable thermal storage with a melting enthalpy of ~110 J/g and excellent cyclic stability. These results highlight the potential of PPS/PCM integrated geopolymers as sustainable and energy‐efficient building materials.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "新能源与储能"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214045673",
+      "title": "Multifunctional Cellulose Acetate-Based Composite Membranes Incorporating Hydroxyapatite, Magnetic Nanoparticles and Ketoprofen with Improved Mineralization Properties",
+      "authors": [
+        "Ruxandra Mihaela Oprea",
+        "Andreea Mădălina Pandele",
+        "Adrian Ionuț Nicoară",
+        "Ștefan Ioan Voicu",
+        "Mădălina Oprea"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Ceramics",
+      "doi": "https://doi.org/10.3390/ceramics9100105",
+      "url": "https://doi.org/10.3390/ceramics9100105",
+      "abstract": "In this study, cellulose acetate-based composite membranes incorporating hydroxyapatite and ketoprofen-functionalized Fe/Ni magnetic nanoparticles (HA–NP–KP) were successfully fabricated by the phase inversion technique. FTIR and XPS analyses confirmed the successful incorporation of the bioactive fillers into the cellulose acetate matrix, while thermal analysis demonstrated that their addition did not compromise the thermal stability of the membranes. The incorporation of HA–NP–KP significantly enhanced the mineralization performance of the membranes. Taguchi mineralization studies revealed a progressive increase in calcium phosphate deposition with increasing filler content, while EDS analysis showed Ca/P ratios approaching the stoichiometric value of hydroxyapatite, indicating the formation of biologically relevant mineral phases. Among the investigated formulations, the CA/HA–NP–KP 2% membrane exhibited the highest mineralization ability, demonstrating the beneficial synergistic effect of hydroxyapatite and functionalized magnetic nanoparticles on apatite nucleation and growth. In addition, the composite membranes exhibited controlled ketoprofen release over a clinically relevant time frame, meaning they could provide localized anti-inflammatory activity without compromising their physicochemical properties. The combination of enhanced mineralization with sustained drug delivery highlights the multifunctional character of the developed membranes. Overall, these findings demonstrate that HA–NP–KP-functionalized cellulose acetate membranes represent potential candidates for implant surface modification, with the ability to simultaneously promote osseointegration and modulate the early inflammatory response following implantation. Future work will focus on biological evaluation, including cell response and anti-inflammatory performance, to investigate their suitability for orthopedic and dental applications.",
+      "summary": "FTIR and XPS analyses confirmed the successful incorporation of the bioactive fillers into the cellulose acetate matrix, while thermal analysis demonstrated that their addition did not compromise the thermal stability of the membranes. Taguchi mineralization studies revealed a progressive increase in calcium phosphate deposition with increasing filler content, while EDS analysis showed Ca/P ratios approaching the stoichiometric value of hydroxyapatite, indicating the formation of biologically relevant mineral phases. Future work will focus on biological evaluation, including cell response and anti-inflammatory performance, to investigate their suitability for orthopedic and dental applications.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214046992",
+      "title": "Performance regulation of porous vegetation ecological concrete using carbonated recycled coarse aggregate and fly ash-silica fume blends",
+      "authors": [
+        "Rijin Hu",
+        "Neng Xiong",
+        "Jin Li",
+        "Xinen Pan",
+        "Bo Liu",
+        "TANG Junlin",
+        "Linjian Wu"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Frontiers in Materials",
+      "doi": "https://doi.org/10.3389/fmats.2026.1950426",
+      "url": "https://doi.org/10.3389/fmats.2026.1950426",
+      "abstract": "Pores, microcracks, and alkaline calcium-bearing phases in the adhered old mortar of recycled coarse aggregate (RCA) limit its application in porous vegetation ecological concrete (PVEC). To simultaneously satisfy PVEC requirements for load-bearing performance, connected porosity, and reduced alkalinity, this study combined gaseous accelerated carbonation of RCA with the addition of the fly ash-silica fume (FA-SF) blend. The effects of parent concrete strength, RCA carbonation duration, and the FA-SF replacement ratio on the compressive strength, connected porosity, and leachate pH of PVEC were investigated. The evolution of calcium-bearing phases and the aggregate-paste interfacial transition zone (ITZ) was analyzed using thermogravimetric and derivative thermogravimetric (TG/DTG) analysis, X-ray diffraction (XRD), and scanning electron microscopy coupled with energy-dispersive X-ray spectroscopy (SEM-EDS). The results showed that, as the strength grade of the parent concrete increased from C30 to C50, the compressive strength of recycled-coarse-aggregate porous vegetation ecological concrete (R-PVEC) increased from 3.96 MPa to 5.15 MPa, whereas the leachate pH increased from 12.14 to 12.62. When RCA derived from C40 concrete was carbonated for 5 days at 20 °C, 70% relative humidity, and a CO 2 concentration of 20%, the compressive strength of carbonated recycled coarse aggregate porous vegetation ecological concrete (CR-PVEC) reached 5.63 MPa, equivalent to 98.4% of the compressive strength of CR-PVEC in the 7 days carbonation group. In addition, after accelerated carbonation for 5 days, the connected porosity of CR-PVEC remained at 27.99%, while its leachate pH decreased to 11.68. The addition of the FA-SF blend further improved the overall performance of CR-PVEC. At a FA-SF replacement ratio of 25%, CR-PVEC exhibited the highest compressive strength, at 6.56 MPa. When the replacement ratio was increased to 30%, the compressive strength, connected porosity, and leachate pH of the specimens were 6.32 MPa, 28.55%, and 10.51, respectively. Microstructural analyses showed that RCA carbonation and the addition of the FA-SF blend reduced the estimated Ca(OH) 2 content from 1.21% to 0.70%, increased the CaCO 3 content from 21.89% to 25.66%, and reduced the ITZ thickness from 36 μm to 15 μm. RCA carbonation primarily regulated the calcium-bearing phases and local defects in the adhered old mortar, while the addition of the FA-SF blend further optimized the new paste and interfacial structure. Together, these two measures enhanced the load-bearing capacity of the CR-PVEC skeleton and reduced the leachate pH.",
+      "summary": "Pores, microcracks, and alkaline calcium-bearing phases in the adhered old mortar of recycled coarse aggregate (RCA) limit its application in porous vegetation ecological concrete (PVEC). The results showed that, as the strength grade of the parent concrete increased from C30 to C50, the compressive strength of recycled-coarse-aggregate porous vegetation ecological concrete (R-PVEC) increased from 3.96 MPa to 5.15 MPa, whereas the leachate pH increased from 12.14 to 12.62. Microstructural analyses showed that RCA carbonation and the addition of the FA-SF blend reduced the estimated Ca(OH) 2 content from 1.21% to 0.70%, increased the CaCO 3 content from 21.89% to 25.66%, and reduced the ITZ thickness from 36 μm to 15 μm.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214047322",
+      "title": "Mechanical and microstructural performance of residual sandy soil treated with different polymers",
+      "authors": [
+        "Muhammad Raheel",
+        "Syed Taseer Abbas Jaffar",
+        "Fazal E. Jalal",
+        "Fahad Alqahtani",
+        "Sani Aliyu Abubakar",
+        "Hayat Khan"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-71473-7",
+      "url": "https://doi.org/10.1038/s41598-026-71473-7",
+      "abstract": "Sustainable management of environmentally vulnerable, moisture-sensitive soils is a critical challenge because they are susceptible to moisture-induced degradation. Biopolymer (BP) stabilisation offers an environmentally sustainable approach to transforming residual sandy soils into green geomaterials with reduced environmental impact. Consequently, engineering properties of these residual sandy soils vary spatially, and moisture conditions strongly influence their shear strength. This study investigates the efficacy of four categories of soil additives, i.e., (i) biodegradable polyester-based BPs (BPBs), (ii) natural polysaccharide BPs, (iii) synthetic polymers, and (iv) amino-polysaccharide BPs to enhance the mechanical performance of residual sandy soils. Specifically, the BPBs, namely polybutylene succinate (PBS) and polyhydroxyalkanoates (PHA) are evaluated and compared with natural polysaccharides; xanthan gum (XG), guar gum (GG), gellan gum (GLG) and sodium alginate (SA); a synthetic polymer, i.e., polyacrylamide (PAM); and cationic amino-polysaccharide biopolymer, i.e., chitosan (CS). To this end, varying proportions of BPBs were incorporated into the residual sandy soil to optimize stabilization performance and evaluate its effectiveness against conventional BP-based stabilizers at 28-days under isothermal curing at 16 °C using unconfined compressive strength test and advanced material characterization techniques i.e., Scanning Electron Microscopy (SEM), Brunauer–Emmett–Teller (BET) surface area analysis, X-ray Diffraction (XRD), Fourier Transform Infrared Spectroscopy (FTIR) and Thermogravimetric Analysis (TGA). It was observed that the highest single improvement in UCS 28−d was obtained with a natural polysaccharide (2.0% GG, ≈ 8.8× the untreated strength), although performance within the polysaccharide group varied by an order of magnitude (334–1936 kPa) and overlapped with the amine-based and synthetic polymers. Despite BPBs showing comparatively lower UCS 28−d yet offering dosage efficiency; TGA confirmed that 0.4% PBS specimens demonstrated higher thermal stability among all treated samples while consolidated undrained triaxial test confirmed that PBS proves to be very effective in enhancing shear strength of residual sandy soil thus making it suitable for performance-specific applications.",
+      "summary": "This study investigates the efficacy of four categories of soil additives, i.e., (i) biodegradable polyester-based BPs (BPBs), (ii) natural polysaccharide BPs, (iii) synthetic polymers, and (iv) amino-polysaccharide BPs to enhance the mechanical performance of residual sandy soils. To this end, varying proportions of BPBs were incorporated into the residual sandy soil to optimize stabilization performance and evaluate its effectiveness against conventional BP-based stabilizers at 28-days under isothermal curing at 16 °C using unconfined compressive strength test and advanced material characterization techniques i.e., Scanning Electron Microscopy (SEM), Brunauer–Emmett–Teller (BET) surface area analysis, X-ray Diffraction (XRD), Fourier Transform Infrared Spectroscopy (FTIR) and Thermogravimetric Analysis (TGA). Despite BPBs showing comparatively lower UCS 28−d yet offering dosage efficiency; TGA confirmed that 0.4% PBS specimens demonstrated higher thermal stability among all treated samples while consolidated undrained triaxial test confirmed that PBS proves to be very effective in enhancing shear strength of residual sandy soil thus making it suitable for performance-specific applications.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214061204",
+      "title": "Development of Multilayer Flexible Polyethylene–Graphite Film for Electromagnetic Interference Shielding",
+      "authors": [
+        "Ana L. Grafia",
+        "M. Peruzzi",
+        "Favio R. Masson",
+        "Silvia E. Barbosa"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Applied Polymer Science",
+      "doi": "https://doi.org/10.1002/app.71541",
+      "url": "https://doi.org/10.1002/app.71541",
+      "abstract": "ABSTRACT This paper presents the development of lightweight multilayer polyethylene (PE)–graphite (Gr) films with enhanced electromagnetic interference (EMI) shielding properties using an adhesive‐free calendaring approach, and a transmission‐line‐based mathematical model is proposed, accounting for graphite surface resistance as a function of total layer numbers. Film morphology was characterized through scanning electron microscopy, confirming robust interlayer adhesion even in five‐layer configurations, while through thermogravimetric analysis graphite content was quantified below 5 wt%; substantially lower than conventional EMI shielding composites. Electromagnetic properties, including shielding effectiveness, reflectance, absorbance, and transmittance, were evaluated using a vector network analyzer. The model accurately predicts observed electromagnetic behavior. Compared to neat PE, EMI shielding performance improved significantly: a single Gr‐PE layer approached theoretical absorption maxima, and five‐layer films achieved approximately 20 dB shielding with minimal graphite loading, fulfilling industrial standards.",
+      "summary": "ABSTRACT This paper presents the development of lightweight multilayer polyethylene (PE)–graphite (Gr) films with enhanced electromagnetic interference (EMI) shielding properties using an adhesive‐free calendaring approach, and a transmission‐line‐based mathematical model is proposed, accounting for graphite surface resistance as a function of total layer numbers. Electromagnetic properties, including shielding effectiveness, reflectance, absorbance, and transmittance, were evaluated using a vector network analyzer. Compared to neat PE, EMI shielding performance improved significantly: a single Gr‐PE layer approached theoretical absorption maxima, and five‐layer films achieved approximately 20 dB shielding with minimal graphite loading, fulfilling industrial standards.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214063662",
+      "title": "Comparative Structural and Antibacterial Evaluation of Phyto‐Synthesized Polyacrylic Acid/Silver Nanocomposites",
+      "authors": [
+        "Aathira W.V",
+        "R. Murali",
+        "Sabu Thomas",
+        "Mridula Sreedharan",
+        "Ajina W.S",
+        "J. S. Angel Mary Jane"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Applied Polymer Science",
+      "doi": "https://doi.org/10.1002/app.71527",
+      "url": "https://doi.org/10.1002/app.71527",
+      "abstract": "ABSTRACT Polymer‐based nanocomposites are synthesized via green routes and attract significant attention for their sustainability and multifunctional performance. In the present study, polyacrylic acid (PAA), a non‐toxic, water‐soluble polymer, is used as a matrix for the green synthesis of silver nanocomposites, with plant extracts serving as reducing and stabilizing agents. Silver nanocomposites synthesized using coriander ( Coriandrum sativum ) leaf extract are denoted as PAC‐Ag NC, while those prepared using Mehndi, commonly known as Henna ( Lawsonia inermis ) leaf extract, are termed PAMH‐Ag NC. The nanocomposites are characterized using UV–Visible spectroscopy, Fourier transform infrared spectroscopy (FTIR), X‐ray diffraction (XRD), scanning electron microscopy (SEM), energy‐dispersive spectroscopy (EDS), transmission electron microscopy (TEM), atomic force microscopy (AFM), ZETA potential, thermogravimetric analysis (TGA), and differential thermal analysis (DTA). XRD analysis confirms the formation of face‐centered cubic (FCC) silver nanoparticles, with average crystallite sizes of approximately 13 nm for PAC‐Ag NC and 88 nm for PAMH‐Ag NC. SEM observations reveal a bamboo‐like hierarchical morphology in PAC‐Ag NC, attributed to shish‐kebabs, suggesting improved structural integrity, whereas PAMH‐Ag NC exhibits predominantly spherical nanoparticles. Thermal analyses show the nanocomposites remain stable up to about 200°C. Both nanocomposites display excellent antibacterial activity against Gram‐positive and Gram‐negative bacteria.",
+      "summary": "ABSTRACT Polymer‐based nanocomposites are synthesized via green routes and attract significant attention for their sustainability and multifunctional performance. SEM observations reveal a bamboo‐like hierarchical morphology in PAC‐Ag NC, attributed to shish‐kebabs, suggesting improved structural integrity, whereas PAMH‐Ag NC exhibits predominantly spherical nanoparticles. Thermal analyses show the nanocomposites remain stable up to about 200°C.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214064301",
+      "title": "Sustainable Development of Low‐Formaldehyde Rice Straw Wood Composites via Nitrogen and Chlorine‐Functionalized Starch Integration",
+      "authors": [
+        "Altaf Halim Basta",
+        "Vivian F. Lotfy",
+        "Houssni El‐Saied"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Journal of Applied Polymer Science",
+      "doi": "https://doi.org/10.1002/app.71531",
+      "url": "https://doi.org/10.1002/app.71531",
+      "abstract": "ABSTRACT This study deals with integrating nitrogen‐ and chlorine‐functionalized starch into urea‐formaldehyde (UF) adhesives which offers a sustainable solution to formaldehyde emissions in rice straw composites. This research identifies the optimal synthesis parameters for acrylamide‐modified starch (CES) and its chlorinated counterpart (CES‐Cl, with the extent of functionalization evaluated based on the corresponding nitrogen and chlorine contents, reaching 3.68% N and 3.3% Cl, respectively. The resulting functionalized starches provided robust additives for developing low‐formaldehyde‐emission wood adhesives. When integrated into commercial UF systems at a 5% solid weight concentration, these derivatives significantly outperformed unmodified starch. Specifically, CES and CES‐Cl reduced free formaldehyde emissions by up to 58.9 and 54%, respectively. Performance metrics showed a marked improvement; bond strength increased from 7.37 ± 0.14 MPa to 8.99 ± 0.22 MPa, while gel times were accelerated from 52 ± 2.2 to 41 ± 1.3 seconds. Thermal analysis (DSC/TGA) confirmed superior stability and curing behavior on rice straw fibers. Final wood composite testing revealed that moderate N/Cl levels (1.93% N/1.44% Cl) achieved optimal mechanical properties, including a Modulus of Rupture (MOR) of 12.7 ± 0.64 MPa. Conversely, higher functional content (3.68% N/3.3% Cl) yielded a 55% ± 2.7% reduction in free formaldehyde and enhanced water resistance. This modification offers a sustainable, high‐performance approach for reducing formaldehyde emissions in wood composites while utilizing renewable starch and agricultural rice straw waste.",
+      "summary": "ABSTRACT This study deals with integrating nitrogen‐ and chlorine‐functionalized starch into urea‐formaldehyde (UF) adhesives which offers a sustainable solution to formaldehyde emissions in rice straw composites. The resulting functionalized starches provided robust additives for developing low‐formaldehyde‐emission wood adhesives. Performance metrics showed a marked improvement; bond strength increased from 7.37 ± 0.14 MPa to 8.99 ± 0.22 MPa, while gel times were accelerated from 52 ± 2.2 to 41 ± 1.3 seconds.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7051,601 +7649,6 @@
         "电子与封装"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213023104",
-      "title": "Thermodynamic insights into ligand exchange and surface defect passivation of indium phosphide quantum dots for biomedical interface engineering",
-      "authors": [
-        "Ghada Al-Assi",
-        "Tahani Abdul aziz jaffar Alsandook",
-        "Irwanjot Kaur",
-        "Ahmed Aldulaimi",
-        "Maha Mohammed Tawfiq",
-        "K. K. Thakur",
-        "Khushnud Azizjanov",
-        "Babamuratov Bekzod"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Next Materials",
-      "doi": "https://doi.org/10.1016/j.nxmate.2026.103451",
-      "url": "https://doi.org/10.1016/j.nxmate.2026.103451",
-      "abstract": "Indium phosphide (InP) quantum dots (QDs) are promising cadmium-free nanomaterials for biomedical and optoelectronic applications because of their tunable optical properties and comparatively favorable biocompatibility. Nevertheless, interfacial instability, surface oxidation, and defect-mediated nonradiative recombination continue to limit their performance and biological translation. This review critically evaluates published evidence concerning the thermodynamic and surface-chemical principles governing ligand exchange and defect passivation in InP QDs, with particular attention to colloidal stability, photoluminescence efficiency, and biomedical functionality. Experimental studies employing isothermal titration calorimetry, nuclear magnetic resonance spectroscopy, and complementary spectroscopic techniques are reviewed and compared to clarify ligand-binding energetics, cooperative exchange mechanisms, surface coverage, and interligand interactions. Relevant computational investigations are additionally assessed to connect adsorption, desorption, surface, and defect-formation energies with experimentally observed interfacial behavior. Inorganic and atomistic passivation strategies, polymer coatings, and charged-ligand functionalization are comparatively examined for their ability to suppress surface trap states and improve interfacial robustness. Evidence from the reviewed literature indicates that thermodynamically favorable ligand binding and effective defect passivation can enhance optical stability, dispersion behavior, and biofunctionalization for biosensing, imaging, and drug-delivery applications. The review establishes a characterization-oriented framework linking ligand thermodynamics, surface structure, and functional performance, while providing practical guidelines for designing stable InP QDs for biomedical interfaces.",
-      "summary": "Indium phosphide (InP) quantum dots (QDs) are promising cadmium-free nanomaterials for biomedical and optoelectronic applications because of their tunable optical properties and comparatively favorable biocompatibility. This review critically evaluates published evidence concerning the thermodynamic and surface-chemical principles governing ligand exchange and defect passivation in InP QDs, with particular attention to colloidal stability, photoluminescence efficiency, and biomedical functionality. Evidence from the reviewed literature indicates that thermodynamically favorable ligand binding and effective defect passivation can enhance optical stability, dispersion behavior, and biofunctionalization for biosensing, imaging, and drug-delivery applications.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213067230",
-      "title": "DESIGN AND FINITE ELEMENT ANALYSIS (FEA) OF PLASTIC WASTE SHREDDING MACHINE FOR ENVIRONMENTAL SUSTAINABILITY",
-      "authors": [
-        "A Akinsade"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22751718",
-      "url": "https://doi.org/10.5281/zenodo.22751718",
-      "abstract": "The rapid increase in plastic waste generation has intensified environmental challenges, necessitating efficient recycling technologies capable of converting discarded plastics into reusable materials. This study presents the design and finite element analysis (FEA)-based evaluation of a plastic waste shredding machine developed for small-scale recycling applications. The machine was designed to reduce plastic waste into smaller fragments suitable for subsequent recycling processes while ensuring structural reliability and operational safety. Mild steel was selected as the primary construction material for the major components due to its favourable mechanical strength, toughness, machinability, weldability, and cost-effectiveness. The shredder components, including the hopper, shredding chamber, shafts, blades, gears, coupling, and support frame, were designed using standard mechanical design principles. Three-dimensional modelling of the machine was developed using SolidWorks, while thermal and structural performances were evaluated using ANSYS finite element analysis. The simulations investigated temperature distribution, heat flux concentration, equivalent von Mises stress, and total deformation under operating conditions. The blade thermal analysis revealed that the highest temperature occurred at the blade–shaft interface, with a maximum temperature of 55 °C, indicating the region of greatest frictional heat generation. The maximum heat flux was concentrated around the shaft and blade contact region due to mechanical interaction during shredding. Structural analysis of the support frame showed a maximum equivalent stress of 6.68 kPa, which was significantly lower than the material yield strength of 293.5 MPa, confirming the structural safety of the design. The maximum predicted deformation was 1.782 × 10⁻⁸ m, demonstrating minimal deflection under applied loading conditions. The developed plastic shredding machine, with a design capacity of 10 kg/h, provides an efficient and sustainable approach for plastic waste reduction and recycling, particularly in environments where low-cost recycling solutions are required. The integration of mechanical design analysis with FEA validation provides a reliable framework for improving the durability, performance, and safety of locally fabricated plastic recycling equipment",
-      "summary": "The rapid increase in plastic waste generation has intensified environmental challenges, necessitating efficient recycling technologies capable of converting discarded plastics into reusable materials. This study presents the design and finite element analysis (FEA)-based evaluation of a plastic waste shredding machine developed for small-scale recycling applications. Three-dimensional modelling of the machine was developed using SolidWorks, while thermal and structural performances were evaluated using ANSYS finite element analysis.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "循环利用与可持续材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213107180",
-      "title": "Polythermal Crystallization Behavior of the Mg(ClO₃)₂–[80 wt% 2-Amino-1,3,4-Thiadiazole + 20 wt% Ethanol]–H₂O Pseudo-ternary System",
-      "authors": [
-        "Boltayev Shakhboz",
-        "Umirov Farkhod",
-        "Nomozova Gulmira",
-        "Umirov Uktam"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Chemical Science International Journal",
-      "doi": "https://doi.org/10.9734/csji/2026/v35i51070",
-      "url": "https://doi.org/10.9734/csji/2026/v35i51070",
-      "abstract": "Aim: To investigate the polythermal crystallization behaviour of the Mg(ClO₃)₂–[80 wt% 2-amino-1,3,4-thiadiazole + 20 wt% ethanol]–H₂O pseudo-ternary system and to characterize an isolated magnesium-chlorate/thiadiazole-containing solid. Study Design: An experimental physicochemical study using visual polythermal measurements and complementary solid-state and physicochemical characterization. Place and Duration of Study: The work was conducted in the scientific laboratories of the Institute of General and Inorganic Chemistry of the Academy of Sciences of the Republic of Uzbekistan and Navoi State University of Mining and Technologies during 2024–2026. Methodology: The organic stock mixture containing 80 wt% 2-amino-1,3,4-thiadiazole and 20 wt% ethanol was treated as a single pseudo-component. Two boundary systems and six internal sections were examined by the visual polythermal method over the experimentally recorded range from -57.2 to +27.2 °C. The available dataset provides working crystallization temperatures but not point-by-point cooling/heating rates or replicate statistics; accordingly, the values are interpreted as operational crystallization observations rather than statistically characterized equilibrium saturation temperatures. The starting magnesium chlorate hydrate was examined by X-ray diffraction (XRD) and FTIR spectroscopy, whereas the isolated product was examined by X-ray fluorescence (XRF), FTIR spectroscopy, differential thermal/thermogravimetric analysis (DTA/TGA/DTG), and scanning electron microscopy with energy-dispersive X-ray analysis (SEM/EDS). Results: The Mg(ClO₃)₂–H₂O boundary contained a reported low-temperature crystallization point at -52.0 °C for 36.9 wt% nominal Mg(ClO₃)₂, whereas the organic pseudo-component–H₂O boundary contained a point at -27.5 °C for 2.0 wt% pseudo-component. Across the reported pseudo-ternary compositions, crystallization temperatures ranged from -57.2 to +27.2 °C. The working diagram contains regions associated with ice, 2-amino-1,3,4-thiadiazole, and provisionally assigned magnesium chlorate hydrate phase(s). XRF/EDS, FTIR, and thermal analysis jointly support the presence of a magnesium-chlorate/thiadiazole-containing solid, but they do not establish a unique coordination geometry or exact empirical formula. Conclusion: The addition of the 2-amino-1,3,4-thiadiazole/ethanol pseudo-component altered the observed crystallization-temperature profile of the magnesium chlorate–water formulation space. Because Mg(ClO₃)₂·6H₂O was used experimentally while the reported diagram labels the salt coordinate as Mg(ClO₃)₂ and the treatment of crystal water cannot be reconstructed from the available mass-balance record, the plotted compositions are retained as nominal reported formulation coordinates. The study therefore provides a working composition–temperature crystallization map and a physicochemical basis for subsequent phase-pure structural and application-oriented studies; no conclusion regarding field efficacy or environmental safety is drawn.",
-      "summary": "Aim: To investigate the polythermal crystallization behaviour of the Mg(ClO₃)₂–[80 wt% 2-amino-1,3,4-thiadiazole + 20 wt% ethanol]–H₂O pseudo-ternary system and to characterize an isolated magnesium-chlorate/thiadiazole-containing solid. Results: The Mg(ClO₃)₂–H₂O boundary contained a reported low-temperature crystallization point at -52.0 °C for 36.9 wt% nominal Mg(ClO₃)₂, whereas the organic pseudo-component–H₂O boundary contained a point at -27.5 °C for 2.0 wt% pseudo-component. The study therefore provides a working composition–temperature crystallization map and a physicochemical basis for subsequent phase-pure structural and application-oriented studies; no conclusion regarding field efficacy or environmental safety is drawn.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "食品与脂质",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213176879",
-      "title": "From Waste Garments to Recoverable Fibres: A Mechano-Enzymatic Strategy for Post-Consumer Textile Recycling",
-      "authors": [
-        "Ali Nawaz",
-        "Tamimur Rahman",
-        "Ayman Hussain",
-        "Josiah Umaru Peter",
-        "James M. Campbell",
-        "Carol Sze Ki Lin",
-        "Chenyu Du"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Textiles",
-      "doi": "https://doi.org/10.3390/textiles6030112",
-      "url": "https://doi.org/10.3390/textiles6030112",
-      "abstract": "Enzymatic recycling offers a promising route for recovering fibres from textile waste; however, processes developed predominantly on single-fabric model substrates have rarely been validated using authentic post-consumer garments. In this study, 110 post-consumer children’s garments (15.6 kg) were collected and characterised, revealing a fibre composition of 84.0% cotton, 12.8% polyester, and 3.2% other fibres. Cellulases produced by Aspergillus niger and Trichoderma reesei were first evaluated using a bead-assisted hydrolysis approach. Although efficient textile disintegration was achieved for an in-house woven polycotton fabric (84% cotton, 16% polyester), resulting in separation yields of up to 92%, the same process performed poorly on post-consumer cotton garments, with more than 78% of the textile structure remaining intact after treatment. These results identified substrate accessibility as a major limitation to the enzymatic processing of real textile waste. To address this challenge, an optimised mechano-enzymatic process incorporating intermittent grinding during hydrolysis was developed. A grinding duration of 4 min combined with 4 h of hydrolysis produced the highest separation yield, and the integrated treatment consistently outperformed grinding alone by 12–14% across all hydrolysis times investigated. The optimised process was subsequently validated using twenty post-consumer garments comprising ten cotton-rich textiles (98–100% cotton) and ten cotton–polyester blends containing 35–85% cotton. Separation yields of 91.7–99.7% (mean 97.1%) and recoverable fibre yields of 85.6–97.4% (mean 90.7%) were achieved across all garments. ATR-FTIR spectroscopy, optical microscopy, and thermogravimetric analysis of model cotton and polycotton fabrics before and after treatment demonstrated selective hydrolysis of cellulose while preserving polyester fibres. Cellulose-associated FTIR bands decreased by 10–98%, whereas characteristic polyester ester and aromatic bands remained unchanged. Microscopy further confirmed the physical separation of intact polyester filaments from liberated cotton fibres. Overall, the results demonstrate that substrate accessibility is a critical barrier to enzymatic textile recycling and show that intermittent grinding substantially enhances fibre liberation from post-consumer textiles. The recovered fibre fractions represent a promising feedstock for textile recycling; however, detailed assessment of compositional purity and fibre quality is required to determine their suitability for closed-loop applications.",
-      "summary": "Enzymatic recycling offers a promising route for recovering fibres from textile waste; however, processes developed predominantly on single-fabric model substrates have rarely been validated using authentic post-consumer garments. Cellulases produced by Aspergillus niger and Trichoderma reesei were first evaluated using a bead-assisted hydrolysis approach. Overall, the results demonstrate that substrate accessibility is a critical barrier to enzymatic textile recycling and show that intermittent grinding substantially enhances fibre liberation from post-consumer textiles.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213200675",
-      "title": "Tailoring PES/PVAc Mixed Matrix Hollow Fiber Membranes with TiO2 Nanoparticles for Enhanced CO2/CH4 Separation Efficiency",
-      "authors": [
-        "Tayyib Murtaza",
-        "Naveed Ramzan",
-        "Muhammad Saad Khan",
-        "Asif Jamil",
-        "Giedrius Janušas"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Polymers",
-      "doi": "https://doi.org/10.3390/polym18182236",
-      "url": "https://doi.org/10.3390/polym18182236",
-      "abstract": "To use renewable energy and mitigate the greenhouse gas effect on the environment, carbon dioxide (CO2) separation is crucial. Recent research has shown that using membranes for CO2 separation is a vital option, but challenges remain with permeability and selectivity. Blend hollow fiber membranes offer a solution to these challenges. In this study, a blend of hollow fiber membranes made of polyether sulfone (PES) and polyvinyl acetate (PVAc) was developed, along with the incorporation of fillers, to overcome the permselectivity challenge. This resulted in the creation of mixed matrix blend hollow fiber membranes by using the phase inversion method. The membranes that were developed were examined using FESEM, FTIR, XRD, TGA, and pure-gas permeation analysis. The polymer blend demonstrated miscibility and preserved strong morphological and structural stability during CO2 and CH4 separation tests, exhibiting little deformation and reliable performance across different feed pressures ranging from 2 to 8 bar. The addition of TiO2 improved the compatibility of the polymer blend and increased the mobility of CO2. At 8 bar, the optimized PES/PVAc–5 wt.% TiO2 hollow fiber membrane reached a CO2 permeance of 92.22 GPU, representing an enhancement of about 24.7% in CO2/CH4 selectivity compared to the standard membrane. This emphasizes its potential for effective biogas upgrading under high pressure.",
-      "summary": "This resulted in the creation of mixed matrix blend hollow fiber membranes by using the phase inversion method. The membranes that were developed were examined using FESEM, FTIR, XRD, TGA, and pure-gas permeation analysis. The polymer blend demonstrated miscibility and preserved strong morphological and structural stability during CO2 and CH4 separation tests, exhibiting little deformation and reliable performance across different feed pressures ranging from 2 to 8 bar.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212426686",
-      "title": "Comparative periodate/peroxydisulfate‐induced catalytic degradation of C ongo red by CuS / AC catalyst and its composite membrane with polysulfone",
-      "authors": [
-        "Hieu Trung Nguyen",
-        "Nguyen Dang Khoa Phan"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "The Canadian Journal of Chemical Engineering",
-      "doi": "https://doi.org/10.1002/cjce.70580",
-      "url": "https://doi.org/10.1002/cjce.70580",
-      "abstract": "Abstract The rational design of high‐performance, self‐cleaning catalytic membranes is critical for overcoming severe fouling and mass‐transfer limitations in wastewater treatment. This study reports the successful synthesis of a CuS/activated carbon (CuS/AC) composite and its integration into polysulfone (PSf) to form a dual‐functional 50%CuS/AC/PSf catalytic membrane. Material characterizations (SEM, EDS, FTIR, Brunauer–Emmett–Teller (BET), TGA, zeta potential) revealed that the AC effectively suppressed the aggregation of CuS nanoparticles. This structural optimization yielded a high specific surface area (254.66 m 2 /g) with a hierarchical micro‐mesoporous network, while shifting the zeta potential from −10.2 to −2.6 mV, reducing electrostatic repulsion and maximizing active site exposure. Consequently, the composite exhibited a strong preliminary adsorption capacity (47.1% for 60 mg/L Congo red (CR)). For catalytic degradation, persulfate (PS) activation by 50%CuS/AC powder achieved a CR degradation efficiency of 97.2% within 120 min. At low CuS loading, the PS‐activated system exhibited better catalytic performance compared to the periodate (PI) system. Trapping tests confirmed a radical pathway in the PS system, while the PI system relied on a non‐radical ( 1 O 2 ) mechanism. The powder catalyst also demonstrated excellent reusability, retaining ~95% efficiency over three cycles. For catalytic membranes, the 50%CuS/AC/PSf not only doubled the pure water flux (41.1 L/m 2 h) compared to the pristine PSf but also maintained a robust CR removal efficiency of 82.1%–91.6% across three filtration cycles. This synergistic coupling of physical sieving and in situ advanced oxidation highlights the 50%CuS/AC/PSf membrane as a potential self‐cleaning technology for industrial effluent remediation.",
-      "summary": "Abstract The rational design of high‐performance, self‐cleaning catalytic membranes is critical for overcoming severe fouling and mass‐transfer limitations in wastewater treatment. At low CuS loading, the PS‐activated system exhibited better catalytic performance compared to the periodate (PI) system. The powder catalyst also demonstrated excellent reusability, retaining ~95% efficiency over three cycles.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "食品与脂质"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212427005",
-      "title": "Microwave-assisted plant-extract-mediated synthesis of S-scheme S-g-C₃N₄/ZnWO₄ nanocomposite for visible-light degradation of dye and antibiotic and antimicrobial activity",
-      "authors": [
-        "Swati",
-        "Heena Dahiya",
-        "Lakshita Phor",
-        "Dilipkumar S. Patel",
-        "Sujai S",
-        "Sikata Samantaray",
-        "Bharti Dahiya"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71489-z",
-      "url": "https://doi.org/10.1038/s41598-026-71489-z",
-      "abstract": "This investigation focused on the rapid microwave-assisted synthesis of an environmentally benign ZnWO 4 /S-g-C₃N₄ nanocomposite using a dry date-palm extract. The date palm extract functioned as both a reducing and stabilising agent, while microwave irradiation facilitated efficient composite synthesis and enhanced visible-light absorption. XRD, FTIR, SEM, elemental mapping, EDAX, TGA, XPS, UV-DRS, and UV-Visible Spectroscopy were used to thoroughly examine the heterostructure photocatalyst. The photocatalytic performance of the produced nanocomposite was evaluated by degrading Rose Bengal dye and a commercially available Moxifloxacin tablet under visible-light irradiation. The ZnWO 4 /S-g-C₃N₄ photocatalyst (10 ppm/10 mg) exhibited remarkable efficiency, i.e., 95% in 120 min for dye and 85% in 90 min for drug, compared to its individual constituents. The S-g-C₃N₄ heterojunction with ZnWO 4 significantly increased the visible-light absorption and hence reduced photogenerated electron–hole pair recombination, leading to an increase in photocatalytic efficiency, as supported by scavenger experiments that confirmed the involvement of superoxide radicals (⋅O₂⁻) and hydroxyl radicals (⋅OH) as the primary reactive species, with direct hole-mediated oxidation (h⁺) contributing a secondary role. Additionally, the catalyst exhibited satisfactory stability and reusability over multiple cycles. Moreover, the nanocomposite exhibits antibacterial activity against S. aureus and E. coli bacteria, making it multifunctional in environmental remediation. Therefore, this research presents a sustainable and energy-efficient method that holds considerable promise for wastewater treatment applications and demonstrates that employing S-g-C₃N₄ can enhance charge-carrier separation, producing efficient photocatalyst nanocomposites.",
-      "summary": "This investigation focused on the rapid microwave-assisted synthesis of an environmentally benign ZnWO 4 /S-g-C₃N₄ nanocomposite using a dry date-palm extract. The photocatalytic performance of the produced nanocomposite was evaluated by degrading Rose Bengal dye and a commercially available Moxifloxacin tablet under visible-light irradiation. Therefore, this research presents a sustainable and energy-efficient method that holds considerable promise for wastewater treatment applications and demonstrates that employing S-g-C₃N₄ can enhance charge-carrier separation, producing efficient photocatalyst nanocomposites.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212429789",
-      "title": "Cadmium and bismuth dopants’ synergistic effect on the photocatalytic dye degradation potential of ZnO/CdO",
-      "authors": [
-        "Guta Amenu",
-        "Buzuayehu Abebe",
-        "S. Giridhar Reddy",
-        "Khairia Mohammed Al-Ahmary",
-        "Saedah R. Al-Mhyawi",
-        "Nuha Y. Elamin",
-        "Maha S. Alenezi",
-        "Amal Abdullah Aboras"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71142-9",
-      "url": "https://doi.org/10.1038/s41598-026-71142-9",
-      "abstract": "Currently, several dyes are used in day-to-day activities, and their toxicity poses significant challenges to human health. In this study, the high negative conduction and positive valence band edge of zinc oxide (ZnO) were modified through the inclusion of Cd and Bi dopants as localized mid-gap states that synergistically diminish the electron-hole recombination. The combustion approach has been used to uniformly distribute the dopants in ZnO’s crystal lattice. The TGA-DTA analysis confirmed 490 °C as the precise calcination temperature to achieve a pure and stable ZnO and Cd-Bi co-doped ZnO/CdO (CBZ) heterostructure. The homogeneous Cd and Bi dopant distribution was verified by EDS elemental mapping investigation. The FESEM and TEM images confirm the sheet-type morphology with several nanoscale-sized agglomerated particles on the surface. The uniform dopants’ inclusion was also confirmed by intensity reduction and occurrence of deep-level emission bands in the visible regions of the PL spectrum. The lower solubility of Cd in the ZnO crystal lattice compared to Bi was confirmed by the CdO independent peak development on the XRD pattern analysis. Compared to ZnO ( k = 0.044 min −1 ), the optoelectrical and dye degradation potential improvement for CBZ ( k = 0.081 min −1 ) was confirmed.",
-      "summary": "Currently, several dyes are used in day-to-day activities, and their toxicity poses significant challenges to human health. The lower solubility of Cd in the ZnO crystal lattice compared to Bi was confirmed by the CdO independent peak development on the XRD pattern analysis. Compared to ZnO ( k = 0.044 min −1 ), the optoelectrical and dye degradation potential improvement for CBZ ( k = 0.081 min −1 ) was confirmed.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212436339",
-      "title": "Marine‐Derived Type I Collagen From Scyliorhinus canicula : Extraction, Characterization, and Biomedical Applications",
-      "authors": [
-        "Marwa Rejeb",
-        "Aida Lahmar",
-        "Arem Selmi",
-        "Tahsine Kosksi",
-        "Nawres Debbabi",
-        "Ghania Degobert",
-        "Leila Chekir Ghédira"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Journal of Applied Polymer Science",
-      "doi": "https://doi.org/10.1002/app.71498",
-      "url": "https://doi.org/10.1002/app.71498",
-      "abstract": "ABSTRACT Marine‐derived biomaterials have attracted increasing interest as sustainable and biocompatible alternatives to terrestrial sources. In this study, type I collagen (Coll‐I) was extracted from the skin of Scyliorhinus canicula using an acid‐solubilization method, 7.08% ± 0.11% collagen on a dry‐weight basis. The extracted collagen was characterized through structural, thermal, and morphological analyses. Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) of the lyophilized collagen revealed its thermal behavior, showing an irreversible endothermic transition at approximately 81°C, associated with dehydration‐related structural rearrangements and a high‐temperature thermal event around 203°C, corresponding to the onset of degradation processes. Scanning electron microscopy (SEM) revealed a characteristic lamellar morphology. Biocompatibility assays confirmed the absence of cytotoxic effects on dermal cells. Coll‐I significantly enhanced fibroblast migration, achieving wound closure rates of 98% ± 1.6% and 81.99% ± 1.6% at 25 and 12.5 μg/mL, respectively. It also reduced lipopolysaccharide‐induced nitric oxide production in primary macrophages and exhibited anti‐melanogenic activity by decreasing tyrosinase activity and intracellular melanin content. These findings highlight the potential of S. canicula ‐derived collagen as a multifunctional marine biomaterial for wound‐healing and dermocosmetic applications.",
-      "summary": "ABSTRACT Marine‐derived biomaterials have attracted increasing interest as sustainable and biocompatible alternatives to terrestrial sources. In this study, type I collagen (Coll‐I) was extracted from the skin of Scyliorhinus canicula using an acid‐solubilization method, 7.08% ± 0.11% collagen on a dry‐weight basis. Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) of the lyophilized collagen revealed its thermal behavior, showing an irreversible endothermic transition at approximately 81°C, associated with dehydration‐related structural rearrangements and a high‐temperature thermal event around 203°C, corresponding to the onset of degradation processes.",
-      "techniques": [
-        "DSC",
-        "TGA"
-      ],
-      "categories": [
-        "热安全与失效分析",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212440844",
-      "title": "Formulation And Evaluation Of Fast Dissolving Oral Thin Film Of Caffeine By Solvent Casting Method",
-      "authors": [
-        "Prasad Patil1, Divya Pawar2, Samadhan Atole3"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22735015",
-      "url": "https://doi.org/10.5281/zenodo.22735015",
-      "abstract": "Background: Fast-dissolving oral thin films (OTFs) represent an emerging patient-centric oromucosal dosage form designed to disintegrate rapidly upon contact with saliva, releasing drug for oromucosal and/or gastrointestinal absorption without water intake. Purpose: This manuscript describes the formulation and evaluation of caffeine fast-dissolving oral thin films prepared by the solvent casting method. It details the scientific rationale for selecting caffeine as a model drug, the roles of film-forming polymers and plasticizers, the principle and stepwise manufacturing procedure, and a comprehensive evaluation framework. Where experimental data were not supplied, clearly labelled placeholder templates are provided without fabrication of results. Methods: The formulation strategy, polymer and plasticizer selection, solvent system considerations, viscosity and castability, and the detailed solvent-casting process (weighing to packaging) are presented. Evaluation parameters including physical appearance, thickness, weight variation, folding endurance, tensile strength, percentage elongation, surface pH, moisture content/uptake, drug content uniformity, disintegration time, in-vitro dissolution, surface morphology, FTIR, DSC and stability are discussed according to pharmacopeial and literature-supported methodologies. Results: No experimental numerical results were supplied by the sponsor. Therefore, no dissolution percentages, disintegration times, mechanical values, drug-content values, FTIR/DSC/SEM observations or stability outcomes are claimed. Structured placeholder tables intended to receive laboratory data (mean ± SD, units, acceptance criteria) are provided for direct data entry. Conclusion: Caffeine is a scientifically justified model drug for OTF development owing to its well-characterised physicochemical and pharmacological profile and need for rapid onset in specific use-cases. HPMC, pullulan, PVA and related hydrophilic film-formers plasticized with glycerol or PEG remain the most documented backbone for solvent-cast fast-dissolving films. The manuscript provides a methodological and evaluation scaffold compliant with the strict 70-75 reference limit, with fully synchronized Vancouver citations (1-71).",
-      "summary": "Methods: The formulation strategy, polymer and plasticizer selection, solvent system considerations, viscosity and castability, and the detailed solvent-casting process (weighing to packaging) are presented. Evaluation parameters including physical appearance, thickness, weight variation, folding endurance, tensile strength, percentage elongation, surface pH, moisture content/uptake, drug content uniformity, disintegration time, in-vitro dissolution, surface morphology, FTIR, DSC and stability are discussed according to pharmacopeial and literature-supported methodologies. Therefore, no dissolution percentages, disintegration times, mechanical values, drug-content values, FTIR/DSC/SEM observations or stability outcomes are claimed.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212447007",
-      "title": "Formulation And Evaluation Of Fast Dissolving Oral Thin Film Of Caffeine By Solvent Casting Method",
-      "authors": [
-        "Prasad Patil1, Divya Pawar2, Samadhan Atole3"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22735016",
-      "url": "https://doi.org/10.5281/zenodo.22735016",
-      "abstract": "Background: Fast-dissolving oral thin films (OTFs) represent an emerging patient-centric oromucosal dosage form designed to disintegrate rapidly upon contact with saliva, releasing drug for oromucosal and/or gastrointestinal absorption without water intake. Purpose: This manuscript describes the formulation and evaluation of caffeine fast-dissolving oral thin films prepared by the solvent casting method. It details the scientific rationale for selecting caffeine as a model drug, the roles of film-forming polymers and plasticizers, the principle and stepwise manufacturing procedure, and a comprehensive evaluation framework. Where experimental data were not supplied, clearly labelled placeholder templates are provided without fabrication of results. Methods: The formulation strategy, polymer and plasticizer selection, solvent system considerations, viscosity and castability, and the detailed solvent-casting process (weighing to packaging) are presented. Evaluation parameters including physical appearance, thickness, weight variation, folding endurance, tensile strength, percentage elongation, surface pH, moisture content/uptake, drug content uniformity, disintegration time, in-vitro dissolution, surface morphology, FTIR, DSC and stability are discussed according to pharmacopeial and literature-supported methodologies. Results: No experimental numerical results were supplied by the sponsor. Therefore, no dissolution percentages, disintegration times, mechanical values, drug-content values, FTIR/DSC/SEM observations or stability outcomes are claimed. Structured placeholder tables intended to receive laboratory data (mean ± SD, units, acceptance criteria) are provided for direct data entry. Conclusion: Caffeine is a scientifically justified model drug for OTF development owing to its well-characterised physicochemical and pharmacological profile and need for rapid onset in specific use-cases. HPMC, pullulan, PVA and related hydrophilic film-formers plasticized with glycerol or PEG remain the most documented backbone for solvent-cast fast-dissolving films. The manuscript provides a methodological and evaluation scaffold compliant with the strict 70-75 reference limit, with fully synchronized Vancouver citations (1-71).",
-      "summary": "Methods: The formulation strategy, polymer and plasticizer selection, solvent system considerations, viscosity and castability, and the detailed solvent-casting process (weighing to packaging) are presented. Evaluation parameters including physical appearance, thickness, weight variation, folding endurance, tensile strength, percentage elongation, surface pH, moisture content/uptake, drug content uniformity, disintegration time, in-vitro dissolution, surface morphology, FTIR, DSC and stability are discussed according to pharmacopeial and literature-supported methodologies. Therefore, no dissolution percentages, disintegration times, mechanical values, drug-content values, FTIR/DSC/SEM observations or stability outcomes are claimed.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212447231",
-      "title": "Investigation of the Effect of Nanoclay on Thermal and Dynamic Mechanical Properties of Poly( N -vinyl-2-pyrrolidone)/Dextran/Poly(ethylene glycol)-Based Nanocomposites",
-      "authors": [
-        "Serap Kavlak"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "ACS Omega",
-      "doi": "https://doi.org/10.1021/acsomega.6c03988",
-      "url": "https://doi.org/10.1021/acsomega.6c03988",
-      "abstract": "Abstract In this work, the effect of nanoclay content on the thermal and dynamic mechanical properties of the ternary polymer blend-based nanocomposites was investigated. The synergistic effect of combining poly(N-vinyl-2-pyrrolidone) (PVP), dextran (DEX), and poly(ethylene glycol) (PEG), along with the addition of nanoclay, can lead to the formation of new nanostructures with improved properties. Based on this, nanocomposites were successfully prepared using the solution mixing method. Structural and morphological characteristics of the prepared nanocomposites were comprehensively evaluated by Fourier transform infrared (FTIR) spectroscopy, X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS), and transmission electron microscopy (TEM) techniques. Intercalation of the polymer blend between the silicate layers was determined by XRD analysis. TEM analyses confirmed highly intercalated nanocomposite structures. The thermal and dynamic mechanical behavior of the ternary blend and its nanocomposites was investigated by thermogravimetric analysis (TGA) and dynamic mechanical analysis (DMA). The nanocomposites exhibited enhanced thermal stability compared to the polymer blend, as evidenced by residue percentages of 8.3% for the blend and 16.1 and 17.4% for the nanocomposites containing 5 and 10% nanoclay at 600 °C, respectively. For the ternary blend, the onset temperature observed in the storage modulus was 47.8 °C, while for nanocomposites containing 5 and 10% nanoclay, this temperature was 51.6 and 52.4 °C, respectively; the differences are slightly greater at temperatures above ∼200 °C. These functional nanocomposites, prepared through the synergy of multiple materials and containing biocompatible polymers, have been developed as potential candidate nanomaterials for use in various fields requiring high-performance materials.",
-      "summary": "Abstract In this work, the effect of nanoclay content on the thermal and dynamic mechanical properties of the ternary polymer blend-based nanocomposites was investigated. Based on this, nanocomposites were successfully prepared using the solution mixing method. These functional nanocomposites, prepared through the synergy of multiple materials and containing biocompatible polymers, have been developed as potential candidate nanomaterials for use in various fields requiring high-performance materials.",
-      "techniques": [
-        "TGA",
-        "DMA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212454675",
-      "title": "Thermoreversible Natural Rubber Covalent Adaptable Networks via Diels–Alder Chemistry",
-      "authors": [
-        "Tobechukwu Ohaka",
-        "Tizazu H. Mekonnen"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "ACS Applied Polymer Materials",
-      "doi": "https://doi.org/10.1021/acsapm.6c01184",
-      "url": "https://doi.org/10.1021/acsapm.6c01184",
-      "abstract": "Abstract Recycling sulfur-cross-linked natural rubber (NR) to enhance its sustainability and reduce waste remains challenging due to its permanent network and existing devulcanization approaches that are energy-intensive and inconsistent and risk backbone degradation. Here, we introduce a recyclable thermoreversible covalent adaptable network (CAN) based on furan-maleimide Diels–Alder (DA) chemistry, synthesized directly through batch mechanochemical processing. NR was functionalized with furfurylamine (FFA) and cross-linked in situ with bismaleimide (BM) to form dynamic DA bonds, and the resulting networks were characterized via VT-FTIR, XPS, DMA, DSC, and tensile testing to assess structural, thermal, and mechanical properties. The optimized formulation (20BM-5FFA-60) demonstrated large improvements in max stress relative to un-cross-linked furan-grafted NR, including a 121% increase in tensile strength, 51% and 26% increases in elastic modulus (at 50% and 100% strain, respectively), and a 138% rise in toughness. Variable-temperature FTIR and DMA analysis (temperature sweep, iso-strain stress relaxation) showed that retro-DA cleavage begins above 40 °C, with maximum dissociation between 75 and 115 °C. Solvent-assisted reprocessing of 20BM-5FFA-60 allowed the retention of 70% of its pristine mechanical integrity with a ∼7% reduction in storage modulus after 3 recycle cycles. These results demonstrate a scalable, sustainable route to reprocessable NR elastomers, where tuning BM and furan contents enables control over thermal response, cross-link density, and recyclability.",
-      "summary": "Abstract Recycling sulfur-cross-linked natural rubber (NR) to enhance its sustainability and reduce waste remains challenging due to its permanent network and existing devulcanization approaches that are energy-intensive and inconsistent and risk backbone degradation. Variable-temperature FTIR and DMA analysis (temperature sweep, iso-strain stress relaxation) showed that retro-DA cleavage begins above 40 °C, with maximum dissociation between 75 and 115 °C. These results demonstrate a scalable, sustainable route to reprocessable NR elastomers, where tuning BM and furan contents enables control over thermal response, cross-link density, and recyclability.",
-      "techniques": [
-        "DSC",
-        "DMA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7131660107",
-      "title": "Magnetic Water Cleaning of Estrogens via Tight yet Dynamic Binding to Nanoparticles",
-      "authors": [
-        "Lukas Müller",
-        "Philip Maier",
-        "Dustin Vivod",
-        "Wenke Müller",
-        "Nikolaj Lopatik",
-        "Theresa Maria Schichtl",
-        "J. Frohlich",
-        "Irene Kraus"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Advanced Science",
-      "doi": "https://doi.org/10.1002/advs.77321",
-      "url": "https://doi.org/10.1002/advs.77321",
-      "abstract": "Micropollution is an ever-increasing concern to human health and wildlife caused by population growth, industrialization, and intensive agriculture. An example of such micropollutants are natural and synthetic estrogen hormones. They are found everywhere in the aquatic environment at very low but dangerous concentrations. In this article, we demonstrate a supramolecular design principle for adsorption of such low-concentrated estrogens onto tailored superparamagnetic iron oxide nanoparticles (SPIONs) enabling efficient magnetic water cleaning. We facilitate the adsorption by tuning the SPION surface with a binary self-assembled monolayer (SAM) composed of two phosphonic acid derivatives: one serving as hydrophobic interaction site and the other improving water dispersibility of the system. Next to validating the concept in real river water, we conclude the demonstration of our nanomaterials by unveiling the estrogen-SAM interaction at dilute conditions via synergistic combination of model systems, characterization techniques, and simulation. We experimentally deduce tight binding of estrogens combined with simulations that identify different, dynamic adsorption motifs at molecular space and time scale including a rare intercalation state, in which the hydrophobic pollutants minimize their contact to water. We believe that beyond our materials, these insights on the pollutant-adsorbent interface underline the importance and potential of rational, molecular-scale design of nano-adsorbents.",
-      "summary": "Micropollution is an ever-increasing concern to human health and wildlife caused by population growth, industrialization, and intensive agriculture. In this article, we demonstrate a supramolecular design principle for adsorption of such low-concentrated estrogens onto tailored superparamagnetic iron oxide nanoparticles (SPIONs) enabling efficient magnetic water cleaning. Next to validating the concept in real river water, we conclude the demonstration of our nanomaterials by unveiling the estrogen-SAM interaction at dilute conditions via synergistic combination of model systems, characterization techniques, and simulation.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212357967",
-      "title": "Physics-embedded neural-network surrogate for infrared radiation prediction of correlated space targets",
-      "authors": [
-        "Biao Zhang",
-        "Yong-Biao Xue",
-        "Ruo-Xi Peng",
-        "Qian-Wen Wang",
-        "XU Chuan-long"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Case Studies in Thermal Engineering",
-      "doi": "https://doi.org/10.1016/j.csite.2026.108526",
-      "url": "https://doi.org/10.1016/j.csite.2026.108526",
-      "abstract": "Infrared radiation characteristics are key electromagnetic signatures for detecting, tracking, and assessing space targets. This study develops a physics-embedded neural-network surrogate for rapid prediction of the infrared radiative intensity of correlated targets with different surface emissivities. The model uses the radiation time series of two basic targets as inputs and infers two effective heat-flux sequences: a full-band external heat flux governing temperature evolution and a detection-band ambient projected heat flux governing reflected radiation. The heat balance equation and the Planck-law radiation calculation are embedded as forward computational steps, and the model is trained by a weighted RMSE between reconstructed and reference radiation intensities of the two basic targets. It is a physics-embedded surrogate in which the governing equations constrain the input-output structure. Numerical tests are conducted within a synthetic simulation chain using Aerospace ToolKit trajectories and an in-house MATLAB thermal-radiation model. Over the emissivity range 0.05-0.95, the long-wave infrared RRMSE is generally below 2%, while the mid-wave infrared RRMSE remains below 5% for emissivity ≥ 0.2 and reaches 11.55% at emissivity = 0.05. The main errors occur for low-emissivity mid-wave cases and during eclipse-to-sunlight transitions. The results show that hard embedding of radiation physics can reproduce simulator-generated emissivity trends with interpretable effective latent variables.",
-      "summary": "Infrared radiation characteristics are key electromagnetic signatures for detecting, tracking, and assessing space targets. Numerical tests are conducted within a synthetic simulation chain using Aerospace ToolKit trajectories and an in-house MATLAB thermal-radiation model. The results show that hard embedding of radiation physics can reproduce simulator-generated emissivity trends with interpretable effective latent variables.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212420440",
-      "title": "Valorisation of high-alumina ferroalloy slags into high-performance geopolymer composites within a circular economy approach for sustainable construction materials",
-      "authors": [
-        "V. Sinelnikov",
-        "Piotr Łoś",
-        "Jan Novosád",
-        "D. Kalisz",
-        "Grzegorz Adamski",
-        "Izabela Górko",
-        "Piotr Czarnywojtek",
-        "S. V. Semiryagin"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71307-6",
-      "url": "https://doi.org/10.1038/s41598-026-71307-6",
-      "abstract": "This study was conducted to address the critical environmental and economic challenges of metallurgical waste accumulation and rising CO₂ emission costs by valorising highly contaminated, high-alumina ferroalloy slags into sustainable, high-performance geopolymer composites. To achieve this, the present work investigates the synthesis, characterization, and performance evaluation of geopolymer composites based on ferrovanadium and aluminum-chromium slags with controlled variation of SiO 2 content. The experimental procedure included mechanical activation and particle size reduction of slag precursors, followed by physicochemical characterization using X-ray fluorescence (XRF), X-ray diffraction (XRD), thermogravimetric analysis (TG), and scanning electron microscopy (SEM). Geopolymer formulations were prepared using potassium silicate solution as an alkaline activator, with subsequent incorporation of SiO₂, graphite, carbon fibers, and silica sand. Hardened specimens were cured under ambient conditions for 28 days prior to testing. Phase analysis of high-alumina ferroalloy slags confirmed the presence of crystalline constituents including Grossite (CaAl 4 O 7 ), Hibonite (CaAl 12 O 19 ), Corundum (α-Al₂O₃), Spinel (MgAl 2 O 4 ), and Ye’elimite (C 4 A 3 S), which governed the reactivity and structural evolution of the geopolymer matrix. Mechanical testing revealed a systematic increase in compressive strength with increasing SiO 2 content, from 3.53 MPa to 7.23 MPa in case of geopolymers based on ferrovanadium slag (no. 1). A corresponding increase in thermal conductivity was observed, ranging from 1.29 W/m·K to 1.43 W/m·K. Compressive strength for geopolymer composites based on aluminum-chromium slag (no. 3) was in the range of 2.37 MPa to 12.54 MPa, meanwhile, the influence of sand additives was also determined. While the compressive strength of alkali-activated geopolymers based on aluminum-chromium slag (no. 2) was increased with the growth of binder content, namely from 2.99 MPa to 56.4 MPa. Microstructural observations indicated progressive densification and reduction of porosity with increasing silica content, consistent with the mechanical and thermal results. The obtained results demonstrate that ferroalloy slags are suitable precursors for geopolymer synthesis, while SiO 2 content serves as a critical parameter controlling the balance between mechanical strength, thermal transport properties, and microstructural compactness.",
-      "summary": "This study was conducted to address the critical environmental and economic challenges of metallurgical waste accumulation and rising CO₂ emission costs by valorising highly contaminated, high-alumina ferroalloy slags into sustainable, high-performance geopolymer composites. Microstructural observations indicated progressive densification and reduction of porosity with increasing silica content, consistent with the mechanical and thermal results. The obtained results demonstrate that ferroalloy slags are suitable precursors for geopolymer synthesis, while SiO 2 content serves as a critical parameter controlling the balance between mechanical strength, thermal transport properties, and microstructural compactness.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212422357",
-      "title": "Rigid polymer matrix enables direct red afterglow from rhodamine dyes without energy transfer",
-      "authors": [
-        "Yang Yan",
-        "Yongjie Kuang",
-        "Tao Pu",
-        "Jianhua Huang",
-        "Zikai Zhou",
-        "Yang Jingwen",
-        "Zhi Cao",
-        "Zhonghao Wang"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "FlexMat.",
-      "doi": "https://doi.org/10.1002/flm2.70139",
-      "url": "https://doi.org/10.1002/flm2.70139",
-      "abstract": "Abstract Room‐temperature phosphorescence (RTP) materials have garnered significant attention for their unique optical properties in information encryption and bioimaging. While triplet‐singlet Förster resonance energy transfer strategies have been employed to endow traditional fluorescent dyes with afterglow, they suffer from complex multi‐component systems and strict donor‐acceptor matching requirements. Here, we report a novel and universal strategy to achieve direct, long‐lived RTP emission from commercial rhodamine dyes (rhodamine B (RhB), SRB, Rh6G, Rhodamine 110) by simply doping them into a newly synthesized rigid phosphorus‐containing polymer (DOBP). The robust rigid network of DOBP effectively immobilizes the dye molecules and shields them from oxygen, drastically suppressing the non‐radiative deactivation of triplet excitons. Remarkably, the DOBP‐RhB film exhibits an intense orange‐red afterglow with a lifetime of 203.29 ms under ambient conditions, which is approximately 29 times longer than that of RhB at 77 K, demonstrating superior confinement over cryogenic conditions. This strategy produces tunable afterglow colors ranging from orange‐red to orange‐yellow without any complex energy transfer processes. This work provides a facile, practical route to transform commercially available fluorescent dyes into high‐performance RTP materials, addressing the challenge of color monotonicity and paving the way for advanced anti‐counterfeiting and multi‐level information encryption applications.",
-      "summary": "Abstract Room‐temperature phosphorescence (RTP) materials have garnered significant attention for their unique optical properties in information encryption and bioimaging. This strategy produces tunable afterglow colors ranging from orange‐red to orange‐yellow without any complex energy transfer processes. This work provides a facile, practical route to transform commercially available fluorescent dyes into high‐performance RTP materials, addressing the challenge of color monotonicity and paving the way for advanced anti‐counterfeiting and multi‐level information encryption applications.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212422448",
-      "title": "Trace metal accumulation in automotive garage soils of Jimma Town Ethiopia and its potential health implications",
-      "authors": [
-        "Samuel Fekadu",
-        "Atsede Sileshi",
-        "Higemengist Astatkie",
-        "Dessalegn Dadi Olani",
-        "Sintayehu Legesse Gebre"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Discover Environment",
-      "doi": "https://doi.org/10.1007/s44274-026-01018-2",
-      "url": "https://doi.org/10.1007/s44274-026-01018-2",
-      "abstract": "Abstract Garages generate waste streams—including used oils, metal fragments, brake and tire debris, and fluid spills—that introduce trace metals into surrounding soils. This study quantified chromium (Cr), zinc (Zn), and copper (Cu) in topsoils from six garages (G1-G6) in Jimma town, Oromia Region, Ethiopia, through the collection and analysis of 21 composite topsoil samples (0–10 cm depth, including three controls). Metal concentrations were determined using Microwave-Induced Plasma Atomic Emission Spectrometry (MP-AES) following aqua regia digestion. Soil Zn and Cu concentrations at all six investigated garages systematically exceeded World Health Organization (WHO) target soil values (Zn: 50 mg/kg; Cu: 36 mg/kg), with Zn reaching up to 677.50 mg/kg (G1) and Cu reaching 686.25 mg/kg (G6). Concurrently, Cr concentrations at sites G4 (140.00 mg/kg) and G6 (123.75 mg/kg) exceeded the WHO target value for soil (100 mg/kg). Based on comparison with established soil guidelines and known toxicity thresholds, these elevated concentrations suggest potential health concerns for workers and residents exposed via direct contact, dust ingestion, or secondary exposure to home-grown produce. The spatial pattern and magnitude of contamination support anthropogenic sources associated with automotive repair activities as the primary drivers of metal accumulation. These findings underscore the urgent need for regulatory interventions, including paved workshop floors, hazardous waste containment, and routine soil monitoring in commercial repair zones.",
-      "summary": "Abstract Garages generate waste streams—including used oils, metal fragments, brake and tire debris, and fluid spills—that introduce trace metals into surrounding soils. Soil Zn and Cu concentrations at all six investigated garages systematically exceeded World Health Organization (WHO) target soil values (Zn: 50 mg/kg; Cu: 36 mg/kg), with Zn reaching up to 677.50 mg/kg (G1) and Cu reaching 686.25 mg/kg (G6). Based on comparison with established soil guidelines and known toxicity thresholds, these elevated concentrations suggest potential health concerns for workers and residents exposed via direct contact, dust ingestion, or secondary exposure to home-grown produce.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212423424",
-      "title": "Folate-targeted Mg–alendronate BioMOF nanorods for pH-responsive drug release and selective cancer therapy",
-      "authors": [
-        "Safoura Nezafat",
-        "Banafsheh Rastegari",
-        "Maryam Tohidi",
-        "Sedigheh Zeinali"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71471-9",
-      "url": "https://doi.org/10.1038/s41598-026-71471-9",
-      "abstract": "Abstract Herein, a bio-metal–organic framework (BioMOF) was synthesized using the bisphosphonate drug alendronate (ALD) as both the organic linker and therapeutic agent, coordinated with Mg²⁺ ions to form Mg–ALD. To enable active targeting, the framework was functionalized with folic acid (FA), yielding Mg–ALD/FA. The structural and morphological properties of the BioMOFs were characterized using scanning and transmission electron microscopy (SEM/TEM), X-ray diffraction (XRD), energy-dispersive X-ray spectroscopy (EDX), Fourier-transform infrared spectroscopy (FTIR), and ultraviolet-visible (UV–Vis) spectroscopy. Drug release investigations revealed a pronounced pH-responsive behavior, with significantly enhanced ALD release under acidic conditions (pH 5.5) compared to physiological pH (7.4). Kinetic analysis suggested that the release process is predominantly diffusion-controlled under physiological conditions, while weakening of Mg–ALD coordination under acidic environments. In vitro cytotoxicity studies (MTT assay) on NIH/3T3, HeLa, and LnCap cell lines demonstrated selective toxicity of Mg–ALD/FA toward folate receptor–positive HeLa cells, while minimal effects were observed on normal and FA-negative cells. After 72 h of treatment with 50 µg mL⁻¹ Mg–ALD/FA, HeLa cell viability decreased to approximately 25%. These findings demonstrate that Mg–ALD/FA represents a dual-function BioMOF in which alendronate serves simultaneously as a structural linker and therapeutic agent, offering controlled pH-responsive release and effective receptor-mediated targeting for cancer therapy.",
-      "summary": "Abstract Herein, a bio-metal–organic framework (BioMOF) was synthesized using the bisphosphonate drug alendronate (ALD) as both the organic linker and therapeutic agent, coordinated with Mg²⁺ ions to form Mg–ALD. In vitro cytotoxicity studies (MTT assay) on NIH/3T3, HeLa, and LnCap cell lines demonstrated selective toxicity of Mg–ALD/FA toward folate receptor–positive HeLa cells, while minimal effects were observed on normal and FA-negative cells. These findings demonstrate that Mg–ALD/FA represents a dual-function BioMOF in which alendronate serves simultaneously as a structural linker and therapeutic agent, offering controlled pH-responsive release and effective receptor-mediated targeting for cancer therapy.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212427380",
-      "title": "GCCA-trans: a hybrid segmentation network with guided criss-cross attention for early-stage head and neck tumors in CT images",
-      "authors": [
-        "Yuebin Zheng",
-        "Yuntao Xie",
-        "Dengyao Luo",
-        "Huacai Zhong",
-        "Jun Wu",
-        "Qian Wang",
-        "Qiang Han",
-        "Bincheng Yan"
-      ],
-      "publication_date": "2026-09-13",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71076-2",
-      "url": "https://doi.org/10.1038/s41598-026-71076-2",
-      "abstract": "Accurate lesion segmentation in medical images is essential for disease assessment and treatment planning. Most head and neck tumors can be clinically cured when treated at an early stage, making early detection highly beneficial for guiding effective therapy. However, research on early-stage head and neck tumor segmentation remains limited due to the scarcity of dedicated datasets. To address this gap, we collect and annotate an early-stage head and neck tumor dataset (ES-HNT), comprising contrast-enhanced CT scans from 138 patients. To address the challenges of segmenting small, low-contrast tumors, we propose a CNN–Transformer hybrid architecture, GCCA-Trans, built around two components: a Guided Cyclic Cross-Attention (GCCA) module embedded at the skip connections, which captures global contextual relationships to strengthen the representation of small tumor regions, and a Squeeze-Enhanced Axial Attention (SEA) module, which replaces standard multi-head self-attention in the Transformer encoder to preserve fine-grained local detail alongside global context modeling. Experimental results on the ES-HNT and SegRap2023 datasets show that GCCA-Trans achieves consistent improvements over existing state-of-the-art methods under the same experimental settings.",
-      "summary": "Accurate lesion segmentation in medical images is essential for disease assessment and treatment planning. To address the challenges of segmenting small, low-contrast tumors, we propose a CNN–Transformer hybrid architecture, GCCA-Trans, built around two components: a Guided Cyclic Cross-Attention (GCCA) module embedded at the skip connections, which captures global contextual relationships to strengthen the representation of small tumor regions, and a Squeeze-Enhanced Axial Attention (SEA) module, which replaces standard multi-head self-attention in the Transformer encoder to preserve fine-grained local detail alongside global context modeling. Experimental results on the ES-HNT and SegRap2023 datasets show that GCCA-Trans achieves consistent improvements over existing state-of-the-art methods under the same experimental settings.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212355782",
-      "title": "Synthesis, Characterization, and Potential Application of Phosphoramide Derivatives as Nitrocellulose Stabilizers",
-      "authors": [
-        "Gongyu Zhou",
-        "Qi Huang",
-        "Yuge Xiang",
-        "Qiuyu Peng",
-        "Yang Zhao",
-        "Bo Jin",
-        "Rufang Peng"
-      ],
-      "publication_date": "2026-09-12",
-      "journal": "Propellants Explosives Pyrotechnics",
-      "doi": "https://doi.org/10.1002/prep.70278",
-      "url": "https://doi.org/10.1002/prep.70278",
-      "abstract": "ABSTRACT A series of phosphoramide derivatives were synthesized using POCl 3 and aniline as raw materials. The phosphoramide derivatives can inhibit the self‐catalytic decomposition of nitrocellulose (NC), thereby extending the service life of nitrate‐based propellants. The structure of synthesized phosphoramide derivatives was characterized using nuclear magnetic resonance and high‐resolution mass spectrometry. Their compatibility with NC and their stabilizing effect on NC were investigated using differential thermal analysis (DTA), methyl violet test paper test, isothermal WST and VST. The results showed that the synthesized phosphoramide derivatives were compatible with NC, and the overall stabilizing effect on NC was better than that of the traditional stabilizers diphenylamine (DPA) and N,N' ‐dimethyl‐ N , N '‐diphenylurea (C2). In addition, Fourier transform infrared spectroscopy (FT‐IR) and liquid chromatography‐mass spectrometry (LC‐MS) were used to investigate the stabilizing mechanism of phosphoramide derivatives on NC. The results showed that the phosphoramide derivatives could absorb the nitrogen oxides (NO X ) generated during the decomposition of NC, thus inhibiting the autocatalytic degradation of NC, and thus realizing their stabilizing effect on NC.",
-      "summary": "ABSTRACT A series of phosphoramide derivatives were synthesized using POCl 3 and aniline as raw materials. The results showed that the synthesized phosphoramide derivatives were compatible with NC, and the overall stabilizing effect on NC was better than that of the traditional stabilizers diphenylamine (DPA) and N,N' ‐dimethyl‐ N , N '‐diphenylurea (C2). The results showed that the phosphoramide derivatives could absorb the nitrogen oxides (NO X ) generated during the decomposition of NC, thus inhibiting the autocatalytic degradation of NC, and thus realizing their stabilizing effect on NC.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212357319",
-      "title": "STRUCTURE, THERMAL STABILITY, AND D-METAL ION SORPTION OF SORBENTS OBTAINED BY MODIFYING RECYCLED POLYMERS",
-      "authors": [
-        "Mahliyo Shoqulova",
-        "Azamat Safarov",
-        "Lutfulla Bozorov"
-      ],
-      "publication_date": "2026-09-12",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22724997",
-      "url": "https://doi.org/10.5281/zenodo.22724997",
-      "abstract": "This thesis describes the synthesis and structure of TX-1 and TX-2 ion-exchange and complex-forming sorbents obtained by modifying recycled polyethylene, polypropylene, and polyvinyl chloride with diethylamine, monoethanolamine, sodium diethyldithiocarbamate, and diphenylamine, as well as the thermodynamic behavior of the sorption of selected d-metal ions (Cu(II), Cd(II), Zn(II), and Ag(I)) by these sorbents. The results obtained from FTIR spectroscopy, differential thermal analysis (TGA-DTA-DSC), and sorption isotherms were analyzed, providing a scientific basis for the spontaneous nature of the sorption process.",
-      "summary": "This thesis describes the synthesis and structure of TX-1 and TX-2 ion-exchange and complex-forming sorbents obtained by modifying recycled polyethylene, polypropylene, and polyvinyl chloride with diethylamine, monoethanolamine, sodium diethyldithiocarbamate, and diphenylamine, as well as the thermodynamic behavior of the sorption of selected d-metal ions (Cu(II), Cd(II), Zn(II), and Ag(I)) by these sorbents. The results obtained from FTIR spectroscopy, differential thermal analysis (TGA-DTA-DSC), and sorption isotherms were analyzed, providing a scientific basis for the spontaneous nature of the sorption process.",
-      "techniques": [
-        "DSC",
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212360946",
-      "title": "Green and Reusable Ni@AC-IL-Al2O3 Nanocatalyst for Efficient A3 Coupling, Nitroarenes Reduction, Zeta Potential Analysis, and Selective Adsorption of Cationic Dyes",
-      "authors": [
-        "Asimah Noreen",
-        "Gulfishan Khuram",
-        "Bobby Dewal",
-        "Monika Gupta"
-      ],
-      "publication_date": "2026-09-12",
-      "journal": "ACS Sustainable Resource Management",
-      "doi": "https://doi.org/10.1021/acssusresmgt.6c00466",
-      "url": "https://doi.org/10.1021/acssusresmgt.6c00466",
-      "abstract": "Abstract A major challenge in sustainable heterogeneous catalysis is the effective utilization of low-cost waste resources without compromising catalytic activity, stability, and recyclability. Herein, we report the rational development of a biomass-derived hierarchical nanocatalyst, Ni@AC-IL-Al2O3, synthesized via ionic-liquid-mediated functionalization of peanut shell-derived activated carbon (AC), followed by integration with aluminum foil waste-derived Al2O3 and subsequent immobilization of uniformly dispersed Ni nanoparticles. The synergistic interplay between the high surface area carbon matrix, ionic-liquid-engineered surface chemistry, and mechanically robust Al2O3 framework promotes strong metal-support interactions and efficient dispersion of Ni active sites. The synthesized catalyst was comprehensively characterized using BET, TGA, XPS, HRTEM, FESEM, and related techniques to elucidate its structural, morphological, and surface properties, which are known to critically influence catalytic behavior in heterogeneous systems. This engineered architecture exhibits excellent catalytic performance in A3 coupling and nitroarene reduction under mild conditions, achieving high conversion (95%) with remarkable selectivity. Electrokinetic studies, including zeta potential analysis, confirm that ionic liquid functionalization enhances surface charge stabilization, leading to improved colloidal stability and catalytic efficiency. In addition to its catalytic activity, the nanocatalyst demonstrates efficient adsorption of Rhodamine B (RhB) and other cationic dyes, attributed to synergistic electrostatic interactions, π–π stacking, H-bonding, and abundant surface-active sites. The catalyst also displayed outstanding operational durability, with negligible Ni leaching and retention of over 90% catalytic activity after five consecutive cycles.",
-      "summary": "Abstract A major challenge in sustainable heterogeneous catalysis is the effective utilization of low-cost waste resources without compromising catalytic activity, stability, and recyclability. Electrokinetic studies, including zeta potential analysis, confirm that ionic liquid functionalization enhances surface charge stabilization, leading to improved colloidal stability and catalytic efficiency. In addition to its catalytic activity, the nanocatalyst demonstrates efficient adsorption of Rhodamine B (RhB) and other cationic dyes, attributed to synergistic electrostatic interactions, π–π stacking, H-bonding, and abundant surface-active sites.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "电子与封装",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
