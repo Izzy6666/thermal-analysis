@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -217,7 +217,7 @@
         "Cecile C. de Vos",
         "Jacob M. Mostert",
         "Frank J P M; id_orcid 0000-0002-2852-4880 Huygen",
-        "Martijn P A Starmans"
+        "Martijn P. A. Starmans"
       ],
       "publication_date": "2026-10-01",
       "journal": "PubMed",
@@ -232,6 +232,584 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W4386114105",
+      "title": "Quantum-inspired machine learning: a survey",
+      "authors": [
+        "Larry K. Huynh",
+        "Jin B. Hong",
+        "Ajmal Saeed Mian",
+        "Hajime Suzuki",
+        "Harish J. Vallury",
+        "Yanqiu Wu",
+        "Seyit Ahmet Camtepe"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Computer Science Review",
+      "doi": "https://doi.org/10.1016/j.cosrev.2026.101072",
+      "url": "https://doi.org/10.1016/j.cosrev.2026.101072",
+      "abstract": "Quantum-inspired Machine Learning (QiML) is a burgeoning field, receiving global attention from researchers for its potential to leverage principles of quantum mechanics within classical computational frameworks. However, current review literature often presents a superficial exploration of QiML, focusing instead on the broader Quantum Machine Learning (QML) field. In response to this gap, this survey provides an integrated and comprehensive examination of QiML, exploring QiML's diverse research domains including tensor network simulations, dequantized algorithms, and others, showcasing recent advancements, practical applications, and illuminating potential future research avenues. Further, a concrete definition of QiML is established by analyzing various prior interpretations of the term and their inherent ambiguities. As QiML continues to evolve, we anticipate a wealth of future developments drawing from quantum mechanics, quantum computing, and classical machine learning, enriching the field further. This survey serves as a guide for researchers and practitioners alike, providing a holistic understanding of QiML's current landscape and future directions.",
+      "summary": "Quantum-inspired Machine Learning (QiML) is a burgeoning field, receiving global attention from researchers for its potential to leverage principles of quantum mechanics within classical computational frameworks. In response to this gap, this survey provides an integrated and comprehensive examination of QiML, exploring QiML's diverse research domains including tensor network simulations, dequantized algorithms, and others, showcasing recent advancements, practical applications, and illuminating potential future research avenues. As QiML continues to evolve, we anticipate a wealth of future developments drawing from quantum mechanics, quantum computing, and classical machine learning, enriching the field further.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214055153",
+      "title": "Sustainable PVA/gelatin nanofibers reinforced with tomato-peel-derived carbon quantum dots for enhanced optical and mechanical properties",
+      "authors": [
+        "Firdausya Danuansa",
+        "W. B. K. Putri",
+        "Nurfina Yudasarı",
+        "Riesca Ayu Kusuma Wardhani",
+        "Windri Handayani",
+        "Rizky Aflaha",
+        "Aditya Rianjanu"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Next Materials",
+      "doi": "https://doi.org/10.1016/j.nxmate.2026.103600",
+      "url": "https://doi.org/10.1016/j.nxmate.2026.103600",
+      "abstract": "Increased interest in sustainable and biodegradable materials has driven advances in nanotechnology. This study explores the fabrication of nanofibers using polyvinyl alcohol (PVA) integrated with carbon quantum dots (CQDs) obtained from tomato peel waste and gelatin to produce hybrid materials with improved optical and mechanical properties. Unlike conventional CQD–polymer systems, the present work examines a hybrid PVA/gelatin matrix reinforced with biomass-derived CQDs and evaluates the resulting structure property correlations. Structural and morphological analysis indicates that the addition of CQDs enhances nanofiber characteristics, including increased crystallinity and reduced fiber diameter. Optically, one variant of PVA/CQDs/gelatin nanofibers exhibits superior fluorescence at a wavelength of 380 nm. Meanwhile, thermal analysis via TGA/DTA revealed that the greatest mass loss occurred between 250 – 500 °C, indicating superior thermal stability. Mechanical properties also improved, with increased tensile strength due to the synergistic interaction between PVA, CQDs, and gelatin, which can enhance the strength and flexibility of the fibers. Additionally, antibacterial testing revealed that the fabricated PVA/CQDs/gelatin nanofibers exhibit stronger inhibition against Escherichia coli (Gram-negative) compared to Staphylococcus aureus (Gram-positive. Antibacterial evaluation in this study was conducted as a preliminary qualitative screening to confirm the intrinsic antimicrobial activity of the nanofibers, rather than as a quantitative comparison with standard antibiotics. These findings highlight the multifunctional potential of PVA/CQDs/gelatin nanofibers for advanced material applications, particularly as a proof-of-concept toward sustainable active packaging materials. Future research will optimize fabrication techniques, scalability, and include quantitative antimicrobial benchmarking against standard antibiotics and minimum inhibitory concentration (MIC) analysis for broader functional applications.",
+      "summary": "Increased interest in sustainable and biodegradable materials has driven advances in nanotechnology. Unlike conventional CQD–polymer systems, the present work examines a hybrid PVA/gelatin matrix reinforced with biomass-derived CQDs and evaluates the resulting structure property correlations. Meanwhile, thermal analysis via TGA/DTA revealed that the greatest mass loss occurred between 250 – 500 °C, indicating superior thermal stability.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214066964",
+      "title": "Antibacterial Coatings on Cotton Fabrics Based on Rosmarinic Acid-Loaded Bio-Based Resin and Oxygen-Plasma Surface Pretreatment",
+      "authors": [
+        "Norma Mallegni",
+        "Serena Facchiano",
+        "Serena Coiai",
+        "Francesca Cicogna",
+        "Roberto Spiniello",
+        "Randa Ishak",
+        "Giuseppe Rosace",
+        "Valentina Trovato"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "ACS Omega",
+      "doi": "https://doi.org/10.1021/acsomega.6c05181",
+      "url": "https://doi.org/10.1021/acsomega.6c05181",
+      "abstract": "Abstract The development of antibacterial cotton textiles is of considerable interest for applications in healthcare, hygiene, and protective materials, where limiting microbial proliferation on fibrous surfaces is essential. However, many of the finishing strategies currently reported for cotton rely on metal-based agents or multifunctional synthetic systems, which may raise concerns about environmental impact, uncontrolled release, and long-term durability. In this context, the use of naturally derived bioactive compounds, combined with surface activation methods, represents a promising route toward more sustainable antimicrobial coatings. In this study, cotton fabrics were functionalized with a commercial biobased acrylic resin that contained increasing amounts of rosmarinic acid, a plant-derived polyphenol with recognized antimicrobial activity. The effect of oxygen plasma pretreatment was investigated to assess whether surface activation could improve coating distribution, interfacial adhesion, and functional performance. Resin films and coated fabrics were characterized by infrared spectroscopy, thermogravimetric analysis, differential scanning calorimetry, and scanning electron microscopy, while antibacterial activity was evaluated against Staphylococcus aureus and Escherichia coli. The results showed that plasma pretreatment promoted a more homogeneous distribution of the coating on cotton and qualitatively supported a more effective organization of the resin-based functional layer. The incorporation of rosmarinic acid modified the thermal behavior of the resin, indicating reduced chain mobility and more importantly the occurrence of interaction with the polymer matrix. The coated fabrics displayed marked antibacterial activity against S. aureus, whereas the effect against E. coli was more strongly dependent on rosmarinic acid content and coating uniformity. Overall, the study demonstrates that combining plasma surface activation with a biobased resin containing rosmarinic acid is a viable strategy for preparing metal-free antibacterial cotton coatings.",
+      "summary": "Abstract The development of antibacterial cotton textiles is of considerable interest for applications in healthcare, hygiene, and protective materials, where limiting microbial proliferation on fibrous surfaces is essential. The effect of oxygen plasma pretreatment was investigated to assess whether surface activation could improve coating distribution, interfacial adhesion, and functional performance. The results showed that plasma pretreatment promoted a more homogeneous distribution of the coating on cotton and qualitatively supported a more effective organization of the resin-based functional layer.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214069553",
+      "title": "Green Synthesis of Iron Nanoparticle Catalyst Using Manihot esculenta (Cassava) Peels Waste Extract and Their Application for the Degradation of Pharmaceutical Wastewater",
+      "authors": [
+        "Jibrin Noah Akoji",
+        "Merit Amarachukwu Eze",
+        "Lami Karimatu Abdullahi"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "FUDMA Journal of Sciences",
+      "doi": "https://doi.org/10.33003/fjs-2026-1017-6042",
+      "url": "https://doi.org/10.33003/fjs-2026-1017-6042",
+      "abstract": "The synthesized iron nanoparticles (FeNPs) were characterized using Scanning Electron Microscopy coupled with Energy Dispersive X-ray spectroscopy (SEM-EDX), Ultraviolet-Visible Spectroscopy (UV-Vis), X-Ray Diffraction (XRD), Thermogravimetric Analysis (TGA), Fourier Transformed Infrared Spectroscopy (FTIR) and Brunauer-Emmett-Teller (BET) analysis. In addition, environmental impact assessment was conducted through reusability tests and toxicity assessments using Clarias gariepinus and Chlorella vulgaris which revealed the low risk of the FeNPs in the environment. The BET analysis revealed that the FeNPs have a high surface area of 407.111 m²/g, pore volume of 0.190 cm³/g, and an average pore size of 2.398 nm indicating microporosity. The XRD analysis confirmed a stable face-centred cubic crystal structure with the UV-Vis result confirming successful formation of iron oxide nanoparticles stabilized by cassava peel phytochemicals. The SEM-EDX revealed an irregular, agglomerated and porous morphologies with iron as the dominant element, characteristic of green-synthesized iron nanoparticles. FTIR analysis showed the presence of bioactive compounds which confirms that cassava peel extract served dual functions as both a reducing and stabilizing agent while TGA confirms thermal stability up to 4000C. The synthesized FeNPs showed remarkable catalytic activity achieving an 88% degradation of paracetamol and 83% of ampicillin under optimized conditions of pH 5 and temperature 800C. These findings have added value to the existing research in the field of green nanotechnology and contributes to developing safer alternatives in pharmaceutical wastewater treatment, providing environmentally friendly agricultural practices while protecting human health and ecosystems.",
+      "summary": "The synthesized iron nanoparticles (FeNPs) were characterized using Scanning Electron Microscopy coupled with Energy Dispersive X-ray spectroscopy (SEM-EDX), Ultraviolet-Visible Spectroscopy (UV-Vis), X-Ray Diffraction (XRD), Thermogravimetric Analysis (TGA), Fourier Transformed Infrared Spectroscopy (FTIR) and Brunauer-Emmett-Teller (BET) analysis. In addition, environmental impact assessment was conducted through reusability tests and toxicity assessments using Clarias gariepinus and Chlorella vulgaris which revealed the low risk of the FeNPs in the environment. FTIR analysis showed the presence of bioactive compounds which confirms that cassava peel extract served dual functions as both a reducing and stabilizing agent while TGA confirms thermal stability up to 4000C.",
+      "techniques": [
+        "TGA",
+        "TGA-FTIR"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214070015",
+      "title": "Sustainable Graphene-Reinforced Geopolymer Composites Derived from Recycled Volcanic Ash: Matrix Optimization, Characterization, and Photoluminescent Proof-of-Concept",
+      "authors": [
+        "Luigi Madeo",
+        "Carlo Poselle Bonaventura",
+        "Paolino Caputo",
+        "Anastasia Macario",
+        "Sebastiano Candamano",
+        "Peppino Sapia",
+        "Cesare Oliviero Rossi",
+        "Alfonso Policicchio"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Polymers",
+      "doi": "https://doi.org/10.3390/polym18192322",
+      "url": "https://doi.org/10.3390/polym18192322",
+      "abstract": "This study presents the development of sustainable and multifunctional geopolymer composites produced from recycled volcanic ash collected from Mount Etna (Italy), used as an aluminosilicate precursor for the fabrication of environmentally friendly materials. Geopolymerization was activated using a 6 M sodium hydroxide (NaOH) solution. The geopolymer matrix was optimized by investigating three liquid-to-solid (L/S) ratios (0.2, 0.3, and 0.4) in order to identify the most suitable formulation in terms of microstructure and porosity. SEM, EDS, BET, particle size distribution (PSD), and X-ray diffraction (XRD) analyses identified an L/S ratio of 0.3 as the optimal formulation. Based on this optimized matrix, graphene nanoparticles were incorporated at concentrations of 0.1, 0.2, and 0.5 wt.% to evaluate their influence on the microstructural, thermal, mechanical, and durability-related properties of the composites. The resulting materials were characterized by SEM, EDS, XRD, differential scanning calorimetry (DSC), mechanical testing, and water absorption measurements. Finally, hybrid prototypes consisting of geopolymer bars coated with a transparent epoxy resin containing photoluminescent powder were fabricated. Their photoluminescent performance was qualitatively evaluated following direct solar irradiation by monitoring the persistence of light emission over time. The results demonstrate the feasibility of integrating a geopolymer matrix derived from volcanic waste, graphene nanoparticles, and a photoluminescent coating into a single sustainable and multifunctional material. Although this work represents a preliminary proof-of-concept study, it provides a promising foundation for the development of smart geopolymer-based materials for applications in civil infrastructure, passive safety systems, and guidance devices operating under low-light conditions.",
+      "summary": "This study presents the development of sustainable and multifunctional geopolymer composites produced from recycled volcanic ash collected from Mount Etna (Italy), used as an aluminosilicate precursor for the fabrication of environmentally friendly materials. The results demonstrate the feasibility of integrating a geopolymer matrix derived from volcanic waste, graphene nanoparticles, and a photoluminescent coating into a single sustainable and multifunctional material. Although this work represents a preliminary proof-of-concept study, it provides a promising foundation for the development of smart geopolymer-based materials for applications in civil infrastructure, passive safety systems, and guidance devices operating under low-light conditions.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214073252",
+      "title": "Novel Multifunctional Crosslinkers Based on 3‐(Acryloyloxy)‐2‐Hydroxypropyl Methacrylate for Stimuli‐Responsive Hydrogels",
+      "authors": [
+        "Aleyna Esenturk",
+        "Selin Boyaci",
+        "Aslihan Ozsan",
+        "Yusuf Eren Kaymak",
+        "Esra Su",
+        "Oǧuz Okay",
+        "Duygu Avci"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Journal of Polymer Science",
+      "doi": "https://doi.org/10.1002/pola.70339",
+      "url": "https://doi.org/10.1002/pola.70339",
+      "abstract": "ABSTRACT We present two novel multifunctional dimethacrylate crosslinkers, containing either a dicarboxylic acid or a disulfide linkage, for the preparation of pH or redox‐responsive hydrogels. The crosslinkers, DMSA‐2xAHM and CYS‐2xAHM, are synthesized via a one‐step Michael addition reaction between 3‐(acryloyloxy)‐2‐hydroxypropyl methacrylate (AHM) and either meso‐2,3‐dimercaptosuccinic acid (DMSA) or cystamine. They are subsequently used to prepare poly(2‐hydroxyethyl methacrylate) (PHEMA) and poly(ethylene glycol) diacrylate (PEGDA, M n = 575 D) hydrogels. The copolymerization kinetics of the crosslinkers are studied through photo‐DSC, indicating their high rate and conversion. The hydrogels' responsiveness to different stimuli (pH, CaCl 2 , FeCl 3 , and glutathione) is elaborated by measuring their properties such as swelling, degradability and morphology. The mineralization potential of pH sensitive hydrogels for tissue engineering applications was discussed. Furthermore, the hydrogels containing disulfide bonds indicated good self‐healing behavior under temperature due to dynamic disulfide exchange reactions.",
+      "summary": "ABSTRACT We present two novel multifunctional dimethacrylate crosslinkers, containing either a dicarboxylic acid or a disulfide linkage, for the preparation of pH or redox‐responsive hydrogels. The mineralization potential of pH sensitive hydrogels for tissue engineering applications was discussed. Furthermore, the hydrogels containing disulfide bonds indicated good self‐healing behavior under temperature due to dynamic disulfide exchange reactions.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214085112",
+      "title": "Effect of filler gradation on the properties of high-filled unsaturated polyester composites",
+      "authors": [
+        "Chi Ding",
+        "Lining Gao",
+        "H.Q Ye",
+        "Rui He"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Journal of Polymer Engineering",
+      "doi": "https://doi.org/10.1515/polyeng-2026-0047",
+      "url": "https://doi.org/10.1515/polyeng-2026-0047",
+      "abstract": "Abstract The preparation of high-filled composites by combining inorganic fillers (such as quartz sand and CaCO 3 ) with resins has garnered significant attention for its ability to effectively reduce composite material costs. Adjusting the ratio of inorganic fillers represents an effective approach to enhancing the properties of high-filled composites. This study incorporated quartz sand fillers of varying grades into unsaturated polyester resin (UPR) to create composites with elevated filler content. The mechanical properties, degree of cure, component distribution, and phase structure of the blends were analyzed using three-point bending tests, compression tests, dynamic thermal analysis, and scanning electron microscopy. The study shows that optimizing the gradation of quartz sand can notably improve the strength of composite materials. The refined composite material structure exhibits increased compactness, leading to a 37.56 % enhancement in bending strength and a 27.53 % rise in average compressive strength. Optimizing the filler gradation improved the UPR conversion rate of the composite material, thereby enhancing its curing degree. Gradation optimization reduced interface defects between the filler and UPR, resulting in a structurally compact and uniformly distributed composite. This study proposes a novel method for preparing composites by integrating the close-packed theory with high-filled composites.",
+      "summary": "Abstract The preparation of high-filled composites by combining inorganic fillers (such as quartz sand and CaCO 3 ) with resins has garnered significant attention for its ability to effectively reduce composite material costs. Gradation optimization reduced interface defects between the filler and UPR, resulting in a structurally compact and uniformly distributed composite. This study proposes a novel method for preparing composites by integrating the close-packed theory with high-filled composites.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214085403",
+      "title": "Salt-Assisted High-Hydrostatic-Pressure Strategy to Achieve High-Efficiency Nondestructive Bacterial Inactivation for Liquid Collagen",
+      "authors": [
+        "Zhenhu Guo",
+        "Yan Zhang",
+        "Jinyan Zhang",
+        "Yang Zhang",
+        "Lingyun Zhao",
+        "Guifeng Zhang"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "ACS Omega",
+      "doi": "https://doi.org/10.1021/acsomega.6c05414",
+      "url": "https://doi.org/10.1021/acsomega.6c05414",
+      "abstract": "Abstract Collagen and its derivatives stand out as valuable biomaterials for applications in foods, cosmetics, healthcare products, medical equipment, and drug delivery carriers due to their high biocompatibility, biodegradability, and lack of toxicity and immunogenicity. However, the problem of microbial contamination in collagen is too important to ignore, which limits its further application in various fields. Traditional bacterial inactivation methods such as heating and irradiation can effectively kill microorganisms in solid collagen, yet struggle to eliminate microbes in liquid collagen while preserving its biological activity. How to completely eradicate microorganisms in liquid collagen without loss of collagen bioactivity, namely, nondestructive bacterial inactivation, has become a key scientific challenge in the field of biomaterials. To answer this challenge, this study attempts to develop a bacterial inactivation strategy based on high hydrostatic pressure (HHP) technology to achieve nondestructive bacterial inactivation of Escherichia coli (E. coli)-contaminated liquid collagen. Although HHP treatment alone cannot inactivate E. coli, its bacterial inactivation efficacy can be enhanced by appropriately adjusting the environmental parameters of liquid collagen. The obtained experimental results showed that E. coli, incubated in a 0.9–3.0% sodium chloride solution for 6 to 12 h and followed by HHP treatment at 300 MPa, could be eliminated, which indicates the great potential of salt-assisted HHP for bacterial inactivation. Meanwhile, the triple-helical structure of liquid collagen, characterized by circular dichroism (CD) spectroscopy and differential scanning calorimetry (DSC), could be preserved under the same HHP treatment conditions. Finally, the nondestructive bacterial inactivation effect of salt-assisted HHP was also observed in an E. coli-contaminated liquid collagen model. We hope that this work provides a feasible strategy to achieve high-efficiency, nondestructive bacterial inactivation for liquid collagen.",
+      "summary": "Abstract Collagen and its derivatives stand out as valuable biomaterials for applications in foods, cosmetics, healthcare products, medical equipment, and drug delivery carriers due to their high biocompatibility, biodegradability, and lack of toxicity and immunogenicity. The obtained experimental results showed that E. coli, incubated in a 0.9–3.0% sodium chloride solution for 6 to 12 h and followed by HHP treatment at 300 MPa, could be eliminated, which indicates the great potential of salt-assisted HHP for bacterial inactivation.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "医药与生物材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214090339",
+      "title": "Effect of corncob-derived cellulose on physicochemical and rheological properties of poly (vinyl alcohol)-based film",
+      "authors": [
+        "Prince Bhatia",
+        "Km Diksha",
+        "D. Giribabu",
+        "Anjireddy Bhavanam",
+        "Ajay Bansal"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Journal of Polymer Engineering",
+      "doi": "https://doi.org/10.1515/polyeng-2026-0033",
+      "url": "https://doi.org/10.1515/polyeng-2026-0033",
+      "abstract": "Abstract Films and coatings enhance quality and shelf life for packaging applications. In this study, we investigate the effect of different celluloses on poly (vinyl alcohol)-based composite film. Toward this, cellulose is extracted from corncob (using the kraft pulp process), and also commercially available cellulose is used to synthesize the composite films. The films were characterized using field emission scanning electron microscopy, Fourier-transform infrared spectroscopy, X-ray diffraction, thermogravimetric analysis, UV spectroscopy, water vapor permeability, moisture content, swelling index, and rheological techniques. The results demonstrate that adding extracted cellulose and commercial cellulose to the PVA film-forming solution enhanced tensile strength and decreased its elongation at break upon drying. The optimized results show that there is an increment of 192.4 % in the tensile strength (up to 53.52 MPa) compared to the neat PVA film. The commercial cellulose exhibits better crystallinity than the extracted cellulose in the XRD test. Also, rheological experiments were carried out to understand the film-forming solutions’ viscoelasticity as a function of temperature. The sol–gel transition shows that the extracted cellulose exhibits higher shear modulus and low gelation temperature compared to the other.",
+      "summary": "Abstract Films and coatings enhance quality and shelf life for packaging applications. The results demonstrate that adding extracted cellulose and commercial cellulose to the PVA film-forming solution enhanced tensile strength and decreased its elongation at break upon drying. The optimized results show that there is an increment of 192.4 % in the tensile strength (up to 53.52 MPa) compared to the neat PVA film.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214095682",
+      "title": "Contrastive adversarial mix-up learning for unsupervised cross-modality image segmentation",
+      "authors": [
+        "Yichao Shen",
+        "Pingjun Gu",
+        "Changhui Yu",
+        "Bin Yu",
+        "Haihua Yang",
+        "Minghai Shao",
+        "Xiance Jin"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Quantitative Imaging in Medicine and Surgery",
+      "doi": "https://doi.org/10.21037/qims-2026-0569",
+      "url": "https://doi.org/10.21037/qims-2026-0569",
+      "abstract": "Background: Unsupervised domain adaptation (UDA) has been extensively investigated in terms of its ability to address the performance degradation caused by distribution shifts between labeled source-domain images and unlabeled target-domain images. In radiotherapy, this problem is particularly relevant for the transfer of segmentation knowledge from planning computed tomography (CT) to cone-beam computed tomography (CBCT), for which target-domain annotations are limited. This study aimed to develop a contrastive adversarial mix-up learning framework for unsupervised cross-modality image segmentation. Methods: A UDA framework integrating mix-up augmentation (MA) and contrastive adversarial learning (AL) was developed. This framework included a shared-weight redistribution network to reduce cross-domain appearance discrepancies, a mix-up consistency strategy to constrain segmentation predictions of mixed-domain images, and contrastive AL to regulate the relationship between redistributed mixture images and mixed redistributed images. The method was evaluated with two in-house CT-CBCT datasets comprising 112 patients with nasopharyngeal carcinoma and 112 patients with breast cancer, with 12 patients from each dataset randomly selected for testing. Generalizability was further evaluated in 75 patients from the public Brain Tumor Segmentation 2018 (BraTS2018) dataset, with 80% used for training and 20% for testing. Segmentation performance was assessed via the Dice similarity coefficient (DSC), Hausdorff distance (HD), and Jaccard index. Results: On the in-house CT-CBCT datasets, the complete UDA + MA + AL framework achieved DSC values of 82.08%, 85.81%, 78.60%, and 60.75% for the breast cancer clinical target volume (CTV), heart, head-and-neck cancer CTV, and parotid glands, respectively; meanwhile, compared with the UDA-only framework, the corresponding absolute DSC improvements of the complete framework were 8.70, 1.02, 3.28, and 3.04 percentage points, respectively. On the BraTS2018 dataset, the proposed framework achieved DSC values of 63.56%, 67.81%, 85.47%, and 74.16% for tasks adapting T2-weighted magnetic resonance image (T2) to T1-weighted magnetic resonance image (T1), T2 to T1 contrast enhanced, T2 to fluid-attenuated inversion recovery (FLAIR), and FLAIR to T2, respectively. Overall, the proposed method achieved an average DSC improvement of 3.53 percentage points compared with representative UDA-based segmentation methods. Conclusions: The proposed contrastive adversarial mix-up learning framework improved unsupervised cross-modality segmentation performance across CT-CBCT and multisequence magnetic resonance imaging adaptation tasks. By combining cross-domain redistribution, mix-up consistency learning, and contrastive AL, the framework can provide enhanced robustness for variations in image appearance and anatomical structure while maintaining segmentation consistency.",
+      "summary": "Background: Unsupervised domain adaptation (UDA) has been extensively investigated in terms of its ability to address the performance degradation caused by distribution shifts between labeled source-domain images and unlabeled target-domain images. Methods: A UDA framework integrating mix-up augmentation (MA) and contrastive adversarial learning (AL) was developed. The method was evaluated with two in-house CT-CBCT datasets comprising 112 patients with nasopharyngeal carcinoma and 112 patients with breast cancer, with 12 patients from each dataset randomly selected for testing.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214097347",
+      "title": "Polycaprolactone bionanocomposites reinforced with oxalic acid-esterified microfibrillated cellulose from coffee parchment for sustainable packaging",
+      "authors": [
+        "Raquel S. Reis",
+        "Lucas Galhardo Pimenta Tienne",
+        "Diego de Holanda Saboya Souza",
+        "Maria de Fátima Vieira Marques"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Industrial Crops and Products",
+      "doi": "https://doi.org/10.1016/j.indcrop.2026.124449",
+      "url": "https://doi.org/10.1016/j.indcrop.2026.124449",
+      "abstract": "Biodegradable polycaprolactone (PCL) bionanocomposites reinforced with microfibrillated cellulose (MFC) from coffee parchment were developed via a one-step thermomechanical–chemical process combining steam explosion and in situ oxalic acid esterification. FTIR confirmed ester formation by the appearance of a C O band at 1739 cm⁻¹ . The modified fibers exhibited higher thermal stability (Tonset = 325 °C; Tmax = 377 °C) and increased crystallinity (89.4%) compared to unmodified counterparts. Esterification reduced fiber hydrophilicity and improved interfacial compatibility with PCL, leading to enhanced stress transfer and barrier performance. Composites containing 3 wt% modified MFC showed the best overall performance, with tensile strength of 44.0 MPa (+55%), elongation at break of 1038.7% (+88%), and Young’s modulus of 154.9 MPa (+75%) relative to neat PCL. CO₂ permeability decreased by 10%, while wettability remained unchanged. Morphological analysis revealed a well-dispersed fibrillar network, and DSC indicated no significant changes in PCL crystallization behavior. These results demonstrate that integrating esterification into the steam explosion process provides a scalable and metal-free route to tailor cellulose–polyester interfaces, enabling high-performance biodegradable materials for sustainable packaging applications.",
+      "summary": "Biodegradable polycaprolactone (PCL) bionanocomposites reinforced with microfibrillated cellulose (MFC) from coffee parchment were developed via a one-step thermomechanical–chemical process combining steam explosion and in situ oxalic acid esterification. Morphological analysis revealed a well-dispersed fibrillar network, and DSC indicated no significant changes in PCL crystallization behavior. These results demonstrate that integrating esterification into the steam explosion process provides a scalable and metal-free route to tailor cellulose–polyester interfaces, enabling high-performance biodegradable materials for sustainable packaging applications.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214101253",
+      "title": "Bio-based plasticization of PLA-PHB blends using chemically modified borage seed oils towards sustainable active materials",
+      "authors": [
+        "Jaume Sempere‐Torregrosa",
+        "Harrison de la Rosa-Ramírez",
+        "Santiago Ferrándiz Bou",
+        "María Dolores Samper"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Industrial Crops and Products",
+      "doi": "https://doi.org/10.1016/j.indcrop.2026.124437",
+      "url": "https://doi.org/10.1016/j.indcrop.2026.124437",
+      "abstract": "The development of sustainable and functional polymer systems for active packaging remains a key challenge in materials science. In this study, borage seed oil (BSO) was chemically modified via epoxidation and maleinization to yield bio-based plasticizers, epoxidized borage seed oil (EBSO) and maleinized borage seed oil (MBSO), which were incorporated into poly (lactic acid)–poly(3-hydroxybutyrate) (PLA-PHB) blends to tailor their mechanical, thermal, and functional performance. Both modified oils demonstrated effective plasticizing behavior, reducing tensile strength while significantly enhancing ductility and impact resistance. MBSO exhibited a more balanced mechanical response, suggesting more effective interactions within the polymer matrix, whereas EBSO induced a stronger plasticization effect through increased chain mobility and free volume. Thermal analysis revealed a decrease in glass transition temperature and alterations in crystallization behavior, consistent with enhanced molecular mobility, while maintaining adequate thermal stability for potential packaging applications. In addition, both modified oils exhibited antioxidant activity in a concentration-dependent manner, with EBSO-based systems showing the highest radical scavenging capacity. Furthermore, the time-dependent increase in antioxidant activity, alongside migration and solubility results, suggests that the availability of antioxidant-active species is influenced by the plasticizer content and is consistent with the gradual diffusion of low-molecular-weight compounds from the polymer matrix. Morphological analysis revealed changes in fracture surface consistent with the mechanical behavior of the developed formulations, with higher concentrations inducing void formation and saturation effects. Overall, chemically modified borage seed oils serve as bio-based plasticizers that simultaneously enhance mechanical flexibility and confer antioxidant activity. These results highlight their potential as bio-based additives for developing sustainable, biodegradable materials tailored for active packaging applications.",
+      "summary": "The development of sustainable and functional polymer systems for active packaging remains a key challenge in materials science. Thermal analysis revealed a decrease in glass transition temperature and alterations in crystallization behavior, consistent with enhanced molecular mobility, while maintaining adequate thermal stability for potential packaging applications. These results highlight their potential as bio-based additives for developing sustainable, biodegradable materials tailored for active packaging applications.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214103268",
+      "title": "A study on extraction of rare earth elements from end-of-life electronic waste using environmentally benign organic acids",
+      "authors": [
+        "Bennet Sam Thomas",
+        "Chandan Kundu",
+        "Athira Thekkethil",
+        "Veena Sahajwalla",
+        "Sankar Bhattacharya"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Fuel",
+      "doi": "https://doi.org/10.1016/j.fuel.2026.141379",
+      "url": "https://doi.org/10.1016/j.fuel.2026.141379",
+      "abstract": "The increasing volume of electronic waste and the growing demand for rare earth elements (REEs) underscore the need for sustainable and scalable resource recovery technologies. The objective of this study was to develop and evaluate an integrated slow pyrolysis and organic-acid leaching process for the selective recovery of REEs from end-of-life printed circuit boards (PCBs), while assessing its scalability and environmental performance. Thermogravimetric analysis of PCB size fractions ranging from 75 to 600 μm indicated that the major decomposition of polymeric components commenced at 260 °C and approached completion near 600 °C. Accordingly, a pyrolysis temperature of 550 °C was selected for the subsequent batch processing of pulverised PCBs. Slow pyrolysis effectively decomposed epoxy resins and halogenated flame retardants, yielding a metal–rich solid residue. Ultimate (CHNS) analysis showed that approximately 64% of hydrogen, 22.4% of carbon, and 29.4% of nitrogen were removed during pyrolysis, with a substantial fraction of the organic mass transferred to the condensed pyrolysis oil and gas. Gas chromatography revealed that the pyrolysis gas became increasingly hydrogen–rich as the temperature increased from 400 to 550 °C, accompanied by a decline in C 2 – C 4 hydrocarbons due to enhanced secondary cracking. X–ray fluorescence analysis confirmed silicon, aluminium, copper, and bromine as the dominant inorganic constituents, consistent with the glass–fibre–reinforced and metal–rich nature of PCBs and the presence of brominated flame retardants. Leaching experiments, in 100 mL batch mode, using environmentally benign organic acids demonstrated distinct differences in REE extraction efficiency. Although citric (tri–carboxylic) and maleic (di–carboxylic) acids showed high extraction efficiencies, mono–carboxylic acetic acid consistently achieved superior REE recovery. Under optimal conditions (2 M acetic acid, 90 °C, 1:80 solid–to–liquid ratio, 10 min), >99% of Nd was recovered, a performance that was successfully replicated and scaled up at the 30–L reactor scale, while Dy and Y exhibited lower recoveries. The high selectivity, rapid kinetics, and effectiveness of environmentally mild reagents indicate that this combined pyrolysis − leaching approach provides a scalable and environmentally responsible pathway for recovering critical REEs from PCB while generating energy dense gaseous and liquid by–products.",
+      "summary": "The increasing volume of electronic waste and the growing demand for rare earth elements (REEs) underscore the need for sustainable and scalable resource recovery technologies. The objective of this study was to develop and evaluate an integrated slow pyrolysis and organic-acid leaching process for the selective recovery of REEs from end-of-life printed circuit boards (PCBs), while assessing its scalability and environmental performance. Leaching experiments, in 100 mL batch mode, using environmentally benign organic acids demonstrated distinct differences in REE extraction efficiency.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "电子与封装",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214104639",
+      "title": "Are Arthroplasty Patients Ready for Artificial Intelligence–Integrated Care?",
+      "authors": [
+        "Jonathan Brutti",
+        "Andres Wong",
+        "Ivan Garces",
+        "Zachary Grand",
+        "Charles M. Lawrie"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Arthroplasty Today",
+      "doi": "https://doi.org/10.1016/j.artd.2026.102152",
+      "url": "https://doi.org/10.1016/j.artd.2026.102152",
+      "abstract": "Background Total hip arthroplasty and total knee arthroplasty patients generate high volumes of perioperative communication, yet the capacity for timely, personalized responses is constrained by growing surgical volumes. Generative artificial intelligence (AI)–powered digital medical assistants (DMAs) may help address this gap, but patient perceptions and willingness to use them remain poorly understood. This study evaluated perceptions and preferences regarding a generative AI-powered DMA among total hip arthroplasty and total knee arthroplasty patients. Methods A prospective cross-sectional survey was administered to 101 arthroplasty patients at a single institution. The 13-item questionnaire assessed prior generative AI experience, healthcare priorities, attitudes toward DMA usefulness and trustworthiness (Likert scale), and scenario-based preferences for addressing common postoperative concerns. Composite DMA attitude scores and subgroup differences were analyzed using nonparametric methods and logistic regression. Results Patients prioritized accuracy of health information and provider relationships over rapid assistance. Willingness to use the DMA (44.5% agree/strongly agree) and trust in its accuracy (44.5%) were mixed, while preference for DMA over human staff was low (9.1% agree/strongly agree). Receptivity was highest for supportive functions such as reminders and encouragement (54.6%). Across postoperative scenarios, calling the office was the dominant choice (56.6%-72.7%). Prior generative AI experience was the strongest predictor of more favorable DMA attitudes. Older age was associated with a lower likelihood of choosing the DMA for pain and medication concerns. Conclusions Arthroplasty patients showed mixed but generally neutral-to-slightly positive attitudes toward a generative AI-powered DMA, with a consistent preference for human-mediated communication.",
+      "summary": "Background Total hip arthroplasty and total knee arthroplasty patients generate high volumes of perioperative communication, yet the capacity for timely, personalized responses is constrained by growing surgical volumes. Composite DMA attitude scores and subgroup differences were analyzed using nonparametric methods and logistic regression. Conclusions Arthroplasty patients showed mixed but generally neutral-to-slightly positive attitudes toward a generative AI-powered DMA, with a consistent preference for human-mediated communication.",
+      "techniques": [
+        "DMA"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214107190",
+      "title": "Hydrogen Bonding Regulation toward High-Performance Waterborne Fluoroethylene-Vinyl Ether (FEVE) Fluorocarbon Coatings via Blocked Isocyanates",
+      "authors": [
+        "Yuhao Yang",
+        "Shuyu Liu",
+        "Haozhe Ma",
+        "Hao Huang",
+        "Chunyan Wang",
+        "Qing-Yun Guo",
+        "Shuguang Yang"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "ACS Applied Polymer Materials",
+      "doi": "https://doi.org/10.1021/acsapm.6c03212",
+      "url": "https://doi.org/10.1021/acsapm.6c03212",
+      "abstract": "Abstract Waterborne fluoroethylene vinyl ether (FEVE) fluorocarbon coatings represent an attractive platform for high-performance protective applications, offering significant advantages in reducing organic solvent usage and improving environmental and human health safety. However, their practical development is critically hindered by inherent incompatibilities: the low surface energy of fluorinated latex particles and the poor water compatibility of conventional isocyanate curing agents often lead to defective film formation, including mismatched cross-linking, phase separation, porosity, and cracking. To address these challenges, we designed and synthesized a hydrogen-bond-enriched latent curing agent based on adipic dihydrazide (ADH)-modified methyl ethyl ketoxime (MEKO)-blocked hexamethylene diisocyanate (HDI). Thermal analysis revealed that low ADH contents preserve the primary melting behavior of HDI-MEKO at approximately 76–77 °C, while maintaining the main thermal activation within 150–200 °C, supporting a ″film formation prior to deblocking cross-linking″ curing mechanism. Comprehensive coating evaluations demonstrate that low-to-moderate ADH incorporation achieves an optimal balance among film morphology, adhesion, hardness, hydrophobicity, and chemical resistance. Notably, HDI-MEKO-05-F and HDI-MEKO-15-F films exhibit relatively smooth morphologies, grade 0 adhesion, and a 4H pencil hardness. This study provides a feasible and effective strategy for coordinating latex film formation, thermal deblocking, and chemical cross-linking, thereby facilitating the development of advanced, high-performance waterborne FEVE coatings.",
+      "summary": "Abstract Waterborne fluoroethylene vinyl ether (FEVE) fluorocarbon coatings represent an attractive platform for high-performance protective applications, offering significant advantages in reducing organic solvent usage and improving environmental and human health safety. Comprehensive coating evaluations demonstrate that low-to-moderate ADH incorporation achieves an optimal balance among film morphology, adhesion, hardness, hydrophobicity, and chemical resistance. This study provides a feasible and effective strategy for coordinating latex film formation, thermal deblocking, and chemical cross-linking, thereby facilitating the development of advanced, high-performance waterborne FEVE coatings.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214113664",
+      "title": "Диагностическая значимость критериев выявления тромботической микроангиопатии после аллогенной трансплантации гемопоэтических стволовых клеток у детей",
+      "authors": [
+        "В.В. Дмитриев",
+        "А.М. Какунин"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Гематология Трансфузиология Восточная Европа",
+      "doi": "https://doi.org/10.34883/pi.2026.12.3.006",
+      "url": "https://doi.org/10.34883/pi.2026.12.3.006",
+      "abstract": "Цель. Изучить диагностическую значимость клинических и лабораторных признаков выявления тромботической микроангиопатии, осложнившей трансплантацию гемопоэтических стволовых клеток костного мозга у детей. Материалы и методы. В исследование включены 68 пациентов, медиана возраста 10 лет, мальчиков – 47, девочек – 21. С января 2023 по декабрь 2025 г. 68 пациентов получили 69 ТГСК: 2 пациента – высокодозную ХТ с поддержкой аутологичными периферическими стволовыми клетками (n=3), аллогенные ТГСК проведены 66 реципиентам. Выполнено 13 (20%) алло-ТГСК от родственного совместимого донора, от неродственного совместимого донора – 43 (65%), 10 (15%) пациентов получили гаплоидентичную ТГСК. Восемь пациентов, развивших ТА-ТМА, имели 53 дня наблюдения, на протяжении которых дважды были зарегистрированы 4 или более из 7 диагностических признаков, включенных в перечень диагностических критериев ТА-ТМА. Группу из 58 пациентов, не имевших клиники ТМА, составили 18 пациентов, показавших острую РТПХ, 7 пациентов, развивших ВОБ, и 33 пациента с неосложненным течением посттрансплантационного периода на день Д+100. Показатели, характеризующие пациентов с РТПХ и ВОБ, учитывали на день констатации осложнения в истории болезни. Результаты. Наиболее тесная корреляционная зависимость с возникновением ТА-ТМА выявлена для показателя (rUPCR) соотношения белка и креатинина в моче (R=0,780; р<0,001), ТМА-зависимой анемии (R=0,834; р<0,001), ТМА-зависимой тромбоцитопении (R=0,798; р<0,001), артериальной гипертензии (R=0,834; р<0,001), что подтверждала величина корреляции R в диапазоне 0,7–0,9. Менее сильная корреляционная зависимость выявлена между фактом возникновения ТА-ТМА и шизоцитозом (R=0,660; p<0,001), содержанием Д-димеров в крови (R=0,604; p<0,001), содержанием продуктов деградации фибриногена и фибрина (R=0,566; p<0,001), растворимых комплексов мономеров фибрина (R=0,558; p<0,0010), активностью лактатдегидрогеназы крови (R=0,643; p<0,001). Появление шизоцитов в периферической крови повышало вероятность диагностирования ТА-ТМА в 10 раз, HR=10,157 (95% ДИ: 1,391–74,152; p=0,022). Значимо повышали вероятность выявления ТМА величина отношения содержания протеина к содержанию креатинина в моче, превышающая диагностический порог протеинурии при ТА-ТМА 1,0 HR=6,221 (95% ДИ: 1,881–20,577; p=0,002), и анемия, рефрактерная к трансфузиям эритроцитсодержащих компонентов крови HR=6,264 (95% ДИ: 1,486–26,411; p=0,012). Несколько меньший риск выявления ТА-ТМА был связан с артериальной гипертензией HR=4,967 (95% ДИ: 1,959–20,643; p=0,027) и тромбоцитопенией, рефрактерной к трансфузиям концентрата донорских тромбоцитов, HR=2,742 (95% ДИ: 1,259–5,972; p=0,011). Заключение. Для выявления пациентов, у которых потенциально возможна ТА-ТМА, показано ежедневное измерение артериального давления и оценка мероприятий по коррекции артериальной гипертензии. При появлении зависимости от трансфузий эритроцитарного или тромбоцитарного компонента крови пациентам выполняют лабораторные исследования с привлечением наиболее информативных признаков, такие как определение присутствия шизоцитов, содержания белка и креатинина в одном образце мочи. Purpose. To study the diagnostic value of clinical and laboratory signs of thrombotic microangiopathy complicating hematopoietic stem cell transplantation in children. Materials and methods. The study included 68 patients with a median age of 10 years (47 boys and 21 girls). From January 2023 to December 2025, 68 patients received 69 HSCTs: 2 patients received high-dose chemotherapy with autologous peripheral stem cell support (n=3), and 66 recipients underwent allogeneic HSCT. Allogeneic HSCT was performed in 13 (20%) patients from a related compatible donor, 43 (65%) from an unrelated compatible donor, and 10 (15%) patients received haploidentical HSCT. Eight patients who developed TMA had 53 days of observation, during which four or more of the seven diagnostic features included in the list of harmonized international criteria were recorded. A group of 58 patients without clinical evidence of TMA included 18 patients who developed acute GVHD, seven patients who developed VOD, and 33 patients with an uncomplicated post-transplant course on day D+100. Indicators characterizing patients with GVHD and VOD were recorded on the day the complication was noted in the medical record. Results. The closest correlation dependence with the occurrence of TA-TMA was revealed for the indicator (rUPCR) of the ratio of protein and creatinine in urine (R=0.780; p<0.001), TMA-dependent anemia (R=0.834; p<0.001), TMA-dependent thrombocytopenia (R=0.798; p<0.001), arterial hypertension (R=0.834; p<0.001), which was confirmed by the correlation value R in the range of 0.7–0.9. A weaker correlation was found between the occurrence of TA-TMA and schizocytosis (R=0.660; p<0.001), blood D-dimer levels (R=0.604; p<0.001), fibrinogen and fibrin degradation products (R=0.566; p<0.001), soluble fibrin monomer complexes (R=0.558; p<0.0010), and blood lactate dehydrogenase activity (R=0.643; p<0.001). Of the analyzed risk factors, the presence of schistocytes in the peripheral blood increased the risk of developing TMA by 10 times, HR=10.157 (95% CI: 1.391–74.152; p=0.022). The risk of detecting TMA was significantly increased by the value of the ratio of protein content to creatinine content in urine exceeding the diagnostic threshold of TMA 1.0 HR=6.221 (95% CI: 1.881–20.577; p=0.002) and anemia refractory to transfusions of red blood cell-containing blood components HR=6.264 (95% CI: 1.486–26.411; p=0.012). A slightly lower risk of TMA detection was associated with arterial hypertension (HR=4.967 (95% CI: 1.959–20.643; p=0.027)) and thrombocytopenia refractory to platelet concentrate transfusions (HR=2.742 (95% CI: 1.259–5.972; p=0.011)). Conclusion. To identify patients potentially at risk for TA-TMA, daily blood pressure measurement and evaluation of hypertension management measures are recommended. If dependence on red blood cell or platelet transfusions develops, laboratory tests are recommended, including the most informative indicators, such as the presence of schistocytes, protein content, and creatinine content in the morning urine sample.",
+      "summary": "A weaker correlation was found between the occurrence of TA-TMA and schizocytosis (R=0.660; p<0.001), blood D-dimer levels (R=0.604; p<0.001), fibrinogen and fibrin degradation products (R=0.566; p<0.001), soluble fibrin monomer complexes (R=0.558; p<0.0010), and blood lactate dehydrogenase activity (R=0.643; p<0.001). Of the analyzed risk factors, the presence of schistocytes in the peripheral blood increased the risk of developing TMA by 10 times, HR=10.157 (95% CI: 1.391–74.152; p=0.022). If dependence on red blood cell or platelet transfusions develops, laboratory tests are recommended, including the most informative indicators, such as the presence of schistocytes, protein content, and creatinine content in the morning urine sample.",
+      "techniques": [
+        "TMA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214117293",
+      "title": "TPU/Pluronic F127/TiO2-Curcumin Composite Nanofibrous Membrane for Antibacterial Wound Healing",
+      "authors": [
+        "Ting Chen",
+        "Yanhui Ling",
+        "Jiawen Shao",
+        "Long Song",
+        "Weiwei Zhang",
+        "Yu Liu",
+        "Longbao Zhu"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "ACS Applied Nano Materials",
+      "doi": "https://doi.org/10.1021/acsanm.6c02053",
+      "url": "https://doi.org/10.1021/acsanm.6c02053",
+      "abstract": "Abstract Conventional stimuli-responsive wound dressings typically rely on high-energy external equipment, such as intensive lamps or electrical triggers, to activate antibacterial functions and initiate drug release, which significantly hinders their clinical translation. Herein, we report a solar-driven electrospun nanofibrous dressing (TPTC) composed of thermoplastic polyurethane, Pluronic F127, and a TiO2-curcumin coordination complex. The dressing features a flexible nanofibrous scaffold with an average fiber diameter of ∼405 nm, within which TiO2-Cur nanoparticles (20−40 nm) are uniformly dispersed throughout the polymer matrix. Mechanistically, the temperature-programmed drug release is governed by the sol−gel transition of PF127, as confirmed by DSC analysis showing an endothermic peak at ∼36 °C, with a cumulative release of 62.4% within 24 h at 37 °C, demonstrating a thermosensitive “switch” effect triggered by infection-associated fever. Moreover, the Ti−O−C coordination bonds at the nano-interfaces extend the photocatalytic response into the solar region, achieving 91.3% degradation of Rhodamine B within 60 min. The dressing also exhibits robust fluid management capability, with water absorption of 320%, water retention of 85.3%, and a water vapor transmission rate of 2275 g m−2 day−1. In vitro studies demonstrate that TPTC achieves ∼98% inactivation of multidrug-resistant Escherichia coli and Staphylococcus aureus without detectable cytotoxicity, while CLSM imaging reveals an 89.3% reduction in biofilm viability. In vivo, treatment of infected rat wounds with TPTC results in 99.87% wound closure within 14 days, accompanied by reduced inflammation and enhanced angiogenesis (CD31/VEGF). By harnessing infection-associated local hyperthermia and renewable solar energy, this solar-driven dressing achieves synergistic thermos-responsive drug release and photocatalytic ROS generation, offering a sustainable strategy for on-demand wound infection control.",
+      "summary": "Abstract Conventional stimuli-responsive wound dressings typically rely on high-energy external equipment, such as intensive lamps or electrical triggers, to activate antibacterial functions and initiate drug release, which significantly hinders their clinical translation. In vitro studies demonstrate that TPTC achieves ∼98% inactivation of multidrug-resistant Escherichia coli and Staphylococcus aureus without detectable cytotoxicity, while CLSM imaging reveals an 89.3% reduction in biofilm viability. In vivo, treatment of infected rat wounds with TPTC results in 99.87% wound closure within 14 days, accompanied by reduced inflammation and enhanced angiogenesis (CD31/VEGF).",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214121291",
+      "title": "A Laboratory Experiment on Thermal Hazard Assessment Using a Bench-Scale Isothermal Heat-Flow Reaction Calorimetry Platform",
+      "authors": [
+        "Xinyu Che",
+        "Kai Sheng",
+        "Chang Liu"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Journal of Chemical Education",
+      "doi": "https://doi.org/10.1021/acs.jchemed.6c00204",
+      "url": "https://doi.org/10.1021/acs.jchemed.6c00204",
+      "abstract": "Abstract Reaction calorimetry is an important tool for chemical process-safety assessment, but conventional research-grade instruments are often too costly and complex for routine undergraduate teaching. This article describes a laboratory experiment that uses a bench-scale isothermal heat-flow reaction calorimetry platform to teach quantitative thermal-hazard assessment in chemical safety engineering. Using the neutralization of acetic acid with sodium hydroxide as a model system, students determine the heat of reaction (Qr) and use it to estimate the adiabatic temperature rise (ΔTad) and the maximum temperature of the synthesis reaction (MTSR). Under selected classroom operating conditions, the experiment produced a well-defined exothermic peak and reaction-heat values that were in acceptable agreement with the literature value for the neutralization enthalpy. Among 15 student groups formed from 30 third-year undergraduates, 14 groups (93%) successfully completed peak integration and subsequent calculations of ΔTad and MTSR.",
+      "summary": "Abstract Reaction calorimetry is an important tool for chemical process-safety assessment, but conventional research-grade instruments are often too costly and complex for routine undergraduate teaching. Using the neutralization of acetic acid with sodium hydroxide as a model system, students determine the heat of reaction (Qr) and use it to estimate the adiabatic temperature rise (ΔTad) and the maximum temperature of the synthesis reaction (MTSR). Among 15 student groups formed from 30 third-year undergraduates, 14 groups (93%) successfully completed peak integration and subsequent calculations of ΔTad and MTSR.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214123074",
+      "title": "Dynamic Schiff Base Chitosan–Lignin Bioplastics with Thermally Assisted Repair and a Reprocessable Network",
+      "authors": [
+        "Rysgul N. Tuleyeva",
+        "Nargiz Gizatullina",
+        "Madina Mussalimova",
+        "Zhanserik Shynykul",
+        "Gaukhar Toleutay"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Materials",
+      "doi": "https://doi.org/10.3390/ma19194064",
+      "url": "https://doi.org/10.3390/ma19194064",
+      "abstract": "The development of renewable polymer networks combining mechanical performance with repairability and reprocessability is important for advancing sustainable materials. In this study, chitosan-dialdehyde lignin (Ch-DAL) bioplastic films were fabricated through dynamic Schiff base cross-linking between tartaric acid-protonated chitosan and periodate-oxidized lignin, with glycerol as a plasticizer. Films with Ch:DAL ratios of 1:1, 2:1, and 1:2 were characterized by Fourier-transform infrared (FTIR) spectroscopy, tensile testing, qualitative solvent-resistance assessment, a thermally assisted repair test, and two successive thermo-mechanical reprocessing cycles. FTIR analysis was consistent with the possible formation of imine (C=N) linkages and the contribution of hydrogen-bonding interactions, although aldehyde content, degree of conversion, and cross-link density were not quantitatively determined. The mechanical properties were composition-dependent, with the 1:1 formulation exhibiting the highest tensile strength (8.85 ± 0.09 MPa) and Young’s modulus (118.7 ± 0.7 MPa), whereas the 2:1 formulation exhibited the highest elongation at break (238 ± 0.1%). Thermogravimetric analysis (TGA) and derivative thermogravimetry (DTG) showed distinct thermal-degradation profiles for alkali lignin, DAL, and the 1:1 Ch–DAL film, with residual masses of approximately 17%, 57%, and 33% at 600 °C, respectively. Qualitative assessment showed that the films retained structural integrity in water, 1 M sodium hydroxide (NaOH), and the investigated organic solvents but underwent visible fragmentation in 1 M hydrochloric acid (HCl). Following hot pressing of the cut 1:1 film at 50 °C, macroscopic continuity was re-established and tensile strength increased to 12.9 ± 0.11 MPa; however, elongation at break decreased from 19.0 ± 0.1% to 4.3 ± 0.05%, indicating a mechanically distinct repaired state rather than recovery of the original properties. Fragmented films could also be remolded through two successive thermo-mechanical reprocessing cycles, although tensile strength decreased substantially after the first cycle and recovered only partially during the second cycle. These findings demonstrate composition-dependent mechanical behavior, thermally assisted repair, and remolding capability in Ch-DAL films, while further quantitative characterization, durability testing, and environmental assessment are required before claims regarding long-term performance or sustainability can be established.",
+      "summary": "The development of renewable polymer networks combining mechanical performance with repairability and reprocessability is important for advancing sustainable materials. Qualitative assessment showed that the films retained structural integrity in water, 1 M sodium hydroxide (NaOH), and the investigated organic solvents but underwent visible fragmentation in 1 M hydrochloric acid (HCl). These findings demonstrate composition-dependent mechanical behavior, thermally assisted repair, and remolding capability in Ch-DAL films, while further quantitative characterization, durability testing, and environmental assessment are required before claims regarding long-term performance or sustainability can be established.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214123389",
+      "title": "Carbon dots synthesized from cabbage and nettle: characterization and biological activity",
+      "authors": [
+        "Emine Altınkaya",
+        "Tuğba Şentürk"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Journal of the Science of Food and Agriculture",
+      "doi": "https://doi.org/10.1002/jsfa.71109",
+      "url": "https://doi.org/10.1002/jsfa.71109",
+      "abstract": "Abstract BACKGROUND Biomass waste derived from food processing poses environmental problems. Cabbage and nettle are valuable biomass sources having natural heteroatoms (S, N) in their structures. In this study, cabbage and nettle biomass waste were used as precursors in the synthesis of S‐ and N‐doped carbon dots (CDs). The effects of synthesized carbon dots (CNCDs) on seed germination, seedling development and fluorescent emission behavior in response to heavy metals (Cr 6+ , Pb 2+ , Sn 4+ , Zn 2+ ) have been studied. It was expected that CNCDs modified with heteroatoms from their precursors would increase germination and contribute to plant growth because of their large surface areas. The seeds were primed with CNCDs at different concentrations (0, 0.05, 0.1, 0.2, 0.5, 1 and 2 mg mL −1 ) for 18 h. To assess the effect of priming on the seeds, scanning electron microscopy, thermogravimetric analysis, energy‐dispersive X‐ray analysis and contact angle measurements were performed. The effects of CD concentrations on root and shoot length and mass, as well as chlorophyll (chl) and carbohydrate content in leaves, were investigated. Antioxidant activity, antibacterial activity, biological oxygen demand (BOD) and chemical oxygen demand (COD) were investigated. RESULTS CNCDs deformed the hydrophobic layer on the seed surface, creating cracks. Seeds prepared with CNCDs at concentration of 0.1 mg mL −1 germinated faster and had better root and shoot lengths compared to other CNCD concentrations. The greatest fluorescence quenching in CNCDs occurred for Cr 6+ . The synthesized CNCDs showed excellent antioxidant and antibacterial activities. BOD and COD to be of 21 ± 1 mg L −1 and 30 ± 1 mg L −1 , respectively. CONCLUSION Based on these results, priming CNCDs at appropriate concentrations positively affects seed germination rates, root and shoot development. CDs doped with heteroatoms, at the appropriate concentration, can be considered as an alternative to traditional chemical fertilizers. The effects of CNCDs on plant growth require further investigation from various perspectives. © 2026 Society of Chemical Industry.",
+      "summary": "Abstract BACKGROUND Biomass waste derived from food processing poses environmental problems. The synthesized CNCDs showed excellent antioxidant and antibacterial activities. CONCLUSION Based on these results, priming CNCDs at appropriate concentrations positively affects seed germination rates, root and shoot development.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "食品与脂质",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214123515",
+      "title": "Insights into Na+/Ca2+ Ion Exchange on Poly(4-styrenesulfonate) Anion in Bulk Solution and Adsorbed on TiO2 Nanoparticles",
+      "authors": [
+        "Ivor Vavra Plavšić",
+        "Filip Margetić",
+        "Juraj Nikolić",
+        "Klemen Bohinc",
+        "Tin Klačić",
+        "Tajana Begović"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Colloids and Interfaces",
+      "doi": "https://doi.org/10.3390/colloids10050067",
+      "url": "https://doi.org/10.3390/colloids10050067",
+      "abstract": "This study investigates Na+/Ca2+ ion exchange on poly(4-styrene sulfonate) anion (PSS) chains both in solution and PSS adsorbed onto TiO2 nanoparticles to gain deeper insights into the behavior of surface-bound polyelectrolytes and evaluate their potential as ion exchangers. Nanoparticle characterization was performed using electrokinetic light scattering (ELS) and a particle charge detector. PSS adsorption on TiO2 nanoparticles was evaluated by spectrophotometry and ELS. Subsequent ion exchange was investigated via isothermal titration calorimetry, ion-selective electrode potentiometry, and dynamic light scattering (DLS). The Na+/Ca2+ exchange on PSS chains was found to be an endothermic process, indicating that the favorable binding and rehydration effects are insufficient to compensate for the strongly unfavorable Ca2+ ion dehydration. In solution, the Na+/Ca2+ exchange on PSS is more pronounced than in the TiO2/PSS system. Conformational changes in the PSS polymer and surface modifications of the nanoparticles as a function of Ca2+ ion concentration were indirectly investigated using DLS. The calculated Na+/Ca2+ ion-exchange capacity was 2.99 mmol/g for PSS in solution and 0.26 mmol/g for the TiO2/PSS system. These findings suggest that adsorbing PSS onto TiO2 nanoparticles substantially decreases the ion-exchange capacity, probably due to the conformational constraints imposed by surface immobilization. However, potential practical implementation will require a comprehensive evaluation of the ion selectivity and regeneration efficiency of these PSS-based materials.",
+      "summary": "This study investigates Na+/Ca2+ ion exchange on poly(4-styrene sulfonate) anion (PSS) chains both in solution and PSS adsorbed onto TiO2 nanoparticles to gain deeper insights into the behavior of surface-bound polyelectrolytes and evaluate their potential as ion exchangers. Conformational changes in the PSS polymer and surface modifications of the nanoparticles as a function of Ca2+ ion concentration were indirectly investigated using DLS. These findings suggest that adsorbing PSS onto TiO2 nanoparticles substantially decreases the ion-exchange capacity, probably due to the conformational constraints imposed by surface immobilization.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "新能源与储能",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214126757",
+      "title": "REF-VMUNetUp: a position-aware mamba network with dynamic upsampling for medical image segmentation",
+      "authors": [
+        "Chuanghua Yang",
+        "Hang Yang",
+        "Huiying Yuan",
+        "Wen Gao",
+        "Weijia Li",
+        "Zixuan Pan",
+        "Yuxiang Li",
+        "Xinrui Bai"
+      ],
+      "publication_date": "2026-09-23",
+      "journal": "Complex & Intelligent Systems",
+      "doi": "https://doi.org/10.1007/s40747-026-02515-w",
+      "url": "https://doi.org/10.1007/s40747-026-02515-w",
+      "abstract": "Medical multi-organ segmentation is one of the research hotspots in the field of deep learning. Currently, methods based on convolutional neural networks face limitations in long-range modeling, while Transformer-based approaches are constrained by quadratic computational complexity. To address these challenges, researchers have proposed the Mamba architecture, with VM-UNet being a classic pure Mamba network. However, VM-UNet still suffers from issues such as inadequate modeling of positional information, degradation of translation invariance during upsampling, and inaccurate segmentation of organ boundaries. To address the aforementioned shortcomings, this paper proposes a novel network architecture named REF-VMUNetUp. Within this architecture, we designed a 2D-RoPE to enhance the model’s ability to represent relative position information. During the decoding phase, we employ the D-UP, which mitigates the edge blurring issues caused by upsampling through dynamic offset prediction and channel reorganization. Additionally, in the skip connection, we employ the L-HFP to adaptively enhance high-frequency features, thereby improving the decoder’s ability to capture critical details such as organ boundaries and tumor structures. Experimental results demonstrate that REF-VMUNetUp achieves a 1.83% improvement in mean DSC and a 2.09mm reduction in HD95 on the Synapse multi-organ dataset. Furthermore, the model’s generalization performance is validated across the ACDC, ISIC2018, and CVC-ClinicDB datasets, confirming its superiority in medical image segmentation tasks.",
+      "summary": "Medical multi-organ segmentation is one of the research hotspots in the field of deep learning. Experimental results demonstrate that REF-VMUNetUp achieves a 1.83% improvement in mean DSC and a 2.09mm reduction in HD95 on the Synapse multi-organ dataset. Furthermore, the model’s generalization performance is validated across the ACDC, ISIC2018, and CVC-ClinicDB datasets, confirming its superiority in medical image segmentation tasks.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -1135,6 +1713,32 @@
         "食品与脂质"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7214007039",
+      "title": "Comprehensive evaluation of sustainable Musa acuminata stems fiber–fly ash ecohybrid composites: Chemical, mechanical, thermal, and durability performance",
+      "authors": [
+        "Nasmi Herlina Sari",
+        "Suteja Suteja",
+        "Muhammad Nabil Fadhlurrohman Rivlan",
+        "Syarif Hidayatullah",
+        "Mohammad Maulidani"
+      ],
+      "publication_date": "2026-09-22",
+      "journal": "Case Studies in Chemical and Environmental Engineering",
+      "doi": "https://doi.org/10.1016/j.cscee.2026.101488",
+      "url": "https://doi.org/10.1016/j.cscee.2026.101488",
+      "abstract": "Sustainable ecohybrid composites derived from agricultural and industrial waste offer a promising route toward environmentally friendly engineering materials. This study systematically investigates the composition-dependent mechanical, thermal, moisture-resistance, and microstructural performance of banana stem fiber (BFs)–fly ash (FA) ecohybrid composites fabricated by hot-press molding. Five FA/BFs volume-fraction ratios were investigated: 0/40, 35/5, 25/15, 20/20, and 40/0. Reinforcement composition strongly influenced the multifunctional performance of the composites. The composite containing 40 vol% BFs exhibited the highest tensile strength (26.47 ± 0.20 MPa) and flexural strength (56.16 ± 0.50 MPa), whereas the highest impact strength (647 ± 17.61 kJ/m 2 ) was obtained for MF35 containing 35 vol% FA and 5 vol% BFs. Water absorption after 24 h increased from 1.20% to 4.28% with increasing BFs content. TGA showed residual masses ranging from 30.43% to 38.83%, indicating the contribution of FA to thermal stability. SEM observations revealed that fiber–matrix adhesion, filler dispersion, and microstructural defects influenced composite performance. Overall, the results demonstrate distinct trade-offs between BFs and FA, highlighting reinforcement composition as a key parameter governing the multifunctional behavior of the ecohybrid system. These composites show potential for sustainable non-load-bearing building components.",
+      "summary": "TGA showed residual masses ranging from 30.43% to 38.83%, indicating the contribution of FA to thermal stability. SEM observations revealed that fiber–matrix adhesion, filler dispersion, and microstructural defects influenced composite performance. Overall, the results demonstrate distinct trade-offs between BFs and FA, highlighting reinforcement composition as a key parameter governing the multifunctional behavior of the ecohybrid system.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7056,599 +7660,6 @@
         "循环利用与可持续材料"
       ],
       "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212559360",
-      "title": "Predictive Analysis of EV Battery Cooling Using PCM and Hardware Implementation",
-      "authors": [
-        "Leela Narasimha Viyyapu",
-        "Neelima Devi Chinta"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "International Journal for Research in Applied Science and Engineering Technology",
-      "doi": "https://doi.org/10.22214/ijraset.2026.84839",
-      "url": "https://doi.org/10.22214/ijraset.2026.84839",
-      "abstract": "Electric-vehicle (EV) batteries require proactive cooling strategies to maintain safe operating conditions and extend service life. This paper introduces a predictive analysis framework that integrates hardware implementation with computational monitoring to evaluate the effectiveness of Phase Change Material (PCM) in thermal regulation. Unlike hardware-only studies, the proposed system anticipates temperature variations under dynamic load conditions, enabling timely activation of safety mechanisms. Experimental validation confirmed stable operation between 27.0°C–28.2°C under normal conditions and an average of 32.0°C–32.8°C under load, while predictive monitoring demonstrated PCM’s capacity to absorb approximately 18 kJ of heat and sustain a liquid fraction of 0.6 at 41°C. The combined approach highlights the importance of prediction in real-time battery safety, offering a scalable and intelligent solution for advanced EV thermal management systems",
-      "summary": "Electric-vehicle (EV) batteries require proactive cooling strategies to maintain safe operating conditions and extend service life. This paper introduces a predictive analysis framework that integrates hardware implementation with computational monitoring to evaluate the effectiveness of Phase Change Material (PCM) in thermal regulation. Experimental validation confirmed stable operation between 27.0°C–28.2°C under normal conditions and an average of 32.0°C–32.8°C under load, while predictive monitoring demonstrated PCM’s capacity to absorb approximately 18 kJ of heat and sustain a liquid fraction of 0.6 at 41°C.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "新能源与储能",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212564662",
-      "title": "Experimental assessment of computationally nominated small molecules targeting the YAP–TEAD interface in Hippo pathway-altered mesothelioma cell models",
-      "authors": [
-        "Glen J. Weiss",
-        "Joseph C. Loftus",
-        "David Mallery",
-        "Nhan L. Tran"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Frontiers in Oncology",
-      "doi": "https://doi.org/10.3389/fonc.2026.1908974",
-      "url": "https://doi.org/10.3389/fonc.2026.1908974",
-      "abstract": "Aberrant activation of the Hippo–YAP/TAZ–TEAD transcriptional axis is a recurrent feature of multiple solid tumors and contributes to tumor maintenance, lineage plasticity, and therapeutic resistance. Recent medicinal chemistry has shown that TEAD proteins are druggable, but the rate at which in silico screening nominates compounds that prove functionally active in cells remains poorly defined, and negative validation results are rarely reported. Here we describe an experimental assessment of a focused set of computationally nominated candidate compounds, selected from a structure-guided virtual screen of the YAP–TEAD interface across approximately 917,000 library compounds and three predicted binding sites. Candidates were evaluated using long-term (144 hour) CellTiter-Glo proliferation assays in three Hippo-altered malignant pleural mesothelioma cell lines (MSTO-211H, NCI-H2052, NCI-H226), with the validated TEAD inhibitor K-975 and cisplatin as positive controls, and an exploratory TEAD-responsive luciferase reporter in MCF7 cells. K-975 produced dose-dependent antiproliferative activity in MSTO-211H and NCI-H2052, with reduced sensitivity in NCI-H226, while cisplatin reduced viability in all lines. In contrast, the computationally nominated compounds, including AG-690/36549045, AN-655/40856217, and additional library members, did not produce measurable antiproliferative activity at the concentrations tested. In the exploratory reporter, apparent suppression of TEAD activity consistently co-occurred with loss of cell viability, a pattern consistent with cytotoxicity rather than selective transcriptional inhibition; no TEAD-active reference compound was co-tested within the reporter panel, and no direct YAP–TEAD biochemical or target-engagement assay was performed. These results describe a case in which computational nomination at the YAP–TEAD interface showed limited concordance with cell-based activity and provide a transparent account of negative findings to inform expectations for early-stage discovery targeting Hippo-dependent transcriptional programs.",
-      "summary": "Recent medicinal chemistry has shown that TEAD proteins are druggable, but the rate at which in silico screening nominates compounds that prove functionally active in cells remains poorly defined, and negative validation results are rarely reported. Candidates were evaluated using long-term (144 hour) CellTiter-Glo proliferation assays in three Hippo-altered malignant pleural mesothelioma cell lines (MSTO-211H, NCI-H2052, NCI-H226), with the validated TEAD inhibitor K-975 and cisplatin as positive controls, and an exploratory TEAD-responsive luciferase reporter in MCF7 cells. These results describe a case in which computational nomination at the YAP–TEAD interface showed limited concordance with cell-based activity and provide a transparent account of negative findings to inform expectations for early-stage discovery targeting Hippo-dependent transcriptional programs.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212568365",
-      "title": "Balancing Hydrogen Bonding and Crystallinity in Enzymatically Functionalized Lignin–Poly(vinyl alcohol) Composite Films",
-      "authors": [
-        "Weijun Liang",
-        "Gabriela Domínguez",
-        "M. Panizo-Laiz",
-        "Olga Martín",
-        "Alberto García‐Peñas"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Polymers",
-      "doi": "https://doi.org/10.3390/polym18182238",
-      "url": "https://doi.org/10.3390/polym18182238",
-      "abstract": "Poly(vinyl alcohol) (PVA) is a promising biodegradable polymer; however, its reliance on petroleum and incompatibility with raw lignin additives hinder sustainable PVA composite development. In this study, mechanically robust PVA/functionalized acid-soluble lignin (fLGAS) composite films were developed by means of aqueous solution casting without toxic chemical crosslinkers. Commercial kraft lignin was enzymatically modified using laccase from Coriolopsis spp., improving its compatibility with the PVA matrix. Molecular characterization confirmed the formation of an intermolecular hydrogen-bonding network between PVA and fLGAS, which significantly enhanced the thermal stability of the composites. Additionally, this network improved moisture response, achieving complete surface wetting (water contact angle decreasing from 47.04° to 0°) and swelling ratios exceeding 250% after 2 h. Nanoindentation and dynamic mechanical analysis characterizations revealed that mechanical properties enhanced with fLGAS loading up to 5 wt%, while the overall properties were governed by the balance between hydrogen bonding and crystallinity. This work provides an eco-friendly framework for industrial lignin valorization and sustainable functional film design.",
-      "summary": "Poly(vinyl alcohol) (PVA) is a promising biodegradable polymer; however, its reliance on petroleum and incompatibility with raw lignin additives hinder sustainable PVA composite development. Molecular characterization confirmed the formation of an intermolecular hydrogen-bonding network between PVA and fLGAS, which significantly enhanced the thermal stability of the composites. Nanoindentation and dynamic mechanical analysis characterizations revealed that mechanical properties enhanced with fLGAS loading up to 5 wt%, while the overall properties were governed by the balance between hydrogen bonding and crystallinity.",
-      "techniques": [
-        "DMA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212577895",
-      "title": "Tartrate-chelated aqueous gel-route synthesis of multiferroic BiFeO3 nanoparticles: Calcination-dependent thermal, structural, and morphological evolution",
-      "authors": [
-        "Md. Golam Sarowar",
-        "Md Jahid Hossain Bhuiyan",
-        "Nilufer Yesmin Tanisa"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Next Nanotechnology",
-      "doi": "https://doi.org/10.1016/j.nxnano.2026.100775",
-      "url": "https://doi.org/10.1016/j.nxnano.2026.100775",
-      "abstract": "Bismuth ferrite (BiFeO 3 , BFO) is the most extensively investigated single-phase, room-temperature multiferroic oxide, but obtaining phase-pure nanoparticles remains difficult because of the narrow thermodynamic stability window of the perovskite phase and the persistent formation of Bi 2 O 3 and Fe 2 O 3 secondary phases. In this work, BiFeO 3 nanoparticles were synthesized through an aqueous organic gel route in which tartaric acid (C 4 H 6 O 6 ) served as the chelating and gel-forming agent for Bi 3 + and Fe 3+ nitrate precursors, in place of the more commonly reported citrate- or ethylenediaminetetraacetic acid (EDTA)-based routes — the central methodological novelty of this study, motivated by tartaric acid's lower cost, simpler two-step acid dissociation relative to citric acid, and substantially better biodegradability relative to EDTA. The Bi–Fe–tartrate precursor gel was dried and calcined for 2 h at six temperatures between 400 and 550 °C, and the resulting powders were characterized by Fourier-transform infrared (FT-IR) spectroscopy, X-ray diffraction (XRD), field-emission scanning electron microscopy (FESEM), and thermogravimetric/differential thermal analysis (TG/DTA). TG/DTA of the precursor gel showed a three-stage mass loss (≈91% of the initial mass) up to ≈ 450 °C, associated with dehydration, tartrate-complex decomposition, and residual-carbon burnout, with an exothermic feature near 280 °C marking the onset of perovskite crystallization. FT-IR spectra confirmed progressive sharpening of the diagnostic Fe–O and Bi–O octahedral stretching bands (≈440–555 cm −1 ) with increasing calcination temperature. XRD revealed a mixed-phase product containing Bi 2 O 3 and Fe 2 O 3 impurities at 400–475 °C, converging to a predominantly single-phase rhombohedral BiFeO 3 (space group R3c) from 500 °C onward, in reasonable agreement with JCPDS card no. 01–076–6047. The average crystallite size, calculated from the Scherrer equation, increased monotonically from 28 ± 3 nm at 450 °C to 39 ± 4 nm at 550 °C, remaining below the 62–64 nm periodicity of the BFO spin cycloid throughout, while FESEM confirmed quasi-spherical to quasi-rhombic particles in the 20–60 nm range. These results identify tartaric acid as an effective, low-cost chelating agent for producing sub-cycloidal, phase-pure BiFeO 3 nanoparticles of interest for magnetoelectric applications.",
-      "summary": "Bismuth ferrite (BiFeO 3 , BFO) is the most extensively investigated single-phase, room-temperature multiferroic oxide, but obtaining phase-pure nanoparticles remains difficult because of the narrow thermodynamic stability window of the perovskite phase and the persistent formation of Bi 2 O 3 and Fe 2 O 3 secondary phases. XRD revealed a mixed-phase product containing Bi 2 O 3 and Fe 2 O 3 impurities at 400–475 °C, converging to a predominantly single-phase rhombohedral BiFeO 3 (space group R3c) from 500 °C onward, in reasonable agreement with JCPDS card no. These results identify tartaric acid as an effective, low-cost chelating agent for producing sub-cycloidal, phase-pure BiFeO 3 nanoparticles of interest for magnetoelectric applications.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "食品与脂质"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212599582",
-      "title": "Advanced Modeling, Design, and Performance Characterization of a PIN Photodiode",
-      "authors": [
-        "Ashraf Uddin Chowdhury Rafat",
-        "Md Rafiqul Islam",
-        "M. M. Hasan Mahfuz",
-        "Manzar Mahmud"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Asian Journal of Electrical and Electronic Engineering.",
-      "doi": "https://doi.org/10.69955/ajoeee.2026.v6i2.92",
-      "url": "https://doi.org/10.69955/ajoeee.2026.v6i2.92",
-      "abstract": "InGaAs PIN photodiodes are essential components for detecting near-infrared (NIR) light, particularly valued for their ability to function effectively at room temperature in areas such as fiber-optic communications and advanced imaging systems. This study focuses on the design, simulation, and performance analysis of an In₀.₅₃Ga₀.₄₇As PIN photodiode, followed by a comparison with a fabricated prototype. Simulation results indicate that lowering the absorber-layer doping concentration from 1×10¹⁶ to 1×10¹⁵ cm⁻³ slightly improves peak quantum efficiency (QE), increasing from approximately 56.8% to 57.9%. Meanwhile, a slightly higher doping level can help reduce the dark current density. A device incorporating a lightly doped (quasi-intrinsic) InGaAs absorber layer with a doping concentration close to 1×10¹⁵ cm⁻³ was grown on an InP substrate. Capacitance–voltage (C–V) measurements confirmed a doping concentration of about 1.2×10¹⁵ cm⁻³, with the device displaying capacitance in the low picofarad range under reverse bias. The resulting 130 µm-diameter photodiode exhibited a measured dark current density of approximately 10⁻⁴ A/cm² at a reverse bias of −1.5 V, compared with a simulated total dark current density of approximately 7×10⁻⁷ A/cm² at the same bias. The measured value is substantially higher than the simulated bulk contribution, consistent with additional perimeter-related leakage mechanisms not captured by the bulk generation–recombination model. The measured value is substantially higher than the simulated bulk contribution, consistent with additional perimeter-related leakage mechanisms not captured by the bulk generation–recombination model. Thermal analysis revealed an activation energy of roughly 0.34 eV, indicating that the dark current is primarily influenced by generation–recombination processes and leakage through shunt paths at ambient temperatures. The photodiode showed a peak quantum efficiency of about 54.7% at 1.4 µm without antireflection (AR) treatment, which improved significantly to around 80% with an optimized AR coating. These findings highlight the importance of carefully tuning the absorber doping level because lighter doping widens the depletion region, lowering junction capacitance and raising QE simultaneously. At the same time, the larger generation volume comes at the cost of higher dark current. Lighter doping widens the depletion region, lowering junction capacitance and raising QE, but the larger generation volume increases dark current. Overall, the study emphasizes the role of doping control and surface passivation in enhancing the performance of high-efficiency NIR PIN photodiodes.",
-      "summary": "InGaAs PIN photodiodes are essential components for detecting near-infrared (NIR) light, particularly valued for their ability to function effectively at room temperature in areas such as fiber-optic communications and advanced imaging systems. Simulation results indicate that lowering the absorber-layer doping concentration from 1×10¹⁶ to 1×10¹⁵ cm⁻³ slightly improves peak quantum efficiency (QE), increasing from approximately 56.8% to 57.9%. Overall, the study emphasizes the role of doping control and surface passivation in enhancing the performance of high-efficiency NIR PIN photodiodes.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212629782",
-      "title": "Studying the failure mechanism in Li-metal electrode by a reversible fluorescence analysis methodology",
-      "authors": [
-        "Xiao Liu",
-        "Peng Zhang",
-        "Yunpeng Guo",
-        "Chuncen Xiong",
-        "Hongru Fu",
-        "Guilong Liu",
-        "Dong Sui",
-        "Xianming Liu"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Nature Communications",
-      "doi": "https://doi.org/10.1038/s41467-026-77648-0",
-      "url": "https://doi.org/10.1038/s41467-026-77648-0",
-      "abstract": "Elucidating the failure mechanisms of Li metal electrodes is critical to accelerating the development of long cycle life Li metal batteries. However, it has not yet fully been realized so far due to the challenges associated with quantitative and qualitative characterization of solid electrolyte interphase on metal at large-area scale. Herein, we establish a relationship between solid byproducts and dead Li amounts in solid electrolyte interphase on Li metal by using fluorescence imaging and fluorescence titration method. The success of this methodology depends on the finding of a highly selective molecular probe, dilithium 3-hydroxy-2-naphthoate, with reversible change in fluorescence wavelength and intensity toward Li metal. Accordingly, the continuous generation of solid byproducts is acknowledged as potential underlying reason towards dead Li accumulation, determining the failure of Li electrode. These findings provide insights into the understanding of failure mechanism of Li metal electrode and design of strategies to improve its cycle life. Understanding Li electrode failure is challenged by efficient evaluation of solid electrolyte interphase. Here, authors develop a qualitative and quantitative fluorescent method to correlate solid byproducts and accumulated dead Li in the solid electrolyte interphase, identifying the underlying role of side reactions.",
-      "summary": "Elucidating the failure mechanisms of Li metal electrodes is critical to accelerating the development of long cycle life Li metal batteries. Herein, we establish a relationship between solid byproducts and dead Li amounts in solid electrolyte interphase on Li metal by using fluorescence imaging and fluorescence titration method. Here, authors develop a qualitative and quantitative fluorescent method to correlate solid byproducts and accumulated dead Li in the solid electrolyte interphase, identifying the underlying role of side reactions.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "新能源与储能",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212647483",
-      "title": "Vacuum-based long-term thermal stability evaluation of metal-organic precursors for atomic layer deposition",
-      "authors": [
-        "임재욱",
-        "김하영",
-        "Seonjeong Maeng",
-        "Jong‐Man Kim",
-        "Ju‐Young Yun"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Materials Science in Semiconductor Processing",
-      "doi": "https://doi.org/10.1016/j.mssp.2026.111145",
-      "url": "https://doi.org/10.1016/j.mssp.2026.111145",
-      "abstract": "Understanding the long-term thermal stability of metal-organic precursors is critical for maintaining consistent and reliable atomic layer deposition (ALD) performance. Conventional evaluations, such as thermogravimetric analysis (TGA) and bulk long-term thermal stability tests in sealed containers, do not reproduce the vacuum exposure and pressure fluctuations encountered under practical ALD process environments. In this work, we developed a vacuum-based long-term stability evaluation platform that reproduces process-relevant pressure cycling while enabling extended thermal treatment and periodic, atmosphere-free sampling of liquid precursors. Using tetrakis(ethylmethylamino)hafnium (TEMAHf) as a model precursor, we compare non-pumping, 6-h cyclic pumping, and 1-h cyclic pumping environments and track degradation using colorimetry, TGA residual mass, viscosity, and vapor pressure. More frequent pressure cycling accelerates degradation, evidenced by stronger color changes, increased non-volatile residue accumulation, higher viscosity, and reduced vapor pressure. These results indicate that non-vacuum, non-cycling tests can underestimate process-relevant long-term degradation and highlight the need for vacuum- and pressure cycling-based protocols to screen precursor stability and guide precursor and process optimization in ALD.",
-      "summary": "Understanding the long-term thermal stability of metal-organic precursors is critical for maintaining consistent and reliable atomic layer deposition (ALD) performance. In this work, we developed a vacuum-based long-term stability evaluation platform that reproduces process-relevant pressure cycling while enabling extended thermal treatment and periodic, atmosphere-free sampling of liquid precursors. These results indicate that non-vacuum, non-cycling tests can underestimate process-relevant long-term degradation and highlight the need for vacuum- and pressure cycling-based protocols to screen precursor stability and guide precursor and process optimization in ALD.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212675100",
-      "title": "HAT1 regulates glioblastoma cell proliferation and membrane lipid remodeling through ALDH2",
-      "authors": [
-        "Maria Louca",
-        "Evelina Charidemou",
-        "Niovi Nicolaou",
-        "Maria Kouma",
-        "Renata Garbellini Duft",
-        "Izge Shanlitourk",
-        "Louiza Potamiti",
-        "Mihalis Panayiotidis"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Cell Death Discovery",
-      "doi": "https://doi.org/10.1038/s41420-026-03328-z",
-      "url": "https://doi.org/10.1038/s41420-026-03328-z",
-      "abstract": "Abstract Glioblastoma (GBM) is the most aggressive and lethal form of primary brain cancer in adults, characterized by rapid cell proliferation, resistance to therapy, and poor patient outcomes. While epigenetic dysregulation is increasingly recognized in glioma pathogenesis, the role of Histone Acetyltransferase 1 (HAT1) in GBM remains largely undefined. Here, we demonstrate that HAT1 expression is progressively reduced in high-grade gliomas of human tissue microarrays as well as in glioma cell lines with increased malignancy. We show that HAT1 depletion in glioma cells significantly enhances cell proliferation and membrane fluidity specifically in aggressive GBM subtypes (A172 and U87). Integrated transcriptomics and lipidomics analyses revealed upregulation of lipid metabolism pathways, including enhanced glycerophospholipid biosynthesis, alongside a marked induction of aldehyde dehydrogenase 2 (ALDH2) expression in HAT1-deficient cells. In contrast, HAT1 re-expression suppressed proliferation, restored membrane properties, and downregulated ALDH2. Subcutaneous xenograft models confirmed that HAT1 loss accelerates tumor growth, while HAT1 overexpression restrains it. Notably, knockdown of ALDH2 in HAT1-depleted GBM cells reversed the hyperproliferative and high-membrane-fluidity phenotype, identifying ALDH2 as a key downstream effector. Collectively, our data uncover a novel HAT1–ALDH2–lipid remodeling axis that regulates GBM cell proliferation and membrane plasticity, positioning HAT1 as a suppressor of GBM aggressiveness and highlighting this pathway as a potential axis for prognostic and therapeutic exploitation in GBM.",
-      "summary": "Abstract Glioblastoma (GBM) is the most aggressive and lethal form of primary brain cancer in adults, characterized by rapid cell proliferation, resistance to therapy, and poor patient outcomes. We show that HAT1 depletion in glioma cells significantly enhances cell proliferation and membrane fluidity specifically in aggressive GBM subtypes (A172 and U87). Integrated transcriptomics and lipidomics analyses revealed upregulation of lipid metabolism pathways, including enhanced glycerophospholipid biosynthesis, alongside a marked induction of aldehyde dehydrogenase 2 (ALDH2) expression in HAT1-deficient cells.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212713036",
-      "title": "Modification of Mercerized Jute Fabric through Benzoyl Peroxide Treatment, Polymer Coating, and Gamma Irradiation for Geotechnical Applications",
-      "authors": [
-        "Nasrin Akter",
-        "Md. Reazuddin Repon",
-        "Md. Ashaduzzaman",
-        "Mubarak A. Khan",
-        "Sayed Md. Shamsuddin"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Materials Research Express",
-      "doi": "https://doi.org/10.1088/2053-1591/aea741",
-      "url": "https://doi.org/10.1088/2053-1591/aea741",
-      "abstract": "Abstract Natural jute fibers show promises as biodegradable substitutes for geotechnical applications, but their high-water absorption and short lifespan limit their long-term viability. In this research work, mercerized jute fabric was chemically modified using a polymer mixture (Bitumen emulsion and polyester resin). After polymer coating/chemical treatment, gamma radiation (5 kGγ) was applied to the polymer-coated jute fabric. Characterization of the modified jute fabric confirms improvements in its chemical and physical properties. FTIR, XRD, TGA, SEM, and a variety of physical and mechanical tests, such as tensile strength, thickness, moisture regain, water absorption, and accelerated weathering performance, were used to characterize the treated fabrics. Spectroscopic and structural investigations confirmed effective polymer deposition and crosslinking, characterized by reduced hydroxyl intensity, enhanced hydrophobicity, and improved interfacial adhesion between jute cellulose and the polymer matrix. The modified materials had greater tensile strength, were thicker, and had greater mass than raw jute. The sequential chemical modification, polymer coating, and gamma irradiation substantially improved the tensile strength of jute fabric, with the J3 sample exhibiting the highest tensile strength increment of 53.42% compared with raw jute. In contrast, the highest weight and strength losses in raw jute fabric after the accelerated weathering test reached up to 70%. On the other hand, the treated jute fabric showed the lowest degradation, with only 30% weight loss and 35% strength loss following weathering.",
-      "summary": "Abstract Natural jute fibers show promises as biodegradable substitutes for geotechnical applications, but their high-water absorption and short lifespan limit their long-term viability. FTIR, XRD, TGA, SEM, and a variety of physical and mechanical tests, such as tensile strength, thickness, moisture regain, water absorption, and accelerated weathering performance, were used to characterize the treated fabrics. On the other hand, the treated jute fabric showed the lowest degradation, with only 30% weight loss and 35% strength loss following weathering.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "食品与脂质"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212727780",
-      "title": "Group 13-Doped Hollow Silica Nanospheres: Tailoring Acidity for Sustainable CO2 Conversion",
-      "authors": [
-        "Alwyn Ronald Dsouza",
-        "Anthony Morena",
-        "Luca Fusaro",
-        "Carmela Aprile"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Inorganic Chemistry",
-      "doi": "https://doi.org/10.1021/acs.inorgchem.6c03601",
-      "url": "https://doi.org/10.1021/acs.inorgchem.6c03601",
-      "abstract": "Abstract Hollow silica nanospheres (NSs) are emerging as versatile supports for heterogeneous catalysis due to their high specific surface area and accessible internal cavities via the mesoporous shell. In this work, NS synthesis was optimized and group 13 metal cations (Al3+, Ga3+, In3+) were incorporated into the silica structure to tailor Lewis and Brønsted acidity. The influence of loading was investigated, selecting Al3+ as the target metal cation. Imidazolium functionalization yielded bifunctional catalysts. Materials were characterized by Transmission Electron Microscopy (TEM), Nitrogen Physisorption, Thermogravimetric Analysis (TGA), Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES), and Elemental Analysis (EA). Solid-state NMR spectroscopy was performed on 27Al, 71Ga, 13C, and 29Si nuclei, while the chemical environment of indium was investigated using X-ray Photoelectron Spectroscopy (XPS). 31P ssNMR with trimethylphosphine (TMP) as a probe molecule, and NH3-TPD analyses were performed to evaluate the acidity. All bifunctional solids were highly active catalysts for converting CO2 into cyclic carbonates via epoxide cycloaddition. The indium-doped bifunctional solid was the most efficient, showing stability and recyclability. Activity correlated with acid site nature and strength, offering insights into key design principles. The material remained active under different conditions and with different epoxides, showing competitive activity versus catalysts reported in the literature.",
-      "summary": "Abstract Hollow silica nanospheres (NSs) are emerging as versatile supports for heterogeneous catalysis due to their high specific surface area and accessible internal cavities via the mesoporous shell. Solid-state NMR spectroscopy was performed on 27Al, 71Ga, 13C, and 29Si nuclei, while the chemical environment of indium was investigated using X-ray Photoelectron Spectroscopy (XPS). The indium-doped bifunctional solid was the most efficient, showing stability and recyclability.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212768519",
-      "title": "Characterization of Phase Transformations and Chemical Composition in Rotary and Reciprocating Nickel-Titanium Endodontic Instruments",
-      "authors": [
-        "Alejandro López-Aldrete",
-        "Marco Martin Mora-Chávez",
-        "Verónica Méndez-González",
-        "Mariné Ortiz Magdaleno",
-        "Vladimir Alonso Escobar‐Barrios",
-        "Karla Navarrete-Olvera",
-        "Mariana Gutiérrez-Sánchez"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "International Journal of Medical Science and Dental Health",
-      "doi": "https://doi.org/10.55640/ijmsdh-12-09-07",
-      "url": "https://doi.org/10.55640/ijmsdh-12-09-07",
-      "abstract": "Background: The mechanical stresses to which the files are subjected differ depending on the type of movement. Therefore, the flexibility and resistance of the instruments must vary according to clinical needs. Which depends on the chemical composition and thermal treatment of the material, which gives it the atomic arrangement. Objectives: Analyze the physical, chemical and thermal properties of rotary and reciprocating instruments. Methods: The reciprocating and rotary instrumentation systems: WaveOne Gold, Reciproc Blue, Vortex Blue and V-Taper were evaluated under SEM, as well as their chemical composition by ICP-OES analysis, the phase transitions through DSC, and structurally by X-ray diffraction. Results: Chemical analysis determined that the NiTi alloys, corresponding to Vortex Blue and V-Taper 2H, have an almost 1:1 Ni:Ti atomic ratio, but with a significant variation in the Ni content. Likewise, a low Au content was detected in the alternative WaveOne Gold system. Regarding the thermal analysis, the alternative V-taper 2H system showed a double exothermic transition associated with an intermediate rhombohedral phase known as R phase. The diffraction patterns show the transition of the austenitic phase. Conclusions: Thermochemical analysis, Rotary Instruments, Reciproc Blue, Vortex Blue, V-Taper 2H, and WaveOne Gold.",
-      "summary": "Background: The mechanical stresses to which the files are subjected differ depending on the type of movement. Methods: The reciprocating and rotary instrumentation systems: WaveOne Gold, Reciproc Blue, Vortex Blue and V-Taper were evaluated under SEM, as well as their chemical composition by ICP-OES analysis, the phase transitions through DSC, and structurally by X-ray diffraction. The diffraction patterns show the transition of the austenitic phase.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212783821",
-      "title": "eGFP tagged ZnO nanoparticles from glioblastoma targeting ferroptosis and MRP1 in head and neck squamous cell carcinoma",
-      "authors": [
-        "Salida Ali",
-        "Yu Li",
-        "Ontana Yotnarong",
-        "Chi Yao",
-        "Yongle Zhan",
-        "Ruochen Ma",
-        "Ruofan Shi",
-        "Zhiqiang Wang"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Discover Nano",
-      "doi": "https://doi.org/10.1186/s11671-026-04895-x",
-      "url": "https://doi.org/10.1186/s11671-026-04895-x",
-      "abstract": "Abstract Background Head and neck squamous cell carcinoma (HNSCC) remain one of the most aggressive malignancies worldwide, necessitating the development of targeted therapeutic strategies. While zinc oxide (ZnO) nanostructures have shown promise in nanomedicine, the mechanistic influence of nanoparticle morphology on HNSCC remains poorly understood. Methods In this study, we synthesized and characterized green-synthesized spherical ZnO nanoparticles (NPs) and spiky ZnO nanoparticles (SNPs) using total polyphenols (TP) as a reducing and stabilizing agent. To track cellular interactions, the nanostructures were further modified with glioblastoma-derived eGFP tags. The antitumor efficacy and underlying mechanisms were evaluated across multiple HNSCC cell lines (Fadu, TU212, and TU686) using 2D cultures, 3D multicellular spheroids, and cellular internalization assays. Results Chemical characterization revealed distinct architectural shifts between the spherical and spiky morphologies. Both nanoparticle types demonstrated significant dose-dependent anticancer activity; however, ZnO SNPs exhibited superior internalization and more pronounced tumor suppression in 3D spheroid models. Notably, ZnO SNPs showed higher efficacy in the highly aggressive hypopharyngeal cancer line (Fadu) compared to laryngeal carcinoma lines (TU212 and TU686). Conclusion Mechanistic investigations revealed that ZnO SNPs exert their antitumor effects by modulating reactive oxygen species (ROS) production, downregulating multidrug resistance-associated protein 1 (MRP1), and inhibiting glutathione peroxidase 4 (GPX4). This synergy triggers potent ROS-induced ferroptosis. Our findings suggest that the hierarchical morphology of ZnO SNPs enhances their therapeutic potential, offering a novel, targeted approach for the treatment of aggressive HNSCC.",
-      "summary": "Abstract Background Head and neck squamous cell carcinoma (HNSCC) remain one of the most aggressive malignancies worldwide, necessitating the development of targeted therapeutic strategies. The antitumor efficacy and underlying mechanisms were evaluated across multiple HNSCC cell lines (Fadu, TU212, and TU686) using 2D cultures, 3D multicellular spheroids, and cellular internalization assays. Results Chemical characterization revealed distinct architectural shifts between the spherical and spiky morphologies.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212793750",
-      "title": "Crack-retardation Mechanism of Polymer-modified Micro-Surfacing on Bridge Deck Pavements in High-altitude Cold Regions: A 3D Thermal–mechanical Fracture Analysis",
-      "authors": [
-        "Xinyuan Liu",
-        "Pengjia Hui",
-        "Jie Jia",
-        "Dekun Shi",
-        "Teng Zhang"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Periodica Polytechnica Civil Engineering",
-      "doi": "https://doi.org/10.3311/ppci.44463",
-      "url": "https://doi.org/10.3311/ppci.44463",
-      "abstract": "Early-onset fracturing within deck layers poses a significant threat to the durability of composite steel-concrete structures, specifically those subjected to extreme multi-hazard environments characterized by extreme cold, intense solar radiation, and heavy traffic loads. This study explores the mechanism of polymer-modified micro-surfacing in inhibiting cracks on bridge decks. Utilizing the structural specifications of a representative composite girder span in northwestern China, a rigorous three-dimensional fracture mechanics model was established by integrating FRANC3D and ABAQUS. The results show that micro-surfacing acts as an excellent thermal barrier. It effectively reduces the temperature gradient within the pavement layer, thereby decreasing thermal stress accumulation at the steel-concrete interface. Furthermore, compared to conventional sealing materials, micro-surfacing has higher stiffness. It effectively disperses surface tensile stresses and significantly reduces the stress intensity at the crack tip. Therefore, micro-surfacing restricts crack opening through mechanical confinement and prevents the propagation of reflective cracks. Ultimately, this treatment significantly improves the fatigue life and structural resilience of the entire bridge system in extreme multi-hazard environments.",
-      "summary": "Early-onset fracturing within deck layers poses a significant threat to the durability of composite steel-concrete structures, specifically those subjected to extreme multi-hazard environments characterized by extreme cold, intense solar radiation, and heavy traffic loads. The results show that micro-surfacing acts as an excellent thermal barrier. Ultimately, this treatment significantly improves the fatigue life and structural resilience of the entire bridge system in extreme multi-hazard environments.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "食品与脂质"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212877653",
-      "title": "Localized disruption of the presynaptic endoplasmic reticulum in Atlastin mutants",
-      "authors": [
-        "Mónica C. Quiñones-Frías",
-        "Dina M. Ocken",
-        "Avital A. Rodal"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Journal of Cell Science",
-      "doi": "https://doi.org/10.1242/jcs.265223",
-      "url": "https://doi.org/10.1242/jcs.265223",
-      "abstract": "The endoplasmic reticulum (ER) extends throughout neurons and regulates many functions, including neurite outgrowth, neurotransmission, and synaptic plasticity. Mutations in ER-shaping proteins cause the neurodegenerative disorder Hereditary Spastic Paraplegia (HSP), yet the ultrastructure and dynamics of neuronal ER remain largely unexplored, especially at presynaptic terminals. Using super-resolution and live imaging in Drosophila larval motor neurons, we investigated ER structure in wild-type animals and mutants of the HSP-linked gene, Atlastin, which encodes an ER-shaping protein. Previous studies reported diffuse localization of an ER luminal marker at Atlastin mutant presynaptic terminals, which was attributed to ER fragmentation. Using an ER membrane marker, we found that Atlastin mutant ER forms robust networks with only mild defects in structure and dynamics, indicating that the primary defect is functional rather than architectural. We demonstrate that Atlastin mutants progressively displace a luminal ER protein reporter to the cytosol during larval development, specifically at synapses, while this reporter remains correctly localized in cell bodies, axons, and muscles. This synapse-specific displacement phenotype, previously unreported in non-neuronal cells, emphasizes the importance of studying neurons to understand HSP pathogenesis.",
-      "summary": "Using super-resolution and live imaging in Drosophila larval motor neurons, we investigated ER structure in wild-type animals and mutants of the HSP-linked gene, Atlastin, which encodes an ER-shaping protein. Using an ER membrane marker, we found that Atlastin mutant ER forms robust networks with only mild defects in structure and dynamics, indicating that the primary defect is functional rather than architectural. We demonstrate that Atlastin mutants progressively displace a luminal ER protein reporter to the cytosol during larval development, specifically at synapses, while this reporter remains correctly localized in cell bodies, axons, and muscles.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212885883",
-      "title": "Irreversibility analysis in stagnation-point flow of Casson bioconvective hybrid nanofluid under chemical reaction and stratification effects",
-      "authors": [
-        "Mujeeb ur Rahman",
-        "Ghada A. Khouqeer",
-        "Fazal Haq",
-        "Naglaa AbdelAll",
-        "Jihad Younis",
-        "Mohammed Sallah"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Discover Nano",
-      "doi": "https://doi.org/10.1186/s11671-026-04847-5",
-      "url": "https://doi.org/10.1186/s11671-026-04847-5",
-      "abstract": "Entropy generation (EG) in hybrid nanofluid flows (HNFs) plays a crucial role in determining the efficiency and performance of thermal systems. It serves as a measure of irreversibility within these complex fluid flows, which directly impacts energy transfer and thermal conductivity. By analyzing EG, we can assess how effectively HNFs minimize energy losses, ultimately leading to improved overall efficiency in thermal management systems. The present study focuses on the analysis of heat transfer and EG in stratified bioconvective and magnetohydrodynamic Casson HNF flow near the stagnation point. The flow in HNF is generated due to stretched sheet. The surface of the sheet is considered porous. Radiation, heat source, and Joule heating effects are considered in the expression for thermal energy. While reporting the concentration equation impact of a chemical reaction is accounted. The bioconvection phenomenon within HNF is considered. The HNF is formed by inserting copper $$\\left( {{\\text{Cu}}} \\right)$$ and silver $$\\left( {{\\text{Ag}}} \\right)$$ nanoparticles in engine oil-based Casson liquid. The EG for the flow considered is modeled by using the second law of thermodynamics. The flow representing model equations is transformed into a non-dimensional system through transformations. To solve the dimensionless reduced system, we have implemented the NDSolve code in Mathematica. Behavior of HNF versus diverse parameters is graphically analyzed. Engineering quantities are scrutinized numerically. The results reveal that the HNF velocity profile decreases with increasing magnetic and porosity parameters, whereas the HNF temperature rises with higher magnetic parameter and Eckert number but decreases with increasing Prandtl number. The concentration field is reduced under stronger chemical reaction effects. Moreover, EG significantly increases with the Brinkman number and diffusion parameters, indicating enhanced irreversibility. The findings provide important insights into optimizing thermal efficiency and minimizing energy losses in advanced engineering and bio-thermal systems utilizing hybrid nanofluids.",
-      "summary": "Entropy generation (EG) in hybrid nanofluid flows (HNFs) plays a crucial role in determining the efficiency and performance of thermal systems. The EG for the flow considered is modeled by using the second law of thermodynamics. The results reveal that the HNF velocity profile decreases with increasing magnetic and porosity parameters, whereas the HNF temperature rises with higher magnetic parameter and Eckert number but decreases with increasing Prandtl number.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212899690",
-      "title": "Hepatic Usp2 orchestrates de novo lipogenesis through G3bp2 stabilization and β-catenin activation",
-      "authors": [
-        "Wei Wang",
-        "Hui Wang",
-        "Yihan Liu",
-        "Siyuan Cui",
-        "Chuanxi Tang",
-        "Mengxue Wang",
-        "Chunyan Mu",
-        "Jingyu Li"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Cell Death Discovery",
-      "doi": "https://doi.org/10.1038/s41420-026-03333-2",
-      "url": "https://doi.org/10.1038/s41420-026-03333-2",
-      "abstract": "Abstract The escalating global burden of metabolic diseases including obesity, type 2 diabetes, and metabolic dysfunction-associated fatty liver disease (MAFLD)-highlights an urgent need to identify new therapeutic targets. Although elevated hepatic de novo lipogenesis (DNL) is a hallmark of metabolic dysfunction, targeting its core transcriptional and enzymatic components has proven clinically challenging. Here, using a multi-model comparative transcriptomic strategy, we identify ubiquitin-specific protease 2 (Usp2) as a consistently upregulated gene strongly correlated with steatosis severity. Functional studies demonstrate that Usp2 promotes hepatic lipid accumulation both in vitro and in vivo. Mechanistically, Usp2 directly interacts with the RNA-binding protein G3bp2 and stabilizes it via K63-linked deubiquitination, leading to activation of β-catenin signaling and subsequent upregulation of key lipogenic genes, including Fasn, Scd1, and Plin2. These findings establish the Usp2-G3bp2-β-catenin axis as a previously unrecognized regulatory pathway driving hepatic lipogenesis and nominate Usp2 as a potential therapeutic target in metabolic disease.",
-      "summary": "Abstract The escalating global burden of metabolic diseases including obesity, type 2 diabetes, and metabolic dysfunction-associated fatty liver disease (MAFLD)-highlights an urgent need to identify new therapeutic targets. Here, using a multi-model comparative transcriptomic strategy, we identify ubiquitin-specific protease 2 (Usp2) as a consistently upregulated gene strongly correlated with steatosis severity. Functional studies demonstrate that Usp2 promotes hepatic lipid accumulation both in vitro and in vivo.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212930047",
-      "title": "Mesenchymal stem cell-derived extracellular vesicles ameliorate heat stroke-induced hippocampal injury and modulate VIM-AS1-associated miR-34a-5p/Per2 signaling",
-      "authors": [
-        "Lu Wang",
-        "Min Wang",
-        "Yuyan Liu",
-        "Yang Bai",
-        "Yun Li",
-        "Yuan Cao",
-        "Chengjin Wang",
-        "Zhen Gao"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Frontiers in Immunology",
-      "doi": "https://doi.org/10.3389/fimmu.2026.1873819",
-      "url": "https://doi.org/10.3389/fimmu.2026.1873819",
-      "abstract": "Background Central nervous system (CNS) injury is a major determinant of mortality and persistent disability after heat stroke. Mesenchymal stromal/stem cell-derived extracellular vesicles (MSC-EVs) are candidate cell-free immunomodulatory therapeutics, but their effects and molecular correlates in heat stroke-associated brain injury remain incompletely defined. We investigated whether MSC-EVs attenuate hippocampal inflammation and alter microglial phenotype-associated markers after heat stroke. Methods Human umbilical cord MSC-EVs were isolated by differential ultracentrifugation and characterized by transmission electron microscopy, nanoparticle tracking analysis, and immunoblotting for EV-enriched and non-EV markers. In a mouse heat stroke model, MSC-EVs (200 μg total protein per mouse) were administered intravenously. Neurological outcomes, hippocampal pathology, inflammatory mediators, IBA1 immunoreactivity, and phenotype-associated markers were evaluated. BV2 heat-stress and MSC co-culture experiments were used to examine VIM-AS1-associated miR-34a-5p/Per2 signaling. Results MSC-EV treatment improved survival and neurological scores and reduced hippocampal injury and inflammatory readouts after heat stroke. In mouse brain and BV2 models, treatment was associated with lower expression of inflammatory-associated markers and higher expression of repair-associated markers. EV RNA sequencing identified abundant VIM-AS1. VIM-AS1 gain- and loss-of-function experiments altered miR-34a-5p and Per2 expression, while miR-34a-5p directly repressed a conserved mouse Per2 3′UTR reporter. VIM-AS1 overexpression also improved inflammatory and neurological readouts in vivo . Conclusions MSC-EVs attenuated heat stroke-induced hippocampal injury and were associated with coordinated changes in VIM-AS1, miR-34a-5p, and Per2. These findings support MSC-EVs and VIM-AS1-associated signaling as candidates for further mechanistic investigation, while not establishing VIM-AS1 as the sole or dominant active EV cargo.",
-      "summary": "Background Central nervous system (CNS) injury is a major determinant of mortality and persistent disability after heat stroke. Neurological outcomes, hippocampal pathology, inflammatory mediators, IBA1 immunoreactivity, and phenotype-associated markers were evaluated. Results MSC-EV treatment improved survival and neurological scores and reduced hippocampal injury and inflammatory readouts after heat stroke.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212945353",
-      "title": "Screening Plant-Derived Residues for Bio-Based Construction Materials: A Comparative Physicochemical Characterisation",
-      "authors": [
-        "Brenda Arias-Cárdenas",
-        "Ana María Lacasta Palacio",
-        "Laia Haurie",
-        "Antònia Navarro"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Fibers",
-      "doi": "https://doi.org/10.3390/fib14090106",
-      "url": "https://doi.org/10.3390/fib14090106",
-      "abstract": "Plant-derived residues are promising renewable feedstocks for bio-based building materials, but their suitability depends on structural, thermophysical, fire-related, and mineral characteristics. This study characterises ten plant residues—corn stalk (CS), hemp stalk (HS), luffa (Lu), olive branches (OB), olive pit (OP), Posidonia oceanica (PO), rice husk (RH), rice straw (RS), sunflower stalk (SS), and wheat straw (WS)—to establish a first-stage screening framework for lightweight construction applications. The raw materials were assessed through morphological, density-related, microstructural, thermophysical, thermogravimetric, and microscale combustion analyses, while their calcined fractions were examined by ash-yield determination, X-ray fluorescence, and X-ray diffraction. Apparent bulk density varied by approximately a factor of 30, from 0.0275 g cm−3 for RS to 0.8279 g cm−3 for OP, while thermal conductivity ranged from 0.0436 to 0.1204 W/(m·K). Most residues remained within the range associated with lightweight insulation, whereas OP showed the highest conductivity. Peak heat release rate (PHRR) ranged from 45.7 W g−1 for PO to 145.5 W g−1 for Lu, with SS also showing low heat-release parameters. Ash yield varied from 1.66% to 26.23%, accompanied by silica-rich, calcic, alkali-rich, amorphous, and crystalline mineral profiles. The results provide preliminary criteria for categorising and prioritising residues for lightweight insulation-oriented applications or mineral-related valorisation, as a basis for future composite development and application-level validation.",
-      "summary": "Plant-derived residues are promising renewable feedstocks for bio-based building materials, but their suitability depends on structural, thermophysical, fire-related, and mineral characteristics. Peak heat release rate (PHRR) ranged from 45.7 W g−1 for PO to 145.5 W g−1 for Lu, with SS also showing low heat-release parameters. The results provide preliminary criteria for categorising and prioritising residues for lightweight insulation-oriented applications or mineral-related valorisation, as a basis for future composite development and application-level validation.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212959446",
-      "title": "Emotion regulation difficulties and experiential avoidance in adolescents with non-suicidal self-injury: a latent profile and moderation analysis",
-      "authors": [
-        "Jianing Gu",
-        "Jing Shao",
-        "Xiangxue Fu",
-        "Xianmei Ji",
-        "Shan Qiao",
-        "Chunmiao Zhang",
-        "Lian Qiu",
-        "Mengqian Zhang"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Frontiers in Psychiatry",
-      "doi": "https://doi.org/10.3389/fpsyt.2026.1942199",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1942199",
-      "abstract": "Background Non-suicidal self-injury (NSSI) represents a significant clinical concern among adolescents. Although emotion regulation difficulties (ERD) and experiential avoidance are associated with NSSI, how these regulatory vulnerabilities co-occur within individuals and whether experiential avoidance influences the ERD–NSSI association remain unclear. This study aimed to characterize regulatory vulnerability profiles based on ERD and experiential avoidance and examine the moderating role of experiential avoidance in adolescent NSSI. Methods The study included 456 adolescent psychiatric inpatients with NSSI ( M age = 15.30, SD = 1.66). Participants completed self-report measures assessing ERD, NSSI, and experiential avoidance, including the Difficulties in Emotion Regulation Scale (DERS), Adolescent Non-suicidal Self-Injury Assessment Questionnaire (ANSAQ), and Acceptance and Action Questionnaire-II (AAQ-II). Anxiety and depressive symptoms were assessed using clinician-administered Hamilton Anxiety Rating Scale-14 (HAMA-14) and Hamilton Depression Rating Scale-17 (HAMD-17) ratings conducted by trained psychiatric clinicians. Latent profile analysis was conducted to identify profiles based on ERD and experiential avoidance. The Bolck-Croon-Hagenaars (BCH) method was used to compare depressive symptoms, anxiety symptoms, and NSSI severity across profiles. Moderation analysis was conducted to examine whether experiential avoidance modified the strength of the association between ERD and NSSI. Results LPA identified three profiles characterized predominantly by low (23.25%), moderate (42.54%), and high (34.21%) levels of regulatory vulnerability. BCH analysis identified significant profile differences in NSSI, depression, and anxiety. NSSI and anxiety showed graded differences across profiles, while depressive symptoms were elevated in both Moderate and High profiles. Experiential avoidance showed a modest moderating effect on the association between ERD and NSSI ( B = 0.005, 95% CI = [0.001, 0.008]), indicating that the strength of this association differed across levels of experiential avoidance. Conclusion Latent profiles of ERD and experiential avoidance were identified among adolescents with NSSI, with differences in clinical burden across profiles. Experiential avoidance modestly moderated the association between ERD and NSSI, with the magnitude of this association varying across levels of experiential avoidance. These findings provide complementary person-centered and variable-centered perspectives on regulatory vulnerability among adolescents with NSSI.",
-      "summary": "Background Non-suicidal self-injury (NSSI) represents a significant clinical concern among adolescents. NSSI and anxiety showed graded differences across profiles, while depressive symptoms were elevated in both Moderate and High profiles. Experiential avoidance showed a modest moderating effect on the association between ERD and NSSI ( B = 0.005, 95% CI = [0.001, 0.008]), indicating that the strength of this association differed across levels of experiential avoidance.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212969746",
-      "title": "Advances in drug delivery systems for osteoarthritis therapy: exosomes, microparticles, nanoparticles, and hydrogels",
-      "authors": [
-        "Yuxin Chen",
-        "Fei Zhang",
-        "Ya Ding",
-        "Ming-Hui Zheng",
-        "Zhi-Ang Zhou",
-        "Lei Qiu",
-        "Yi-Xin Yu",
-        "Yingying Gu"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Discover Nano",
-      "doi": "https://doi.org/10.1186/s11671-026-04925-8",
-      "url": "https://doi.org/10.1186/s11671-026-04925-8",
-      "abstract": "Osteoarthritis is a debilitating chronic joint disorder characterized by cartilage degradation, inflammation, and pain. It significantly impacts the quality of life, particularly in elderly populations. Traditional treatment methods, such as local and systemic drug administration, are limited by poor drug retention, low therapeutic efficacy, and systemic side effects. Recent advancements in drug delivery systems have emerged as promising strategies to overcome these limitations, offering targeted and sustained therapeutic effects, including promoting chondrocyte proliferation and migration, reducing extracellular matrix degradation, and so on. This review highlights the progress in various innovative drug delivery systems, including exosomes, microparticles, nanoparticles, and hydrogels, which have shown promising results in preclinical studies. Exosomes, particularly those derived from mesenchymal stem cells, demonstrate significant potential in promoting cartilage repair, modulating inflammation, and facilitating cell communication. Microparticles composed of natural or synthetic polymers prolong intra-articular drug retention and provide controlled release. Stimuli-responsive nanoparticles, which react to pathological cues like reactive oxygen species, pH, and enzymes, allow precise drug release within the OA microenvironment. Hydrogels offer versatile platforms for sustained delivery and tissue scaffolding, with responsive systems adapting to joint conditions. Despite their promising preclinical results, challenges remain in standardization, manufacturing scalability, and long-term safety. The continued development and clinical translation of these advanced systems hold great potential to revolutionize osteoarthritis therapy by improving efficacy, reducing side effects, and promoting joint tissue regeneration.",
-      "summary": "Osteoarthritis is a debilitating chronic joint disorder characterized by cartilage degradation, inflammation, and pain. This review highlights the progress in various innovative drug delivery systems, including exosomes, microparticles, nanoparticles, and hydrogels, which have shown promising results in preclinical studies. The continued development and clinical translation of these advanced systems hold great potential to revolutionize osteoarthritis therapy by improving efficacy, reducing side effects, and promoting joint tissue regeneration.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212972768",
-      "title": "Taking a Business and Human Rights Approach to Addressing Technology-Facilitated Gender-Based Violence",
-      "authors": [
-        "Jane Bailey",
-        "Penelope Simons"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Business and Human Rights Journal",
-      "doi": "https://doi.org/10.1017/bhj.2026.10057",
-      "url": "https://doi.org/10.1017/bhj.2026.10057",
-      "abstract": "Abstract Technology-facilitated gender-based violence (TFGBV) has serious consequences for the human rights of cis-gendered and trans women and girls and other gender diverse people and sexual minorities. There is a growing recognition of the need to address tech company activity that implicates TFGBV. We argue that taking a business and human rights approach that addresses the role of tech companies in this context could contribute to the development of meaningful responses to such harm. Drawing on a critical assessment of the UNGPs and the UN B-Tech Project, we outline key elements of a ‘fortified’ BHR approach to addressing TFGBV. Finally, we evaluate a sample of EU and domestic legislative initiatives against these criteria. While the analysis shows that these initiatives fall short, they also offer starting points for law and policy reform at the international and domestic level that can better address the role tech companies play in TFGBV.",
-      "summary": "Abstract Technology-facilitated gender-based violence (TFGBV) has serious consequences for the human rights of cis-gendered and trans women and girls and other gender diverse people and sexual minorities. Finally, we evaluate a sample of EU and domestic legislative initiatives against these criteria. While the analysis shows that these initiatives fall short, they also offer starting points for law and policy reform at the international and domestic level that can better address the role tech companies play in TFGBV.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7212988267",
-      "title": "Electrospun Eudragit Nanofiber Mats as a Buccal Delivery Platform for Triamcinolone Acetonide",
-      "authors": [
-        "Nilay Doğan",
-        "Muhammet Davut Arpa",
-        "Evrim Yenilmez"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "ACS Omega",
-      "doi": "https://doi.org/10.1021/acsomega.6c02535",
-      "url": "https://doi.org/10.1021/acsomega.6c02535",
-      "abstract": "Abstract Recurrent aphthous stomatitis is the most frequently observed disorder of the oral mucosa. Since the etiopathogenesis of recurrent aphthous stomatitis is unclear, there is no specific treatment method. The preferred treatment methods aim to alleviate symptoms such as pain and discomfort and shorten the recovery period. Triamcinolone acetonide is one of the most commonly used topical glucocorticoids. Within the scope of this study, electrospun nanofiber-based formulations were developed using two Eudragit (E) polymers, S100 and RL100, as an alternative to the marketed product, which contains 0.1% triamcinolone acetonide (Kenacort-A orobase ointment). Drug loading capacities of the nanofiber films (per 4 cm2) were 1.333 ± 0.594 mg for E S and 1.969 ± 1.000 mg for E RL, while SEM analysis demonstrated that the average fiber diameters were 259 ± 83 nm and 192 ± 81 nm for E S and E RL, respectively. FTIR, NMR, and DSC analyses confirmed the successful incorporation of triamcinolone acetonide into the nanofiber matrix and indicated the absence of any chemical incompatibility between the drug and the polymers. Drug release studies and permeability studies demonstrated higher drug release and permeation levels compared to the commercial product, with an improved release profile achieved by the developed nanofiber formulations. As a result, triamcinolone acetonide-loaded nanofibers were successfully produced and characterized, and the results indicate that these nanofiber formulations represent a promising alternative to existing topical treatments for recurrent aphthous stomatitis.",
-      "summary": "Within the scope of this study, electrospun nanofiber-based formulations were developed using two Eudragit (E) polymers, S100 and RL100, as an alternative to the marketed product, which contains 0.1% triamcinolone acetonide (Kenacort-A orobase ointment). Drug release studies and permeability studies demonstrated higher drug release and permeation levels compared to the commercial product, with an improved release profile achieved by the developed nanofiber formulations. As a result, triamcinolone acetonide-loaded nanofibers were successfully produced and characterized, and the results indicate that these nanofiber formulations represent a promising alternative to existing topical treatments for recurrent aphthous stomatitis.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213017641",
-      "title": "DESIGN AND FINITE ELEMENT ANALYSIS (FEA) OF PLASTIC WASTE SHREDDING MACHINE FOR ENVIRONMENTAL SUSTAINABILITY",
-      "authors": [
-        "A Akinsade"
-      ],
-      "publication_date": "2026-09-14",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-      "doi": "https://doi.org/10.5281/zenodo.22751717",
-      "url": "https://doi.org/10.5281/zenodo.22751717",
-      "abstract": "The rapid increase in plastic waste generation has intensified environmental challenges, necessitating efficient recycling technologies capable of converting discarded plastics into reusable materials. This study presents the design and finite element analysis (FEA)-based evaluation of a plastic waste shredding machine developed for small-scale recycling applications. The machine was designed to reduce plastic waste into smaller fragments suitable for subsequent recycling processes while ensuring structural reliability and operational safety. Mild steel was selected as the primary construction material for the major components due to its favourable mechanical strength, toughness, machinability, weldability, and cost-effectiveness. The shredder components, including the hopper, shredding chamber, shafts, blades, gears, coupling, and support frame, were designed using standard mechanical design principles. Three-dimensional modelling of the machine was developed using SolidWorks, while thermal and structural performances were evaluated using ANSYS finite element analysis. The simulations investigated temperature distribution, heat flux concentration, equivalent von Mises stress, and total deformation under operating conditions. The blade thermal analysis revealed that the highest temperature occurred at the blade–shaft interface, with a maximum temperature of 55 °C, indicating the region of greatest frictional heat generation. The maximum heat flux was concentrated around the shaft and blade contact region due to mechanical interaction during shredding. Structural analysis of the support frame showed a maximum equivalent stress of 6.68 kPa, which was significantly lower than the material yield strength of 293.5 MPa, confirming the structural safety of the design. The maximum predicted deformation was 1.782 × 10⁻⁸ m, demonstrating minimal deflection under applied loading conditions. The developed plastic shredding machine, with a design capacity of 10 kg/h, provides an efficient and sustainable approach for plastic waste reduction and recycling, particularly in environments where low-cost recycling solutions are required. The integration of mechanical design analysis with FEA validation provides a reliable framework for improving the durability, performance, and safety of locally fabricated plastic recycling equipment",
-      "summary": "The rapid increase in plastic waste generation has intensified environmental challenges, necessitating efficient recycling technologies capable of converting discarded plastics into reusable materials. This study presents the design and finite element analysis (FEA)-based evaluation of a plastic waste shredding machine developed for small-scale recycling applications. Three-dimensional modelling of the machine was developed using SolidWorks, while thermal and structural performances were evaluated using ANSYS finite element analysis.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "循环利用与可持续材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
