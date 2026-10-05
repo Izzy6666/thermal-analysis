@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04",
+  "updated_at": "2026-10-05",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -201,6 +201,237 @@
         "高分子与复合材料"
       ],
       "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7204596384",
+      "title": "Scalable, Simple, and Versatile Encapsulation of 2D Materials and Devices",
+      "authors": [
+        "Gabriel Natale",
+        "Uma Chirkova",
+        "Flávio H. Feres",
+        "Ran Jing",
+        "Michael Geiwitz",
+        "Wenyao Liu",
+        "Emma Low",
+        "Josh Leeman"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Nano Letters",
+      "doi": "https://doi.org/10.1021/acs.nanolett.6c03297",
+      "url": "https://doi.org/10.1021/acs.nanolett.6c03297",
+      "abstract": "Abstract Air-sensitive 2D materials present fundamental challenges for device integration. Encapsulation is required to preserve intrinsic properties, yet conventional strategies require complicated fabrication workflows and fail with thicker flakes. We demonstrate that electron-beam (e-beam) evaporated aluminum oxide (AlOx) serves as an effective encapsulation layer and sacrificial fabrication mask, protecting sensitive flakes from air, photoresists, and chemicals. Unlike transfer-based approaches, this scalable technique requires no stacking and enables contacts without postencapsulation etching or harsh chemistry. Using rare-earth tritellurides (RTe3, R = La, Er), semimetallic WTe2, and superconducting FeTexSe1–x, we show that AlOx suppresses oxidation and preserves optical and electronic properties. We establish substrate-dependent optimization of encapsulation across a range of flake thicknesses, demonstrate that ultrathin AlOx preserves WTe2’s plasmonic response, and enhances superconducting performance in FeTexSe1–x devices when employed as a mask. Thus, we overcome the longstanding trade-off between encapsulation and straightforward device fabrication in fragile quantum materials.",
+      "summary": "Abstract Air-sensitive 2D materials present fundamental challenges for device integration. Using rare-earth tritellurides (RTe3, R = La, Er), semimetallic WTe2, and superconducting FeTexSe1–x, we show that AlOx suppresses oxidation and preserves optical and electronic properties. We establish substrate-dependent optimization of encapsulation across a range of flake thicknesses, demonstrate that ultrathin AlOx preserves WTe2’s plasmonic response, and enhances superconducting performance in FeTexSe1–x devices when employed as a mask.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218384345",
+      "title": "Acoustic Evaluation of Starch Polymer Composites Reinforced with Reed and Coconut Fibers",
+      "authors": [
+        "Miriam J. Cruz-Espioza",
+        "Uriel Victoria-Martínez",
+        "Sandra Loera Serna"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Figshare",
+      "doi": "https://doi.org/10.6084/m9.figshare.34062239.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.34062239.v1",
+      "abstract": "This research developed an environmentally friendly sound-insulating material from a starch biopolymer matrix, reinforced with common reed (Phragmites australis) and coconut (Cocos nucifera) fibers at weight fractions of 10%, 20%, and 30%. Physicochemical, thermal, and mechanical characterization through FTIR, TGA, and Shore O hardness test confirmed the formation of a thermally stable, amorphous biopolymer composite. Morphological analysis revealed average fiber diameters of 0.38 mm for reed fibers and 0.26 mm for coconut fibers, creating a structural difference that directly influences performance. The results indicated that reed fibers provide greater mechanical rigidity and compaction, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation. Acoustic evaluation using an impedance tube yielded absorption coefficients of 0.7–0.9 at high frequencies, matching the performance of commercial polyurethane foam and fiberglass. These findings demonstrate a functional synergy in which coconut fibers enhance acoustic absorption, while reed fibers ensure structural stability. The developed materials represent a renewable and biodegradable alternative for application in construction and interior design. Future research should further evaluate behavior under humidity and long-term mechanical resistance to optimize overall performance Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers.Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation.Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass.The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers. Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers. Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation. Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass. The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers.",
+      "summary": "This research developed an environmentally friendly sound-insulating material from a starch biopolymer matrix, reinforced with common reed (Phragmites australis) and coconut (Cocos nucifera) fibers at weight fractions of 10%, 20%, and 30%. The developed materials represent a renewable and biodegradable alternative for application in construction and interior design. Future research should further evaluate behavior under humidity and long-term mechanical resistance to optimize overall performance Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers.Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation.Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass.The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218402169",
+      "title": "Recyclable and Degradable Covalent Adaptable Polymer Networks ( CANs ) Based on Dynamic Thiol–Yne Reactions",
+      "authors": [
+        "Farhad Shohraty",
+        "Michael Freduah Agyemang",
+        "Michael Klein",
+        "Stefan Zechel",
+        "Michael P. Schmitt",
+        "Jürgen Popp",
+        "Martin D. Hager"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Journal of Applied Polymer Science",
+      "doi": "https://doi.org/10.1002/app.71549",
+      "url": "https://doi.org/10.1002/app.71549",
+      "abstract": "ABSTRACT Covalent adaptable networks (CANs) have been introduced as an alternative to classical thermosets. The presence of dynamic covalent bonds can be utilized to enable (re‐)processability and, consequently, the recyclability of these polymer networks. Within this context, we have utilized reversible covalent bonds based on activated alkynes and multifunctional thiols as reversible cross‐linkers. Three differently substituted alkynes were crosslinked using a trithiol and a tetrathiol, respectively, resulting in different CANs. The materials were characterized by thermogravimetric analysis, differential scanning calorimetry (DSC), Raman spectroscopy and dynamic mechanical thermal analysis (DMTA). Two different recycling strategies have been utilized for these polymer networks: (i) mechanical recycling and (ii) chemical recycling. The mechanical and thermal properties of the recycled polymers were characterized in detail. In case of mechanical recycling, all samples were successfully recycled over three times, whereas for the chemical recycling only three samples based on aromatic alkynones could successfully be recycled.",
+      "summary": "ABSTRACT Covalent adaptable networks (CANs) have been introduced as an alternative to classical thermosets. Three differently substituted alkynes were crosslinked using a trithiol and a tetrathiol, respectively, resulting in different CANs. In case of mechanical recycling, all samples were successfully recycled over three times, whereas for the chemical recycling only three samples based on aromatic alkynones could successfully be recycled.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218525454",
+      "title": "Sustainable sol–gel synthesis of NiMn₂O₄/activated carbon/PVDF nanocomposites for energy storage devices",
+      "authors": [
+        "Zainab Muslim",
+        "Asmaa S. Khalil",
+        "Mohammed Kadhim Jawad",
+        "Zina Abd Alameer Al Shadidi",
+        "A. Q. Kadhum",
+        "Smah A. Kadhum"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Experimental and Theoretical NANOTECHNOLOGY",
+      "doi": "https://doi.org/10.56053/10.4.2003",
+      "url": "https://doi.org/10.56053/10.4.2003",
+      "abstract": "Nickel–manganese oxides (NMO) prepared using the Sol-Gel process for use in energy systems as cathode in Li- ion batteries. Structural properties are studied for NMO powders using XRD.The findings suggest that a crystalline cubic structure is displayed during the production of NMO. Atomic Force Microscopy (AFM) indicate that the average diameter is 39.73 nm. Scanning Electron Microscopy (SEM) for NMO shows uniform spherical structures. The thermal analysis using thermo-gravimetric analysis (TGA), revealed that NMO is thermally stable, absorption measurement for oxide with different percentages of PVDF and activated carbon are measured using different pH, acidic solution exhibits higher absorption by nanocomposites.",
+      "summary": "Nickel–manganese oxides (NMO) prepared using the Sol-Gel process for use in energy systems as cathode in Li- ion batteries. Structural properties are studied for NMO powders using XRD.The findings suggest that a crystalline cubic structure is displayed during the production of NMO. The thermal analysis using thermo-gravimetric analysis (TGA), revealed that NMO is thermally stable, absorption measurement for oxide with different percentages of PVDF and activated carbon are measured using different pH, acidic solution exhibits higher absorption by nanocomposites.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218679690",
+      "title": "Innovative AuAg bimetallic nanoparticle synthesis using food waste materials: its biological applications and photocatalytic degradation potentials",
+      "authors": [
+        "Gitishree Das",
+        "Jayanta Kumar Patra",
+        "Han Seung Shin"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-74428-0",
+      "url": "https://doi.org/10.1038/s41598-026-74428-0",
+      "abstract": "Nanoparticles, particularly bimetallic nanoparticles, have garnered substantial attention owing to their excellent physicochemical properties. The current study aimed to synthesize Au-Ag bimetallic nanoparticles using a low-cost and environmentally benign methodology utilizing Actinidia deliciosa fruit outer peel waste extract (S1 extract) as the reaction agent and to study its potential applications such as antioxidant, α-amylase inhibition, tyrosinase inhibition, antibacterial properties, and photocatalytic degradation of industrial toxic dyes (methylene blue and methyl orange). Following the synthesis of S1-AuAgNPs, they were characterized and confirmed by their dark purple coloration and surface plasmon resonance at 540 nm with an average size of 5.85 ± 0.33 nm and zeta potential of -30.02 mV. TGA and FTIR analysis demonstrated that bioorganic compounds present in S1-extract capped the surface of S1-AuAgNPs. S1-AuAgNPs demonstrated positive antioxidant effects, tyrosinase inhibition (IC 50 167.76 µg/ml), α-amylase inhibition (IC 50 78.19 µg/ml), and antibacterial activities (10.56–16.60 mm inhibition zones). Besides, it also displayed moderate photocatalytic degradation of methylene blue (43.76%) and methyl orange (48.60%) industrial dyes, confirming its sustainable utilization. The above findings reveal a considerable approach for utilization of A. deliciosa fruit outer peel waste and various food waste materials in the biosynthesis of nanomaterials that could possibly be utilized as antioxidant, antibacterial, and tyrosinase inhibiting agents for the cosmetic, food, and pharmaceutical industries along with wastewater treatment and remediation of industrial toxic dyes after required testing and approval.",
+      "summary": "Nanoparticles, particularly bimetallic nanoparticles, have garnered substantial attention owing to their excellent physicochemical properties. The current study aimed to synthesize Au-Ag bimetallic nanoparticles using a low-cost and environmentally benign methodology utilizing Actinidia deliciosa fruit outer peel waste extract (S1 extract) as the reaction agent and to study its potential applications such as antioxidant, α-amylase inhibition, tyrosinase inhibition, antibacterial properties, and photocatalytic degradation of industrial toxic dyes (methylene blue and methyl orange). The above findings reveal a considerable approach for utilization of A.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "食品与脂质",
+        "电子与封装"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218766003",
+      "title": "Smart release biofumigant: temperature-regulated delivery of clove essential oils from diatom-based nanocarriers for store grain pest control",
+      "authors": [
+        "Sumit Dhali",
+        "Anushree Malik",
+        "Satyawati Sharma",
+        "Ramesh Raliya"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-72867-3",
+      "url": "https://doi.org/10.1038/s41598-026-72867-3",
+      "abstract": "Existing fumigants such as essential oils or synthetic chemicals are limited by high volatility, health impact, instability, and reduced efficacy in stored grain management. These limitations necessitate the development of controlled-release, temperature-responsive alternatives. This study investigates the potential of clove oil (CEO), encapsulating in amine-functionalized diatom silica subsequently capped with a starch-based thermal-responsive polymer to formulate a controlled-release biopesticide (DF-APTES-30-CEO-300-Temp-Cap) against store grain pest Oryzaephilus surinamensis . Successful functionalization, CEO loading and temperature-sensitive capping were confirmed by comprehensive analysis like carbon-hydrogen-nitrogen analysis, fourier transform infrared spectroscopy, thermogravimetric analysis, surface area analysis, and zeta potential. The loading efficiency of the CEO in the DF-APTES-30-CEO-300-Temp-Cap was found to be approximately 37%. The DF-APTES-30-CEO-300-Temp-Cap exhibited strong fumigant activity against O. surinamensis , achieving 100% mortality at 500 mg L − 1 (air) with temperature-dependent efficacy significantly enhanced at 40 °C (100% mortality at dose 31.25 mg L − 1 (air) after 6 h). The LC 50 value decreased from 124.71 mg L − 1 (air) at 20 °C to 35.62 mg L − 1 (air) at 30 °C, and further to complete mortality at 40 °C within 6 h across all concentrations. The invitro assays confirmed that acetylcholinesterase inhibition was the primary mode of action. This is the first time where diatom-based cargo was used for an environmentally responsive system with control release, offering a potential alternative to chemical based fumigants for stored grain pest management.",
+      "summary": "Existing fumigants such as essential oils or synthetic chemicals are limited by high volatility, health impact, instability, and reduced efficacy in stored grain management. This study investigates the potential of clove oil (CEO), encapsulating in amine-functionalized diatom silica subsequently capped with a starch-based thermal-responsive polymer to formulate a controlled-release biopesticide (DF-APTES-30-CEO-300-Temp-Cap) against store grain pest Oryzaephilus surinamensis . The loading efficiency of the CEO in the DF-APTES-30-CEO-300-Temp-Cap was found to be approximately 37%.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7218954961",
+      "title": "Temperature-Dependent Pyrolysis of PICA-D: Quantification of Product Yields",
+      "authors": [
+        "Celeste H. Guiles",
+        "Yanice Benitez",
+        "Gavin N. Morales",
+        "Timothy K. Minton"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "ACS Applied Engineering Materials",
+      "doi": "https://doi.org/10.1021/acsaenm.6c01029",
+      "url": "https://doi.org/10.1021/acsaenm.6c01029",
+      "abstract": "Abstract The thermal and mass transport between a pyrolyzing ablative heat shield and the boundary layer gas during atmospheric entry depends on the ablation rate, chemical composition of gaseous products, and quantity of gaseous products produced during the pyrolysis of the heat shield material. Material response models are used to predict the ablation rate and thermal transport; however, discrepancies exist between state-of-the-art models and flight data, reducing the reliability of such models. Accurate data on the temperature-dependent pyrolysis gas yields for relevant heat shield materials are therefore needed. We have thus obtained high-fidelity data on the pyrolysis products for the ablative heat shield material PICA-D (phenolic impregnated carbon ablator−domestic), a carbon-phenolic composite, as a function of sample temperature over the range, 25−1200 °C, at five linear temperature gradients with respect to time (1.08, 3.15, 5.92, 12.55, and 24.67 °C s−1), using molecular beam mass spectrometry. Absolute and normalized molar and mass yields of 15 gaseous products have been determined as a function of sample temperature, and thermogravimetric analysis (TGA) curves have been synthesized from the absolute mass yields. The yields and TGA curves exhibit temperature-gradient dependencies; however, these dependencies are not nearly as pronounced as those seen in our analogous earlier studies of cured SC-1008 pure phenolic resin. Comparison of the yields of PICA-D and cured SC-1008 resin have led to the identification of condensation reactions between the resin and oxidized species on the carbon fibers in PICA-D. These high-fidelity data have shown that the specific environment of the cured SC-1008 phenolic resin in the composite material, PICA-D, including density, thermal conductivity, and presence of carbon fibers, influences the temperature-dependent pyrolysis processes.",
+      "summary": "Abstract The thermal and mass transport between a pyrolyzing ablative heat shield and the boundary layer gas during atmospheric entry depends on the ablation rate, chemical composition of gaseous products, and quantity of gaseous products produced during the pyrolysis of the heat shield material. We have thus obtained high-fidelity data on the pyrolysis products for the ablative heat shield material PICA-D (phenolic impregnated carbon ablator−domestic), a carbon-phenolic composite, as a function of sample temperature over the range, 25−1200 °C, at five linear temperature gradients with respect to time (1.08, 3.15, 5.92, 12.55, and 24.67 °C s−1), using molecular beam mass spectrometry. These high-fidelity data have shown that the specific environment of the cured SC-1008 phenolic resin in the composite material, PICA-D, including density, thermal conductivity, and presence of carbon fibers, influences the temperature-dependent pyrolysis processes.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7219026417",
+      "title": "Tailoring Thermoplastic Whey Protein with Polyethylene Glycol and Calcium Stearate: A Systematic Design of Experiments Investigation of Structure, Thermal Behavior, and Rheology",
+      "authors": [
+        "Amanda Maria Blumrich",
+        "Pedro Arthur Lopes Saad Meirelles",
+        "Antony Barbosa",
+        "Marina Fernandes Cosate de Andrade"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "ACS Omega",
+      "doi": "https://doi.org/10.1021/acsomega.6c06950",
+      "url": "https://doi.org/10.1021/acsomega.6c06950",
+      "abstract": "Abstract The growing environmental concern related to plastic materials has driven the search for sustainable alternatives. In this context, whey protein isolate (WPI) has emerged as a promising option due to its adequate oxygen barrier properties for food packaging. However, WPI lacks mechanical resistance, requiring plasticization to increase protein chain mobility, flexibility, and processability. WPI plasticized during its denaturation is called thermoplastic whey protein isolate (WPIT). This study evaluates the WPIT modification using a design of experiments (DoE) with two factors and a center point: calcium stearate, a largely commercially used lubricant, and the plasticizer poly(ethylene glycol) (PEG). To assess the occurrence of plasticization and the proposed stabilization, the structural, rheological, and thermal characteristics of the modified WPIT were investigated. Fourier-transform infrared spectroscopy (FTIR) showed no significant increase in the α helix secondary structure, suggesting incomplete plasticization. The parallel plate rheology revealed that the complex viscosity followed power law behavior, and there was no Newtonian plateau. WPIT samples with calcium stearate and without PEG, and the center point presented crossover of storage and loss moduli in the terminal zone. The sample with maximum calcium stearate and no PEG showed evidence of cross-linking. Differential scanning calorimetry (DSC) analysis did not allow for the identification of the glass transition temperature (Tg) for WPIT samples. Thermogravimetric analysis (TGA) results indicated decreased thermal stability in the presence of PEG, likely due to its plasticizing effect. The results suggested that the presence of calcium ions may have promoted possible cross-linking between the protein chains.",
+      "summary": "Fourier-transform infrared spectroscopy (FTIR) showed no significant increase in the α helix secondary structure, suggesting incomplete plasticization. Thermogravimetric analysis (TGA) results indicated decreased thermal stability in the presence of PEG, likely due to its plasticizing effect. The results suggested that the presence of calcium ions may have promoted possible cross-linking between the protein chains.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7219038216",
+      "title": "Acoustic Evaluation of Starch Polymer Composites Reinforced with Reed and Coconut Fibers",
+      "authors": [
+        "Miriam J. Cruz-Espioza",
+        "Uriel Victoria-Martínez",
+        "Sandra Loera Serna"
+      ],
+      "publication_date": "2026-10-03",
+      "journal": "Figshare",
+      "doi": "https://doi.org/10.6084/m9.figshare.34062239",
+      "url": "https://doi.org/10.6084/m9.figshare.34062239",
+      "abstract": "This research developed an environmentally friendly sound-insulating material from a starch biopolymer matrix, reinforced with common reed (Phragmites australis) and coconut (Cocos nucifera) fibers at weight fractions of 10%, 20%, and 30%. Physicochemical, thermal, and mechanical characterization through FTIR, TGA, and Shore O hardness test confirmed the formation of a thermally stable, amorphous biopolymer composite. Morphological analysis revealed average fiber diameters of 0.38 mm for reed fibers and 0.26 mm for coconut fibers, creating a structural difference that directly influences performance. The results indicated that reed fibers provide greater mechanical rigidity and compaction, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation. Acoustic evaluation using an impedance tube yielded absorption coefficients of 0.7–0.9 at high frequencies, matching the performance of commercial polyurethane foam and fiberglass. These findings demonstrate a functional synergy in which coconut fibers enhance acoustic absorption, while reed fibers ensure structural stability. The developed materials represent a renewable and biodegradable alternative for application in construction and interior design. Future research should further evaluate behavior under humidity and long-term mechanical resistance to optimize overall performance Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers.Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation.Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass.The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers. Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers. Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation. Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass. The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers.",
+      "summary": "This research developed an environmentally friendly sound-insulating material from a starch biopolymer matrix, reinforced with common reed (Phragmites australis) and coconut (Cocos nucifera) fibers at weight fractions of 10%, 20%, and 30%. The developed materials represent a renewable and biodegradable alternative for application in construction and interior design. Future research should further evaluate behavior under humidity and long-term mechanical resistance to optimize overall performance Eco-friendly biocomposites were successfully engineered using a corn-starch matrix reinforced with reed (Phragmites australis) and coconut (Cocos nucifera) fibers.Morphological analysis revealed that reed fibers enhance mechanical hardness, while the finer coconut fibers promote a highly porous architecture ideal for sound dissipation.Acoustic evaluations yielded high-frequency absorption coefficients (α) of 0.7–0.9, matching the performance of commercial polyurethane foam and fiberglass.The integration of the biopolymeric matrix was found to create a resonant porous network that significantly boosts the acoustic attenuation of raw reed fibers.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -998,6 +1229,320 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W4416617070",
+      "title": "Constraining the swift memory burden effect with GW250114-like events",
+      "authors": [
+        "Chen Yuan",
+        "Richard Brito"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Journal of High Energy Physics",
+      "doi": "https://doi.org/10.1007/jhep10(2026)034",
+      "url": "https://doi.org/10.1007/jhep10(2026)034",
+      "abstract": "A bstract Black hole spectroscopy allows to infer the properties of the remnant of a binary black hole coalescence. Motivated by the recent proposal that a black hole’s information load can alter its classical response to small perturbations, an effect known as the swift memory burden (SMB), we develop a minimal phenomenological framework to analyze the ringdown of a binary black hole merger and confront it with the data from the GW250114 event. In particular, we model the SMB imprint through a suppression factor derived as an upper bound and adopt the least-suppressive form. We perform a Bayesian analysis combining the frequencies of the (220) and (440) quasi-normal modes and obtain a lower bound log 10 p ≳ 2, where p controls how the gaps reopen when the black hole’s master mode occupation departs from the critical value. Moreover, using a Fisher information matrix (high signal-to-noise ratio) approximation, we forecast the lower bound log 10 p ≳ 3 for a GW250114-like event observed with Cosmic Explorer or Einstein Telescope. Within this minimal, weak-effect framework, our results disfavour rapid gap reopening, shedding light on how the swift memory burden effect can be probed with current and next-generation detectors.",
+      "summary": "A bstract Black hole spectroscopy allows to infer the properties of the remnant of a binary black hole coalescence. Moreover, using a Fisher information matrix (high signal-to-noise ratio) approximation, we forecast the lower bound log 10 p ≳ 3 for a GW250114-like event observed with Cosmic Explorer or Einstein Telescope. Within this minimal, weak-effect framework, our results disfavour rapid gap reopening, shedding light on how the swift memory burden effect can be probed with current and next-generation detectors.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215055152",
+      "title": "From empirical efficacy to neurovascular and cerebrovascular systems perspective: a bibliometric and visualized analysis of traditional Chinese medicine for vascular dementia",
+      "authors": [
+        "Zixiang Jin",
+        "Qiuyue Huang",
+        "Xiaofen Jia",
+        "Miaomiao Lin",
+        "Jingwen Zhao",
+        "Jiahui Ren",
+        "Li Tang",
+        "Chenjie Huang"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Frontiers in Nutrition",
+      "doi": "https://doi.org/10.3389/fnut.2026.1880039",
+      "url": "https://doi.org/10.3389/fnut.2026.1880039",
+      "abstract": "Objective Vascular dementia (VaD) is a major form of cognitive impairment associated with cerebrovascular injury, neuroinflammation, oxidative stress, impaired neurovascular coupling, and progressive disruption of brain homeostasis. Traditional Chinese medicine (TCM)-related interventions for VaD encompass heterogeneous categories, including herbal formulas, single herbs, natural products, plant-derived bioactive compounds, acupuncture, electroacupuncture, and moxibustion. Within this broad landscape, the herbal and natural-product branch provides an important interface linking TCM research with food–medicine homology, neurological nutrition, and neurovascular protection. This bibliometric study aimed to map the research landscape, knowledge structure, hotspots, and emerging trends of TCM-related interventions for VaD, with particular attention to herbal, natural-product, and neurovascular research. Methods English-language articles and reviews related to TCM treatment of VaD published from 1997 to 2025 were retrieved from the Web of Science Core Collection. VOSviewer, CiteSpace, and GraphPad Prism were used to analyze annual publication trends, countries/regions, institutions, authors, journals, co-cited references, and keywords. To address intervention heterogeneity, the findings were interpreted across herbal/natural-product, acupuncture/electroacupuncture, moxibustion, and mixed TCM-related categories. Results A total of 357 publications were included, comprising 256 original articles and 101 reviews. China ranked first with 281 publications and occupied a central position in the collaboration network. High-frequency keywords included “vascular dementia,” “acupuncture,” “cognitive impairment,” “oxidative stress,” “apoptosis,” “hippocampus,” and “chronic cerebral hypoperfusion.” Two major research branches were identified. Herbal formulas, single herbs, natural products, and active compounds were mainly associated with oxidative stress, neuroinflammation, apoptosis, autophagy, chronic cerebral hypoperfusion, component characterization, and multi-target regulation. In contrast, acupuncture, electroacupuncture, and moxibustion were more closely related to neuromodulation, hippocampal plasticity, cerebral perfusion, and functional recovery. Emerging topics included network pharmacology, expression profiling, inflammasomes, component characterization, and mixed vascular–neurodegenerative mechanisms. Conclusion The TCM-VaD literature represents a heterogeneous research landscape involving both herbal/natural-product and non-pharmacological intervention branches. Herbal medicines, natural products, and plant-derived bioactive compounds constitute the branch most directly connected with food–medicine homology, neurological nutrition, antioxidant and anti-inflammatory regulation, and neurovascular protection. However, bibliometric attention should not be interpreted as evidence of validated efficacy, and conclusions concerning phytoactive compounds should not be generalized to acupuncture- or moxibustion-related research. Future studies should strengthen intervention stratification, component standardization, mechanistic validation, and clinical translation.",
+      "summary": "Objective Vascular dementia (VaD) is a major form of cognitive impairment associated with cerebrovascular injury, neuroinflammation, oxidative stress, impaired neurovascular coupling, and progressive disruption of brain homeostasis. Methods English-language articles and reviews related to TCM treatment of VaD published from 1997 to 2025 were retrieved from the Web of Science Core Collection. Results A total of 357 publications were included, comprising 256 original articles and 101 reviews.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "电子与封装"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215066841",
+      "title": "Thermodynamic perspective on human-building interaction entropy, comfort and energy flow",
+      "authors": [
+        "George-Andrei Beşchea",
+        "Gabriel Năstase",
+        "Beatrice-Georgiana Vuțoiu",
+        "Alexandru Mihai Bulmez"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Energy Reports",
+      "doi": "https://doi.org/10.1016/j.egyr.2026.109742",
+      "url": "https://doi.org/10.1016/j.egyr.2026.109742",
+      "abstract": "This study presents a thermodynamic interpretation of how humans and buildings interact, focusing on entropy dynamics, comfort perception, and internal energy exchanges. Human thermal adaptation is treated as an open, non-equilibrium process in which energy and matter are continuously exchanged to sustain thermal stability. Physiological and behavioral adjustments are therefore described as entropy-modulating actions that influence both comfort and system performance. By considering the combined human–environment domain, the total entropy balance may become locally positive or negative while still adhering to the second law of thermodynamics at the universal scale. Entropy generation is employed as a diagnostic variable for assessing human thermal stress, comfort response, and overall energy quality within indoor environments. The resulting framework integrates human adaptation and building physics, enabling a coherent evaluation of comfort, efficiency, and sustainability in low-exergy design.",
+      "summary": "This study presents a thermodynamic interpretation of how humans and buildings interact, focusing on entropy dynamics, comfort perception, and internal energy exchanges. Physiological and behavioral adjustments are therefore described as entropy-modulating actions that influence both comfort and system performance. The resulting framework integrates human adaptation and building physics, enabling a coherent evaluation of comfort, efficiency, and sustainability in low-exergy design.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215093006",
+      "title": "Towards sustainable public transit: development of representative driving cycles for electric and CNG buses using naturalistic micro-trip data from Patna, India",
+      "authors": [
+        "Piyush Kant Pandey",
+        "Hardik Arora",
+        "Ankit Kumar Kushwaha",
+        "B. Anil Kumar"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Smart Construction and Sustainable Cities",
+      "doi": "https://doi.org/10.1007/s44268-026-00102-z",
+      "url": "https://doi.org/10.1007/s44268-026-00102-z",
+      "abstract": "Abstract With the increasing emphasis on sustainable urban mobility, electric buses are rapidly being integrated into public transportation networks in Indian cities. A critical component in evaluating their energy consumption and operational efficiency is the development of representative driving cycles that reflect local driving conditions. This study presents a data-driven methodology to construct real-world driving cycles for electric and CNG buses operating on mixed urban and rural roads in Patna, India. High-frequency trajectory data, collected over a 1000 km stretch using VBOX GPS loggers, were segmented into micro-trips. The study proposed two methods, Modified Random Selection and k-means clustering, to identify representative segments for cycle construction. The resulting Patna Electric Bus Driving Cycle (PEBDC) and Patna CNG Bus Driving Cycle (PCBDC) are benchmarked against both Indian and international standards. It is observed that the Patna cycles exhibited lower average speeds and reduced time spent in acceleration and deceleration phases, when compared to driving cycles of other Indian cities.",
+      "summary": "Abstract With the increasing emphasis on sustainable urban mobility, electric buses are rapidly being integrated into public transportation networks in Indian cities. The study proposed two methods, Modified Random Selection and k-means clustering, to identify representative segments for cycle construction. The resulting Patna Electric Bus Driving Cycle (PEBDC) and Patna CNG Bus Driving Cycle (PCBDC) are benchmarked against both Indian and international standards.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215100993",
+      "title": "Biomolecules under Pressure: Protein Phase Transitions from Folding to Misfolding, Aggregation, and Condensation",
+      "authors": [
+        "Jerson Lima Silva",
+        "Guilherme Caldas de Andrade",
+        "Mayra A. Marques",
+        "Guilherme A. P. de Oliveira"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "ACS Applied Polymer Materials",
+      "doi": "https://doi.org/10.1021/acsapm.6c01589",
+      "url": "https://doi.org/10.1021/acsapm.6c01589",
+      "abstract": "Abstract High hydrostatic pressure provides a unique and sensitive perturbation to protein structure, enabling direct measurement of volume changes associated with folding, misfolding, and assembly. Because pressure perturbs noncovalent forces while preserving covalent integrity, it reveals conformational intermediates that often remain hidden from thermal or chemical denaturation. Over the past decade, advances in high-pressure NMR, fluorescence spectroscopy, time-resolved crystallography, and single-molecule spectroscopy have transformed pressure into a high-resolution probe of folding landscapes. At the same time, pressure has become an incisive tool for studying the continuum from protein folding to misfolding, including amyloidogenesis, prion conversion, mutant p53 aggregation, and the physical chemistry of biomolecular condensates. This review summarizes conceptual developments in the last 20 years, highlighting how pressure reshapes our understanding of protein energy landscapes, cavity hydration, and the coupling between folding, phase separation, and disease.",
+      "summary": "Abstract High hydrostatic pressure provides a unique and sensitive perturbation to protein structure, enabling direct measurement of volume changes associated with folding, misfolding, and assembly. Because pressure perturbs noncovalent forces while preserving covalent integrity, it reveals conformational intermediates that often remain hidden from thermal or chemical denaturation. This review summarizes conceptual developments in the last 20 years, highlighting how pressure reshapes our understanding of protein energy landscapes, cavity hydration, and the coupling between folding, phase separation, and disease.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215913014",
+      "title": "The water–energy nexus in Saudi Arabia’s agriculture sector: Water demand forecasts and policy implications",
+      "authors": [
+        "Muhammad Javid",
+        "Amro M. Elshurafa"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Energy Reports",
+      "doi": "https://doi.org/10.1016/j.egyr.2026.109752",
+      "url": "https://doi.org/10.1016/j.egyr.2026.109752",
+      "abstract": "Agriculture in semi-arid Saudi Arabia relies heavily on non-renewable groundwater resources to support food security. This study estimates agricultural water demand using the Autoregressive Distributed Lag (ARDL) model with annual data for 1992–2024 and projects alternative demand scenarios through 2050. Fully Modified Least Squares, Dynamic Ordinary Least Squares, and Autometrics general-to-specific modeling approach are employed as robustness checks. Agricultural income, groundwater pumping costs (proxied by agricultural electricity tariffs), and rainfall are identified as the primary determinants of agricultural water demand in Saudi Arabia. The estimation results indicate that, in the absence of additional policy interventions, agricultural water demand is projected to increase by 54%, reaching 17.8 billion cubic meters (bcm) by 2050 under a median precipitation scenario. This growth reflects both baseline trends and additional water requirements associated with the Saudi Green Initiative (SGI). Under the median precipitation scenario, the associated energy demand for groundwater extraction would increase by 37%, reaching 19.5 TWh by 2050. The results indicate that the long-run elasticity of water demand with respect to groundwater pumping costs is −0.22, whereas the estimated impact of policy measures, such as banning water-intensive crops, is larger. The findings suggest that bans on water-intensive crops have produced substantial and persistent reductions in agricultural water demand, highlighting the effectiveness of direct regulatory measures when duly enforced. The results further suggest that higher agricultural electricity tariffs could complement existing regulatory measures by encouraging farmers to adopt more water-efficient production practices, thereby slowing groundwater depletion without significantly affecting agricultural output.",
+      "summary": "The estimation results indicate that, in the absence of additional policy interventions, agricultural water demand is projected to increase by 54%, reaching 17.8 billion cubic meters (bcm) by 2050 under a median precipitation scenario. The results indicate that the long-run elasticity of water demand with respect to groundwater pumping costs is −0.22, whereas the estimated impact of policy measures, such as banning water-intensive crops, is larger. The results further suggest that higher agricultural electricity tariffs could complement existing regulatory measures by encouraging farmers to adopt more water-efficient production practices, thereby slowing groundwater depletion without significantly affecting agricultural output.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7215933075",
+      "title": "Collagen targeted self-anchoring antimicrobial molecular agents",
+      "authors": [
+        "Nur Ceren Selcuk",
+        "Erhan Demirel",
+        "Stephen C. Waller",
+        "Malcolm L. Snead",
+        "Paulette Spencer",
+        "Candan Tamerler"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Frontiers in Bioengineering and Biotechnology",
+      "doi": "https://doi.org/10.3389/fbioe.2026.1914224",
+      "url": "https://doi.org/10.3389/fbioe.2026.1914224",
+      "abstract": "The intrinsic characteristics of collagen, when combined with its natural abundance in the tissues and its easy exposure due to any fissure of epithelium during a wound or an injury, makes it a common site for bacterial colonization. Within dense collagen fibrils, such as those in dentin, bound pathogens are partially shielded from antibiotic penetration. With the increasing prevalence of antibiotic resistance, microbial infections remain a persistent global health concern. In this study, we engineered a collagen targeted self-anchoring antimicrobial peptide as a novel therapeutic agent and tested its multifunctional activities on a collagen platform. Our peptide design incorporated an antimicrobial peptide (AMP) with another peptide designed for collagen-binding properties through a spacer domain. The novel collagen targeted AMP (COLTAMP) peptide was computationally evaluated for its potential to simultaneously exhibit both desired functions, collagen-binding and antibacterial activity. The predicted secondary structure of COLTAMP was confirmed using Fourier-transform infrared and Raman spectroscopies as complementary vibrational techniques. The interactions of the targeted AMP with collagen fibrils were characterized using atomic force microscopy, providing insights into the effects of the peptide on the organization of fibrils. The antimicrobial activity of the targeted AMP was tested using a zone of inhibition assay against a model pathogen, Streptococcus mutans, which thrives in the oral cavity and colonizes distant tissues once it enters the bloodstream. Confirming the antimicrobial activity of COLTAMP, we next explored its mechanism of action using a scanning electron microscopy (SEM). SEM imaging confirmed bacterial cell wall disruption following the delivery of COLTAMP, leading to pronounced effects on bacterial membrane integrity. The proposed self-anchoring targeted multifunctional peptide offers spatially distributed antimicrobial peptides across collagen fibrils. Multifunctional targeted peptide agents that selectively anchor bioactive domains directly to damaged collagen offer potential treatment strategies for infections involving diverse injury sites.",
+      "summary": "The intrinsic characteristics of collagen, when combined with its natural abundance in the tissues and its easy exposure due to any fissure of epithelium during a wound or an injury, makes it a common site for bacterial colonization. The antimicrobial activity of the targeted AMP was tested using a zone of inhibition assay against a model pathogen, Streptococcus mutans, which thrives in the oral cavity and colonizes distant tissues once it enters the bloodstream. Confirming the antimicrobial activity of COLTAMP, we next explored its mechanism of action using a scanning electron microscopy (SEM).",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7216006636",
+      "title": "Water‐Mediated Reversible Crystalline Phase Transformation Enables Color Switching and Circularly Polarized Luminescence Handedness Inversion",
+      "authors": [
+        "Qiong Wang",
+        "Junfang Yang",
+        "Haidi Liu",
+        "Xinhuan Xu",
+        "Qian Peng",
+        "Jiannian Yao",
+        "Yongli Yan"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Angewandte Chemie International Edition",
+      "doi": "https://doi.org/10.1002/anie.8313043",
+      "url": "https://doi.org/10.1002/anie.8313043",
+      "abstract": "Stimuli-responsive circularly polarized luminescence (CPL) modulation is highly sought for adaptive chiroptical systems, yet achieving reversible CPL handedness inversion in crystalline solids remains challenging. Here, we report organic ionic crystals composed of luminescent cations and chiral anions that undergo crystal-to-crystal transformations through hydration/dehydration cycling. These transformations induce in situ switching between yellow and red emission, accompanied by complete inversion of CPL handedness. Structural analyses reveal that reversible changes in lattice hydration reorganize the supramolecular architecture from a double-helical hydrogen-bonded framework to a single-helical architecture with opposite helicity, while simultaneously reshaping chromophore packing. Theoretical investigations further show that this structural reconfiguration alters intermolecular electronic delocalization and reorients the electric and magnetic transition dipole moments, with the angle between them crossing the critical 90° threshold, thereby accounting for the inversion of both circular dichroism and CPL responses. The reversible optical response is robust over multiple switching cycles, and can be spatially patterned to generate multidomain CPL heterostructures, highlighting its potential for multi-parameter photonic encoding. This work offers fundamental insight into hydration-regulated chiral transfer in molecular crystals, and establishes a design platform for adaptive chiroptical materials.",
+      "summary": "Stimuli-responsive circularly polarized luminescence (CPL) modulation is highly sought for adaptive chiroptical systems, yet achieving reversible CPL handedness inversion in crystalline solids remains challenging. Structural analyses reveal that reversible changes in lattice hydration reorganize the supramolecular architecture from a double-helical hydrogen-bonded framework to a single-helical architecture with opposite helicity, while simultaneously reshaping chromophore packing. Theoretical investigations further show that this structural reconfiguration alters intermolecular electronic delocalization and reorients the electric and magnetic transition dipole moments, with the angle between them crossing the critical 90° threshold, thereby accounting for the inversion of both circular dichroism and CPL responses.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7216046715",
+      "title": "W–H Bond‐Mediated “Anti‐Overoxidation Valve”: 100% Formaldehyde Selectivity Among Detected Products in Photocatalytic Methane‐to‐Formaldehyde Conversion",
+      "authors": [
+        "Rui Li",
+        "Peng Jingjing",
+        "Qing Xi",
+        "Lulu Zhang",
+        "Jilong Qin",
+        "Jinghao Fan",
+        "Houfen Li",
+        "Yawen Wang"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Angewandte Chemie International Edition",
+      "doi": "https://doi.org/10.1002/anie.2226950",
+      "url": "https://doi.org/10.1002/anie.2226950",
+      "abstract": "ABSTRACT Direct photocatalytic conversion of methane to formaldehyde is highly efficient, avoiding energy‐intensive methanol oxidation. However, its selectivity and activity are severely limited by uncontrollable over‐oxidation: Formaldehyde has lower C‐H dissociation energy than methane, prone to deep overoxidation to CO 2 . Herein, we report H/WO 2.72 hydrogenated nonstoichiometric tungsten oxide photocatalyst. At ambient temperature, it attains 100% HCHO selectivity over all detectable carbonaceous products at 30.94 µmol·h −1 , with 11‐fold higher activity than commercial WO 3 and outperforming most conventional photocatalysts. Operando spectroscopic studies and density functional theory (DFT) calculations reveal that surface W‐H bonds act as a kinetically gated “Anti‐Overoxidation valve,” W–H bonds are preferentially cleaved by reactive oxygen species (·OOH), as they are thermodynamically weaker than the C–H bonds in HCHO and its over‐oxidation intermediate (*HCOOH). Then the generated hydrogen radicals (H*) drive a reverse reduction pathway to convert the *HCOOH back to *HCHO, interrupting deep oxidation. Concurrently, hydrogenation optimizes the electronic structure of WO 2.72 , lowering the HCHO desorption barrier to facilitate timely product release. This work provides a dynamic strategy for complete selectivity in catalytic CH 4 conversion, emphasizing the value of precise kinetic pathway modulation for methane valorization.",
+      "summary": "ABSTRACT Direct photocatalytic conversion of methane to formaldehyde is highly efficient, avoiding energy‐intensive methanol oxidation. Operando spectroscopic studies and density functional theory (DFT) calculations reveal that surface W‐H bonds act as a kinetically gated “Anti‐Overoxidation valve,” W–H bonds are preferentially cleaved by reactive oxygen species (·OOH), as they are thermodynamically weaker than the C–H bonds in HCHO and its over‐oxidation intermediate (*HCOOH). This work provides a dynamic strategy for complete selectivity in catalytic CH 4 conversion, emphasizing the value of precise kinetic pathway modulation for methane valorization.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7216052329",
+      "title": "Peel-inclusive flours from out-of-specification immature Cavendish and Saba bananas: process optimization for improved flour lightness and product characterization",
+      "authors": [
+        "Aiza B. Umali",
+        "Frances Hannah A. Atienza",
+        "Faith Ester Joy M. Manalo",
+        "Kiana Arabella D. L. Santos",
+        "Eliezer P. Valencia",
+        "Jonina Marie J. Tengco",
+        "Joshua B Benedicto",
+        "Prince Joseph V. Gaban"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Frontiers in Food Science and Technology",
+      "doi": "https://doi.org/10.3389/frfst.2026.1941070",
+      "url": "https://doi.org/10.3389/frfst.2026.1941070",
+      "abstract": "Introduction Out-of-specification (OOS) immature Cavendish and Saba bananas represent a major source of postharvest losses in the Philippine banana industry because of their poor ripening quality after harvest. While converting these rejected fruits into flour offers a sustainable valorization strategy, peel inclusion remains challenging due to its potential effects on flour color, a key quality attribute that may influence consumer acceptance. This study aimed to optimize processing conditions using Response Surface Methodology (RSM) to produce lighter-colored peel-inclusive flours from OOS immature Cavendish and Saba bananas and to determine how the optimized process affected the properties of the final product. Methods The optimized flours were evaluated for their physicochemical, proximate, and functional properties, and compared with untreated and commercial flours. Results and Discussion Results showed that the optimized process produced flours with higher color quality, as reflected by high lightness values (L* = 87.32–89.51), while maintaining the overall characteristics of the flours with only minimal changes in most of the evaluated properties. The optimized process influenced the techno-functional, pasting, and thermal properties of the flours, indicating changes in starch functionality. Compared with commercial banana flours, optimized OOS flours exhibited higher resistant starch and fiber contents, along with distinct techno-functional properties. Overall, this study demonstrates the potential of whole OOS immature Cavendish and Saba bananas as value-added flours with improved quality attributes, providing an ingredient option for the development of various flour-based products while contributing to waste reduction in the banana industry.",
+      "summary": "This study aimed to optimize processing conditions using Response Surface Methodology (RSM) to produce lighter-colored peel-inclusive flours from OOS immature Cavendish and Saba bananas and to determine how the optimized process affected the properties of the final product. Results and Discussion Results showed that the optimized process produced flours with higher color quality, as reflected by high lightness values (L* = 87.32–89.51), while maintaining the overall characteristics of the flours with only minimal changes in most of the evaluated properties. Overall, this study demonstrates the potential of whole OOS immature Cavendish and Saba bananas as value-added flours with improved quality attributes, providing an ingredient option for the development of various flour-based products while contributing to waste reduction in the banana industry.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7216106274",
+      "title": "Flexible bimetallic MOF-based evaporator with synergistic water activation for highly efficient solar interfacial evaporation",
+      "authors": [
+        "Zhuohang Jing",
+        "Weike Wang",
+        "Mengyu Wang",
+        "Dong Zhou",
+        "Hang Zhu",
+        "Xuli Lin",
+        "Jingjing Jin",
+        "Jing Zhang"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Chemical Engineering Journal",
+      "doi": "https://doi.org/10.1016/j.cej.2026.182640",
+      "url": "https://doi.org/10.1016/j.cej.2026.182640",
+      "abstract": "Solar interfacial evaporation (SIE) is regarded as a sustainable strategy for addressing global freshwater scarcity. However, further breakthroughs in evaporation efficiency are fundamentally restricted by the thermodynamic bottleneck of the high latent heat of water vaporization. Although metal-organic frameworks (MOFs) have shown promise in modulating the water state, the fixed electronic environment of conventional monometallic MOFs struggles to achieve a delicate balance between water adsorption and desorption, thereby limiting the maximization of continuous vapor generation. Herein, we construct a highly efficient, flexible, and self-cleaning FCMC evaporator by growing Fe/Cu bimetallic MOFs on a carbon cloth (CC) substrate. Benefiting from the synergistic charge rearrangement between the bimetallic Fe/Cu nodes, the composite optimizes the binding energy with water molecules and effectively disrupts the hydrogen-bond network. This significantly increases the proportion of intermediate water, reducing the evaporation enthalpy (DSC-derived) of confined water to 1250.8 J g −1 . Concurrently, the unique fully hydrophilic channels of the FCMC exhibit an ultrafast wetting behavior within milliseconds (20 ms). This induces a robust kinetic pumping effect that ensures a sufficient water supply during high-flux evaporation. Driven by this “dual-engine” mechanism—thermodynamic water activation and kinetic transport acceleration—the FCMC achieves an outstanding evaporation rate of 2.31 kg m −2 h −1 under 1-sun illumination. Furthermore, the device demonstrates remarkable salt-reflux capabilities and efficient rejection of organic dyes. This work integrating bimetallic electronic regulation with a fully hydrophilic interfacial design, provides a new pathway for developing next-generation, high-performance, and salt-resistant devices for solar desalination and wastewater purification.",
+      "summary": "Solar interfacial evaporation (SIE) is regarded as a sustainable strategy for addressing global freshwater scarcity. Furthermore, the device demonstrates remarkable salt-reflux capabilities and efficient rejection of organic dyes. This work integrating bimetallic electronic regulation with a fully hydrophilic interfacial design, provides a new pathway for developing next-generation, high-performance, and salt-resistant devices for solar desalination and wastewater purification.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7216154891",
+      "title": "Feasibility and safety of a 6-month outpatient rehabilitation program combining therapeutic electrical stimulation using belt electrodes and nutritional management in patients with rheumatoid arthritis: a pilot study",
+      "authors": [
+        "Norikazu Hishikawa",
+        "Shogo Toyama",
+        "Koshiro Sawada",
+        "Suzuyo Ohashi",
+        "Yasuo Mikami"
+      ],
+      "publication_date": "2026-10-02",
+      "journal": "Frontiers in Rehabilitation Sciences",
+      "doi": "https://doi.org/10.3389/fresc.2026.1920901",
+      "url": "https://doi.org/10.3389/fresc.2026.1920901",
+      "abstract": "Background Although resistance training with nutritional intervention is recommended for sarcopenia, effective programs are often difficult to implement in patients with rheumatoid arthritis (RA). This pilot study aimed to assess the feasibility and safety of a 6-month outpatient rehabilitation program combining therapeutic electrical stimulation (TES) using belt electrodes with nutritional management in patients with RA. Methods This pilot study was conducted as a prospective observational study with a single-arm before–after framework and enrolled outpatients with RA in remission or with low disease activity. Participants received an outpatient rehabilitation program as part of routine clinical practice once or twice weekly over 6 months, including TES applied to the lower limbs using belt electrodes (20 min per session; 20 Hz; maximum tolerable intensity) and the daily intake of an L-leucine-enriched protein-containing nutritional supplement. Feasibility and safety were evaluated based on study completion, TES session frequency, verbally confirmed adherence to nutritional supplementation, adverse events documented during the program, and maintenance of disease activity. Lower-limb lean mass, knee extensor muscle strength, and gait speed were assessed as exploratory clinical outcomes at baseline and after 6 months. Results Of the 14 recruited outpatients with RA, 10 completed both the 6-month program and the final outcome assessment, corresponding to a study completion rate of 71.4%. Participants received a median of 34.5 TES sessions over 6 months. As exploratory clinical outcomes, the median paired changes in lower-limb lean mass, knee extensor muscle strength, and gait speed were 0.08 kg (95% confidence interval [CI], 0.00 to 0.25; P = 0.043), 1.58 kgf (95% CI, −0.35 to 7.25; P = 0.084), and 0.18 m/s (95% CI, −0.04 to 0.24; P = 0.084), respectively. Disease activity remained within the low disease activity to remission range and did not significantly change during the 6-month observation period ( P = 0.214). No joint-related or cardiovascular adverse events were documented. Conclusions This pilot study provides preliminary information on the feasibility and safety of a 6-month outpatient rehabilitation program combining TES using belt electrodes and nutritional management in patients with RA. These findings may inform the design of future studies.",
+      "summary": "Background Although resistance training with nutritional intervention is recommended for sarcopenia, effective programs are often difficult to implement in patients with rheumatoid arthritis (RA). This pilot study aimed to assess the feasibility and safety of a 6-month outpatient rehabilitation program combining therapeutic electrical stimulation (TES) using belt electrodes with nutritional management in patients with RA. Conclusions This pilot study provides preliminary information on the feasibility and safety of a 6-month outpatient rehabilitation program combining TES using belt electrodes and nutritional management in patients with RA.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析",
+        "新能源与储能"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7156,540 +7701,6 @@
         "食品与脂质"
       ],
       "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214277138",
-      "title": "Effect of Residual Astigmatism on Visual Acuity Following Bifocal, Trifocal, and Extended Depth-of-Focus Intraocular Lens Implantation: A Retrospective Cohort Study",
-      "authors": [
-        "Qi Chen",
-        "Tingting Peng",
-        "Huafang Guo",
-        "Yong Wang"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Ophthalmology and Therapy",
-      "doi": "https://doi.org/10.1007/s40123-026-01502-1",
-      "url": "https://doi.org/10.1007/s40123-026-01502-1",
-      "abstract": "INTRODUCTION: This study aimed to evaluate the effects of residual astigmatism magnitude and axis on visual outcomes after simultaneous vision intraocular lens (SVIOL) implantation. METHODS: This retrospective cohort study reviewed medical records of cataract patients who underwent implantation of bifocal, trifocal, or extended depth-of-focus (EDOF) IOLs. Patients were stratified by residual astigmatism magnitude (mild [0-0.50 D], moderate [0.75-1.00 D], high [1.25-1.50 D]) and axis (with-the-rule [WTR], against-the-rule [ATR], oblique). Uncorrected distance, intermediate, and near visual acuities (UDVA, UIVA, UNVA) and corrected distance visual acuity (CDVA) recorded at the 1-month postoperative visit were extracted for analysis. RESULTS: A total of 879 eyes from 879 patients were analyzed (bifocal: 497 [56.5%]; trifocal: 166 [18.9%]; EDOF: 216 [24.6%]). In the bifocal group, UDVA, UIVA, and UNVA worsened with increasing astigmatism (all P < 0.05), whereas CDVA declined only in the high-astigmatism subgroup (P < 0.05). In the trifocal group, mild astigmatism yielded better UDVA, UIVA, and UNVA than moderate or high astigmatism (all P < 0.05) and better CDVA than the high-astigmatism subgroup (P < 0.05). In the EDOF group, mild astigmatism outperformed moderate and high astigmatism in UDVA and UIVA (both P < 0.05) and high astigmatism in UNVA and CDVA (both P < 0.05). Trifocal IOLs with mild or moderate astigmatism achieved better intermediate and near vision than other IOL types, whereas EDOF IOLs outperformed bifocal IOLs in the high-astigmatism subgroup (all P < 0.05). Astigmatic axis did not independently predict visual acuity in stratified multiple linear regression (all P > 0.05). CONCLUSIONS: Mild-to-moderate astigmatism primarily impairs intermediate and near vision, with trifocal IOLs exhibiting greater tolerance, whereas high astigmatism degrades vision at all distances, a setting in which EDOF IOLs perform better. Astigmatic axis appears to exert little influence.",
-      "summary": "INTRODUCTION: This study aimed to evaluate the effects of residual astigmatism magnitude and axis on visual outcomes after simultaneous vision intraocular lens (SVIOL) implantation. METHODS: This retrospective cohort study reviewed medical records of cataract patients who underwent implantation of bifocal, trifocal, or extended depth-of-focus (EDOF) IOLs. RESULTS: A total of 879 eyes from 879 patients were analyzed (bifocal: 497 [56.5%]; trifocal: 166 [18.9%]; EDOF: 216 [24.6%]).",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214278284",
-      "title": "Combined crystal plasticity–phase field fracture simulation to understanding particle cracking in recycled 6xxx aluminium alloy",
-      "authors": [
-        "Zhenjie Cao",
-        "P. Shanthraj",
-        "Joseph D. Robson"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Next Materials",
-      "doi": "https://doi.org/10.1016/j.nxmate.2026.103616",
-      "url": "https://doi.org/10.1016/j.nxmate.2026.103616",
-      "abstract": "Increasing the use of recycled aluminium alloys in wrought applications requires increasing tolerance to impurities such as iron. These impurities form brittle constituent particles that can crack or de-bond, leading to a reduction in formability. The fraction, size, shape, and distribution of particles all have an influence on mechanical properties and formability. Understanding the significance of each variable is difficult to study experimentally as they cannot be independently controlled. In this work, a modelling approach was instead used, where a coupled crystal plasticity and phase field fracture model was applied to predict the critical applied strain to initiate particle fracture. Both polycrystalline volume elements and simplified microstructures in which each variable can be independently controlled were investigated. The model has been used to explore the effect of particle shape, location, distribution, and clustering. Particles with high aspect ratio and those in closely spaced clusters have been predicted to be particularly prone to cracking at low levels of applied strain. The results have implications in the design of recycling tolerant aluminium alloys.",
-      "summary": "Increasing the use of recycled aluminium alloys in wrought applications requires increasing tolerance to impurities such as iron. Both polycrystalline volume elements and simplified microstructures in which each variable can be independently controlled were investigated. The results have implications in the design of recycling tolerant aluminium alloys.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "循环利用与可持续材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214280471",
-      "title": "Trait syndromes governing rice genotypes adaptation and productivity under direct-seeded systems",
-      "authors": [
-        "Shivani Sharma",
-        "Buta Singh Dhillon",
-        "Virender Kumar"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-60108-6",
-      "url": "https://doi.org/10.1038/s41598-026-60108-6",
-      "abstract": "In the context of declining water availability and rising labour costs, direct-seeded rice (DSR) is increasingly promoted as an alternative to puddled transplanted rice (PTR). We hypothesised that rice genotypes differ in their adaptation to DSR and PTR through coordinated trait combinations involving root growth, biomass accumulation and assimilate partitioning. Eight rice genotypes were evaluated under DSR and PTR during the Kharif seasons of 2023 and 2024 at Punjab Agricultural University, Ludhiana. The DSR accelerated crop phenology by 3–6 days, increased root mass density by 22–26% and enhanced early tillering, reflecting rapid establishment under aerobic soil conditions. In contrast, PTR produced taller plants, greater stem strength and marginally higher grain yield through improved reproductive allocation. Regression analysis showed that grain yield was jointly governed by dry matter accumulation and harvest index, explaining 75.1% of yield variation. Principal component analysis revealed contrasting trait associations between establishment methods, with DSR aligning more closely with physiological growth traits and PTR with structural and partitioning-related traits. Genotypes PR 132, PR 131 and PR 126 consistently exhibited superior productivity and adaptability across establishment methods. Overall, the study demonstrates that successful adaptation to DSR depends on integrated trait combinations rather than isolated traits, providing a basis for developing resource-efficient rice genotypes under water-limited production systems.",
-      "summary": "In the context of declining water availability and rising labour costs, direct-seeded rice (DSR) is increasingly promoted as an alternative to puddled transplanted rice (PTR). Principal component analysis revealed contrasting trait associations between establishment methods, with DSR aligning more closely with physiological growth traits and PTR with structural and partitioning-related traits. Overall, the study demonstrates that successful adaptation to DSR depends on integrated trait combinations rather than isolated traits, providing a basis for developing resource-efficient rice genotypes under water-limited production systems.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214280682",
-      "title": "Quantifying spatiotemporal land subsidence rates and deformation hotspots using integrated GNSS and InSAR in Nakuru County, Kenya",
-      "authors": [
-        "Turyamureeba Esau",
-        "Arthur Sichangi",
-        "Moses Karoki Gachari"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Discover Geoscience",
-      "doi": "https://doi.org/10.1007/s44288-026-00731-y",
-      "url": "https://doi.org/10.1007/s44288-026-00731-y",
-      "abstract": "Land subsidence is an emerging environmental and geohazard challenge in groundwater-dependent and tectonically active regions. This study quantified the spatiotemporal distribution of land subsidence in Nakuru County, Kenya, between 2014 and 2024 using an integrated Persistent Scatterer–Small Baseline Subset (PS–SBAS) Interferometric Synthetic Aperture Radar (InSAR) approach supported by Global Navigation Satellite System (GNSS) validation and spatial statistical analysis. A total of 124 Sentinel-1 A ascending-orbit scenes were processed using SNAP 10.0, incorporating SNAPHU phase unwrapping, ERA5 atmospheric correction, and line-of-sight to vertical displacement conversion. The results revealed widespread but spatially heterogeneous subsidence, with deformation rates ranging from approximately 20.507 mm/yr to − 28.519 mm/yr. The highest subsidence rates occurred within the central and southeastern parts of Nakuru County, where hotspot analyses identified statistically significant deformation clusters. Temporal analysis indicated a gradual increase in both deformation magnitude and spatial extent over the monitoring period. Validation using four GNSS stations produced a mean bias of -0.61 mm/yr and a root mean square error (RMSE) of 0.99 mm/yr, confirming the reliability of the InSAR-derived estimates. Groundwater storage analysis revealed a strong spatial association between groundwater-rich environments and subsidence-prone areas, suggesting that hydrogeological conditions influence deformation susceptibility. The study demonstrates the effectiveness of integrating InSAR, GNSS validation, hotspot analysis, and groundwater assessment for regional subsidence monitoring and provides valuable information for groundwater management, infrastructure planning, and environmental sustainability within the Kenya Rift.",
-      "summary": "Land subsidence is an emerging environmental and geohazard challenge in groundwater-dependent and tectonically active regions. The results revealed widespread but spatially heterogeneous subsidence, with deformation rates ranging from approximately 20.507 mm/yr to − 28.519 mm/yr. Groundwater storage analysis revealed a strong spatial association between groundwater-rich environments and subsidence-prone areas, suggesting that hydrogeological conditions influence deformation susceptibility.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214280721",
-      "title": "Impact of Regulation on Profit Performance of Commercial Banks in Nigeria",
-      "authors": [
-        "Esmond Uchenna Agu"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "IIARD INTERNATIONAL JOURNAL OF BANKING AND FINANCE RESEARCH",
-      "doi": "https://doi.org/10.56201/ijbfr.vol.12.no1.2026.pg73.95",
-      "url": "https://doi.org/10.56201/ijbfr.vol.12.no1.2026.pg73.95",
-      "abstract": "This study examined the impact of regulation on profit performance of commercial banks in Nigerian from 1990-2018 Bank capitalization, and monetary policy rates were adopted as independent variables and banks regulation proxies. The dependent variable for commercial bank performance indicator is return on assets. The study adopted ex-post facto research design and used ARDL technique in the analysis, aided by E-views statistical package. Results revealed that (i) Bank capitalization had a negative and significant impact on return on assets of the Nigerian commercial banks and (ii) Banks monetary policy rate had a, positive and significant impact on ROA, of the Nigerian commercial banks. The study recommend as follows:(i) Monetary authorities should regularly overhaul banks regulatory framework at most biannual to reflect plausible assets/liability management guideline and guarantee workable net monetary assets, (ii) Regulatory authorities should always maintain efficient and consistent monetary policy framework especially capitalization, weighted average deposit and lending rate and reserves to guarantee effective financial intermediation of the commercial banks,",
-      "summary": "This study examined the impact of regulation on profit performance of commercial banks in Nigerian from 1990-2018 Bank capitalization, and monetary policy rates were adopted as independent variables and banks regulation proxies. The dependent variable for commercial bank performance indicator is return on assets. Results revealed that (i) Bank capitalization had a negative and significant impact on return on assets of the Nigerian commercial banks and (ii) Banks monetary policy rate had a, positive and significant impact on ROA, of the Nigerian commercial banks.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214282240",
-      "title": "Flashy hydrology, flashier contaminants: redox-driven geogenic contaminant mobilization under increasing hydrologic variability",
-      "authors": [
-        "Kira Zalis Waldman",
-        "Helen E. Dahlke"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Critical Insights in Environmental Science and Technology",
-      "doi": "https://doi.org/10.1080/29931509.2026.2728557",
-      "url": "https://doi.org/10.1080/29931509.2026.2728557",
-      "abstract": "As precipitation regimes intensify and engineered recharge expands, the vadose zone faces increasingly dynamic wetting–drying cycles that generate redox oscillations and alter geogenic contaminant mobility. Oxygen depletion and microbial respiration can dissolve Fe and Mn (oxyhydr)oxides, key sorption hosts for arsenic (As), chromium (Cr), uranium (U), and related trace elements, producing transient, element-specific, and history-dependent responses. Synthesizing field observations, laboratory experiments, and large-scale monitoring datasets, we identify three management-relevant insights. First, contaminant mobilization under flashy hydrology can occur in short-lived pulses lasting hours to days, faster than typical groundwater-monitoring intervals. Second, single-contaminant frameworks can misrepresent overall geogenic risk because the same wetting event may mobilize arsenic through reductive dissolution while attenuating chromium and uranium through reduction to less mobile forms. Third, repeated wetting–drying cycles may alter or deplete reactive Fe and Mn mineral phases that buffer contaminant release, increasing vulnerability under sustained hydrologic variability. Changing geogenic contaminant concentrations in US municipal groundwater over the past three decades indicate that these processes are already detectable at network scales. Addressing them requires event-scale, multi-element monitoring and process-based models that represent redox hysteresis and mineral transformations from the vadose zone to the aquifer.",
-      "summary": "As precipitation regimes intensify and engineered recharge expands, the vadose zone faces increasingly dynamic wetting–drying cycles that generate redox oscillations and alter geogenic contaminant mobility. Changing geogenic contaminant concentrations in US municipal groundwater over the past three decades indicate that these processes are already detectable at network scales. Addressing them requires event-scale, multi-element monitoring and process-based models that represent redox hysteresis and mineral transformations from the vadose zone to the aquifer.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214284216",
-      "title": "Genome-wide PfSWI/SNF characterization identifies PfSWP73B2 as a target of effector Pawb57 in regulating gibberellin-mediated juvenile shoot growth",
-      "authors": [
-        "Chunyang Liu",
-        "Jie Liu",
-        "Jiayi Zhang",
-        "Hui Zhao",
-        "Su Zhang",
-        "Yabing Cao",
-        "Guoqiang Fan",
-        "Zhenli Zhao"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Industrial Crops and Products",
-      "doi": "https://doi.org/10.1016/j.indcrop.2026.124446",
-      "url": "https://doi.org/10.1016/j.indcrop.2026.124446",
-      "abstract": "The SWI/SNF chromatin remodeling complex is pivotal in regulating gene expression, yet its functions in woody perennials, particularly under biotic stress, remain largely unexplored. Here, we performed a genome-wide analysis of SWI/SNF complex subunits in Paulownia fortunei and identified 51 members with diverse physicochemical properties, gene structures, and protein domains. Expression profiling revealed that the SWI/SNF subunit PfSWP73B2 emerged as a key candidate involved in pathogen stress response. Functional characterization demonstrated that overexpression PfSWP73B2 in poplar significantly increased height at the juvenile stage, concomitant with elevated gibberellin levels. Protein–protein interaction assays confirmed that PfSWP73B2 interacts with the DELLA repressor PfRGA1, linking chromatin remodeling to gibberellin signaling in paulownia. Furthermore, we identified that the phytoplasma effector Pawb57 is up-regulated during infection and targets PfSWP73B2 in the nucleus. Together, these findings uncover a molecular mechanism by which a pathogen effector subverts host chromatin remodeling to manipulate hormone signaling and promote disease development, offering new insights into the epigenetic regulation of plant-pathogen interactions.",
-      "summary": "The SWI/SNF chromatin remodeling complex is pivotal in regulating gene expression, yet its functions in woody perennials, particularly under biotic stress, remain largely unexplored. Functional characterization demonstrated that overexpression PfSWP73B2 in poplar significantly increased height at the juvenile stage, concomitant with elevated gibberellin levels. Together, these findings uncover a molecular mechanism by which a pathogen effector subverts host chromatin remodeling to manipulate hormone signaling and promote disease development, offering new insights into the epigenetic regulation of plant-pathogen interactions.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214284372",
-      "title": "A global mitochondrial genomic atlas illuminates freshwater microeukaryote diversity",
-      "authors": [
-        "Lucas Serra Moncadas",
-        "Hans‐Joachim Ruscheweyh",
-        "Jason Nicholas Woodhouse",
-        "Michaela M. Salcher",
-        "Yusuke Okazaki",
-        "David Kamanda Ngugi",
-        "Michael Pester",
-        "Thomas Posch"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Nature Communications",
-      "doi": "https://doi.org/10.1038/s41467-026-78160-1",
-      "url": "https://doi.org/10.1038/s41467-026-78160-1",
-      "abstract": "Abstract Environmental genomics has transformed our view of the microbial world, yet progress remains largely prokaryote-centric. Among microbial eukaryotes, inconsistent marker choice and limited species-level resolution blunt diversity estimates and hinder cross-study synthesis. Consequently, regional‑to‑global gradients in richness, turnover, and phylogenetic structure remain poorly resolved. Here we establish a global mitogenome-based framework that converts shotgun metagenomes into species‑resolved, phylogeny‑anchored inventories. From 3,400 metagenomes spanning 362 lakes on seven continents, we reconstruct ~20,000 mitochondrial metagenome-assembled genomes (mitoMAGs), densely populating previously sparse branches of the eukaryotic tree—notably SAR (Stramenopiles–Alveolata–Rhizaria), Cryptophyceae, and Haptista. An empirically calibrated 98.1% mitoMAG‑identity threshold delineates species and tethers community profiles to an evolutionary backbone. On this backbone, coverage‑standardized inventories recover canonical ecological patterns: mesotrophic richness peaks, surface-layer expansion of phylogenetic breadth, and spring maxima with the strongest surface–deep coupling at vernal mixing; supporting the framework. Treating mitoMAGs as primer‑free barcodes yields a single, species‑level, phylogeny‑aware currency that renders richness, evenness, and phylogenetic breadth directly comparable across datasets, depths, seasons, and regions. By placing microbial eukaryotes on an analytical footing comparable to prokaryotes, the resulting atlas brings their diversity into reach and lays the groundwork for future high-throughput, species-aware monitoring and ecological forecasting.",
-      "summary": "Abstract Environmental genomics has transformed our view of the microbial world, yet progress remains largely prokaryote-centric. Treating mitoMAGs as primer‑free barcodes yields a single, species‑level, phylogeny‑aware currency that renders richness, evenness, and phylogenetic breadth directly comparable across datasets, depths, seasons, and regions. By placing microbial eukaryotes on an analytical footing comparable to prokaryotes, the resulting atlas brings their diversity into reach and lays the groundwork for future high-throughput, species-aware monitoring and ecological forecasting.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214284809",
-      "title": "Biophysical determinants of membranotropism: how proteins and peptides recognize, insert into, and remodel lipid bilayers",
-      "authors": [
-        "Nadine Lobo Siqueira",
-        "Yhony Sumari Misaico",
-        "Thais Rangel Figueiredo",
-        "Miguel Eduardo Salazar Aurich",
-        "Amanda Toledo Machado",
-        "Lorran Yves Machado de Sousa",
-        "Fadi Simon de Souza Magalhães",
-        "Ana Eliza Zeraik"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Biophysical Reviews",
-      "doi": "https://doi.org/10.1007/s12551-026-01464-5",
-      "url": "https://doi.org/10.1007/s12551-026-01464-5",
-      "abstract": "Abstract Biological membranes are not passive barriers, but chemically heterogeneous and physically adaptable interfaces that regulate how proteins and peptides bind, fold, assemble, and act. Many membrane-active systems cannot be adequately described as simply soluble, peripheral, or transmembrane. Instead, they populate multiple membrane-associated states, ranging from transient surface adsorption to interfacial partitioning, insertion, oligomerization, pore formation, fusion, and large-scale membrane remodeling. In this review, we discuss membranotropism as a unifying concept to describe the propensity of proteins, peptides, and supramolecular assemblies to associate with lipid bilayers and modify their structure, organization, or function. We bring together biophysical principles that connect membrane composition, lipid packing, curvature, sterol availability, lateral heterogeneity, oxidative state, molecular crowding, and membrane mechanics with molecular features such as amphipathicity, charge distribution, conformational plasticity, lipid-recognition motifs, and cooperative assembly. This conceptual perspective is illustrated with examples that include antimicrobial and antifungal peptides, viral fusion peptides, pore-forming toxins, peripheral and amphitropic proteins, monotopic enzymes, septin scaffolds, secreted membrane modulators, and condensate–membrane systems. We also highlight how complementary experimental and computational approaches can resolve membrane binding, partitioning, insertion, remodeling, and functional membrane activity across different length and time scales. By integrating molecular architecture with membrane biophysics, membranotropism provides a useful perspective for understanding how membrane recognition is converted into biological activity. We also discuss how this concept can guide the development of antimicrobial, antiviral, antiparasitic, anticancer, and delivery-oriented strategies based on the selective targeting or remodeling of lipid membranes.",
-      "summary": "Abstract Biological membranes are not passive barriers, but chemically heterogeneous and physically adaptable interfaces that regulate how proteins and peptides bind, fold, assemble, and act. By integrating molecular architecture with membrane biophysics, membranotropism provides a useful perspective for understanding how membrane recognition is converted into biological activity. We also discuss how this concept can guide the development of antimicrobial, antiviral, antiparasitic, anticancer, and delivery-oriented strategies based on the selective targeting or remodeling of lipid membranes.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214286185",
-      "title": "Communication-infrastructure-enabled ISAC for low-altitude sensing",
-      "authors": [
-        "Zhiyong Feng",
-        "Lin Wang",
-        "Kan Yu",
-        "Zhiqing Wei",
-        "Qixun Zhang",
-        "Dingyou Ma",
-        "Jiapeng Li",
-        "Jiachen Wei"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Communications Engineering",
-      "doi": "https://doi.org/10.1038/s44172-026-00754-w",
-      "url": "https://doi.org/10.1038/s44172-026-00754-w",
-      "abstract": "As a core infrastructure of modern information society, cellular networks have long supported terrestrial communications and are now being extended to low-altitude connectivity with the growth of the low-altitude economy. However, the increasing number of aerial vehicles poses new challenges to airspace supervision and flight safety, creating a need for wide-area, continuous and accurate sensing. Conventional sensing devices, such as dedicated radars and cameras, can provide target information but suffer from high deployment cost, electromagnetic interference, and complex coordination. By exploiting the similarities between communication and radar systems in electromagnetic propagation, hardware and signal processing, integrated sensing and communication offers a promising way to reuse communication infrastructure for low-altitude sensing. In this Review, key engineering issues in communication-infrastructure-enabled low-altitude sensing are discussed, including base station deployment, sensing mode design, synchronization and waveform design. Enabling techniques for target detection, localization, tracking and recognition are further summarized, with emphasis on communication-adapted signal processing, networked sensing, and multimodal fusion. Experimental demonstrations and future directions in weather monitoring, data security and privacy protection are also discussed. Cellular communication infrastructure can be reused for low-altitude sensing through integrated sensing and communication. Zhiyong Feng and colleagues highlight key engineering issues, enabling techniques and experimental demonstrations for aerial target detection, localization, tracking, and recognition.",
-      "summary": "As a core infrastructure of modern information society, cellular networks have long supported terrestrial communications and are now being extended to low-altitude connectivity with the growth of the low-altitude economy. Cellular communication infrastructure can be reused for low-altitude sensing through integrated sensing and communication. Zhiyong Feng and colleagues highlight key engineering issues, enabling techniques and experimental demonstrations for aerial target detection, localization, tracking, and recognition.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214293015",
-      "title": "Molecular and metabolic drivers of oil quality and bioenergy potential in Jatropha curcas",
-      "authors": [
-        "Daniela de Argollo Marques",
-        "Kleber Alves Gomes",
-        "Roseli Aparecida Ferrari",
-        "Cássia Regina Limonta Carvalho",
-        "Walter José Siqueira",
-        "Nicolas Carels",
-        "Marie-Anne Van Sluys"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Planta",
-      "doi": "https://doi.org/10.1007/s00425-026-05159-9",
-      "url": "https://doi.org/10.1007/s00425-026-05159-9",
-      "abstract": "MAIN CONCLUSION: Combining biochemical, molecular, and multivariate analyses identified candidate signatures and L10P41 as a promising bioenergy ideotype, supporting targeted selection for oil quality and bioenergy performance in Jatropha curcas. Jatropha curcas L. is a promising bioenergy crop, but its genetic improvement requires a deeper understanding of the molecular and metabolic factors underlying variation in oil quality, fatty acid (FA) composition, and phorbol ester (PE) accumulation. We characterized FA composition during seed development and evaluated mature-seed oil content, PE concentration, higher heating value (HHV), and the expression of KASIII, MFP2, and JcBAHD-AT in 12 contrasting elite breeding genotypes. Stage-specific principal component analysis (PCA), complemented by hierarchical cluster analysis (HCA), revealed developmentally dynamic variation in FA composition and genotype relationships. Comparison with biochemical and expression data indicated associations among lipid composition, candidate-gene expression, PE concentration, and energy performance. The L10P41 genotype combined an oleic acid-enriched profile, relatively high oil content, elevated HHV, and distinct KASIII and MFP2 expression patterns, emerging as a promising bioenergy ideotype. Variation in HHV among genotypes, including relatively high values in some genotypes with comparatively low oil content, indicated that energy performance cannot be inferred from total oil content alone and may also be associated with differences in oil composition. The putative BAHD acyltransferase gene JcBAHD-AT exhibited genotype- and stage-specific expression patterns consistent with a potential role in specialized diterpenoid metabolism; however, its relationship with PE accumulation remains associative and requires functional validation. Genotypes combining high oil content with comparatively low PE concentrations further indicated that these traits can coexist and are not necessarily tightly coupled. Overall, integrating molecular, biochemical, and multivariate analyses revealed candidate signatures associated with oil quality and bioenergy potential, advancing the identification of promising genotypes for targeted selection and precision breeding in J. curcas.",
-      "summary": "MAIN CONCLUSION: Combining biochemical, molecular, and multivariate analyses identified candidate signatures and L10P41 as a promising bioenergy ideotype, supporting targeted selection for oil quality and bioenergy performance in Jatropha curcas. Comparison with biochemical and expression data indicated associations among lipid composition, candidate-gene expression, PE concentration, and energy performance. Variation in HHV among genotypes, including relatively high values in some genotypes with comparatively low oil content, indicated that energy performance cannot be inferred from total oil content alone and may also be associated with differences in oil composition.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214296523",
-      "title": "Plasma trimethylamine N-oxide and arteriosclerotic cardiovascular disease: a systematic review and meta-analysis of case–control studies",
-      "authors": [
-        "Yang Ou",
-        "Jiuhua She",
-        "Boyan Gao",
-        "Jiayong Liu",
-        "Yang Yu",
-        "Wenxin Chen",
-        "Yifan Wang",
-        "Meiqi Ren"
-      ],
-      "publication_date": "2026-09-25",
-      "journal": "Frontiers in Cardiovascular Medicine",
-      "doi": "https://doi.org/10.3389/fcvm.2026.1913190",
-      "url": "https://doi.org/10.3389/fcvm.2026.1913190",
-      "abstract": "Introduction Trimethylamine N-oxide (TMAO), a gut microbiota-derived metabolite, has been implicated in atherosclerosis. However, the association between plasma TMAO levels and atherosclerotic cardiovascular disease (ASCVD) risk remains inconsistent across studies. Methods We searched PubMed, Embase, Cochrane, and Web of Science for case-control (including nested) studies reporting odds ratios (ORs) with 95% confidence intervals (CIs) for TMAO and ASCVD. Estimates were pooled under fixed- or random-effects assumptions according to the observed heterogeneity, supplemented by subgroup, sensitivity, and publication bias assessments. Results Nine studies were included in this meta-analysis. Elevated TMAO levels (highest vs. lowest quantile) were significantly associated with ASCVD risk (OR = 1.39; 95% CI: 1.21–1.61; I 2 = 28.8%). The continuous analysis showed a significant pooled standardized mean difference (SMD) of 0.43 (95% CI: 0.14–0.71), but with extreme heterogeneity ( I 2 = 93.4%). The association was stronger in the primary prevention (OR = 1.51; 95% CI: 1.28–1.78) than in the secondary prevention cohorts (OR = 1.10; 95% CI: 0.83–1.46; P for interaction = 0.057). GRADE (Grading of Recommendations Assessment, Development, and Evaluation) certainty was low for the categorical analysis and very low for the continuous analysis. Discussion This meta-analysis showed that high versus low plasma TMAO levels were significantly associated with increased ASCVD risk (OR = 1.39; 95% CI: 1.21–1.61), particularly in primary prevention populations (OR = 1.51; 95% CI: 1.28–1.78), and supported TMAO as a potential risk indicator for primary prevention. However, continuous analysis yielded highly unstable estimates with extreme heterogeneity ( I 2 = 93.4%), precluding linear dose-response conclusions, and the certainty of evidence remained low to very low. Current evidence does not yet endorse routine clinical screening but lends credence to gut microbiota-targeted preventive strategies, such as dietary modifications aimed at reducing the intake of TMAO precursors from red and processed meat. Future standardized prospective studies are necessary to establish the clinical utility of TMAO. Systematic Review Registration PROSPERO CRD420261357905.",
-      "summary": "Introduction Trimethylamine N-oxide (TMAO), a gut microbiota-derived metabolite, has been implicated in atherosclerosis. Discussion This meta-analysis showed that high versus low plasma TMAO levels were significantly associated with increased ASCVD risk (OR = 1.39; 95% CI: 1.21–1.61), particularly in primary prevention populations (OR = 1.51; 95% CI: 1.28–1.78), and supported TMAO as a potential risk indicator for primary prevention. Current evidence does not yet endorse routine clinical screening but lends credence to gut microbiota-targeted preventive strategies, such as dietary modifications aimed at reducing the intake of TMAO precursors from red and processed meat.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7131410735",
-      "title": "Automated Structure Discovery for Tip-Enhanced Raman Spectroscopy",
-      "authors": [
-        "Harshit Sethi",
-        "Markus Junttila",
-        "Orlando José Silveira",
-        "Adam Stuart Foster"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "PRX Intelligence",
-      "doi": "https://doi.org/10.1103/8k25-7jtd",
-      "url": "https://doi.org/10.1103/8k25-7jtd",
-      "abstract": "Tip-Enhanced Raman Spectroscopy (TERS) provides nanoscale chemical fingerprints alongside high-resolution topographic mapping of molecules, offering a powerful tool for materials discovery. However, TERS image datasets are challenging to interpret and typically demand time-consuming, computationally intensive quantum-chemistry calculations. To overcome this problem, we present an encoder-decoder model trained and evaluated on simulated TERS images of planar molecules, enabling direct prediction of molecular structures from spectral simulated data with high accuracy. Our approach demonstrates the feasibility of automating molecular structure identification from TERS images, bypassing traditional manual analysis. These findings provide a foundation for extending machine learning methods to experimental TERS datasets, potentially accelerating molecular discovery by integrating nanoscale spectroscopy with automated computational analysis.",
-      "summary": "Tip-Enhanced Raman Spectroscopy (TERS) provides nanoscale chemical fingerprints alongside high-resolution topographic mapping of molecules, offering a powerful tool for materials discovery. Our approach demonstrates the feasibility of automating molecular structure identification from TERS images, bypassing traditional manual analysis. These findings provide a foundation for extending machine learning methods to experimental TERS datasets, potentially accelerating molecular discovery by integrating nanoscale spectroscopy with automated computational analysis.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214065988",
-      "title": "Anthocyanins/MgO–carbon dots obtained from Rosa canina fruit to enhance the performance of locust bean gum-sodium caseinate aerogels for intelligent packaging application",
-      "authors": [
-        "Erfan Azadi",
-        "Yasser Shahbazi",
-        "Nassim Shavisi",
-        "Ali Barati",
-        "Aman Ullah"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-71404-6",
-      "url": "https://doi.org/10.1038/s41598-026-71404-6",
-      "abstract": "Abstract The aims of the current study were to develop locust bean gum-sodium caseinate (LBG-SC) aerogels containing anthocyanins/MgO–carbon dots extracted from Rosa canina fruit for monitoring beef meat freshness. The LBG-SC aerogels containing R. canina fruit extract (RCE, 5%) and MgO-doped carbon dots 0.25% had significantly lower moisture content, water absorption capacity, and water vapor absorption capacity, along with higher compressive stress values than the control group, recorded at 0.21–0.44%, 11.19–30.41%, 10.93–20.60%, and 7.44–21.55 MPa, respectively ( P < 0.05). The LBG-SC + RCE 5% and LBG-SC + RCE 5% + MgO-doped carbon dots 0.25% aerogels could monitor the freshness of raw beef after 5 days under refrigerated conditions, with their color changing from light khaki to dark violet. Meanwhile, total viable count, total psychrotrophic count, total volatile basic nitrogenous compound, and pH of fresh beef meat were 7.23 log CFU/g, 6.90 log CFU/g, 25.56 mg N/100 g, and 7.12, respectively.",
-      "summary": "Abstract The aims of the current study were to develop locust bean gum-sodium caseinate (LBG-SC) aerogels containing anthocyanins/MgO–carbon dots extracted from Rosa canina fruit for monitoring beef meat freshness. The LBG-SC + RCE 5% and LBG-SC + RCE 5% + MgO-doped carbon dots 0.25% aerogels could monitor the freshness of raw beef after 5 days under refrigerated conditions, with their color changing from light khaki to dark violet. Meanwhile, total viable count, total psychrotrophic count, total volatile basic nitrogenous compound, and pH of fresh beef meat were 7.23 log CFU/g, 6.90 log CFU/g, 25.56 mg N/100 g, and 7.12, respectively.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214082389",
-      "title": "Design, synthesis, SAR, in silico and in vitro evaluation of 1, 3, 4-oxadiazole derivatives against breast cancer",
-      "authors": [
-        "Rekha Singh",
-        "Balaji Wamanrao Matore",
-        "Anjali Murmu",
-        "Nisha Lakra",
-        "Purusottam Banjare",
-        "Kamta Prasad Namdeo",
-        "Partha Pratim Roy",
-        "Jagadish Singh"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Discover Chemistry.",
-      "doi": "https://doi.org/10.1007/s44371-026-00898-w",
-      "url": "https://doi.org/10.1007/s44371-026-00898-w",
-      "abstract": "The 1,3,4-oxadiazole scaffold is well recognized for its anticancer potential. Based on our previous work, we designed and synthesized nine 1,3,4-oxadiazole derivatives (R1–R9) via Schiff base formation followed by cyclization. The compounds were characterized by FT-IR, ¹H NMR, and mass spectroscopy and evaluated for anticancer activity against MCF-7 breast cancer cells. Target prediction using PASS and SwissTargetPrediction indicated kinase receptors as likely targets. Owing to its central role in angiogenesis and breast cancer progression, VEGFR2 was selected for molecular docking. Docking, scoring, and binding free energy analyses showed strong affinity of the compounds within the VEGFR2 ATP binding pocket. Notably, R3 formed key interactions with GLU885, ASP1046, and LYS868 and exhibited the most favourable binding stability (− 84.42 kcal/mol). ADMET predictions suggested good gastrointestinal absorption, oral bioavailability, and acceptable toxicity, with attention warranted for solubility and blood-brain barrier penetration during optimization. In vitro evaluation using the MTT assay revealed IC₅₀ values of 8.06–17.34 µM. R3 showed the highest potency (IC₅₀ = 8.06 µM), comparable to doxorubicin. Structure-activity relationship analysis indicated that meta and para chloro substitutions enhance binding and activity, while ortho substitution reduces affinity due to steric effects. Overall, R3 emerges as a promising VEGFR2-targeted lead for further breast cancer drug development.",
-      "summary": "The 1,3,4-oxadiazole scaffold is well recognized for its anticancer potential. Target prediction using PASS and SwissTargetPrediction indicated kinase receptors as likely targets. In vitro evaluation using the MTT assay revealed IC₅₀ values of 8.06–17.34 µM.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214085067",
-      "title": "Palaeocene climate warming as a catalyst for wildfire intensification",
-      "authors": [
-        "Thomas Theurer",
-        "David Jolley",
-        "David K. Muirhead",
-        "Dmitri Mauquoy"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-72676-8",
-      "url": "https://doi.org/10.1038/s41598-026-72676-8",
-      "abstract": "Abstract Wildfire regimes are rapidly intensifying under anthropogenic climate change, the effects of which increasingly threaten the health and stability of global ecosystems and the safety of human populations. Understanding wildfire behavior, independent of human intervention, remains critical to efforts in hazard mitigation and the wider understanding of global fire regimes. Wildfire has occurred throughout prehistory, including within periods of analogous climate warming, though associated research lacks resolution in fire and vegetational records. Here, for the first time, Raman spectroscopy of fossil charcoals preserved in the lacustrine Boltysh 42/11 record highlights multi-phase intensification in fire regimes across a Danian (Early Palaeocene) negative carbon excursion. Early intensification coincides with cyclical, progressive aridification and angiosperm proliferation. Re-intensification during climate recovery represents a decoupling of climatic warming and fire, motivated instead by fuel characteristics. Regime persistence alludes to concerning trends in future fire activity under anthropogenic fire suppression. Contemporary wildfire intensification may therefore continue, irrespective of efforts to moderate or withdraw anthropogenic emissions.",
-      "summary": "Abstract Wildfire regimes are rapidly intensifying under anthropogenic climate change, the effects of which increasingly threaten the health and stability of global ecosystems and the safety of human populations. Regime persistence alludes to concerning trends in future fire activity under anthropogenic fire suppression. Contemporary wildfire intensification may therefore continue, irrespective of efforts to moderate or withdraw anthropogenic emissions.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214099915",
-      "title": "Structural and optical properties of PVA/PVP polymer blend nanocomposite membrane reinforced with Zn0.08Cd0.92O nanoparticles for potential flexible optoelectronic applications",
-      "authors": [
-        "Sultan  Saleh Alhassan",
-        "Alhulw H. Alshammari"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Scientific Reports",
-      "doi": "https://doi.org/10.1038/s41598-026-72289-1",
-      "url": "https://doi.org/10.1038/s41598-026-72289-1",
-      "abstract": "Abstract PVA/PVP polymer blend nanocomposite films incorporating Zn 0.08 Cd 0.92 O nanoparticles at concentrations ranging from 0.3 to 2.0 wt% were fabricated via the solution casting method. The structural, morphological and optical properties of the prepared films were systematically investigated using X-ray diffraction, Fourier-transform infrared spectroscopy, scanning electron microscopy and ultraviolet-visible spectroscopy. Diffraction analysis confirmed the amorphous nature of the pure PVA/PVP blend and revealed the progressive emergence of the cubic Zn 0.08 Cd 0.92 O crystalline phase with increasing filler content. The crystallite size decreased progressively from 38.1 nm at 0.7 wt% to 32.6 nm at 2.0 wt%, accompanied by a corresponding increase in dislocation density and lattice strain, indicating growing structural distortion at higher loadings. Infrared spectra confirmed chemical compatibility between the nanoparticles and the polymer matrix through hydrogen bonding and surface coordination interactions. Electron microscopy showed that low filler concentrations yielded smooth, homogeneous films, while higher concentrations induced surface roughening and localized nanoparticle aggregation without compromising film integrity. Optical analysis demonstrated a systematic redshift of the absorption edge and a reduction in both direct (from 5.27 to 5.23 eV) and indirect (from 5.10 to 4.97 eV) optical band gaps, while the Urbach energy increased from 0.48 to 0.60 eV, indicating a growth of localized band-tail states consistent with the structural disorder observed by diffraction. The refractive index, dispersion energy, oscillator strength and optical susceptibilities were all enhanced with increasing filler loading, the refractive index rising from 1.88 to 2.70 and the estimated third-order nonlinear susceptibility from 2.91 × 10 −13 to 108.61 × 10 −13 esu. These optical characteristics indicate the potential of PVA/PVP/Zn 0.08 Cd 0.92 O nanocomposite films for optical coating and flexible optoelectronic applications.",
-      "summary": "Abstract PVA/PVP polymer blend nanocomposite films incorporating Zn 0.08 Cd 0.92 O nanoparticles at concentrations ranging from 0.3 to 2.0 wt% were fabricated via the solution casting method. The structural, morphological and optical properties of the prepared films were systematically investigated using X-ray diffraction, Fourier-transform infrared spectroscopy, scanning electron microscopy and ultraviolet-visible spectroscopy. These optical characteristics indicate the potential of PVA/PVP/Zn 0.08 Cd 0.92 O nanocomposite films for optical coating and flexible optoelectronic applications.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214127906",
-      "title": "Selection of acid sulfate purple nonsulfur bacteria for mitigating methane emissions from paddy soils in the Mekong Delta, Vietnam",
-      "authors": [
-        "Phan Thị Ngọc Nhanh",
-        "Tran Chi Nhan",
-        "Mai Chí Bảo",
-        "Le Thanh Quang",
-        "Le Thi My Thu",
-        "Nguyen Duc Trong",
-        "Tran Trong Khoi Nguyen",
-        "Ly Ngoc Thanh Xuan"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "International Microbiology",
-      "doi": "https://doi.org/10.1007/s10123-026-00883-4",
-      "url": "https://doi.org/10.1007/s10123-026-00883-4",
-      "abstract": "Abstract In lowland rice cultivation, climate change is increasingly intensified by rising greenhouse gas emissions, especially methane (CH 4 ). This study aimed to: (i) isolate and select acid sulfate-tolerant purple nonsulfur bacteria (PNSB) capable of nutrient provision; and (ii) screen and identify PNSB strains that reduce CH 4 emissions. A total of 60 soil and 60 water samples were collected from four acid sulfate rice-growing areas in the Mekong Delta, Vietnam. From these, 118 PNSB strains were isolated, and 100 were selected based on their acid-sulfate tolerance, nitrogen fixation, phosphate solubilization, and indole-3-acetic acid (IAA) production. Among them, strains WHA-1A, WHA-9B, and SPL-4A exhibited the greatest CH 4 emission reduction under both microaerobic light (17.1–61.3%) and aerobic dark (48.2–75.2%) conditions. These strains also demonstrated nitrogen fixation (21.5–22.9 and 19.4–31.4 mg L − 1 ), solubilization of three insoluble phosphate forms—Fe-P, Al-P, and Ca-P for both conditions (21.9–29.6 and 11.9–14.8 mg L − 1 ; 8.12–15.1 and 19.0–30.2 mg L − 1 ; 12.5–27.0 and 18.5–31.4 mg L − 1 , respectively), and IAA production (0.34–1.91 and 2.24–6.28 mg L − 1 ). Based on 16S rRNA gene sequencing, two strains WHA-1A and SPL-4A were identified as Rhodobacter sphaeroides , and WHA-9B was identified as Blastochloris sulfoviridis . These strains show promise for mitigating CH 4 emissions and improving rice growth in acid sulfate soils.",
-      "summary": "Abstract In lowland rice cultivation, climate change is increasingly intensified by rising greenhouse gas emissions, especially methane (CH 4 ). These strains also demonstrated nitrogen fixation (21.5–22.9 and 19.4–31.4 mg L − 1 ), solubilization of three insoluble phosphate forms—Fe-P, Al-P, and Ca-P for both conditions (21.9–29.6 and 11.9–14.8 mg L − 1 ; 8.12–15.1 and 19.0–30.2 mg L − 1 ; 12.5–27.0 and 18.5–31.4 mg L − 1 , respectively), and IAA production (0.34–1.91 and 2.24–6.28 mg L − 1 ). These strains show promise for mitigating CH 4 emissions and improving rice growth in acid sulfate soils.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214145327",
-      "title": "Large‐Format Fused Granulate Fabrication of Wood–Polypropylene Composites: The Role of Matrix Viscosity",
-      "authors": [
-        "Jack J. Bernardo",
-        "Micah A. Morton",
-        "Sawyer P. Richard",
-        "Madeleine H. Nuesslein",
-        "Siamak Shams Es‐haghi"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Polymer Composites",
-      "doi": "https://doi.org/10.1002/pc.71626",
-      "url": "https://doi.org/10.1002/pc.71626",
-      "abstract": "ABSTRACT Large‐format fused granulate fabrication (FGF) directly processes pelletized wood–polymer composites, but the role of polymer matrix viscosity in printability and performance remains insufficiently defined. Two homopolymer polypropylene (PP) matrices of different melt viscosities were compounded with 10 or 20 wt.% wood flour (WF), with or without maleic anhydride‐grafted PP (MAPP). Rheology, differential scanning calorimetry, print observations, and mechanical tests of injection‐molded and FGF‐printed specimens evaluated flow, crystallinity, print quality, and performance. WF increased complex viscosity and extended relaxation in both matrices, whereas polymer‐normalized crystallinity changed only modestly. All formulations formed hollow hexagonal prisms; however, high‐WF formulations with the lower‐viscosity matrix had rougher surfaces and less uniform layers than corresponding higher‐viscosity formulations. WF generally increased stiffness; MAPP was associated with higher injection‐molded tensile and flexural strengths than corresponding non‐MAPP formulations, and WF reduced impact strength. Printed properties depended strongly on orientation, with horizontally extracted specimens generally outperforming vertically extracted specimens, particularly in tensile and flexural strength. Matrix viscosity was linked to melt flow, bead stability, surface quality, and mechanical anisotropy. The higher‐viscosity PP provided the more favorable balance of rheological stability, print quality, and printed mechanical performance.",
-      "summary": "ABSTRACT Large‐format fused granulate fabrication (FGF) directly processes pelletized wood–polymer composites, but the role of polymer matrix viscosity in printability and performance remains insufficiently defined. Rheology, differential scanning calorimetry, print observations, and mechanical tests of injection‐molded and FGF‐printed specimens evaluated flow, crystallinity, print quality, and performance. The higher‐viscosity PP provided the more favorable balance of rheological stability, print quality, and printed mechanical performance.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214151577",
-      "title": "Multi-walled carbon nanotube-supported Ruthenium bis(terpyridine) complexes as ORR catalyst for zinc-air batteries",
-      "authors": [
-        "Zhen‐Yi Wu",
-        "Ni Wu",
-        "Xiao-Kun Wang",
-        "Wen-Wen Wang",
-        "Dingliang Tang"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Journal of Energy Storage",
-      "doi": "https://doi.org/10.1016/j.est.2026.124841",
-      "url": "https://doi.org/10.1016/j.est.2026.124841",
-      "abstract": "Developing efficient and stable oxygen reduction reaction (ORR) electrocatalysts is crucial for enhancing the core process of electrochemical energy conversion and storage technologies. In this work, Ruthenium(ii) bis(terpyridine) complex (MetpyRutpy) were covalently grafted onto multi-walled carbon nanotubes (MWCNTs) via esterification reactions. The successful graft of Ruthenium complexes on the surface of MWCNTs was confirmed by Fourier transform infrared spectroscopy (FT-IR), Ultraviolet visible spectroscopy (UV/Vis), Raman spectroscopy, X-ray photoelectron spectroscopy (XPS), and thermogravimetric analysis (TGA). Specifically, each 280 carbon atoms of MWCNTs were covalently grafted via an ester group with one MetpyRutpy functional molecule. Transmission electron microscopy (TEM) and scanning electron microscopy (SEM) characterizations reveal that the grafted ruthenium complexes are uniformly distributed on the surface of MWCNTs without damaging the tubular structure of MWCNTs. Electrochemical tests showed that the hybrid material exhibited excellent ORR catalytic activity in alkaline medium (0.1 M KOH), with a half-wave potential of 0.715 V vs. RHE and a maximum diffusion current density of 4.47 mA cm −2 . The reaction pathway is consistent with a 4-electron transfer mechanism (average number of transferred electrons n ≈ 3.56). Compared with MetpyRutpy and MWCNTCOOH, the MetpyRutpyMWCNT composite exhibits a significant positive shift in the onset potential of the ORR. The open circuit voltage and the peak power density for the zinc air battery, assembled with MetpyRutpyMWCNT as the air cathode, reach 1.47 V and 47.1 mW cm 2 respectively. At a current density of 10 mA cm −2 , the specific capacity of the battery reaches 722.4 mAhg zn −1 . Such superior performance is attributed to the outstanding ORR property of the Metpyrutpy enity, the excellent conductivity of MWCNTs, and the synergistic catalytic effect between the two. This study provides a new design strategy for developing high-efficiency non‑platinum-based ORR electrocatalysts and broadens the application scope of Ruthenium complexes in energy-conversion devices.",
-      "summary": "Developing efficient and stable oxygen reduction reaction (ORR) electrocatalysts is crucial for enhancing the core process of electrochemical energy conversion and storage technologies. Such superior performance is attributed to the outstanding ORR property of the Metpyrutpy enity, the excellent conductivity of MWCNTs, and the synergistic catalytic effect between the two. This study provides a new design strategy for developing high-efficiency non‑platinum-based ORR electrocatalysts and broadens the application scope of Ruthenium complexes in energy-conversion devices.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214154317",
-      "title": "Mechanisms Governing Rapid Stiffening and Subsequent Structuring in Sodium Carbonate‐Activated Glass Cullet Powder",
-      "authors": [
-        "Louise Lemesre",
-        "Rachida Idir",
-        "Martin Cyr"
-      ],
-      "publication_date": "2026-09-24",
-      "journal": "Journal of the American Ceramic Society",
-      "doi": "https://doi.org/10.1111/jace.71269",
-      "url": "https://doi.org/10.1111/jace.71269",
-      "abstract": "ABSTRACT This study investigates the mechanisms governing rapid stiffening and subsequent structuring in sodium carbonate (Na 2 CO 3 )‐activated glass cullet powder. Pastes containing 5, 10, 15, or 25 wt% Na 2 CO 3 were monitored from the first minutes after mixing to 28 days by ultrasonic wave propagation, in situ and ex situ x‐ray diffraction, isothermal calorimetry, thermogravimetric analysis, and compressive strength testing. High Na 2 CO 3 contents caused stiffening within minutes, together with a sharp increase in ultrasonic velocity, intense early heat release, and precipitation of hydrated Na 2 CO 3 phases. These results show that initial stiffening is primarily associated with carbonate dissolution, hydration, and precipitation, rather than with glass dissolution. At 10 and 15 wt% Na 2 CO 3 , a transient decrease in ultrasonic velocity followed the initial structuring stage and occurred over the same period as the progressive disappearance of thermonatrite, consistent with a temporary microstructural rearrangement. By contrast, the 5 and 25 wt% systems showed more continuous structural development. At later ages, strength gain was associated with progressive glass reaction and formation of gaylussite and poorly crystalline or amorphous binding phases. The results distinguish two coupled mechanisms: rapid carbonate‐phase evolution associated with early stiffening, and delayed glass reaction associated with subsequent hardening. This mechanistic separation clarifies the phase–structure–property relationships in Na 2 CO 3 ‐activated recycled glass binders.",
-      "summary": "ABSTRACT This study investigates the mechanisms governing rapid stiffening and subsequent structuring in sodium carbonate (Na 2 CO 3 )‐activated glass cullet powder. These results show that initial stiffening is primarily associated with carbonate dissolution, hydration, and precipitation, rather than with glass dissolution. By contrast, the 5 and 25 wt% systems showed more continuous structural development.",
-      "techniques": [
-        "DSC",
-        "TGA"
-      ],
-      "categories": [
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
