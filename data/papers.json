@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-02",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -305,6 +305,31 @@
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
+      "id": "https://openalex.org/W7212055717",
+      "title": "Enhancing mass transport in redox flow batteries with 3D-printed triply periodic minimal surface electrode structures",
+      "authors": [
+        "Maxime van der Heijden",
+        "M. Barzegari",
+        "J. Aarts",
+        "B. Liu",
+        "Antoni Forner‐Cuenca"
+      ],
+      "publication_date": "2026-11-30",
+      "journal": "TU/e Research Portal",
+      "doi": "https://doi.org/10.1016/j.est.2026.123821",
+      "url": "https://research.tue.nl/en/publications/c80cfc38-10a8-43a1-88d3-03c80a5fae35",
+      "abstract": "Triply periodic minimal surface (TPMS) structures offer a compelling route for designing porous electrodes with tunable architectures for electrochemical applications such as redox flow batteries. In this study, we fabricated carbonaceous TPMS electrodes, including gyroid, diamond, IWP, and cubic geometries, using digital light processing, and evaluated their performance in single-electrolyte flow cells using an organic redox couple. The printing process and subsequent thermal treatment produced conductive porous electrodes that closely replicated the intended TPMS geometries, preserving the characteristic features of each design. Through a detailed analysis of pressure drop, surface area, and electrochemical behavior, we identified the diamond design as particularly effective in enhancing mass transport while maintaining low hydraulic resistance. We further assessed gyroid structures, selected for being the most well-known among TPMSs, across a range of porosities, finding that higher porosity improved flow performance despite a reduction in surface area, an advantageous trade-off for electrolytes with facile kinetics and low ionic conductivity. Comparison with a commercial carbon felt electrode revealed comparable ohmic resistance and favorable flow characteristics, though reduced electrochemical surface area limited the achievable current densities. To isolate mass transport effects, a kinetically facile organic redox couple was employed, after which a representative 3D-printed gyroid electrode was evaluated in a proof-of-concept full-cell vanadium redox flow battery. A full-cell test demonstrated the feasibility of printed electrodes, achieving a voltage efficiency of 76% at a current density of 50 mA cm−2. These findings demonstrate the potential of architected 3D printed electrodes for future redox flow batteries and highlight the importance of tuning geometry and porosity to balance power output, mass transport, and system-level pumping losses.",
+      "summary": "Triply periodic minimal surface (TPMS) structures offer a compelling route for designing porous electrodes with tunable architectures for electrochemical applications such as redox flow batteries. In this study, we fabricated carbonaceous TPMS electrodes, including gyroid, diamond, IWP, and cubic geometries, using digital light processing, and evaluated their performance in single-electrolyte flow cells using an organic redox couple. These findings demonstrate the potential of architected 3D printed electrodes for future redox flow batteries and highlight the importance of tuning geometry and porosity to balance power output, mass transport, and system-level pumping losses.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
       "id": "https://openalex.org/W7221234603",
       "title": "Airdrop Sybil Attack detection framework supported by machine learning",
       "authors": [
@@ -521,6 +546,469 @@
         "电子与封装"
       ],
       "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7135018494",
+      "title": "Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions",
+      "authors": [
+        "Aleksandr Shlykov",
+        "Meissa L. Diouf",
+        "Richard Karl",
+        "Mikolaj Roguski",
+        "Umesh Joshi",
+        "Stefan Willitsch"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-026-78680-w",
+      "url": "https://doi.org/10.1038/s41467-026-78680-w",
+      "abstract": "Abstract Electric-dipole forbidden spectroscopic transitions in atoms form the basis of many advanced implementations of quantum computers, atomic clocks and quantum sensors. Coherently addressing such transitions in molecules which are among the most ubiquitous and versatile quantum objects has remained a long-standing challenge owing to their complex energy-level structure. Here, we report the search, observation and coherent manipulation of electric-quadrupole rotational-vibrational transitions in single trapped molecules using a quantum-logic-spectroscopy protocol. We identify individual hyperfine-Zeeman-rotational components of the fundamental vibrational transition of the nitrogen molecular ion, $${{{{{\\rm{N}}}}}}_{2}^{+}$$ N 2 + , and perform coherent population transfer between energy levels. Our work opens up new perspectives for precision molecular spectroscopy, for high-fidelity qubits encoded in the rotational-vibrational motion of molecules, for precise infrared molecular clocks and for searches for new physics.",
+      "summary": "Abstract Electric-dipole forbidden spectroscopic transitions in atoms form the basis of many advanced implementations of quantum computers, atomic clocks and quantum sensors. Here, we report the search, observation and coherent manipulation of electric-quadrupole rotational-vibrational transitions in single trapped molecules using a quantum-logic-spectroscopy protocol. Our work opens up new perspectives for precision molecular spectroscopy, for high-fidelity qubits encoded in the rotational-vibrational motion of molecules, for precise infrared molecular clocks and for searches for new physics.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224737457",
+      "title": "X-ray Crystallography of a Nanobody/JAM-1 Complex Informs Barrier Weakening and Enhanced Drug Permeability in a Cellular Blood–Brain Barrier Model",
+      "authors": [
+        "Liyu Chen",
+        "Michael D. Healy",
+        "Haoyue Xi",
+        "Esteban Cruz",
+        "Mingze Xu",
+        "Rainbow W.B. Chan",
+        "Tishila Palliyaguru",
+        "Jonathan LF Lee"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "ACS Nano",
+      "doi": "https://doi.org/10.1021/acsnano.6c07541",
+      "url": "https://doi.org/10.1021/acsnano.6c07541",
+      "abstract": "Abstract For pharmacological treatments of brain disorders, the blood–brain barrier (BBB) poses a formidable obstacle, tightly restricting the cerebral uptake of therapeutic agents. Tight junction (TJ) binders, including peptides, proteins, and monoclonal antibodies, that specifically bind to the extracellular domains (ECDs) of TJ proteins are increasingly being explored as BBB-weakening agents for enhanced drug delivery to the brain. Given that nanobodies (Nbs) can access epitopes that are often inaccessible to conventional antibodies, we obtained 16 Nbs with unique CDRs via immunization of alpaca with the ECD of either human (h) or murine JAM-1 (mJAM-1), a major TJ protein. Twelve Nb candidates exhibited high-affinity binding to mJAM-1, as measured by surface plasmon resonance (SPR), and these interactions were further validated for 9 Nbs by immunostaining of JAM-1-overexpressing cells. Five Nbs were found to weaken the barrier of the eGFP-hCldn5-MDCKII cellular monolayer, as shown by reduced transendothelial electrical resistance (TEER). X-ray crystallography revealed that the lead barrier-weakening Nb, E6, binds to the membrane-proximal nondimeric D2 domain of mJAM-1. Mutating key residues at this interface eliminated the BBB-weakening effect of E6, as evidenced by unaltered sodium fluorescence (NaFI) leakage in both eGFP-hCldn5-MDCKII and mJAM1-mGL-MDCKII cellular monolayers compared with the nontreated control. Our study highlights the potential of JAM-1-targeting Nbs as BBB modulators, offering a promising approach for generating TJ binders to enhance brain drug delivery.",
+      "summary": "Abstract For pharmacological treatments of brain disorders, the blood–brain barrier (BBB) poses a formidable obstacle, tightly restricting the cerebral uptake of therapeutic agents. Five Nbs were found to weaken the barrier of the eGFP-hCldn5-MDCKII cellular monolayer, as shown by reduced transendothelial electrical resistance (TEER). X-ray crystallography revealed that the lead barrier-weakening Nb, E6, binds to the membrane-proximal nondimeric D2 domain of mJAM-1.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224852345",
+      "title": "Unveiling the binding dynamics of banana lectin with L-fucose through integrative spectroscopic, crystallographic, and in silico studies",
+      "authors": [
+        "Rida Arif",
+        "Javeria Arif",
+        "Malik Shoaib Ahmad",
+        "Saima Rasheed"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Discover Chemistry.",
+      "doi": "https://doi.org/10.1007/s44371-026-01053-1",
+      "url": "https://doi.org/10.1007/s44371-026-01053-1",
+      "abstract": "Banana lectin (Banlec) is a homodimeric plant lectin with glucose/mannose specificity and is also capable of recognizing other carbohydrates. The present study was conducted to evaluate the binding modalities of Banlec with L -fucose. Such structural and biophysical characterization is essential for understanding the molecular basis of Banlec–carbohydrate recognition and its potential applications in glycobiology. Banlec was purified from Musa paradisiaca , and its binding with L -fucose was analyzed via different biophysical techniques. In the first step, the binding affinity of Banlec with L-fucose was analyzed via UV–Vis spectroscopy, which revealed a decreased absorption intensity at 280 nm with increasing concentrations of L-fucose. The binding constant (K b = (4.78 ± 0.08) ×10 4 M −1 ), dissociation constant (K d =21.8 ± 0.3 µM), and Gibbs free energy (ΔG°= − 26.7 kJ mol −1 ), suggest a favourable interaction. Results of circular dichroism spectroscopic (CD) analysis showed that binding of fucose did not alter the secondary structure of Banlec. Differential scanning fluorimetry showed a slight increase in melting temperature (ΔTm = + 0.5 °C) upon L -fucose binding. Additionally, the X-ray crystal structure of Banlec–fucose complex was resolved at 2.95 Å. Two molecules of L -fucose showed binding with Ser33, Gly34, His63, His84, and Gly105 amino acid residues. Molecular docking studies further supported the experimental findings. Hence, this study provides structural insights into the carbohydrate-binding features of Banlec, particularly its interaction with L-fucose.",
+      "summary": "Banana lectin (Banlec) is a homodimeric plant lectin with glucose/mannose specificity and is also capable of recognizing other carbohydrates. Results of circular dichroism spectroscopic (CD) analysis showed that binding of fucose did not alter the secondary structure of Banlec. Two molecules of L -fucose showed binding with Ser33, Gly34, His63, His84, and Gly105 amino acid residues.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224886288",
+      "title": "Role of bio-polymeric binders on combustion and fire suppression performance of KNO3/KClO4–3,5 DNB pyrotechnic composite",
+      "authors": [
+        "Raj Kumar",
+        "Eric Niringiyimana",
+        "Naina Gautam",
+        "Preeti Rathee",
+        "Kajal Rana"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-78585-0",
+      "url": "https://doi.org/10.1038/s41598-026-78585-0",
+      "abstract": "Traditional pyrotechnic composites (PCs), often synthesized with epoxy or other synthetic binders, can combust at temperatures up to ​ 2100 °C, creating secondary fire and explosion risks. This study examines how renewable, cost-effective binders: starch, guar gum, tannic acid, and sodium carboxymethyl cellulose affect the combustion behavior, exothermicity, temperature profiles, and fire-suppression performance of PCs in a 4.57 kW n-heptane pool fire. Characterization of the aerosol particulates was performed using XRD, FTIR, and SEM. SEM-EDX and DSC for the PCs. PC-1, with a linear burning rate (LBR) of 10.05 ± 2.158 mm/s, extinguished the fire within 5 s and generated the highest ignition temperature (210 °C), whereas PC-4 and PC-5 with LBRs of 9.3 ± 0.742 mm/s and 9.7 ± 0.693 mm/s, respectively showed a noticeable decrease in ignition temperatures (184 °C and 182 °C, respectively) and suppressed the fire within 7 s and 5 s, respectively. It can be concluded that starch-based PC exhibited optimal fire performance parameters, making it a promising bio-based binder for the KNO 3 -KClO 4 -3, 5 DNB pyrotechnic composition.",
+      "summary": "Traditional pyrotechnic composites (PCs), often synthesized with epoxy or other synthetic binders, can combust at temperatures up to ​ 2100 °C, creating secondary fire and explosion risks. PC-1, with a linear burning rate (LBR) of 10.05 ± 2.158 mm/s, extinguished the fire within 5 s and generated the highest ignition temperature (210 °C), whereas PC-4 and PC-5 with LBRs of 9.3 ± 0.742 mm/s and 9.7 ± 0.693 mm/s, respectively showed a noticeable decrease in ignition temperatures (184 °C and 182 °C, respectively) and suppressed the fire within 7 s and 5 s, respectively. It can be concluded that starch-based PC exhibited optimal fire performance parameters, making it a promising bio-based binder for the KNO 3 -KClO 4 -3, 5 DNB pyrotechnic composition.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224908136",
+      "title": "Piracetam attenuates cyclophosphamide-evoked pulmonary injury in rats; the role of AMPK/NF-κB/NLRP3/caspase-1 and caspase-3 mediated apoptosis signaling cascades",
+      "authors": [
+        "Reham H. Mohyeldin",
+        "Ehab E Sharata",
+        "Ayman M. Ibrahim",
+        "Mina Ezzat Attya",
+        "Al Shaimaa Mahmoud Kotb",
+        "Fatma Farrag Ali",
+        "Walaa Yehia Abdelzaher",
+        "Remon Roshdy Rofaeil"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Scientific Reports",
+      "doi": "https://doi.org/10.1038/s41598-026-73683-5",
+      "url": "https://doi.org/10.1038/s41598-026-73683-5",
+      "abstract": "Abstract Cyclophosphamide (CP) is often employed in the treatment of numerous malignancies and autoimmune diseases, although it is accompanied by numerous side effects. Piracetam (PIRA) is used as a nootropic agent and reported to possess antioxidant, anti-inflammatory, and anti-apoptotic properties in addition to its established cognitive-enhancing effects. This study aimed to investigate the potential protective effects of PIRA against CP-induced lung damage in rats. CP was utilized to provoke pulmonary damage. Molecular docking was performed to predict the binding affinity of piracetam for NF-κB p65, NLRP3, caspase-1, caspase-3, and AMPK. Arterial blood gas parameters (PaO₂ and PaCO₂) were assessed to evaluate pulmonary gas-exchange function. The lung contents of MDA, GSH, and CAT activity were measured. Levels of lung IL-18, IL-1β, TNF-α, and caspase-1 were evaluated using ELISA. Immunohistochemistry was employed to evaluate NF-κB p65 and caspase-3. The Western blot technique was utilized to evaluate the protein expression of NLRP3 and p-AMPK. Lung Bax and Bcl-2 gene expression was assessed using qRT-PCR. The histological examination of lung tissues was conducted. Molecular docking revealed favorable binding affinities of piracetam. CP caused a notable reduction in PaO₂ and elevation in PaCO₂, alongside a notable increase in lung MDA, IL-18, IL-1β, TNF-α, caspase-1, and Bax levels, with a substantial reduction in GSH, CAT, p-AMPK, and Bcl-2. CP administration also led to the upregulation of NLRP3 protein. Additionally, the immunopositivity of both NF-κB p65 and caspase-3 was elevated in the CP group. PIRA markedly ameliorated all previously described functional, biochemical, and histopathological anomalies. PIRA pretreatment significantly improved CP-induced pulmonary injury, an effect associated with suppression of NF-κB/NLRP3/caspase-1 and caspase-3 signaling and with increased p-AMPK expression.",
+      "summary": "Abstract Cyclophosphamide (CP) is often employed in the treatment of numerous malignancies and autoimmune diseases, although it is accompanied by numerous side effects. This study aimed to investigate the potential protective effects of PIRA against CP-induced lung damage in rats. Levels of lung IL-18, IL-1β, TNF-α, and caspase-1 were evaluated using ELISA.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224991439",
+      "title": "Precision maize crop height mapping using multispectral and LiDAR data from unmanned aerial system",
+      "authors": [
+        "Kushal KC",
+        "Sami Khanal"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Precision Agriculture",
+      "doi": "https://doi.org/10.1007/s11119-026-10469-9",
+      "url": "https://doi.org/10.1007/s11119-026-10469-9",
+      "abstract": "Abstract Context Spatially explicit and accurate maize crop height maps are essential for supporting site-specific management in precision agriculture. Although low-cost unmanned aerial system (UAS)-based multispectral imagery offers a promising approach for maize crop height estimation, it’s accuracy under varying canopy conditions remains uncertain. Aims In this study, we used 3D point clouds to estimate maize crop height during sparse and dense canopy cover based on UAS-captured multispectral images and compare with light detection and ranging (LiDAR)-based estimates. Methods The 3D point clouds from multispectral images and LiDAR data were processed using a spatially localized grid (SLG) filtering approachto derive digital terrain model (DTM) and canopy surface model (CSM), which were then used to estimate maize crop height.Furthermore, two strategies were explored — (1) grid expansion, and (2) using ground reference derived during sparse canopy aspotential tools to mitigate issues during dense canopy cover for multispectral image-based estimations. Results Results showed that the crop height estimated from multispectral images during sparse canopy cover show comparable accuracy (r = 0.9, nRMSE = 32%) to LiDAR-based estimation (r = 0.81, nRMSE = 17%). The accuracy of multispectral-based estimation, however, significantly declined under dense canopy cover, where no meaningful correlation was observed (r = − 0.1, nRMSE = 61%). In contrast, LiDAR-based estimates show consistent level of accuracy under the same conditions (r = 0.78, nRMSE = 15%). When grid expansion strategy was implemented for multispectral-based estimation during the dense canopy cover, the nRMSE was observed to decrease up to 28%. Meanwhile, with the use of sparse canopy cover ground reference, the nRMSE decreased up to 17%, comparable to the LiDAR-based estimate. Conclusion Overall, these results demonstrate the potential of deriving crop heights cost-effectively using multispectral imaging from UAS. This approach offers a scalable and economically viable alternative to expensive LiDAR systems, enabling wider integration of crop height information into precision agriculture applications.",
+      "summary": "Methods The 3D point clouds from multispectral images and LiDAR data were processed using a spatially localized grid (SLG) filtering approachto derive digital terrain model (DTM) and canopy surface model (CSM), which were then used to estimate maize crop height.Furthermore, two strategies were explored — (1) grid expansion, and (2) using ground reference derived during sparse canopy aspotential tools to mitigate issues during dense canopy cover for multispectral image-based estimations. Results Results showed that the crop height estimated from multispectral images during sparse canopy cover show comparable accuracy (r = 0.9, nRMSE = 32%) to LiDAR-based estimation (r = 0.81, nRMSE = 17%). Conclusion Overall, these results demonstrate the potential of deriving crop heights cost-effectively using multispectral imaging from UAS.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224996645",
+      "title": "Fabrication and characterization of Fe 3 O 4 -reinforced PEG–PCL magnetic shape memory nanofibers",
+      "authors": [
+        "Cengiz Tatar",
+        "Ecem Özen Öner",
+        "Mediha Kök"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Reviews in Inorganic Chemistry",
+      "doi": "https://doi.org/10.1515/revic-2026-0059",
+      "url": "https://doi.org/10.1515/revic-2026-0059",
+      "abstract": "Abstract In this study, magnetic shape memory nanofibers based on PEG–PCL (1:1) reinforced with Fe 3 O 4 nanoparticles were produced using the electrospinning method. The structural properties of the nanofibers were analyzed using X-ray diffraction (XRD) and Fourier transform infrared spectroscopy (FTIR), while their surface morphologies were examined using atomic force microscopy (AFM) and scanning electron microscopy (SEM). Thermal properties were determined using differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA), while magnetic behavior was assessed with a physical property measurement system (PPMS). XRD results indicated that Fe 3 O 4 nanoparticles were homogeneously distributed in the matrix, with an increased contribution from the magnetic crystal phase. FTIR indicated that the additive was integrated into the structure via physical interactions, without establishing chemical bonds with the polymer chains. Based on SEM and AFM images, the fiber diameters have grown significantly as the Fe 3 O 4 content has increased. TGA analyses indicate that the thermal stability of nanocomposites has increased, while DSC results demonstrate that as the filler amount increases, the degree of polymer crystallization decreases. Magnetic measurements have shown that saturation magnetization increases with dopant and that composites transition from diamagnetic to ferromagnetic behavior. It has also been found that nanofibers show shape memory properties when heated.",
+      "summary": "Abstract In this study, magnetic shape memory nanofibers based on PEG–PCL (1:1) reinforced with Fe 3 O 4 nanoparticles were produced using the electrospinning method. TGA analyses indicate that the thermal stability of nanocomposites has increased, while DSC results demonstrate that as the filler amount increases, the degree of polymer crystallization decreases. It has also been found that nanofibers show shape memory properties when heated.",
+      "techniques": [
+        "DSC",
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "食品与脂质"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7224999659",
+      "title": "High-Pressure Solid–Liquid Equilibrium and Volumetric Behavior of Choline Chloride-Based Eutectic Solvents",
+      "authors": [
+        "Fernanda Paludetto Pelaquim",
+        "Monique de Jesus Amaral",
+        "Sérgio M. Vilas-Boas",
+        "Irede Angela Lucini Dalmolin",
+        "Gustavo Rodrigues Borges",
+        "Cláudio Dariva",
+        "Mariana Conceição da Costa"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "International Journal of Thermophysics",
+      "doi": "https://doi.org/10.1007/s10765-026-03854-z",
+      "url": "https://doi.org/10.1007/s10765-026-03854-z",
+      "abstract": "Abstract Over the past two decades, eutectic solvents (ESs) have attracted attention due to their potential in various fields, from chemical processing to materials science. Despite this growing interest, their use is still restricted to fixed stoichiometric mole ratios. This limitation arises from the difficulty in accurately identifying eutectic compositions, a consequence of the scarcity of reliable thermophysical property data. In particular, properties such as density and solid–liquid equilibrium (SLE) remain poorly documented in the literature, especially under elevated pressure. In this context, this work reports SLE and volumetric data for mixtures of choline chloride with four hydrogen-bond donors: ethylene glycol, glycerol, 1,3-propanediol, and glycolic acid. SLE measurements were performed in the pressure range between 6 MPa and 25 MPa and compared with available data at atmospheric pressure. Density measurements were carried out for the ESs at their eutectic compositions over ranges of pressure (5 MPa to 50 MPa) and temperature (293.15 K to 353.15 K). The experimental density data were correlated using the modified Tammann–Tait equation, yielding average relative deviations below 0.45 %. Based on the fitted parameters, the isothermal compressibility ( $${\\kappa}_{T}$$ κ T ) and the isobaric thermal expansivity ( $${\\alpha}_{T}$$ α T ) were calculated. Both properties exhibited dependence on pressure and temperature, in agreement with the behavior of incompressible liquid systems. This study enlarges the thermodynamic database of ChCl-based ESs by providing the first high-pressure SLE data along with new volumetric measurements. These results improve the understanding of ES phase behavior and offer valuable inputs for thermodynamic modeling, process design, and the development of ES-based applications.",
+      "summary": "Abstract Over the past two decades, eutectic solvents (ESs) have attracted attention due to their potential in various fields, from chemical processing to materials science. The experimental density data were correlated using the modified Tammann–Tait equation, yielding average relative deviations below 0.45 %. These results improve the understanding of ES phase behavior and offer valuable inputs for thermodynamic modeling, process design, and the development of ES-based applications.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225000064",
+      "title": "Effect of reduced graphene oxide and maleic anhydride compatibilization on the curing, morphological, and pre-/post-aging mechanical properties of EPDM/NBR blends",
+      "authors": [
+        "Luana Decheti Gaike",
+        "Marly Antônia Maldaner Jacobi",
+        "Janaína da Silva Crespo",
+        "João Manuel Maia",
+        "Douglas Alexandre Simon",
+        "Eveline Bischoff"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Journal of Polymer Research",
+      "doi": "https://doi.org/10.1007/s10965-026-05158-0",
+      "url": "https://doi.org/10.1007/s10965-026-05158-0",
+      "abstract": "Abstract This study investigates the development of elastomeric composites based on ethylene-propylene-diene monomer (EPDM) and nitrile-butadiene rubber (NBR) reinforced with reduced graphene oxide (rGO). Given the limited literature on the combined use of rGO and compatibilizing agents in EPDM/NBR systems, this research focused on the effect of a maleic anhydride-grafted ethylene elastomer (E–g-MA) in EPDM, NBR and a 70/30 EPDM/NBR blend prepared using two-roll mill mixing. The rGO was characterized through X-ray diffraction, scanning electron microscopy (SEM) with quantitative energy-dispersive X-ray spectroscopy and thermogravimetric analysis, while the elastomer compounds were evaluated for cure characteristics, morphology, chemical resistance and mechanical properties before and after accelerated aging. SEM micrographs revealed that the combination of E–g-MA and rGO reduced the number of pull-out voids and produced a more homogeneous fracture surface in EPDM and in the EPDM/NBR blend. At higher E–g-MA and rGO content (1 phr), tensile strength improved 127% for EPDM and 81% for the blend, and the elongation at break of EPDM increased from 216 to 490%. Welch's ANOVA with Games-Howell post-hoc tests (α = 0.05) confirmed that these differences are statistically significant. For NBR, neither additive significantly changed the tensile properties, although 1 phr of rGO reduced the volume change in propanone from 70 to 41%. After accelerated aging, EPDM/NBR/1E-g-MA/1rGO reached a tensile strength of 5.1 MPa, compared with 2.2 MPa for the neat blend. This composite also showed a lower volume change than the neat blend after immersion (16% versus 31% in propanone and 194% versus 229% in fuel oil), whereas EPDM/1E-g-MA/1rGO showed increased swelling in propanone. These findings indicate that combining rGO and E–g-MA is an effective strategy for improving the strength and aging behavior of EPDM/NBR composites, although the reduced resistance of EPDM to polar solvents at the highest loading should be considered.",
+      "summary": "Abstract This study investigates the development of elastomeric composites based on ethylene-propylene-diene monomer (EPDM) and nitrile-butadiene rubber (NBR) reinforced with reduced graphene oxide (rGO). This composite also showed a lower volume change than the neat blend after immersion (16% versus 31% in propanone and 194% versus 229% in fuel oil), whereas EPDM/1E-g-MA/1rGO showed increased swelling in propanone. These findings indicate that combining rGO and E–g-MA is an effective strategy for improving the strength and aging behavior of EPDM/NBR composites, although the reduced resistance of EPDM to polar solvents at the highest loading should be considered.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225000368",
+      "title": "DBAASP V4: condition-resolved bioactivity and chemical structures for data-driven peptide and peptidomimetic discovery",
+      "authors": [
+        "Malak Pirtskhalava",
+        "Evgenia Alimbarashvili",
+        "Maia Grigolava",
+        "Mindia Chubinidze",
+        "Boris Vishnepolsky",
+        "Giorgi Zaalishvili",
+        "Romeo Karaputadze",
+        "Natia Samsonidze"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Nucleic Acids Research",
+      "doi": "https://doi.org/10.1093/nar/gkag1050",
+      "url": "https://doi.org/10.1093/nar/gkag1050",
+      "abstract": "The current peptide renaissance-driven by metagenomic and proteomic mining, molecular de-extinction, protein language models, and generative or evolutionary design-is producing millions of candidates, but useful machine learning depends on experimentally anchored, context-rich labels. The Database of Antimicrobial Activity and Structure of Peptides (DBAASP) is a manually curated resource linking peptides and peptidomimetics to quantitative antimicrobial, antibiofilm, anticancer, hemolytic, and mammalian-cell cytotoxicity measurements and their experimental conditions. DBAASP v4 contains >25 000 entries and extends the resource from a sequence-centered database to a structure-aware repository. Major additions include systematic SMILES representations, enhanced annotation of intrachain bonds and ring architectures, dedicated antibiofilm, and synergy records, PubChem links, >9200 molecular-dynamics trajectories, and new prediction services. The condition-resolved data support supervised learning, strain-, and target-specific models, model calibration, and surrogate fitness functions for genetic algorithms. SMILES representations further enable modeling of noncanonical peptides and peptidomimetics that cannot be adequately described by sequence alone. DBAASP therefore complements large peptide catalogues by providing the experimentally curated activity and structure layers, needed to convert sequence information into testable predictions, design, and optimization of biologically active compounds. DBAASP v4 is freely available at https://dbaasp.org.",
+      "summary": "The current peptide renaissance-driven by metagenomic and proteomic mining, molecular de-extinction, protein language models, and generative or evolutionary design-is producing millions of candidates, but useful machine learning depends on experimentally anchored, context-rich labels. DBAASP therefore complements large peptide catalogues by providing the experimentally curated activity and structure layers, needed to convert sequence information into testable predictions, design, and optimization of biologically active compounds. DBAASP v4 is freely available at https://dbaasp.org.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225002613",
+      "title": "A comprehensive review of computational strategies in the rational design of biosensors based on allosteric transcription factors for pollutant detection",
+      "authors": [
+        "Oluwatoba Emmanuel Oyeneyin"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Discover Chemistry.",
+      "doi": "https://doi.org/10.1007/s44371-026-01051-3",
+      "url": "https://doi.org/10.1007/s44371-026-01051-3",
+      "abstract": "Allosteric transcription factor (aTF)-based biosensors are powerful analytical tools for the detection of different analytes such as environmental pollutants and are widely used in medical diagnostics and environmental monitoring. These biosensors rely on ligand-induced conformational changes in transcription factors that regulate gene expression, thereby positioning them as low-cost, sensitive and selective components in biosensor design. In recent times, computational biology and chemistry techniques such as homology modelling, molecular docking, molecular dynamics (MD) simulations, free energy perturbation (FEP), enhanced sampling techniques and machine learning have been widely employed in the design and optimization of aTF-based biosensors. With these methods, the structures of proteins could be predicted, the ligand-binding pockets could be identified and characterized, the interactions therein could be analyzed and binding affinities could be predicted. Also, the conformational dynamics, allosteric and transition pathways, free energy landscapes, relative binding free energies of the ligand-aTF complexes can be predicted. Taken together, these can facilitate the engineering of aTFs with improved sensitivity and specificity. Therefore, this review highlights the individual and complementary roles of these computational techniques in the design and optimization of aTF-based biosensors and discusses the recent advances, current limitations and future directions in the design of next-generation aTF-based biosensors.",
+      "summary": "Allosteric transcription factor (aTF)-based biosensors are powerful analytical tools for the detection of different analytes such as environmental pollutants and are widely used in medical diagnostics and environmental monitoring. With these methods, the structures of proteins could be predicted, the ligand-binding pockets could be identified and characterized, the interactions therein could be analyzed and binding affinities could be predicted. Therefore, this review highlights the individual and complementary roles of these computational techniques in the design and optimization of aTF-based biosensors and discusses the recent advances, current limitations and future directions in the design of next-generation aTF-based biosensors.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225010672",
+      "title": "A hybrid transformer and Mamba network with mixture of experts for deformable multimodal 3D medical image registration",
+      "authors": [
+        "Hanae Mahmoudi",
+        "Jaouad Tagnamas",
+        "Hiba Ramadan",
+        "Jamal Riffi",
+        "Hamid Tairi"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Discover Artificial Intelligence",
+      "doi": "https://doi.org/10.1007/s44163-026-02611-3",
+      "url": "https://doi.org/10.1007/s44163-026-02611-3",
+      "abstract": "Deformable 3D multimodal medical image registration is a fundamental yet challenging task that requires accurate alignment of volumetric image pairs acquired from different imaging modalities, such as MRI and CT or MRI and TRUS, where large appearance differences, structural variability, and geometric misalignment make correspondence estimation particularly difficult. We propose DH-TMReg, a weakly supervised deformable cross-modality hybrid registration framework that integrates a Mixture-of-Experts (MoE) bottleneck to achieve accurate and robust 3D multimodal volumetric alignment. The architecture couples a Swin Transformer (ST) branch processing the fixed image and a Mamba Vision (MV) state-space model branch processing the moving image through a sequential cross-fusion strategy that progressively enriches each modality with complementary representations from the other across four hierarchical levels. To address the inherent geometric inconsistency between unregistered multimodal 3D image pairs, Deformable Cross-modal self-attention Fusion Skip Connections (DCASC) are applied at every encoder level to adaptively realign and fuse spatially inconsistent dual-branch features through learned deformable sampling offsets. At the bottleneck, a MoE module with top-2 gating over 8 expert networks dynamically routes features through specialized sub-networks to increase representational capacity without proportional computational overhead. Extensive experiments on two challenging 3D multimodal registration benchmarks demonstrate the effectiveness of the proposed method, achieving a mean Dice score of 0.837 ± 0.077 and ASSD of 3.386 ± 1.696 mm on the prostate MRI/TRUS dataset, and a mean Dice score of 0.9451 ± 0.0079 and ASSD of 0.916 ± 0.286 mm on the abdominal MRI/CT dataset, outperforming state-of-the-art multimodal registration methods on held-out test data.",
+      "summary": "Deformable 3D multimodal medical image registration is a fundamental yet challenging task that requires accurate alignment of volumetric image pairs acquired from different imaging modalities, such as MRI and CT or MRI and TRUS, where large appearance differences, structural variability, and geometric misalignment make correspondence estimation particularly difficult. At the bottleneck, a MoE module with top-2 gating over 8 expert networks dynamically routes features through specialized sub-networks to increase representational capacity without proportional computational overhead. Extensive experiments on two challenging 3D multimodal registration benchmarks demonstrate the effectiveness of the proposed method, achieving a mean Dice score of 0.837 ± 0.077 and ASSD of 3.386 ± 1.696 mm on the prostate MRI/TRUS dataset, and a mean Dice score of 0.9451 ± 0.0079 and ASSD of 0.916 ± 0.286 mm on the abdominal MRI/CT dataset, outperforming state-of-the-art multimodal registration methods on held-out test data.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225012855",
+      "title": "Human PSC-Derived Cardiac Cells for Heart Failure: From Cell Therapy to Engineered Tissue Patches",
+      "authors": [
+        "P. Heinrich",
+        "Eleonore Baier",
+        "Karl‐Ludwig Laugwitz",
+        "Christine M Poch",
+        "Alessandra Moretti"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Current Treatment Options in Cardiovascular Medicine",
+      "doi": "https://doi.org/10.1007/s11936-026-01164-z",
+      "url": "https://doi.org/10.1007/s11936-026-01164-z",
+      "abstract": "Abstract Purpose of Review This comprehensive overview evaluates recent progress in human pluripotent stem cell-derived cardiomyocyte therapies to improve the outcome of heart failure patients, with emphasis on delivery routes, early clinical employment, and the barriers for sustained functional cardiac repair. Recent Findings Multiple complementary strategies for cardiac remuscularization are being pursued in parallel, including single cell suspension, multicellular spheroids, cardiomyocyte sheets, and engineered myocardial tissues. Early clinical translation has established feasibility across several platforms, while engineered heart muscle has provided the clearest evidence of persistent graft retention and structural myocardial augmentation. Cardiomyocyte sheets have reached conditional regulatory approval, and catheter-based spheroid delivery is entering clinical evaluation. However, arrhythmogenicity, immune rejection, incomplete maturation and manufacturing complexity remain major challenges on the path to the clinic. Summary Pluripotent stem cell-derived cardiac products are transitioning from experimental concepts to clinically tested therapies. Future progress will depend on identifying the optimal patient population, product format and delivery route, reducing the need for immunosuppression, and demonstrating meaningful improvements in patient hospitalization, quality of life, and survival.",
+      "summary": "Abstract Purpose of Review This comprehensive overview evaluates recent progress in human pluripotent stem cell-derived cardiomyocyte therapies to improve the outcome of heart failure patients, with emphasis on delivery routes, early clinical employment, and the barriers for sustained functional cardiac repair. Summary Pluripotent stem cell-derived cardiac products are transitioning from experimental concepts to clinically tested therapies. Future progress will depend on identifying the optimal patient population, product format and delivery route, reducing the need for immunosuppression, and demonstrating meaningful improvements in patient hospitalization, quality of life, and survival.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225013337",
+      "title": "Complementary Hydrogen-Bonded Dual-Network Bismaleimides for Cohesive Adhesion at Metal–Polymer Interfaces",
+      "authors": [
+        "Jeong Hwa Yoon",
+        "Hayoung Cho",
+        "Jung Min Bae",
+        "Kisu Kim",
+        "Young Hoon Yoon",
+        "Min Wook Lee",
+        "Wonjin Na",
+        "Youngho Eom"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "ACS Applied Polymer Materials",
+      "doi": "https://doi.org/10.1021/acsapm.6c03620",
+      "url": "https://doi.org/10.1021/acsapm.6c03620",
+      "abstract": "Abstract Herein, we present a strategy for designing thermally stable adhesive compositions that synergistically balance hydrogen-bond-mediated interfacial adhesion with network-derived bulk cohesion. Complementary hydrogen bonding between carbazole- and benzophenone-based bismaleimides (BMIs) establishes a cohesive molecular framework, while 2,2′-diallylbisphenol A (DABPA)-mediated allyl–maleimide ene reactions regulate network evolution to alleviate brittleness and improve processability. Subsequent incorporation of low-viscosity epoxy prepolymer promotes substrate wetting and generates hydroxyl functionalities during curing while yielding an interpenetrating polymer network. Nonisothermal differential scanning calorimetry analyses of the BMI compositions revealed pseudo-first-order curing behavior, and kinetic modeling demonstrated composition-dependent curing kinetics that govern curing reactivity and melt processability. With the subsequent incorporation of 30 phr of epoxy prepolymer, BMI–DABPA exhibited a low melt viscosity of 0.019 Pa·s, providing sufficient fluidity for resin spreading and substrate wetting. The resulting complementary hydrogen-bonded dual-network BMI adhesive delivered a lap shear strength of 11.53 MPa on an Fe substrate while maintaining excellent thermal stability (Td5% > 407 °C; char yield >43% at 800 °C). This work demonstrates the potential of balancing adhesion, cohesion, and processing characteristics in BMI adhesives by designing a reactive monomer system of sufficiently low viscosity, providing a rational molecular design strategy for future developments.",
+      "summary": "Nonisothermal differential scanning calorimetry analyses of the BMI compositions revealed pseudo-first-order curing behavior, and kinetic modeling demonstrated composition-dependent curing kinetics that govern curing reactivity and melt processability. The resulting complementary hydrogen-bonded dual-network BMI adhesive delivered a lap shear strength of 11.53 MPa on an Fe substrate while maintaining excellent thermal stability (Td5% > 407 °C; char yield >43% at 800 °C). This work demonstrates the potential of balancing adhesion, cohesion, and processing characteristics in BMI adhesives by designing a reactive monomer system of sufficiently low viscosity, providing a rational molecular design strategy for future developments.",
+      "techniques": [
+        "DSC"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225014057",
+      "title": "Advances in electrode materials and interfacial chemistry of lithium-ion-based energy storage devices",
+      "authors": [
+        "Snehal S. More",
+        "Arpit B. Mendhe",
+        "Himanshu Sekhar Panda"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Discover Electrochemistry.",
+      "doi": "https://doi.org/10.1007/s44373-026-00183-6",
+      "url": "https://doi.org/10.1007/s44373-026-00183-6",
+      "abstract": "Recently, lithium-ion capacitors (LICs) have emerged as a new energy-storage technology that combines the characteristics of lithium-ion batteries (LIBs) and supercapacitors. Their development has been driven by the growing demand for electrified transportation, stationary grid-storage systems, and portable electronic devices. In this review, recent advances in electrode materials and electrolyte chemistry, as well as interfacial phenomena for performance evaluation of LIBs and LICs, are discussed. Various carbon anodes and cathodes, transition metal oxides, phosphates, and chalcogenide-layered materials, as well as aqueous, nonaqueous, solid-state, and gel-polymer electrolytes used in LIBs and LICs are reviewed. Performance comparisons among electrode materials and full cells are presented, and the limitations of using metal electrodes, as well as strategies to improve them, are evaluated. The kinetic trade-off between the battery anode and the capacitor cathode, the balancing of electrode mass ratios, and the SEI/CEI interphases under high-voltage and high-rate regimes are considered in detail, along with recycling technologies and environmentally friendly synthesis routes for biomass-based electrode materials. Through systematic comparison of materials, mechanisms, performance, and degradation pathways, this review offers a practical approach to screening suitable electrode-electrolyte pairs for safer, more durable, and higher-performing future LIBs and LICs.",
+      "summary": "Recently, lithium-ion capacitors (LICs) have emerged as a new energy-storage technology that combines the characteristics of lithium-ion batteries (LIBs) and supercapacitors. Performance comparisons among electrode materials and full cells are presented, and the limitations of using metal electrodes, as well as strategies to improve them, are evaluated. Through systematic comparison of materials, mechanisms, performance, and degradation pathways, this review offers a practical approach to screening suitable electrode-electrolyte pairs for safer, more durable, and higher-performing future LIBs and LICs.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能",
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。 可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225015322",
+      "title": "Cellulose Nanocrystal‐Reinforced Polyurethane Foams From Sawdust Liquefaction Using Crude Glycerol and Polyethylene Glycol",
+      "authors": [
+        "Nahid Rastegarfar",
+        "Rabi Behrooz",
+        "Mehdi Barikani"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Journal of Applied Polymer Science",
+      "doi": "https://doi.org/10.1002/app.71721",
+      "url": "https://doi.org/10.1002/app.71721",
+      "abstract": "ABSTRACT Rigid polyurethane (PU) nanocomposite foams were prepared from a sawdust‐derived polyol obtained by liquefaction with crude glycerol (CG) and polyethylene glycol (PEG) and reinforced with cellulose nanocrystals (CNCs) at 0, 1, 3, and 5 wt% relative to polyol mass. CNC morphology was examined by atomic force microscopy (AFM), while foam morphology, chemical structure, thermal stability, density, compressive strength, and thermal conductivity were evaluated by scanning electron microscopy (SEM), Fourier transform infrared spectroscopy (FTIR), thermogravimetric analysis (TGA), density measurements, compression testing, and thermal conductivity analysis. Increasing CNC content decreased the average cell diameter from 170 to 80 μm. Foam density increased from 0.071 to 0.093 g cm −3 , while compressive strength enhanced from 0.275 to 0.410 MPa. The density‐normalized compressive strength promoted from 3.87 to 4.41 MPa (g cm −3 ) −1 , indicating that the mechanical improvement was not attributable to density alone. In addition, the degradation temperature increased and thermal conductivity decreased from 0.034 to 0.022 W m −1 K −1 . The FTIR spectra confirmed the successful formation of urethane linkages during the polymerization process. The results demonstrated the potential of CNCs to improve the performance of bio‐based polyurethane foams containing sawdust‐derived polyols.",
+      "summary": "ABSTRACT Rigid polyurethane (PU) nanocomposite foams were prepared from a sawdust‐derived polyol obtained by liquefaction with crude glycerol (CG) and polyethylene glycol (PEG) and reinforced with cellulose nanocrystals (CNCs) at 0, 1, 3, and 5 wt% relative to polyol mass. CNC morphology was examined by atomic force microscopy (AFM), while foam morphology, chemical structure, thermal stability, density, compressive strength, and thermal conductivity were evaluated by scanning electron microscopy (SEM), Fourier transform infrared spectroscopy (FTIR), thermogravimetric analysis (TGA), density measurements, compression testing, and thermal conductivity analysis. The results demonstrated the potential of CNCs to improve the performance of bio‐based polyurethane foams containing sawdust‐derived polyols.",
+      "techniques": [
+        "TGA"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225017680",
+      "title": "Microwave‐Assisted Synthesis of Fly Ash/Bamboo Leaf Ash‐Based Geopolymer for Methylene‐Blue Adsorption",
+      "authors": [
+        "Khoa Dang Nguyen",
+        "Anh Thi Kim Phan",
+        "Anh Phuong Le Thi"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Water Environment Research",
+      "doi": "https://doi.org/10.1002/wer.70647",
+      "url": "https://doi.org/10.1002/wer.70647",
+      "abstract": "ABSTRACT Despite its significant economic contribution, the textile industry remains a major source of dye pollution due to extensive untreated wastewater discharge. This study introduced a facile microwave–assisted strategy for converting fly ash (FA) and bamboo leaf ash (BLA) into value‐added porous geopolymer composites for the adsorption of methylene blue (MB) from aqueous solutions. By systematically varying the FA/BLA ratio, it reveals how BLA incorporation governs composite properties and organic‐dye removal performance. As the BLA content increased from 0% (100FA) to 60% (40FA60BLA) in the geopolymer composition, both the BET surface area and BJH pore volume increased significantly. The sample 100FA showed a surface area of 24.4 m 2 /g and a pore volume of 0.019 cm 3 /g, whereas 40FA60BLA reached 54.6 m 2 /g and 0.045 cm 3 /g, respectively. The high silica content in BLA facilitated the formation of smaller pores in the geopolymer network, fitting the Langmuir isotherm model and achieving a maximum MB‐adsorption capacity of 26.6 mg/g. Moreover, these geopolymers with the addition of BLA still gained above 50% of removal percentage of MB molecules after five consecutive cycles. Moreover, the incorporation of BLA also enhanced the treatment of real textile wastewater compared to those of FA geopolymer. These findings suggested that the incorporation of BLA into FA‐based geopolymers provided an effective and sustainable strategy for dye removal in wastewater treatment while promoting the valorization of industrial by‐product and agricultural waste.",
+      "summary": "ABSTRACT Despite its significant economic contribution, the textile industry remains a major source of dye pollution due to extensive untreated wastewater discharge. By systematically varying the FA/BLA ratio, it reveals how BLA incorporation governs composite properties and organic‐dye removal performance. These findings suggested that the incorporation of BLA into FA‐based geopolymers provided an effective and sustainable strategy for dye removal in wastewater treatment while promoting the valorization of industrial by‐product and agricultural waste.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225018986",
+      "title": "Multifunctional composite magnetic particles combined with static magnetic field for treating infectious bone defects via SLC2A1-mediated HIF-1 and PI3K/AKT pathways",
+      "authors": [
+        "Mingming Huang",
+        "Yuqi Li",
+        "Ludan Qin",
+        "Xin Gao",
+        "Yiyang Tang",
+        "Tian-Yun Huang",
+        "Jianmin Han",
+        "Menglong Hu"
+      ],
+      "publication_date": "2026-10-31",
+      "journal": "Discover Nano",
+      "doi": "https://doi.org/10.1186/s11671-026-04923-w",
+      "url": "https://doi.org/10.1186/s11671-026-04923-w",
+      "abstract": "Abstract Infectious bone defects are a major challenge in orthopedics and stomatology, requiring strategies that eliminate bacteria and promote osteogenesis. Here, we developed a multifunctional composite magnetic particle system (F-Fe 3 O 4 ) and demonstrate its synergistic combination with a static magnetic field (SMF) for treating infectious bone defects. In vitro, F-Fe 3 O 4 demonstrated good biocompatibility with human bone marrow-derived mesenchymal stem cells (hBMSCs) and facilitated their proliferation, migration, and osteogenic differentiation, while inhibiting the growth of Escherichia coli , Staphylococcus aureus , and Enterococcus faecalis . With the application with SMF, the aforementioned effects are further enhanced. The in vivo studies in the rat model further revealed that F-Fe 3 O 4 combined with SMF can reduce early infection, alleviate inflammation, and accelerate new bone formation. Mechanistically, RNA sequencing and verification experiments revealed that the combination therapy upregulated SLC2A1 -mediated glucose uptake and activated HIF-1 and PI3K/AKT signaling pathways, thereby enhancing the osteogenic differentiation of hBMSCs. In conclusion, this study developed an efficient treatment approach for infectious bone defects by integrating F-Fe 3 O 4 and SMF.",
+      "summary": "Abstract Infectious bone defects are a major challenge in orthopedics and stomatology, requiring strategies that eliminate bacteria and promote osteogenesis. Here, we developed a multifunctional composite magnetic particle system (F-Fe 3 O 4 ) and demonstrate its synergistic combination with a static magnetic field (SMF) for treating infectious bone defects. In conclusion, this study developed an efficient treatment approach for infectious bone defects by integrating F-Fe 3 O 4 and SMF.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -1371,6 +1859,86 @@
         "高分子与复合材料"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7155416673",
+      "title": "Processing‐Driven Engineering of Transparent Conductive In‐Zn‐O Thin Films: A Comparative Study of Spin‐Coating, Inkjet Printing, and Screen Printing",
+      "authors": [
+        "Danjela Kuščer",
+        "Izabela Čurković",
+        "Brigita Kmet",
+        "Aleksander Matavž"
+      ],
+      "publication_date": "2026-10-30",
+      "journal": "Advanced Materials Technologies",
+      "doi": "https://doi.org/10.1002/admt.71447",
+      "url": "https://doi.org/10.1002/admt.71447",
+      "abstract": "ABSTRACT Transparent conductive oxides are essential materials for optoelectronic applications. However, achieving both high electrical conductivity and optical transparency with solution‐compatible deposition techniques remains challenging. In this work, In–Zn–O thin films are fabricated using three complementary solution‐based methods, spin coating, inkjet printing, and screen printing, with tailored solutions optimized for each technique. Although identical thermal treatments are applied, the deposition technique significantly affects film thickness, microstructure, and the resulting optical and electrical properties. All films are amorphous, with grain sizes ranging from a few nanometres to approximately 300 nm, depending on nucleation density controlled by solution concentration. After annealing in a reducing atmosphere, the films exhibit low electrical resistivity (1–100 mΩ cm), high optical transparency (>90% in the visible–NIR range), and direct bandgaps of 3.3–3.6 eV. Spectroscopic ellipsometry indicates uniform optical properties for printed films, while spin‐coated films show slight inhomogeneity linked to their layered microstructure. These results clarify the interplay between solution chemistry, deposition method, and drying conditions in tuning the optoelectronic performance of In–Zn–O thin films. This study presents the first demonstration of conductive and transparent In–Zn–O thin films produced by screen printing.",
+      "summary": "ABSTRACT Transparent conductive oxides are essential materials for optoelectronic applications. Spectroscopic ellipsometry indicates uniform optical properties for printed films, while spin‐coated films show slight inhomogeneity linked to their layered microstructure. These results clarify the interplay between solution chemistry, deposition method, and drying conditions in tuning the optoelectronic performance of In–Zn–O thin films.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7171487699",
+      "title": "Elevated near-surface Ångström exponent peaks from dualwavelength CLADS over the North China Plain",
+      "authors": [
+        "Yuxuan Bian",
+        "Wanyun Xu",
+        "Gang Zhao",
+        "Ye Kuang",
+        "Jiangchuan Tao",
+        "Nan Ma",
+        "Chunsheng Zhao"
+      ],
+      "publication_date": "2026-10-30",
+      "journal": "Environmental Research Communications",
+      "doi": "https://doi.org/10.1088/2515-7620/aebc18",
+      "url": "https://doi.org/10.1088/2515-7620/aebc18",
+      "abstract": "Abstract Near-surface aerosol Ångström exponent (AE) profiles are needed for size-related air-quality assessment and to reduce uncertainties in multi-wavelength optical retrievals, yet pulsed lidars typically cannot resolve the lowest few hundred metres and surface in-situ optics lack vertical coverage. Using dual-wavelength (405/532 nm) charge-coupled device–laser aerosol detection system (CLADS)—an imaging lidar with dual laser and dual CCD—we retrieve continuous nocturnal AE and extinction profiles from the ground through the boundary layer over seven nights in November 2018 at Gucheng (North China Plain) during the McFAN campaign. On each of the seven nights, multi-layer AE structure is resolved below ~1.5 km. The central result is a recurrent elevated AE peak: while dual-wavelength extinction is highest at the surface, AE systematically maximizes in the ~110–230 m band (composite median near ~180 m), with a surface-to-peak contrast of ~1.1–1.4 relative to the 10–50 m layer (~1.0–1.3 if the two lowest bins, 10 and 20 m, are excluded and the surface reference is taken as 30–50 m). Aerosol loading and size-sensitive spectral slope are therefore vertically decoupled. Near-surface CLADS extinction at 405 and 532 nm covaries strongly with co-located dry nephelometry (pooled R ≈ 0.88–0.92). By resolving the lower-boundary-layer blind zone, dual-wavelength CLADS indicates that, in these cases, surface-based AE measurements can under-represent the fine-particle-dominated layer aloft, which is relevant to satellite/lidar retrieval constraints and boundary-layer radiative calculations. Nocturnal stable stratification is a plausible but untested explanation, because no concurrent thermodynamic profiles were available.",
+      "summary": "Abstract Near-surface aerosol Ångström exponent (AE) profiles are needed for size-related air-quality assessment and to reduce uncertainties in multi-wavelength optical retrievals, yet pulsed lidars typically cannot resolve the lowest few hundred metres and surface in-situ optics lack vertical coverage. The central result is a recurrent elevated AE peak: while dual-wavelength extinction is highest at the surface, AE systematically maximizes in the ~110–230 m band (composite median near ~180 m), with a surface-to-peak contrast of ~1.1–1.4 relative to the 10–50 m layer (~1.0–1.3 if the two lowest bins, 10 and 20 m, are excluded and the surface reference is taken as 30–50 m). By resolving the lower-boundary-layer blind zone, dual-wavelength CLADS indicates that, in these cases, surface-based AE measurements can under-represent the fine-particle-dominated layer aloft, which is relevant to satellite/lidar retrieval constraints and boundary-layer radiative calculations.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "高分子与复合材料",
+        "电子与封装"
+      ],
+      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7221855458",
+      "title": "Host seasonal trophic strategies linked to dietary‐microbiota coupling: A potential mechanism mediating the coexistence of sympatric small rodents",
+      "authors": [
+        "Honglei Chang",
+        "Chen Gu",
+        "Desheng Zou",
+        "Xinxing Wang",
+        "Ruiping Xu",
+        "Shuai Zheng",
+        "Mingxue Ran",
+        "Tong Wang"
+      ],
+      "publication_date": "2026-10-30",
+      "journal": "Journal of Animal Ecology",
+      "doi": "https://doi.org/10.1111/1365-2656.70383",
+      "url": "https://doi.org/10.1111/1365-2656.70383",
+      "abstract": "The coexistence mechanisms of sympatric species have long attracted widespread research attention. However, it remains unclear whether sympatric species experiencing the same seasonal conditions exhibit convergent or host-specific gut microbiota responses. We compared the herbivorous Brandt's vole (Lasiopodomys brandtii) and the granivorous Mongolian gerbil (Meriones unguiculatus), two sympatric rodent species with divergent trophic strategies inhabiting the grasslands of Inner Mongolia, China. By integrating plant DNA metabarcoding, gut microbiota profiling and microbial functional output analyses across seasons, we investigated seasonal dietary-microbiome associations. Our results revealed that although seasonal dietary variation affects the composition of the host gut microbiota, the taxonomic and functional plasticity of gut microbiota is strongly influenced by host trophic strategies. Brandt's voles maintained a fermentation-oriented microbiota tightly coupled with seasonal shifts in Poaceae and Cyperaceae intake, exhibiting coordinated changes in microbial taxa, short-chain fatty acid production and cellulase activity. In contrast, Mongolian gerbils exhibited substantial seasonal dietary turnover between Chenopodiaceae and Caragana plants, while maintaining comparatively stable microbial functional outputs, suggesting metabolic buffering. Host trophic strategy, rather than shared environmental seasonality, is related to the strength and functional consequences of the coupling between diet and microbiome. Our results emphasize the gut microbiome as a potential key mechanism underlying trophic niche differentiation and ecological coexistence in wild mammalian communities.",
+      "summary": "The coexistence mechanisms of sympatric species have long attracted widespread research attention. Our results revealed that although seasonal dietary variation affects the composition of the host gut microbiota, the taxonomic and functional plasticity of gut microbiota is strongly influenced by host trophic strategies. Our results emphasize the gut microbiome as a potential key mechanism underlying trophic niche differentiation and ecological coexistence in wild mammalian communities.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7150,573 +7718,6 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223300219",
-      "title": "Effect of a Surfactant on Fabrication and Released Property of Nanopesticides Based on a Covalent Organic Framework",
-      "authors": [
-        "Jiexiang Liu",
-        "程广泽",
-        "xiaoguang Zhang"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "ACS Omega",
-      "doi": "https://doi.org/10.1021/acsomega.6c06661",
-      "url": "https://doi.org/10.1021/acsomega.6c06661",
-      "abstract": "Abstract The triaminoguanidine covalent organic framework (COF) has abundant cationic charges, excellent stability, and strong adsorption capacity, which make it become a potential drug release carrier. In this study, two kinds of COFs, COF1 and COF2, were prepared by reacting triaminoguanidine hydrochloride with 2,5-dihydroxyp-benzaldehyde and 3,3′-dihydroxyl-[1,1′-biphenyl]-4,4′-diformaldehyde, respectively, and then the COF was combined with dinotefuran (DIN)-solubilized surfactant (S) micelles to obtain a series of DIN@S-COF nanopesticides. The effect of S on the structures of S-COF and DIN@S-COF was investigated by XRD, FT-IR, TGA/DTA, contact angle, SEM, and BET methods. The pore diameter of COF2 (2.4 nm) was higher than that of COF1 (1.6 nm). The pore sizes of S-COF1 and DIN@S-COF1 were obviously larger than that of COF1, and those of S-COF2 and DIN@S-COF2 were changed. The effect of S on the release behavior of DIN@S-COF was also investigated and discussed. DIN@DSS (SDS, MADS, AOT)-COF1 and DIN@AOT-COF2 displayed a sustained release behavior. The release behavior was mainly influenced by the pore diameter of the COF, surfactant structure, and the attractive interaction between COF, S, and DIN. The DIN release from the composite could be well fitted by parabolic diffusion and pseudo-second-order models. COFs had the potential application as a new and efficient pesticide delivery system.",
-      "summary": "Abstract The triaminoguanidine covalent organic framework (COF) has abundant cationic charges, excellent stability, and strong adsorption capacity, which make it become a potential drug release carrier. The effect of S on the structures of S-COF and DIN@S-COF was investigated by XRD, FT-IR, TGA/DTA, contact angle, SEM, and BET methods. COFs had the potential application as a new and efficient pesticide delivery system.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223300642",
-      "title": "Cellulose acetate nanoparticles: impacts of concentration and exposure time on the biochemistry and hematology of juvenile Colossoma macropomum",
-      "authors": [
-        "Camila Gomes de Oliveira",
-        "Túlio Pacheco Boaventura",
-        "Fábio Aremil Costa dos Santos",
-        "André de Sena Souza",
-        "Sidney dos Santos Silva",
-        "Imaculada de Morais Carvalho Ananias",
-        "Camila Silva Brey Gil",
-        "Ronald Kennedy Luz"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Ecotoxicology",
-      "doi": "https://doi.org/10.1007/s10646-026-03174-w",
-      "url": "https://doi.org/10.1007/s10646-026-03174-w",
-      "abstract": "Abstract This study evaluated the physiological impacts of acute-exposure of tambaqui ( Colossoma macropomum ) to different concentrations of cellulose acetate nanoparticles at different sampling times. A total of 120 juvenile C. macropomum (38.91 ± 5.57 g and 13.76 ± 0.74 cm in total length) were distributed in 12 tanks of 150 L, in a recirculating aquaculture system (RAS). The juveniles were kept in water containing cellulose acetate nanoparticles (CANs) at four different concentrations (treatments): 0 mg L − ¹, 0.01 mg L − ¹, 0.10 mg L − ¹ and 1.00 mg L − ¹. Blood samples were collected after 1 and 24 h of exposure. The juveniles were then relocated to a tank with clean water, where they remained for another 24 h, after which a new blood sample was collected (24 h). Hemoglobin, serum protein and globulin were reduced after 1 h of exposure for the group exposed to 1.00 mg L − ¹ of CANs. Glucose levels increased after 24 h for the groups exposed to 0.10 and 1.00 mg L − ¹. Urea increased after 1 h for the groups exposed to 0.10 and 1.00 mg L − ¹. Triglycerides and cholesterol were reduced both after 1 h and 24 h of exposure for the 1.00 mg L − ¹ group, returning to baseline levels at 24 h. The activities of aspartate aminotransferase (AST) and alanine aminotransferase were altered after 24 h. Albumin was lower after 1 h and 24 h compared to after 24 h for the 1.00 mg L − ¹ group. Exposure of juvenile C. macropomum to CANs caused transient physiological changes, with partial recovery being observed after transfer to clean water.",
-      "summary": "Abstract This study evaluated the physiological impacts of acute-exposure of tambaqui ( Colossoma macropomum ) to different concentrations of cellulose acetate nanoparticles at different sampling times. Albumin was lower after 1 h and 24 h compared to after 24 h for the 1.00 mg L − ¹ group. macropomum to CANs caused transient physiological changes, with partial recovery being observed after transfer to clean water.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223303068",
-      "title": "Nanocochleates as Smart Lipidic Nanocarriers for Improved Anticancer Therapy Recent Advances and Future Perspectives",
-      "authors": [],
-      "publication_date": "2026-10-23",
-      "journal": "International Journal of Drug Delivery Technology",
-      "doi": "https://doi.org/10.25258/ijddt.16.77s.128",
-      "url": "https://doi.org/10.25258/ijddt.16.77s.128",
-      "abstract": "Cancer therapy is frequently limited by poor aqueous solubility, inadequate bioavailability, rapid degradation, nonspecific distribution, systemic toxicity, and multidrug resistance, creating a need for advanced drug-delivery systems.Nanocochleates have emerged as promising lipidic nanocarriers characterized by compact, tightly packed multilamellar structures formed through interactions between negatively charged phospholipids and divalent cations, particularly calcium ions.Their distinctive architecture provides drug protection, improved retention, and potential for sustained and controlled release.This review discusses the development of nanocochleates as smart nanocarriers for improved anticancer therapy, with emphasis on their fundamental characteristics, composition, formation mechanisms, preparation approaches, and physicochemical characterization.Their potential for delivering conventional anticancer agents and poorly bioavailable natural compounds is discussed, including applications involving doxorubicin, fisetin, paclitaxel, curcumin, quercetin, and resveratrol.Particular attention is given to passive and active tumor targeting, folate-, antibody-, peptide-, and tumor-microenvironment-based strategies, as well as pH-, redox-, enzyme-, and reactive oxygen species-responsive systems.The review further highlights nanocochleateenabled combination therapy, drug/gene co-delivery, immunotherapy integration, and potential approaches for overcoming multidrug resistance.Safety, toxicity, biocompatibility, formulation reproducibility, scale-up, quality control, regulatory requirements, and clinical translation are also considered.Future perspectives include multifunctional and theranostic nanocochleates, artificial intelligence-assisted formulation optimization, Quality by Design, personalized nanomedicine, and scalable manufacturing.Overall, nanocochleates represent a promising platform for precision cancer therapy, although rigorous in vivo validation, standardized manufacturing, long-term safety assessment, and well-designed clinical studies are required to establish their therapeutic and translational value and demonstrate clear advantages over established nanomedicine platforms in efficacy, safety, stability, and patientspecific therapeutic outcomes.",
-      "summary": "Cancer therapy is frequently limited by poor aqueous solubility, inadequate bioavailability, rapid degradation, nonspecific distribution, systemic toxicity, and multidrug resistance, creating a need for advanced drug-delivery systems.Nanocochleates have emerged as promising lipidic nanocarriers characterized by compact, tightly packed multilamellar structures formed through interactions between negatively charged phospholipids and divalent cations, particularly calcium ions.Their distinctive architecture provides drug protection, improved retention, and potential for sustained and controlled release.This review discusses the development of nanocochleates as smart nanocarriers for improved anticancer therapy, with emphasis on their fundamental characteristics, composition, formation mechanisms, preparation approaches, and physicochemical characterization.Their potential for delivering conventional anticancer agents and poorly bioavailable natural compounds is discussed, including applications involving doxorubicin, fisetin, paclitaxel, curcumin, quercetin, and resveratrol.Particular attention is given to passive and active tumor targeting, folate-, antibody-, peptide-, and tumor-microenvironment-based strategies, as well as pH-, redox-, enzyme-, and reactive oxygen species-responsive systems.The review further highlights nanocochleateenabled combination therapy, drug/gene co-delivery, immunotherapy integration, and potential approaches for overcoming multidrug resistance.Safety, toxicity, biocompatibility, formulation reproducibility, scale-up, quality control, regulatory requirements, and clinical translation are also considered.Future perspectives include multifunctional and theranostic nanocochleates, artificial intelligence-assisted formulation optimization, Quality by Design, personalized nanomedicine, and scalable manufacturing.Overall, nanocochleates represent a promising platform for precision cancer therapy, although rigorous in vivo validation, standardized manufacturing, long-term safety assessment, and well-designed clinical studies are required to establish their therapeutic and translational value and demonstrate clear advantages over established nanomedicine platforms in efficacy, safety, stability, and patientspecific therapeutic outcomes.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析",
-        "食品与脂质"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223304976",
-      "title": "Circadian rhythms in health and disease",
-      "authors": [
-        "Xiaoyan Liu",
-        "Xuewei Du",
-        "Sumeng Qi",
-        "Lin Yuan",
-        "LiYu Liu",
-        "Kaiyu Zhang",
-        "Liqin Wang",
-        "Wanlu Zhang"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Molecular Biomedicine",
-      "doi": "https://doi.org/10.1186/s43556-026-00646-7",
-      "url": "https://doi.org/10.1186/s43556-026-00646-7",
-      "abstract": "Abstract Circadian rhythms, serving as a crucial temporal bridge linking neural activity and pathological biology, are regulated by central pacemaker neurons to maintain cellular homeostasis and coordinate diverse biological processes. Circadian rhythm disruption is closely associated with various diseases, including neurodegenerative disorders, metabolic disorders, and cancer. Circadian rhythms are controlled by core clock genes, such as BMAL1 and CLOCK, modulating numerous physiological processes, encompassing metabolism, immune responses, neural activity, and hormone regulation. Circadian rhythms disruptions arising from shift work, jet lag, or inconsistent sleep schedules are implicated in both the onset and progression of numerous diseases, notably Alzheimer's disease, Parkinson's disease, diabetes, and cardiovascular disease. The article highlights how circadian dysregulation alters cellular processes to potentially accelerate disease progression. Circadian disruption results in impaired immune function, further promoting disease development and resistance to treatment. Potential therapeutic applications based on circadian biology, such as chronotherapy and personalized medicine, are also discussed. Recent technological advances, embodied in wearable devices and omics approaches, are increasingly providing deeper insights into circadian biology. Further unveiling the role of circadian in health and disease opens new avenues for tailoring treatment timing to patients' biological rhythms, thereby enhancing therapeutic outcomes across various diseases. By bridging fundamental circadian mechanisms with clinical pathology, this review provides a roadmap for future chronotherapeutic interventions in precision medicine.",
-      "summary": "Abstract Circadian rhythms, serving as a crucial temporal bridge linking neural activity and pathological biology, are regulated by central pacemaker neurons to maintain cellular homeostasis and coordinate diverse biological processes. Circadian disruption results in impaired immune function, further promoting disease development and resistance to treatment. Potential therapeutic applications based on circadian biology, such as chronotherapy and personalized medicine, are also discussed.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223305140",
-      "title": "Silica–Chitosan Hybrid Gels: Preparation, Solution Chemistry, Optical and Thermal Properties",
-      "authors": [
-        "Nina Danchova",
-        "Dimitar Shandurkov",
-        "Tony  G. Spassov",
-        "Stoyan Gutzov"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Gels",
-      "doi": "https://doi.org/10.3390/gels12110951",
-      "url": "https://doi.org/10.3390/gels12110951",
-      "abstract": "Silica–chitosan hybrid gel composites containing up to 3.3 wt% chitosan are prepared by a simple and reproducible sol–gel route based on the acid-catalyzed hydrolysis and condensation of tetraethoxysilane. The resulting materials are characterized by UV–Vis and FTIR spectroscopy, thermogravimetric and differential thermal analysis, scanning electron microscopy, X-ray diffraction, and thermal conductivity measurements. Increasing the chitosan content resulted in densification of the silica network from 1.56 to 1.70 g·cm−3. Even at low chitosan concentrations, its incorporation produces measurable changes in the structural, optical, and thermal properties of the sol–gel-derived silica, thus preserving its amorphous nature. The thermal conductivity of the gels decreases from 0.1 W/m·KW/m·K to 0.09 W/m·K with chitosan doping, combined with an increase in optical absorption at 300 nm. A simple empirical method based on UV–Vis reflectance spectroscopy is proposed for determining the chitosan content in silica powders. Optical properties of low-doped silica gels and chitosan solutions are described. Hydrothermal treatment of the chitosan solution improves optical absorption at 285 nm. Overall, the preparation–structure–property relationships of the hybrid gels demonstrate their potential as optical matrices with tunable properties.",
-      "summary": "Silica–chitosan hybrid gel composites containing up to 3.3 wt% chitosan are prepared by a simple and reproducible sol–gel route based on the acid-catalyzed hydrolysis and condensation of tetraethoxysilane. A simple empirical method based on UV–Vis reflectance spectroscopy is proposed for determining the chitosan content in silica powders. Overall, the preparation–structure–property relationships of the hybrid gels demonstrate their potential as optical matrices with tunable properties.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223307885",
-      "title": "Reprogramming secretion systems in Klebsiella quasipneumoniae: from pathogenic functions to candidate industrial secretion chassis",
-      "authors": [
-        "Yongli Li",
-        "刘丽霞",
-        "Jian Zhang",
-        "Guoguang Wei",
-        "Long Zhang",
-        "YuanJie Lu",
-        "Peiyong Qin",
-        "Zhanying Liu"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Frontiers in Bioengineering and Biotechnology",
-      "doi": "https://doi.org/10.3389/fbioe.2026.1940225",
-      "url": "https://doi.org/10.3389/fbioe.2026.1940225",
-      "abstract": "Efficient extracellular secretion remains a major bottleneck in microbial cell factories, motivating the search for chassis organisms with native high-throughput transport capacity. Klebsiella quasipneumoniae (Kqp), a recently delineated member of the Klebsiella pneumoniae species complex, encodes diverse secretion-related systems, including RND-type efflux pumps, type II and type VI secretion systems (T2SS/T6SS), outer membrane vesicle (OMV) pathways, and capsular polysaccharide (CPS) export machinery. In clinical settings, these systems contribute to opportunistic pathogenicity, antimicrobial resistance, and host adaptation; in biotechnology, they may provide transport modules that can be detoxified and redirected for extracellular production. This review examines the feasibility of reprogramming Kqp from a pathogen-related bacterium into a safe industrial secretion chassis. We summarize the molecular architecture, substrate-recognition logic, and regulatory networks of major secretion pathways, then discuss CRISPR-Cas-driven removal of virulence and resistance determinants, biocontainment, and synthetic-biology strategies for reallocating secretory capacity. We further survey potential applications in bulk chemicals, human milk oligosaccharides, recombinant proteins, and industrial enzymes. Finally, we identify key barriers to industrial translation, including growth-secretion energetic trade-offs, periplasmic protein misfolding, endotoxin-associated downstream processing, OMV heterogeneity, scale-up robustness, and quantitative safety validation. Establishing Kqp as an industrial chassis will require evidence-tiered strain selection, quantitative secretion-capacity measurement, regulatory decoupling of resistance-associated pumps, and One Health-aligned safety assessment. Direct evidence in K. quasipneumoniae remains limited; therefore, this review distinguishes direct Kqp observations from studies in other KpSC members or K. oxytoca , evidence from non-Klebsiella hosts, and forward-looking proposals. OMV yield is considered separately from lipid A/endotoxin-related properties.",
-      "summary": "Efficient extracellular secretion remains a major bottleneck in microbial cell factories, motivating the search for chassis organisms with native high-throughput transport capacity. We further survey potential applications in bulk chemicals, human milk oligosaccharides, recombinant proteins, and industrial enzymes. OMV yield is considered separately from lipid A/endotoxin-related properties.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质",
-        "电子与封装"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223308308",
-      "title": "Comprehensive characterization of shilajit from varied provenance: elemental profile, urolithin A content, and antimicrobial activity",
-      "authors": [
-        "Nodari Rizun",
-        "Dan Goia",
-        "Srđan Stefanović",
-        "Saša Janković",
-        "Jovana D. Matić",
-        "Marijana Kosanić",
-        "Sanja Rackov",
-        "Nenad Janković"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "npj Science of Food",
-      "doi": "https://doi.org/10.1038/s41538-026-01197-5",
-      "url": "https://doi.org/10.1038/s41538-026-01197-5",
-      "abstract": "Shilajit is an exudate rich in humic substances that collected from rocks in several mountain ranges and has been used for centuries in traditional medicine for fatigue, physical performance, and general vitality. Ten shilajit samples from five mountain regions (Himalayas, Andes, Altai, Caucasus, and Carpathians) were assessed by differential scanning calorimetry (DSC), elemental composition by inductively coupled plasma mass spectrometry (ICP-MS), urolithin A (Uro-A) content by liquid chromatography–tandem mass spectrometry (LC-MS/MS), and antimicrobial activity by broth microdilution against five bacterial and five fungal species. DSC identified two distinct thermal groups: seven samples showed only melting transitions between 100–159 °C, while three samples exhibited low-temperature crystallization and sub-zero melting. ICP-MS revealed potassium as the dominant macroelement (up to ~95,600 ppm), with essential trace elements (selenium, zinc and iron) and toxic elements [arsenic (0.14–1.34 ppm), cadmium (0.01–0.10 ppm) and lead (0.35–3.01 ppm)] all present at levels well within FDA/WHO tolerable intake thresholds, comparable to background levels reported in common foods such as dark chocolate. Uro-A content was strongly solvent-dependent, ranging from 0.07 to 1.63 ppm in methanol to 3.46–58.46 ppm in a methanol/ethyl acetate mixture. Antimicrobial activity was species-dependent (MIC 3.12–25 mg/mL), limited to Bacillus subtilis and Staphylococcus aureus and only two fungal strains ( Mucor mucedo and Geotrichum candidum ), with no activity against the Escherichia coli and Proteus mirabilis . These findings support shilajit’s compositional diversity and highlight Uro-A as its most promising bioactive component, warranting further standardization and origin-based sourcing studies for future bioavailability studies for the potential use as a functional food ingredient.",
-      "summary": "Shilajit is an exudate rich in humic substances that collected from rocks in several mountain ranges and has been used for centuries in traditional medicine for fatigue, physical performance, and general vitality. DSC identified two distinct thermal groups: seven samples showed only melting transitions between 100–159 °C, while three samples exhibited low-temperature crystallization and sub-zero melting. ICP-MS revealed potassium as the dominant macroelement (up to ~95,600 ppm), with essential trace elements (selenium, zinc and iron) and toxic elements [arsenic (0.14–1.34 ppm), cadmium (0.01–0.10 ppm) and lead (0.35–3.01 ppm)] all present at levels well within FDA/WHO tolerable intake thresholds, comparable to background levels reported in common foods such as dark chocolate.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "食品与脂质"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223312116",
-      "title": "Case Report: Low-dose donor lymphocyte infusion for secondary poor graft function after haploidentical HSCT in a child with β-thalassemia",
-      "authors": [
-        "Yue Li",
-        "Liping Luo",
-        "Dingzhi Heng",
-        "Chunjing Wang",
-        "Xiaohui Zhou",
-        "付笑迎",
-        "刘四喜"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Frontiers in Immunology",
-      "doi": "https://doi.org/10.3389/fimmu.2026.1972748",
-      "url": "https://doi.org/10.3389/fimmu.2026.1972748",
-      "abstract": "Poor graft function (PGF) is a serious complication after allogeneic hematopoietic stem cell transplantation (allo-HSCT), particularly when persistent cytopenia occurs despite complete donor chimerism. We report a 5-year-old girl with transfusion-dependent β-thalassemia major who developed refractory secondary PGF after haploidentical allo-HSCT following cytomegalovirus reactivation. Bone marrow was markedly hypocellular, and and multilineage cytopenias progressively worsened after plasma CMV DNA became undetectable and antiviral therapy was completed. Contributions from infection-related injury, antiviral-associated myelotoxicity, or endothelial injury could not be fully excluded. Multiple supportive and immunomodulatory interventions failed. Because a CD34 + selected stem cell boost was not feasible, the patient received intentionally low-dose donor lymphocyte infusion (DLI) on days +270 and +284. Multilineage hematopoietic recovery occurred 27 days after the first infusion, and transfusion independence was maintained for more than 14 months. Post-DLI events included manageable grade I cutaneous graft-versus-host disease and transient tachypnea of uncertain etiology. Longitudinal immune profiling showed recovery of naive T-cell compartments, contraction of effector-memory subsets, and expansion of CD8 + CD28 - T cells without overt T-cell activation. This observation provides a hypothesis-generating rationale for prospective studies evaluating the efficacy and safety of low-dose DLI in pediatric secondary PGF.",
-      "summary": "Poor graft function (PGF) is a serious complication after allogeneic hematopoietic stem cell transplantation (allo-HSCT), particularly when persistent cytopenia occurs despite complete donor chimerism. We report a 5-year-old girl with transfusion-dependent β-thalassemia major who developed refractory secondary PGF after haploidentical allo-HSCT following cytomegalovirus reactivation. Longitudinal immune profiling showed recovery of naive T-cell compartments, contraction of effector-memory subsets, and expansion of CD8 + CD28 - T cells without overt T-cell activation.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223314852",
-      "title": "Nanosponge-Based Topical Delivery Systems for Psoriasis: Advances, Challenges, and Future Perspectives",
-      "authors": [],
-      "publication_date": "2026-10-23",
-      "journal": "International Journal of Drug Delivery Technology",
-      "doi": "https://doi.org/10.25258/ijddt.16.77s.130",
-      "url": "https://doi.org/10.25258/ijddt.16.77s.130",
-      "abstract": "Psoriasis is a chronic, immune-mediated inflammatory skin disorder characterized by abnormal keratinocyte proliferation, epidermal hyperplasia, and persistent inflammation.Although topical therapy remains an important approach for mild-to-moderate psoriasis, conventional formulations are often associated with poor drug solubility, inadequate skin penetration, rapid drug release, limited skin retention, and potential adverse effects.Nanotechnologybased delivery systems have therefore emerged as promising strategies for improving localized and controlled drug delivery.Among these, nanosponges are porous, three-dimensional, cross-linked nanocarriers capable of incorporating active pharmaceutical ingredients and functioning as drug reservoirs.Their unique architecture offers advantages including enhanced solubility, drug protection, controlled release, and improved skin deposition.This review discusses the potential of nanosponge-based topical delivery systems for psoriasis, with emphasis on their pharmaceutical characteristics, types, preparation strategies, drug-loading mechanisms, and physicochemical characterization.Current evidence on nanosponge formulations containing antipsoriatic agents, including clobetasol propionate, curcumin, caffeine, and sulfasalazine, is critically examined with respect to drug release, skin delivery, and preclinical therapeutic outcomes.The incorporation of nanosponges into topical gels and hydrogels is also discussed as an approach to improve residence time, spreadability, and localized drug delivery.Despite encouraging preclinical findings, challenges remain regarding formulation optimization, batch reproducibility, dermal safety, scaleup, regulatory requirements, and clinical validation.Future development may focus on targeted and stimuli-responsive nanosponges, combination therapy, quality-by-design approaches, artificial intelligence-assisted optimization, and scalable manufacturing.Overall, nanosponges represent a promising platform for developing localized, sustained, and patient-friendly topical therapies for psoriasis.",
-      "summary": "Psoriasis is a chronic, immune-mediated inflammatory skin disorder characterized by abnormal keratinocyte proliferation, epidermal hyperplasia, and persistent inflammation.Although topical therapy remains an important approach for mild-to-moderate psoriasis, conventional formulations are often associated with poor drug solubility, inadequate skin penetration, rapid drug release, limited skin retention, and potential adverse effects.Nanotechnologybased delivery systems have therefore emerged as promising strategies for improving localized and controlled drug delivery.Among these, nanosponges are porous, three-dimensional, cross-linked nanocarriers capable of incorporating active pharmaceutical ingredients and functioning as drug reservoirs.Their unique architecture offers advantages including enhanced solubility, drug protection, controlled release, and improved skin deposition.This review discusses the potential of nanosponge-based topical delivery systems for psoriasis, with emphasis on their pharmaceutical characteristics, types, preparation strategies, drug-loading mechanisms, and physicochemical characterization.Current evidence on nanosponge formulations containing antipsoriatic agents, including clobetasol propionate, curcumin, caffeine, and sulfasalazine, is critically examined with respect to drug release, skin delivery, and preclinical therapeutic outcomes.The incorporation of nanosponges into topical gels and hydrogels is also discussed as an approach to improve residence time, spreadability, and localized drug delivery.Despite encouraging preclinical findings, challenges remain regarding formulation optimization, batch reproducibility, dermal safety, scaleup, regulatory requirements, and clinical validation.Future development may focus on targeted and stimuli-responsive nanosponges, combination therapy, quality-by-design approaches, artificial intelligence-assisted optimization, and scalable manufacturing.Overall, nanosponges represent a promising platform for developing localized, sustained, and patient-friendly topical therapies for psoriasis.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223317121",
-      "title": "Toxic Aromatics Inclusion and Water Vapor Adsorption/Desorption of a 3D Supramolecular Architecture via π–π Assembly of 2D Zn-Based Layered MOFs",
-      "authors": [
-        "Chih‐Chieh Wang",
-        "Hsin-Fang Chang",
-        "Si-Tung Yeh",
-        "Yu-Chen Chung",
-        "Shih‐I Lu",
-        "Tzu-Hsin Huang",
-        "Kaixin Chen",
-        "Yi‐Ting Hsieh"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "ACS Omega",
-      "doi": "https://doi.org/10.1021/acsomega.6c07748",
-      "url": "https://doi.org/10.1021/acsomega.6c07748",
-      "abstract": "Abstract A three-dimensional (3D) supramolecular architecture, {[Zn(dpds)(bdc)]·MeOH·1.5H2O}n (1) (dpds = 1,2-bis(4-pyridyl)disulfide and bdc2– = dianion of 1,4-benzenedicarboxylic acid), assembled by a two-dimensional (2D) layered metal–organic frameworks (MOFs) via interlayer sandwich-type πpyridyl–πbenzene–πpyridyl and πpyridyl–πpyridyl interactions, is examined using scanning electron microscopy (SEM), transmission electron microscopy (TEM), and X-ray photoelectron spectroscopy to reveal their structures and chemical environments. Compound 1 exhibits a significant water vapor adsorption/desorption isotherm for pretreated 1, which displays a maximum value of 215.5 cm3g–1 at a relative pressure P/P0 = 1.00, corresponding to adsorption of approximately four water molecules per asymmetric unit (ASU). In addition, a series of toxic aromatics, namely, benzene (PhH), toluene (PhCH3), anisole (PhOCH3), and nitrobenzene (PhNO2), can be absorbed by 1 in liquid phases to generate new host–guest compounds, {[Zn(bdc)(dpds)]·0.5Ph·1.5H2O}n (1⊃Ph), {[Zn(bdc)(dpds)]·0.5Ph(CH3)·H2O}n (1⊃PhCH3), {[Zn(bdc)(dpds)]·0.5PhOCH3·1.5H2O}n (1⊃PhOCH3), and {[Zn(bdc)(dpds)]·0.5Ph(NO2)·1.5H2O}n (1⊃PhNO2), which have been indetified by IR, X-ray diffraction method, and TG analysis. Structural characteristics and photoluminescent properties associated with theoretical calculation for 1⊃Ph, 1⊃PhCH3, 1⊃PhOCH3, and 1⊃PhNO2 are studied and discussed.",
-      "summary": "Abstract A three-dimensional (3D) supramolecular architecture, {[Zn(dpds)(bdc)]·MeOH·1.5H2O}n (1) (dpds = 1,2-bis(4-pyridyl)disulfide and bdc2– = dianion of 1,4-benzenedicarboxylic acid), assembled by a two-dimensional (2D) layered metal–organic frameworks (MOFs) via interlayer sandwich-type πpyridyl–πbenzene–πpyridyl and πpyridyl–πpyridyl interactions, is examined using scanning electron microscopy (SEM), transmission electron microscopy (TEM), and X-ray photoelectron spectroscopy to reveal their structures and chemical environments. In addition, a series of toxic aromatics, namely, benzene (PhH), toluene (PhCH3), anisole (PhOCH3), and nitrobenzene (PhNO2), can be absorbed by 1 in liquid phases to generate new host–guest compounds, {[Zn(bdc)(dpds)]·0.5Ph·1.5H2O}n (1⊃Ph), {[Zn(bdc)(dpds)]·0.5Ph(CH3)·H2O}n (1⊃PhCH3), {[Zn(bdc)(dpds)]·0.5PhOCH3·1.5H2O}n (1⊃PhOCH3), and {[Zn(bdc)(dpds)]·0.5Ph(NO2)·1.5H2O}n (1⊃PhNO2), which have been indetified by IR, X-ray diffraction method, and TG analysis. Structural characteristics and photoluminescent properties associated with theoretical calculation for 1⊃Ph, 1⊃PhCH3, 1⊃PhOCH3, and 1⊃PhNO2 are studied and discussed.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223320748",
-      "title": "Influence of BaTiO 3 Incorporation on the Morphological, Mechanical, Thermal, and Dielectric Properties of ABS-Based Composites",
-      "authors": [
-        "Tuğçe Zeynep Kaya",
-        "Yoldaş Seki",
-        "Mehmet Sarıkanat",
-        "Lütfiye Altay"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Polymer-Plastics Technology and Materials",
-      "doi": "https://doi.org/10.1080/25740881.2026.2750184",
-      "url": "https://doi.org/10.1080/25740881.2026.2750184",
-      "abstract": "In this study, Barium Titanate, BaTiO3, (BT) as a functional filler at different loadings (10, 15, and 20 wt. %) was incorporated into Acrylonitrile-Butadiene-Styrene (ABS) matrix. The frequency dependence of conductivity, dissipation factor, and dielectric constant of BT-filled ABS composites was investigated at room temperature. The structural, morphological, thermal, mechanical, and dielectric properties of the composites were characterized. X-ray diffraction (XRD) confirmed the presence of the crystalline BT phase within the amorphous ABS, while scanning electron microscopy (SEM) revealed uniform dispersion at lower loadings and increased agglomeration at higher loadings. Thermogravimetric analysis (TGA) showed improved thermal stability as BT content increased. Mechanical testing indicated a continuous increase in tensile modulus with filler content, while tensile strength showed an initial decrease followed by recovery at higher loadings. Dielectric analysis revealed a significant enhancement in dielectric constant with increasing BaTiO3 content, particularly at low frequencies. 20 wt% BT-filled ABS-3D composites exhibit the highest AC conductivity, reaching approximately 1.79 × 10−6 S/cm at 107 Hz. However, neat ABS shows the lowest conductivity, peaking at roughly 3.08 × 10−7 S/cm. Overall, the results demonstrate that ABS/BT composites offer a promising balance of processability, mechanical performance, and dielectric functionality, highlighting their potential for dielectric applications requiring enhanced permittivity and processability.",
-      "summary": "Thermogravimetric analysis (TGA) showed improved thermal stability as BT content increased. Mechanical testing indicated a continuous increase in tensile modulus with filler content, while tensile strength showed an initial decrease followed by recovery at higher loadings. Overall, the results demonstrate that ABS/BT composites offer a promising balance of processability, mechanical performance, and dielectric functionality, highlighting their potential for dielectric applications requiring enhanced permittivity and processability.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223321103",
-      "title": "A Synergistic Effect of Multifunctional Magnesium Hydroxide@Layered Double Hydroxide Nanohybrid and an Organotin Polymer on the Poly(Vinyl Chloride) Properties",
-      "authors": [
-        "Mahdiye Maleki",
-        "Mohsen Hajibeygi",
-        "Oisik Das",
-        "Henri Vahabi"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Journal of Vinyl and Additive Technology",
-      "doi": "https://doi.org/10.1002/vnl.70163",
-      "url": "https://doi.org/10.1002/vnl.70163",
-      "abstract": "ABSTRACT Poly(vinyl chloride) (PVC) is widely used for its versatility and cost‐effectiveness, but its inherent thermal instability requires advanced stabilization and flame‐retardant systems. Simultaneously enhancing thermal stability, flame retardancy, and mechanical performance remains challenging, as conventional additives often act through a single mechanism and suffer from poor PVC compatibility and limited synergy. Overcoming this, particularly through uniform dispersion and strong interfacial interaction between the organic and inorganic components, was a main challenge of this work. A hybrid formulation was developed to improve the thermal stability and fire performance of plasticized PVC by combining a pyridine‐based organotin polymer (PSn) with a multifunctional organo‐modified magnesium dihydroxide (MDH)@Zn‐Al layered double hydroxide (MLDH). Scanning electron microscope (SEM) showed improved dispersion with reduced aggregation in hybrid samples, while the absence of the LDH reflections in X‐ray diffraction (XRD) suggested uniform distribution within the PVC matrix. Thermal analysis revealed an enhancement in stability for the PSL5 sample (containing 2.5 wt.% PSn and 2.5 wt.% MLDH), where the onset degradation temperature increased from 165°C for neat PVC to 229°C, along with an increase in char residue from 10% to 21%. Thermal aging results further demonstrated a clear delay in discoloration compared to neat PVC. Flammability performance evaluation indicated that the total heat release (THR) decreased from 16.9 kJ g −1 (PVC) to 11 kJ g −1 (PSL5), while the limiting oxygen index (LOI) value increased from 26.8% to 28.7%, confirming relatively improved flame retardancy. Mechanical properties were also enhanced, with tensile strength increasing from 59.02 MPa (PVC) to 100.41 MPa (PSL5) and modulus from 2.68 to 4.98 GPa, while maintaining acceptable elongation.",
-      "summary": "ABSTRACT Poly(vinyl chloride) (PVC) is widely used for its versatility and cost‐effectiveness, but its inherent thermal instability requires advanced stabilization and flame‐retardant systems. A hybrid formulation was developed to improve the thermal stability and fire performance of plasticized PVC by combining a pyridine‐based organotin polymer (PSn) with a multifunctional organo‐modified magnesium dihydroxide (MDH)@Zn‐Al layered double hydroxide (MLDH). Flammability performance evaluation indicated that the total heat release (THR) decreased from 16.9 kJ g −1 (PVC) to 11 kJ g −1 (PSL5), while the limiting oxygen index (LOI) value increased from 26.8% to 28.7%, confirming relatively improved flame retardancy.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析",
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223323028",
-      "title": "Environmental Durability and Microstructural Evolution of Industrial-Waste-Modified Pisha Sandstone Cementitious Composites",
-      "authors": [
-        "Changming Li",
-        "ZHANG Hekai",
-        "Yaozhong Wang",
-        "Dongyang Jia",
-        "Mingyan Lv",
-        "Yun Chai",
-        "Shuxian Lu",
-        "Jingyuan Zhao"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Gels",
-      "doi": "https://doi.org/10.3390/gels12110952",
-      "url": "https://doi.org/10.3390/gels12110952",
-      "abstract": "The water-induced swelling and disintegration of pisha sandstone (PS) are modified through gel-mediated cementation, thereby providing a technical pathway for the resource utilization of PS. This study investigated the durability of PS geopolymer cementitious materials (PSCM) incorporating four industrial solid wastes, including blast furnace slag (BFS), fly ash (FA), silica fume (SF), and steel slag (SS), under dry–wet cycles, freeze–thaw cycles, and water immersion. X-ray diffraction, thermogravimetric analysis, and scanning electron microscopy were employed to characterize the evolution of the mineral phase composition and gel structure of PSCM. The results show that BFS can effectively improve the durability of PSCM. With 40% BFS, the strength of PSCM reaches 25.82 MPa after 10 dry–wet cycles; the strength loss rate drops to 27% after 10 freeze–thaw cycles; and the softening coefficient reaches 0.89 after 28 d immersion. With 20% BFS, the strength loss of PSCM specimens is only 10.3% and 9.3% after 10 dry–wet and freeze–thaw cycles followed by 7 d immersion. BFS promotes the formation of calcium-rich C-A-S-H gels, enhancing interparticle bonding and matrix integrity, thus enhancing the durability of PSCM. This study provides a theoretical basis for understanding the microstructure evolution and durability differences in PSCM modified by different solid wastes.",
-      "summary": "The water-induced swelling and disintegration of pisha sandstone (PS) are modified through gel-mediated cementation, thereby providing a technical pathway for the resource utilization of PS. This study investigated the durability of PS geopolymer cementitious materials (PSCM) incorporating four industrial solid wastes, including blast furnace slag (BFS), fly ash (FA), silica fume (SF), and steel slag (SS), under dry–wet cycles, freeze–thaw cycles, and water immersion. The results show that BFS can effectively improve the durability of PSCM.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223327648",
-      "title": "From seed centres to tray cells: a geometry-aware machine vision framework for full-tray sowing quality assessment in maize plug trays",
-      "authors": [
-        "Jiangchen Zan",
-        "Jinfeng Peng",
-        "Ruijun Gao",
-        "Xiangyu Ma",
-        "Bowen Xue",
-        "Xiaoying Zhang"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Frontiers in Plant Science",
-      "doi": "https://doi.org/10.3389/fpls.2026.1981493",
-      "url": "https://doi.org/10.3389/fpls.2026.1981493",
-      "abstract": "Accurate sowing-quality assessment of maize seedling trays requires both reliable seed localisation and correct correspondence between detected seeds and physical tray cells. This study presents a semi-automated machine-vision framework combining heatmap-based seed-centre localisation, sliding-window inference, global non-maximum suppression (NMS), and four-corner-calibrated adaptive grid assignment. Each assessable cell was classified as empty, single-seeded, or multi-seeded according to the number of assigned seed centres. On source-image-independent subsets, the framework achieved an accuracy of 0.9821 and a macro F1-score of 0.9040 for 27 complete-tray images (3,456 cells), and 0.9798 and 0.9344, respectively, for 9 visible-cell images (1,140 assessable cells). Separately, the larger evaluation sets yielded accuracy/macro F1 values of 0.9783/0.9145 for 44 complete trays and 0.9782/0.9368 for 30 visible-cell images. These results support cell-level sowing-quality assessment under the evaluated acquisition conditions and within manually assessable regions. The source-image-independent subsets control direct source overlap but remain within the same acquisition domain; external generalisation across production sites, imaging devices, tray specifications, and acquisition conditions has not yet been established.",
-      "summary": "Accurate sowing-quality assessment of maize seedling trays requires both reliable seed localisation and correct correspondence between detected seeds and physical tray cells. These results support cell-level sowing-quality assessment under the evaluated acquisition conditions and within manually assessable regions. The source-image-independent subsets control direct source overlap but remain within the same acquisition domain; external generalisation across production sites, imaging devices, tray specifications, and acquisition conditions has not yet been established.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223337059",
-      "title": "Benzoxazine Functionalization of CO2-Derived Block Copolymers toward High-Performance Thermosets through Cooperative Covalent Crosslinking and Hydrogen Bonding",
-      "authors": [
-        "Yen-Ling Kuan",
-        "Yu-Chun Chiu",
-        "Keiji Tanaka",
-        "Yun-Sheng Ye",
-        "Shiao‐Wei Kuo"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Macromolecules",
-      "doi": "https://doi.org/10.1021/acs.macromol.6c02118",
-      "url": "https://doi.org/10.1021/acs.macromol.6c02118",
-      "abstract": "Abstract CO2-derived aliphatic polycarbonates have attracted considerable attention as sustainable polymeric materials; however, their relatively low glass transition temperature and limited thermal stability restrict their applications in high-performance engineering materials. Herein, a series of benzoxazine-functionalized CO2-derived block copolymers, poly(cyclohexene carbonate)-b-poly(styrene-alt-1-(3-phenyl-3,4-dihydro-2H-benzoxazin-6-yl)-1H-pyrrole-2,5-dione) (PCHC-b-PSHPMIBZ), were successfully synthesized through sequential ring-opening copolymerization (ROCOP) of cyclohexene oxide and CO2 and reversible addition–fragmentation chain-transfer (RAFT) polymerization. The thermal properties of the resulting block copolymers were systematically tailored by varying the PSHPMIBZ contents followed by thermal ring-opening polymerization (ROP). During thermal curing, the benzoxazine units simultaneously generated a covalently crosslinked network and abundant phenolic hydroxyl groups, which established extensive intermolecular and intramolecular hydrogen-bonding interactions with neighboring carbonate and imide carbonyl groups. The thermal ROP mechanism and structural evolution were comprehensively elucidated using differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), in situ Fourier-transform infrared (FTIR) spectroscopy, two-dimensional (2D) correlation FTIR spectroscopy, and solid-state 13C NMR spectroscopy. These complementary analyses revealed that hydrogen-bonding formation occurred immediately following benzoxazine ring opening, producing a hierarchical dual-network architecture composed of covalent crosslinks and supramolecular hydrogen bonds. Consequently, the glass transition temperature of PCHC-b-PSHPMIBZ51 increased dramatically from 115 to 199 °C, while the char yield increased from 0.9 wt % for the corresponding PCHC-b-PSHPMI51 copolymer to 25.3 wt %, and further to 38.3 wt % after post-curing at 270 °C. The cured block copolymers retained homogeneous morphology despite extensive crosslinking, demonstrating that benzoxazine functionalization provides an effective molecular design strategy for converting sustainable CO2-derived polycarbonate block copolymers into thermosetting materials with substantially elevated glass transition temperatures and enhanced thermal resistance.",
-      "summary": "Abstract CO2-derived aliphatic polycarbonates have attracted considerable attention as sustainable polymeric materials; however, their relatively low glass transition temperature and limited thermal stability restrict their applications in high-performance engineering materials. The thermal ROP mechanism and structural evolution were comprehensively elucidated using differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), in situ Fourier-transform infrared (FTIR) spectroscopy, two-dimensional (2D) correlation FTIR spectroscopy, and solid-state 13C NMR spectroscopy. These complementary analyses revealed that hydrogen-bonding formation occurred immediately following benzoxazine ring opening, producing a hierarchical dual-network architecture composed of covalent crosslinks and supramolecular hydrogen bonds.",
-      "techniques": [
-        "DSC",
-        "TGA",
-        "TGA-FTIR"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223337311",
-      "title": "Risk Analysis of Combustible Cladding in Proximity to Vehicles",
-      "authors": [
-        "Hoang T. Nguyen",
-        "Rajeendra Godakandage",
-        "Kate Thuy Quynh Nguyen",
-        "Ryan Tandy",
-        "Kjetil Pedersen",
-        "Simon Dunstall",
-        "Ayman Mukhaimar"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Fire Technology",
-      "doi": "https://doi.org/10.1007/s10694-026-02018-7",
-      "url": "https://doi.org/10.1007/s10694-026-02018-7",
-      "abstract": "Abstract Building façade fires resulting from the ignition of combustible cladding materials have been reported extensively. However, research specifically addressing the risk posed by external fire sources, such as vehicles parked near cladding, is still limited. This study applies probabilistic analysis to assess fire risks associated with car fires in proximity to combustible cladding, considering Aluminium Composite Panels (ACP) containing a polymer-based core and Expanded Polystyrene (EPS). The influence of wind conditions is incorporated into the analysis. The objective is to create a database supporting decision-making on rectification measures, reducing façade fire risks, and ensuring occupant safety. This study is developed within Cladding Safety Victoria’s framework for mitigating fire risks.",
-      "summary": "Abstract Building façade fires resulting from the ignition of combustible cladding materials have been reported extensively. The objective is to create a database supporting decision-making on rectification measures, reducing façade fire risks, and ensuring occupant safety. This study is developed within Cladding Safety Victoria’s framework for mitigating fire risks.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223340874",
-      "title": "Microbial flavoprotein oxidases",
-      "authors": [
-        "Nils Weindorf",
-        "Tobias Rapsch",
-        "Andrea Mattevi",
-        "Dirk Tischler"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Current Opinion in Chemical Biology",
-      "doi": "https://doi.org/10.1016/j.cbpa.2026.102795",
-      "url": "https://doi.org/10.1016/j.cbpa.2026.102795",
-      "abstract": "Selective oxidation reactions are critical steps in catalysis towards industrial-relevant compounds. Flavin-dependent enzymes of the VAO/PCMH and GMC families provide numerous candidates that can be applied in various formats and scales. Progresses in catalyst production, mechanistic understanding, structural information, and protein engineering enabled their successful applications. Hence, some candidates are already in use for large-scale chemical syntheses and biosensor applications such as vanillin production, biofuel cells, blood glucose sensing, and glucose monitoring in foods and beverages. The most recent advances related to these oxidases are summarized herein, highlighting recent developments beyond well-known applications that pave the way for novel developments.",
-      "summary": "Selective oxidation reactions are critical steps in catalysis towards industrial-relevant compounds. Hence, some candidates are already in use for large-scale chemical syntheses and biosensor applications such as vanillin production, biofuel cells, blood glucose sensing, and glucose monitoring in foods and beverages. The most recent advances related to these oxidases are summarized herein, highlighting recent developments beyond well-known applications that pave the way for novel developments.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223345072",
-      "title": "Low energy availability in recreational high-intensity functional training athletes: associations with health and performance outcomes",
-      "authors": [
-        "Gabriella Vlattas",
-        "Xuewen Wang",
-        "Andrew Ortaglia",
-        "Siqi Hong",
-        "Toni Marie Torres-McGehee"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Frontiers in Nutrition",
-      "doi": "https://doi.org/10.3389/fnut.2026.1953641",
-      "url": "https://doi.org/10.3389/fnut.2026.1953641",
-      "abstract": "Introduction Low energy availability (LEA) is the primary etiological factor underlying Relative Energy Deficiency in Sport (RED-S), yet limited research has examined LEA risk and associated health and performance outcomes in recreational high-intensity functional training (HIFT) athletes. The purpose of this study was to evaluate energy availability (EA) and physiological outcomes aligned with the RED-S Health and Performance Models in a recreational HIFT cohort. Methods Thirty participants (females: n = 18, males: n = 12; 31.2 ± 8.2 years) completed two-week prospective observational study with repeated measures of energy intake, exercise energy expenditure, and associated health and performance-related measures. Energy intake was assessed via dietary logs, exercise energy expenditure was estimated using a wearable armband, and EA was calculated relative to dual-energy X-ray absorptiometry–derived fat-free mass. Participants were classified as LEA if EA was <30 kcal·kg −1 FFM·day −1 . Performance-related outcomes included rating of perceived exertion (RPE), perceived recovery status (PRS), and total quality recovery (TQR). Health-related outcomes included sleep duration, Pittsburgh Sleep Quality Index (PSQI), and bone mineral density (BMD) (reported by Z -Score). Results Mean EA was 24.9 ± 9.7 kcal·kg −1 FFM·day −1 , with 80% ( n = 24) of participants demonstrating EA below the LEA classification threshold. LEA. The high prevalence of LEA should be interpreted cautiously given the potential for underreporting dietary intake. LEA status was not associated with differences in recovery, sleep quality, or BMD ( p > 0.05), and EA was not significantly correlated with performance or health outcomes. In an exploratory analysis, sleep duration was moderately positively associated with TQR ( ρ = 0.46, p = 0.01); however, this finding should be interpreted cautiously given the number of comparisons performed. Discussion Despite the high prevalence of LEA, associated health and performance impairments were not detected, suggesting that measurable consequences of LEA may not be evident over a short observation period in recreational HIFT athletes. These findings support ongoing monitoring of EA, fueling practices, and recovery behaviors to reduce the potential long-term consequences associated with RED-S.",
-      "summary": "Introduction Low energy availability (LEA) is the primary etiological factor underlying Relative Energy Deficiency in Sport (RED-S), yet limited research has examined LEA risk and associated health and performance outcomes in recreational high-intensity functional training (HIFT) athletes. The purpose of this study was to evaluate energy availability (EA) and physiological outcomes aligned with the RED-S Health and Performance Models in a recreational HIFT cohort. Discussion Despite the high prevalence of LEA, associated health and performance impairments were not detected, suggesting that measurable consequences of LEA may not be evident over a short observation period in recreational HIFT athletes.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "食品与脂质"
-      ],
-      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223348789",
-      "title": "TACE-HAIC plus targeted therapy and immune checkpoint inhibitors for unresectable hepatocellular carcinoma: a systematic review and meta-analysis of TACE- and HAIC-based comparisons",
-      "authors": [
-        "Peizhuo Li",
-        "Hao Li",
-        "Boyu Mei",
-        "Simin Feng",
-        "Huanzhang Niu"
-      ],
-      "publication_date": "2026-10-23",
-      "journal": "Frontiers in Oncology",
-      "doi": "https://doi.org/10.3389/fonc.2026.1942009",
-      "url": "https://doi.org/10.3389/fonc.2026.1942009",
-      "abstract": "Background Against the backdrop of targeted therapy and immune checkpoint inhibitors (ICIs), the additional benefit of combining TACE and HAIC remains uncertain in unresectable hepatocellular carcinoma (uHCC). We separately evaluated TACE-based and HAIC-based comparator strategies. Methods CNKI, the Cochrane Library, Embase, PubMed, SinoMed, VIP, Wanfang, and Web of Science were searched from inception to 19 August 2026. Overall survival (OS) was designated as the sole primary efficacy outcome; progression-free survival (PFS), objective response rate (ORR), disease control rate (DCR), and complete response (CR) were secondary efficacy outcomes. Comparator-specific random-effects meta-analyses were performed. Risk of bias for survival outcomes was assessed using ROBINS-I, and certainty of evidence across outcomes was evaluated using GRADE. Results In all, 14 retrospective cohort studies were included. The TACE-based and HAIC-based OS analyses included nine and five comparisons involving 1,510 and 572 participants, respectively. Compared with TACE plus targeted therapy and ICIs, TACE-HAIC plus targeted therapy and ICIs was associated with a lower hazard of death (HR = 0.59, 95% CI: 0.47–0.75) and progression or death (HR = 0.65, 95% CI: 0.55–0.78), and with higher ORR (RR = 1.34, 95% CI: 1.19–1.52), DCR (RR = 1.14, 95% CI: 1.07–1.21), and CR (RR = 2.17, 95% CI: 1.46–3.21). Against an HAIC-based comparator, TACE-HAIC was associated with a lower hazard of death (HR = 0.56, 95% CI: 0.43–0.72) and progression or death (HR = 0.64, 95% CI: 0.48–0.86), and with a higher ORR (RR = 1.24, 95% CI: 1.03–1.50), whereas DCR and CR showed no clear between-group differences. Overall grade ≥3 TRAEs were imprecisely estimated in both comparisons (TACE-based: RR = 1.16, 95% CI: 0.81–1.67; HAIC-based: RR = 1.27, 95% CI: 0.92–1.74). Conclusions TACE-HAIC plus targeted therapy and ICIs was associated with improved survival and tumor-response outcomes compared with a TACE-based regimen. Against an HAIC-based regimen, associations favored TACE-HAIC for OS, PFS, and ORR in the main analyses, although the PFS and ORR findings were less robust in sensitivity analyses. Available evidence is insufficient to determine whether TACE-HAIC increases the overall risk of grade ≥3 TRAEs. The certainty of evidence was low to very low, and prospective validation is required. Systematic review registration https://www.crd.york.ac.uk/PROSPERO/view/CRD420261286742 , identifier CRD420261286742.",
-      "summary": "Background Against the backdrop of targeted therapy and immune checkpoint inhibitors (ICIs), the additional benefit of combining TACE and HAIC remains uncertain in unresectable hepatocellular carcinoma (uHCC). Risk of bias for survival outcomes was assessed using ROBINS-I, and certainty of evidence across outcomes was evaluated using GRADE. Against an HAIC-based comparator, TACE-HAIC was associated with a lower hazard of death (HR = 0.56, 95% CI: 0.43–0.72) and progression or death (HR = 0.64, 95% CI: 0.48–0.86), and with a higher ORR (RR = 1.24, 95% CI: 1.03–1.50), whereas DCR and CR showed no clear between-group differences.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7171445456",
-      "title": "Putting PASPT2 on a Firmer Basis",
-      "authors": [
-        "C Liu",
-        "N Zhang",
-        "Wenjian Liu"
-      ],
-      "publication_date": "2026-10-22",
-      "journal": "Precision Chemistry",
-      "doi": "https://doi.org/10.1021/prechem.6c00106",
-      "url": "https://doi.org/10.1021/prechem.6c00106",
-      "abstract": "Abstract The recently proposed partial-active-space (PAS) multistate second-order perturbation theory (PASPT2) [Precision Chemistry 4, 997 (2026)] features connected amplitudes and a connected and closed intermediate Hamiltonian. Despite these hallmarks, PASPT2 (denoted as PASPT2H from now on) is not strictly size-extensive, as originally thought (and numerically confirmed), albeit strictly size-consistent. Nevertheless, PASPT2 is near-extensive for the states with major projections on the chosen PASM0. This becomes more transparent upon introducing PASPT2X, a strictly size-extensive variant. Compared with the intruder-prone PASPT2X, the intruder-free PASPT2H merely neglects second-order corrections that are important only for those states with major projections on the orthogonal complement RX of M0 within the closed space MX ( =M0⊕RX). Such states are usually not supported by the chosen finite one-particle basis set. The weak violation of size-extensivity is therefore numerically insignificant for the target states supported by M0, reinforcing the theoretical basis of PASPT2H.",
-      "summary": "Abstract The recently proposed partial-active-space (PAS) multistate second-order perturbation theory (PASPT2) [Precision Chemistry 4, 997 (2026)] features connected amplitudes and a connected and closed intermediate Hamiltonian. Such states are usually not supported by the chosen finite one-particle basis set. The weak violation of size-extensivity is therefore numerically insignificant for the target states supported by M0, reinforcing the theoretical basis of PASPT2H.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223171431",
-      "title": "A Self-Healing Adhesive Exploiting Hydrogen-Bonding Interactions and Aromatic Disulfide Units in Energetic Composites",
-      "authors": [
-        "Huan Zhao",
-        "Xiuduo Song",
-        "Weilu Yang",
-        "Yiwen Hu",
-        "裴江峰",
-        "Bofan Shen",
-        "Zhiyu Chen",
-        "Jian Kang"
-      ],
-      "publication_date": "2026-10-22",
-      "journal": "Polymers",
-      "doi": "https://doi.org/10.3390/polym18212608",
-      "url": "https://doi.org/10.3390/polym18212608",
-      "abstract": "Energetic composites with high solid content are prone to microcracking and interfacial debonding, which can compromise mechanical integrity and service reliability. To address these long-standing durability challenges, herein, a self-healing polyurethane with hydrogen bonds and disulfide bonds (PUHD) was designed by integrating hydrogen-bond reorganization with dynamic disulfide-bond exchange. PUHD was synthesized using polytetramethylene ether glycol (PTMEG) as the soft segment and isophorone diisocyanate (IPDI) and 4,4′-dihydroxydiphenyl disulfide (DHDPS) as hard-segment components. FT-IR, Raman, XRD, GPC, and DSC analyses confirmed the successful construction of a predominantly amorphous dual dynamic network with suitable chain mobility and thermal stability for energetic-composite applications. The neat PUHD exhibited a hardness of 0.94 MPa and a storage modulus of 3.15 MPa at 20 °C and 5 Hz; surface cracks disappeared within 24 h at ambient temperature, and the storage-modulus recovery reached approximately 97%. In sample filler-containing composites, increasing solid content enhanced hardness and modulus but restricted polymer-chain mobility, thereby slowing crack repair and reducing healing recovery. In nitrocellulose/nitroglycerin (NC/NG)-containing composites, the visible crack closure could be achieved within 24 h, while maintaining useful mechanical properties after self-healing. Notably, JQ-e showed the highest initial hardness of 2.69 MPa and retained 2.19 MPa after healing. These findings collectively demonstrate that the synergistic dynamic network not only enables efficient room-temperature crack repair but also preserves adequate mechanical reinforcement, thus offering a viable pathway toward more reliable energetic-composite formulations.",
-      "summary": "Energetic composites with high solid content are prone to microcracking and interfacial debonding, which can compromise mechanical integrity and service reliability. FT-IR, Raman, XRD, GPC, and DSC analyses confirmed the successful construction of a predominantly amorphous dual dynamic network with suitable chain mobility and thermal stability for energetic-composite applications. These findings collectively demonstrate that the synergistic dynamic network not only enables efficient room-temperature crack repair but also preserves adequate mechanical reinforcement, thus offering a viable pathway toward more reliable energetic-composite formulations.",
-      "techniques": [
-        "DSC"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223172317",
-      "title": "A Right to Delegate to AI: The Regulatory Safety Halo and the Acceleration of Agentic Consumer Markets",
-      "authors": [
-        "Caroline Cauffman"
-      ],
-      "publication_date": "2026-10-22",
-      "journal": "European Journal of Risk Regulation",
-      "doi": "https://doi.org/10.1017/err.2026.10166",
-      "url": "https://doi.org/10.1017/err.2026.10166",
-      "abstract": "Abstract The European Law Institute’s Guiding Principles and Model Rules on Digital Assistants for Consumer Contracts (DACC) propose a right for consumers to use digital assistants in business-to-consumer relations. The DACC’s definition encompasses consumer AI agents (CAIAs), which use AI-generated outputs to determine transactionally relevant matters left open by consumers and initiate or perform transactional actions. The article examines two concerns. First, recognition and safeguards may create a regulatory safety halo, causing consumers to overestimate CAIAs’ technical reliability and the effectiveness of remedies for unwanted outcomes. Second, recognition may accelerate agentic markets, disproportionately benefit incumbents in adjacent digital markets, and foster concentration, to which the DMA and EU competition law provide only partial responses. Legislation should therefore first establish essential rules governing delegation, responsibility and market contestability. Technical implementation may be entrusted to European standardisation bodies, but the Commission’s request should define tasks precisely and maximise transparency and balanced stakeholder participation to mitigate legitimacy concerns. Only once CAIAs are sufficiently reliable and the legal framework more mature should the right to use a CAIA be recognised.",
-      "summary": "Abstract The European Law Institute’s Guiding Principles and Model Rules on Digital Assistants for Consumer Contracts (DACC) propose a right for consumers to use digital assistants in business-to-consumer relations. First, recognition and safeguards may create a regulatory safety halo, causing consumers to overestimate CAIAs’ technical reliability and the effectiveness of remedies for unwanted outcomes. Legislation should therefore first establish essential rules governing delegation, responsibility and market contestability.",
-      "techniques": [
-        "DMA"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
