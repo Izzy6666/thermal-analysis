@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-22",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -46,6 +46,29 @@
         "电子与封装"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7203830156",
+      "title": "Liver transplantation for intrahepatic cholangiocarcinoma: From contraindication to biology-driven selection",
+      "authors": [
+        "Sami Akbulut",
+        "Sezai Yılmaz"
+      ],
+      "publication_date": "2027-01-21",
+      "journal": "World Journal of Gastroenterology",
+      "doi": "https://doi.org/10.3748/wjg.124080",
+      "url": "https://doi.org/10.3748/wjg.124080",
+      "abstract": "Intrahepatic cholangiocarcinoma (iCCA) has historically been considered a contraindication to liver transplantation (LT) because early outcomes in unselected patients were marked by high recurrence and poor survival. Liver resection remains the standard curative-intent treatment when technically feasible and oncologically appropriate. Contemporary evidence challenges this binary view, suggesting that transplant benefit depends less on diagnosis or anatomy alone than on careful candidate selection and disease behavior over time. This narrative review examines LT for iCCA within current transplant oncology practice. Current evidence supports cautious consideration of LT in two distinct settings. The first is very early iCCA in cirrhotic patients, particularly solitary tumors ≤ 2 cm, for which explant-based retrospective studies have shown better outcomes than those observed in larger or multifocal disease. Evidence for this setting derives mainly from incidental or explant-based series. Selected solitary tumors ≤ 3 cm may be considered within consensus-based, guidance-based, trial-based, or registry-based frameworks after documented stability and exclusion of nodal or extrahepatic disease, although this threshold is less well validated than the 2-cm threshold. The second is unresectable, liver-limited iCCA controlled by neoadjuvant systemic therapy with or without locoregional therapy, where durable radiologic response or stability, usually for at least 6 months, serves as a dynamic test of disease behavior. Evidence for this setting derives from highly selected neoadjuvant cohorts and remains investigational. In both settings, histological confirmation when feasible, careful staging, and exclusion of nodal or extrahepatic spread are essential. LT should be framed not as routine indication expansion, but as a highly selective treatment strategy for patients with liver-limited disease and sustained disease control.",
+      "summary": "Intrahepatic cholangiocarcinoma (iCCA) has historically been considered a contraindication to liver transplantation (LT) because early outcomes in unselected patients were marked by high recurrence and poor survival. Selected solitary tumors ≤ 3 cm may be considered within consensus-based, guidance-based, trial-based, or registry-based frameworks after documented stability and exclusion of nodal or extrahepatic disease, although this threshold is less well validated than the 2-cm threshold. The second is unresectable, liver-limited iCCA controlled by neoadjuvant systemic therapy with or without locoregional therapy, where durable radiologic response or stability, usually for at least 6 months, serves as a dynamic test of disease behavior.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装",
+        "热安全与失效分析"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -1524,6 +1547,34 @@
       "url": "https://doi.org/10.17654/69271126",
       "abstract": "The present study investigates magnetohydrodynamic (MHD) Casson hybrid nanofluid flow and heat transfer through a vertical parallelplate channel. The flow is driven by pressure gradient and buoyancy forces, with an externally applied magnetic field perpendicular to the flow direction. The coupled nonlinear momentum and energy equations are transformed into dimensionless form and solved numerically using the finite difference method (FDM) and Gauss-Jacobi iterative technique. The effects of the Hartmann number, Casson parameter, Grashof number, Brinkman number, and hybrid nanoparticle volume fractions on velocity and temperature distributions are investigated. The results indicate that increasing the Grashof number enhances both velocity and temperature due to stronger buoyancy-driven convection. An increase in the Brinkman number intensifies viscous dissipation, leading to higher fluid temperature and enhanced flow velocity. The Casson parameter reduces the velocity profile by increasing resistance to fluid motion, while its influence on temperature is relatively small. The magnetic field suppresses fluid motion through the resistive Lorentz force, whereas its influence on temperature remains comparatively small under the considered conditions. These findings provide insights into momentum and thermal transport in MHD Casson hybrid nanofluids, with potential applications in heat exchangers, cooling systems, and industrial thermal management.",
       "summary": "The present study investigates magnetohydrodynamic (MHD) Casson hybrid nanofluid flow and heat transfer through a vertical parallelplate channel. The coupled nonlinear momentum and energy equations are transformed into dimensionless form and solved numerically using the finite difference method (FDM) and Gauss-Jacobi iterative technique. The results indicate that increasing the Grashof number enhances both velocity and temperature due to stronger buoyancy-driven convection.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7164988797",
+      "title": "Time-resolved core-level photoelectron spectroscopy of glycine fragmentation: a case study on the capabilities and limitations of site-selective probes at XFELs",
+      "authors": [
+        "Antoine Sarracini",
+        "Lorenzo Paoloni",
+        "Christopher Arrell",
+        "Sven Augustin",
+        "Loïc Bassement",
+        "Christoph Bostedt",
+        "Sergio Díaz‐Tendero",
+        "Davide Faccialà"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Faraday Discussions",
+      "doi": "https://doi.org/10.1039/d6fd00069j",
+      "url": "https://doi.org/10.1039/d6fd00069j",
+      "abstract": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
+      "summary": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
       "techniques": [
         "热分析"
       ],
@@ -7685,56 +7736,6 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225848634",
-      "title": "The Blessings and Curses of Carbonaceous Deposits in Ferrierite-Catalyzed Skeletal 1-Butene Isomerization",
-      "authors": [
-        "Karoline L. Hebisch",
-        "Carsten Sievers"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Accounts of Chemical Research",
-      "doi": "https://doi.org/10.1021/acs.accounts.6c00750",
-      "url": "https://doi.org/10.1021/acs.accounts.6c00750",
-      "abstract": "Conspectus Carbonaceous deposits have long been cast as the villain in zeolite catalysis: clogging pores, poisoning active sites, and gradually strangling catalyst performance during hydrocarbon conversion. Yet in a fascinating paradox, these same “poisons” can enhance catalyst performance in several industrially important reactions through synergistic interactions with zeolite acidity. Two prominent examples stand out: methanol-to-hydrocarbon/olefin reactions (MTH/MTO) and skeletal isomerization of linear butenes to iso-butene. Understanding this counterintuitive behavior has been a challenge in zeolite catalysis for decades. Skeletal butene isomerization requires a Brønsted acidic catalyst of intermediate acid strength. Zeolites with 10-ring (10-R) windows deliver high selectivity to iso-butene while suppressing oligomerization reactions. Ferrierite (framework type FER, with perpendicularly intersecting 8-R and 10-R channels) emerged as the superior catalyst, exhibiting the highest iso-butene selectivity and remarkable resistance to deactivation. The catalytic behavior of FER presents a remarkable contradiction. Within 24 h, around 6 wt % carbonaceous deposits accumulate and reduce the accessible micropore volume by up to 98%. One would expect immediate deactivation. Instead, catalyst performance continues to improve for up to 100 h, reaching peak activity only after the pores are effectively inaccessible. Deactivation finally occurs after 100–200 h on stream. This led Guisnet and colleagues in 1995 (Guisnet, M.; et al.J. Chem. Soc., Chem. Commun.1995, 31, 1685−1686, 10.1039/c39950001685.) to propose that carbocationic deposits themselves are the active species. However, the formation mechanism, precise location, and nature of these deposits and their interaction with zeolite acidity have remained points of debate. In this Account, we describe our systematic investigation of the reaction location, reactive species, and mechanisms governing catalyst activation and deactivation. Through probe molecule adsorption, operando spectroscopy, and operando titration experiments, we demonstrate that catalysis occurs at the pore mouths, where monoaromatic carbonaceous deposits interact with internal Brønsted acid sites. Rather than functioning as classic carbocations, these deposits are presumed to act as weakly acidic “proton-on-demand” reservoirs that mediate proton transfer to reactants outside the pores. This mechanism explains why conventional Brønsted acid sites become undetectable by ex situ methods after just 2 h, yet catalytic activity not only persists but improves far beyond this point. We further reveal that catalyst deactivation stems from external carbonaceous deposits that compress the zeolite structure and block the access to pore mouths, while internal deposits cause unit cell expansion. Oxidative regeneration successfully restores activity across multiple cycles without zeolite framework degradation, and strategic incomplete regeneration retaining around 1 wt % residual coke accelerates catalyst startup. These findings establish that effective skeletal butene isomerization requires a synergy between three elements: Brønsted acidity from the zeolite framework, structural confinement at the pore mouths, and carbonaceous deposits that mediate acid-catalyzed reactions from the inside of the zeolite outward. This understanding provides a framework for rational catalyst design and regeneration strategies, with implications extending to other zeolite-catalyzed hydrocarbon transformations where “beneficial coke” plays an activating role.",
-      "summary": "Conspectus Carbonaceous deposits have long been cast as the villain in zeolite catalysis: clogging pores, poisoning active sites, and gradually strangling catalyst performance during hydrocarbon conversion. This mechanism explains why conventional Brønsted acid sites become undetectable by ex situ methods after just 2 h, yet catalytic activity not only persists but improves far beyond this point. We further reveal that catalyst deactivation stems from external carbonaceous deposits that compress the zeolite structure and block the access to pore mouths, while internal deposits cause unit cell expansion.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225859881",
-      "title": "MAGR-TCM: a knowledge graph-powered multi-agent model for intelligent home health consultation and triage in TCM gynecology",
-      "authors": [
-        "Ming Lv",
-        "Xu Pan",
-        "Yishan Li",
-        "Yalan Hu",
-        "Wei Xu",
-        "Jin Li",
-        "Fang Fang"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Chinese Medicine",
-      "doi": "https://doi.org/10.1186/s13020-026-01485-y",
-      "url": "https://doi.org/10.1186/s13020-026-01485-y",
-      "abstract": "BACKGROUND: Traditional Chinese Medicine (TCM) demonstrates distinct efficacy in managing gynecological disorders. However, accessing this specialized care in a home setting remains challenging due to the high cost of frequent hospital visits, privacy concerns, and a lack of immediate professional guidance. While general-purpose artificial intelligence offers a convenient alternative, the semantic gap between a patient's colloquial symptom descriptions and formal TCM diagnostic logic-compounded by the inherent 'hallucination' risks of large language models-prevents these tools from providing safe, actionable advice. To bridge this gap, this study proposes MAGR-TCM, an intelligent home health consultation and triage model. METHODS: Under expert supervision, a domain-specific knowledge graph was constructed, encompassing 10,231 entities and 32,051 relationships extracted from 741 high-quality clinical case records. Based on this foundation, we developed a Multi-Agent Retrieval-Augmented Generation (RAG) framework comprising four specialized agents designed to reconstruct the complete TCM 'Disease-Pattern-Therapeutic Principle-Formula-Medicinal' reasoning chain from informal user inquiries. This collaborative architecture simulates the expert diagnostic process to generate logical, evidence-based health guidance. RESULTS: Experimental results demonstrate that MAGR-TCM significantly outperforms all baseline models on both RAGAS automatic evaluation and expert human evaluation. The model achieved 100% sensitivity and specificity on the safety test set, further validating its practical utility in home health settings and its ability to distinguish self-treatable conditions from those requiring urgent hospital care. CONCLUSIONS: By transitioning from black-box predictions to transparent, safe, and explainable reasoning logic, MAGR-TCM offers a technological paradigm for patient-centered home health management. It effectively mitigates generative hallucinations, making professional TCM expertise safely accessible for women's daily self-care and preliminary triage.",
-      "summary": "BACKGROUND: Traditional Chinese Medicine (TCM) demonstrates distinct efficacy in managing gynecological disorders. Based on this foundation, we developed a Multi-Agent Retrieval-Augmented Generation (RAG) framework comprising four specialized agents designed to reconstruct the complete TCM 'Disease-Pattern-Therapeutic Principle-Formula-Medicinal' reasoning chain from informal user inquiries. RESULTS: Experimental results demonstrate that MAGR-TCM significantly outperforms all baseline models on both RAGAS automatic evaluation and expert human evaluation.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
