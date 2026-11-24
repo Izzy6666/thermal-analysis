@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-24",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -22,6 +22,30 @@
         "热安全与失效分析"
       ],
       "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7237347842",
+      "title": "Evaluation of a Deep Q-Network with a Quadratic Reward Function for Two-Phase Traffic Signal Control",
+      "authors": [
+        "Muhamad Achya Arifudin",
+        "Budiman Budiman",
+        "Titan Parama Yoga",
+        "Nur Alamsyah"
+      ],
+      "publication_date": "2027-02-01",
+      "journal": "Computer Journal",
+      "doi": "https://doi.org/10.58477/cj.v5i1.532",
+      "url": "https://doi.org/10.58477/cj.v5i1.532",
+      "abstract": "Adaptive traffic signal control can respond to changing traffic demand more effectively than fixed-time operation, but deep reinforcement learning performance depends strongly on environment design, state representation, and reward formulation. This study evaluates a tuned Deep Q-Network (DQN) with a quadratic congestion penalty for two-phase traffic signal control. A dataset-driven environment paired two street segments as conflicting approaches and applied chronological training, validation, and test splits. No external microscopic traffic simulator was used; instead, the observed demand sequences drove a custom queue-based Gymnasium environment. Hyperparameters were tuned using the validation set, while final models were evaluated across three random seeds under normal, peak, incident, and imbalanced-demand scenarios. The quadratic DQN was compared with a linear-reward DQN, a fixed 50:50 controller, and a rule-based adaptive controller. Under normal traffic, the quadratic DQN achieved a mean queue of 22.16 vehicles, a 95th-percentile queue of 35.11 vehicles, throughput of 594.24 vehicles, and a service rate of 95.42%. Compared with the linear DQN, it reduced queue imbalance by 5.15% and action changes by 12.82%, although mean queue and throughput did not improve. The rule-based controller produced the best overall performance. These findings indicate that quadratic reward shaping can improve policy balance and stability, but simpler controllers may remain competitive when training data are limited. Fair baselines and multi-seed evaluation remain essential practices.",
+      "summary": "Adaptive traffic signal control can respond to changing traffic demand more effectively than fixed-time operation, but deep reinforcement learning performance depends strongly on environment design, state representation, and reward formulation. Hyperparameters were tuned using the validation set, while final models were evaluated across three random seeds under normal, peak, incident, and imbalanced-demand scenarios. These findings indicate that quadratic reward shaping can improve policy balance and stability, but simpler controllers may remain competitive when training data are limited.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7708,34 +7732,6 @@
         "新能源与储能"
       ],
       "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225790996",
-      "title": "A Binuclear Ruthenium–Phenformin Compound: Synthesis, Characterization, and Inhibition of the DHFR Enzyme",
-      "authors": [
-        "Craig M. Anderson",
-        "Swapan S. Jain",
-        "Mariam M. Morsy",
-        "Ela Besimi",
-        "Alleisha R. Romain",
-        "Wei-Min William Chang",
-        "Luke S. Collins",
-        "Sage M. Saccomanno"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "ACS Omega",
-      "doi": "https://doi.org/10.1021/acsomega.6c07840",
-      "url": "https://doi.org/10.1021/acsomega.6c07840",
-      "abstract": "Abstract The Ru-phenformin compound Ru80 was synthesized and characterized by NMR and UV/Vis spectroscopies, as well as by SCXRD, HRMS, and elemental analysis. Enzymatic assays confirm that Ru80 is effective in reducing the catalytic activity of DHFR enzyme. Ru80 retains its inhibitory activity under macromolecularly crowded conditions designed to mimic cellular environments, requiring slightly higher concentrations to achieve comparable levels of inhibition. Thermodynamic analysis demonstrates that Ru80 significantly weakens the binding affinity of NADPH cofactor to DHFR enzyme. Enzyme kinetic analysis also suggests a mixed (noncompetitive) inhibition mechanism where Ru80 binds to the free enzyme as well as the enzyme substrate complex. Ru80 binds to DHFR enzyme in a time-dependent and nonspecific manner.",
-      "summary": "Abstract The Ru-phenformin compound Ru80 was synthesized and characterized by NMR and UV/Vis spectroscopies, as well as by SCXRD, HRMS, and elemental analysis. Thermodynamic analysis demonstrates that Ru80 significantly weakens the binding affinity of NADPH cofactor to DHFR enzyme. Enzyme kinetic analysis also suggests a mixed (noncompetitive) inhibition mechanism where Ru80 binds to the free enzyme as well as the enzyme substrate complex.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "其他潜在应用"
-      ],
-      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
