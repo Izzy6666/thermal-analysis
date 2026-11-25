@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-25",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -1599,6 +1599,29 @@
       "url": "https://doi.org/10.1039/d6fd00069j",
       "abstract": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
       "summary": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7118167866",
+      "title": "Investigating Non-Newtonian Hybrid Nanofluid Impact on a Heated Oscillating Cylinder Free Convection in a Trapezoidal Cavity",
+      "authors": [
+        "Mohammad Meqrazi",
+        "Samad Jafarmadar",
+        "Taher Tagizadeh"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "International Journal of Engineering",
+      "doi": "https://doi.org/10.5829/ije.2027.40.06c.08",
+      "url": "https://doi.org/10.5829/ije.2027.40.06c.08",
+      "abstract": "Because of its many industrial uses, inquiry of natural convective heat transfer in enclosures has long garnered significant intreset. By computationally analyzing the combined impact of heated ocillated cylinder inside a trapezoidal cavity and the non-Newtonian rheology of a Cu-Al2O3 hybrid nanofluid on NCHT, the current work sets itself apart from earlier studies. The effects of the Rayleigh number 103≤Ra≤106, the oscillation amplitude of the heated cylinder 0.05h≤A≤0.3h , and the power-law index 0.7≤n≤1.3 on the average Nusselt number, Nuavg are examined using a finite-element numerical scheme.The outcomes indicate that increasing the oscillation amplitude from 0.05h to 0.3h, under conditions of Ra=105 and n=0.7, enhances the time-averaged mean Nusselt number by 28%. Moreover, the improvement in the time-averaged Nusselt number resulting from increasing the Rayleigh number from 103 to 106 is 25% greater at n=0.7 compared to the case with n=1.3.",
+      "summary": "Because of its many industrial uses, inquiry of natural convective heat transfer in enclosures has long garnered significant intreset. The effects of the Rayleigh number 103≤Ra≤106, the oscillation amplitude of the heated cylinder 0.05h≤A≤0.3h , and the power-law index 0.7≤n≤1.3 on the average Nusselt number, Nuavg are examined using a finite-element numerical scheme.The outcomes indicate that increasing the oscillation amplitude from 0.05h to 0.3h, under conditions of Ra=105 and n=0.7, enhances the time-averaged mean Nusselt number by 28%. Moreover, the improvement in the time-averaged Nusselt number resulting from increasing the Rayleigh number from 103 to 106 is 25% greater at n=0.7 compared to the case with n=1.3.",
       "techniques": [
         "热分析"
       ],
@@ -7706,32 +7729,6 @@
         "循环利用与可持续材料"
       ],
       "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225786845",
-      "title": "Aligned graphene frameworks enabling high-thermal-conductivity phase-change thermal storage composites",
-      "authors": [
-        "Haoyuan Sang",
-        "Xiao Zhang",
-        "Peijin Zhu",
-        "Tingxian Li",
-        "Si Wu"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Thermal Functional Materials",
-      "doi": "https://doi.org/10.1007/s44562-026-00018-1",
-      "url": "https://doi.org/10.1007/s44562-026-00018-1",
-      "abstract": "Phase change materials (PCMs) offer high thermal storage density, but their low intrinsic thermal conductivity limits rapid thermal charging and discharging. Incorporating thermally conductive fillers can enhance heat transfer but generally reduces latent heat capacity, creating a trade-off between thermal conductivity and energy storage density. Constructing continuous and aligned heat-transfer pathways offers a promising strategy to alleviate this trade-off by improving thermal conductivity at lower filler loadings. Graphene, with its high in-plane thermal conductivity, is an attractive building block for such pathways. However, the effective thermal conductivity of graphene-based phase change composites (PCCs) remains far lower than the theoretical value owing to multiple limiting factors. Focusing on this challenge, this review adopts an integrated multiscale analytical framework to explore how the intrinsic thermal transport potential of graphene can be more effectively utilized in aligned graphene-based PCCs. It first examines graphene’s intrinsic thermal transport properties and their influencing factors, then systematically summarizes aligned assembly strategies and introduces a loading-normalized metric for supplementary assessment of graphene utilization efficiency. Furthermore, strategies for reducing thermal resistance at intersheet junctions and graphene–matrix interfaces are discussed to address another key limitation of macroscopic thermal transport. Recent applications in energy storage and conversion and advanced thermal management are also reviewed. Finally, it highlights key challenges and future research directions for improving thermal performance, ensuring long-term reliability, and enabling scalable fabrication.",
-      "summary": "Phase change materials (PCMs) offer high thermal storage density, but their low intrinsic thermal conductivity limits rapid thermal charging and discharging. Recent applications in energy storage and conversion and advanced thermal management are also reviewed. Finally, it highlights key challenges and future research directions for improving thermal performance, ensuring long-term reliability, and enabling scalable fabrication.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "新能源与储能"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注材料筛选、热安全评价、相变储能或电池失效分析。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
