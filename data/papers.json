@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25",
+  "updated_at": "2026-11-26",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -350,8 +350,8 @@
       "journal": "EES Catalysis",
       "doi": "https://doi.org/10.1039/d6ey00150e",
       "url": "https://doi.org/10.1039/d6ey00150e",
-      "abstract": "This paper highlights novel mesoporous carbon-doped boron nitride with high thermal oxidation resistivity for high efficiency in thermocatalytic CO 2 conversion into CH 4 .",
-      "summary": "This paper highlights novel mesoporous carbon-doped boron nitride with high thermal oxidation resistivity for high efficiency in thermocatalytic CO 2 conversion into CH 4 .",
+      "abstract": "This paper highlights novel mesoporous carbon-doped boron nitride with high thermal oxidation resistivity for high efficiency in thermocatalytic CO 2 conversion into CH 4.",
+      "summary": "This paper highlights novel mesoporous carbon-doped boron nitride with high thermal oxidation resistivity for high efficiency in thermocatalytic CO 2 conversion into CH 4.",
       "techniques": [
         "热分析"
       ],
@@ -1597,8 +1597,8 @@
       "journal": "Faraday Discussions",
       "doi": "https://doi.org/10.1039/d6fd00069j",
       "url": "https://doi.org/10.1039/d6fd00069j",
-      "abstract": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
-      "summary": "Time-resolved X-ray photoelectron spectroscopy captures the site-specific ultrafast fragmentation of the glycine cation, revealing a 400 fs lifetime for C–C bond cleavage.",
+      "abstract": "This paper presents the time-resolved X-ray photoelectron spectroscopy (TR-XPS) setup at the Swiss Free-Electron Laser (SwissFEL) Maloja endstation for investigating the ultrafast dynamics of gas-phase molecules with site-specificity. As a case study, we investigate the dissociative photoionization of glycine. By tracking the C 1s, N 1s, and O 1s core-level edges, we resolve the site-specific dynamics following multiphoton ionization. Guided by ab initio theory, the measurements are modeled using a global kinetic fit. Using this model, we report a glycine parent cation lifetime of 395 ± 25 fs, consistent with the theoretically predicted barrier to C-C bond rupture. We track fragment separation in real time via carboxyl red-shifts, which signal the relaxation of coulombic repulsion between the COOH and the iminium ion (CH2NH2+). Finally, we address fundamental technical challenges, including the temporal limitations imposed by laser-induced optical sidebands in the presence of high-intensity fields, understanding the modulated ground-state bleach signal, and the complexities of the theoretical framework that couples ab initio molecular dynamics with high-level quantum-chemical calculations of core-level binding energies.",
+      "summary": "This paper presents the time-resolved X-ray photoelectron spectroscopy (TR-XPS) setup at the Swiss Free-Electron Laser (SwissFEL) Maloja endstation for investigating the ultrafast dynamics of gas-phase molecules with site-specificity. Guided by ab initio theory, the measurements are modeled using a global kinetic fit. Using this model, we report a glycine parent cation lifetime of 395 ± 25 fs, consistent with the theoretically predicted barrier to C-C bond rupture.",
       "techniques": [
         "热分析"
       ],
@@ -1629,6 +1629,101 @@
         "其他潜在应用"
       ],
       "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7220669341",
+      "title": "Non-IID Data Challenges in Federated Learning for Distributed Systems: A Systematic Review",
+      "authors": [
+        "Indra Kumari",
+        "Se-Hoon Jung",
+        "Chun-Bo Sim",
+        "Chang-Sun Shin",
+        "Hansung Lee"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "doi": "https://doi.org/10.32604/cmc.2026.087171",
+      "url": "https://doi.org/10.32604/cmc.2026.087171",
+      "abstract": "Federated learning is a distributed machine learning framework, that enhances privacy and security against malicious behavior, including data poisoning and model poisoning. Nevertheless, federated learning models tend to have worse performance than centralized models, particularly when the data is non-independent and identically distributed (non-IID) on local devices. Moreover, the non-IID data negatively impacts the outcome of the model, causing slower convergence, lower accuracy, and even leading to model bias. These challenges limit the applicability of the federated learning model and exhibit constrained convergence and generalization. In order to help researchers better understand and study the challenges of non-IID data settings in federated learning, this article presents a systematic review of existing research by analyzing beyond 50 related works and providing substantial solutions to address certain challenges in non-IID data. Unlike existing literature, this survey introduces a sophisticated, comprehensive taxonomy that systematically categorizes non-IID data challenges across statistical dimensions, critically evaluates mitigation strategies, and outlines open research trajectories for federated learning. The review discussed the taxonomy of the non-IID data challenges with their statistical properties, such as label, temporal, and quantity. Moreover, the review describes popular solutions to mitigate the challenges, ensure personalized federated learning and a domain adaptation technique in distributed and edge-based intelligent systems, including internet of things (IoT) and communication networks, and outlines promising future research directions.",
+      "summary": "Federated learning is a distributed machine learning framework, that enhances privacy and security against malicious behavior, including data poisoning and model poisoning. Moreover, the non-IID data negatively impacts the outcome of the model, causing slower convergence, lower accuracy, and even leading to model bias. Unlike existing literature, this survey introduces a sophisticated, comprehensive taxonomy that systematically categorizes non-IID data challenges across statistical dimensions, critically evaluates mitigation strategies, and outlines open research trajectories for federated learning.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7221657219",
+      "title": "Intelligent Large-Scale IoT: A Survey on Architectures, Learning, and Autonomous Decision-Making",
+      "authors": [
+        "Ateeq Ur Rehman",
+        "Gayathre Vaidyanathan",
+        "Kirubavathi Ganapathiyappan"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "doi": "https://doi.org/10.32604/cmc.2026.088027",
+      "url": "https://doi.org/10.32604/cmc.2026.088027",
+      "abstract": "The rapid emergence of large-scale Internet of Things (IoT) systems leads to massive heterogeneous data generation, which raises significant challenges in scalability, semantic interoperability, security, and autonomous decision-making. Existing state-of-the-art surveys primarily focus on individual technologies such as Deep Learning (DL), Federated Learning (FL), or IoT security, in isolation, providing limited insight into their integration for realizing intelligent IoT ecosystems. To address this gap, this survey presents a comprehensive data-to-decision framework that encompasses the entire intelligent IoT pipeline, including data acquisition, communication architectures, distributed intelligence, semantic interoperability, security, and autonomous decision-making. Specifically, this survey includes both centralized and distributed intelligence paradigms, including DL, FL, and Automated Machine Learning (AutoML), together with semantic interoperability methods based on knowledge graphs and learning-based security mechanisms. Additionally, we investigate intelligent decision-making approaches, with particular emphasis on Reinforcement Learning (RL) and multi-agent systems for enabling autonomous IoT operations. A systematic analysis of existing approaches is provided, highlighting their strengths, limitations, and integration challenges. Finally, we identify key research gaps and outline promising future directions, including foundation models, edge-native generative artificial intelligence, digital twins, continual learning, and trustworthy autonomous IoT systems.",
+      "summary": "The rapid emergence of large-scale Internet of Things (IoT) systems leads to massive heterogeneous data generation, which raises significant challenges in scalability, semantic interoperability, security, and autonomous decision-making. Additionally, we investigate intelligent decision-making approaches, with particular emphasis on Reinforcement Learning (RL) and multi-agent systems for enabling autonomous IoT operations. Finally, we identify key research gaps and outline promising future directions, including foundation models, edge-native generative artificial intelligence, digital twins, continual learning, and trustworthy autonomous IoT systems.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7222400601",
+      "title": "Congestion-Aware Adaptive Algorithm Switching Based on Multi-Agent Reinforcement Learning in Autonomous Vehicle Networks",
+      "authors": [
+        "Muhammad Kashif Ghumman",
+        "Irfan Ul Haq",
+        "Navid Ali Khan",
+        "Noor Zaman Jhanjhi"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "doi": "https://doi.org/10.32604/cmc.2026.087078",
+      "url": "https://doi.org/10.32604/cmc.2026.087078",
+      "abstract": "Traffic signal control based on multi-agent reinforcement learning (MARL) typically relies on a single learning algorithm throughout a network, although distinct algorithms may exhibit varying strengths under different congestion conditions. To address this limitation, this paper proposes a Congestion-Aware Hybrid Controller (CAHC) that dynamically selects, at each intersection, among three structurally distinct candidate policies based on a smoothed local congestion score, namely an independent value-based policy (DDQN-inspired), a value-mixing policy (QMIX-inspired), and an actor–critic policy (COMA-inspired). Unlike approaches that switch reward objectives or blend learning losses, CAHC switches among distinct learning policies while jointly training all three using a shared experience replay buffer, avoiding the need for separate replay buffers per policy. The framework is evaluated on a real-world Dublin road network in SUMO against standalone MARL policies and conventional fixed-time and actuated controllers. Based on mean performance over the 200-episode training horizon, CAHC achieves 7.73% higher cumulative reward than the standalone COMA-inspired policy, which is the best-performing single algorithm. The results demonstrate the potential of congestion-aware policy switching for improving traffic signal control under heterogeneous traffic conditions.",
+      "summary": "Traffic signal control based on multi-agent reinforcement learning (MARL) typically relies on a single learning algorithm throughout a network, although distinct algorithms may exhibit varying strengths under different congestion conditions. Based on mean performance over the 200-episode training horizon, CAHC achieves 7.73% higher cumulative reward than the standalone COMA-inspired policy, which is the best-performing single algorithm. The results demonstrate the potential of congestion-aware policy switching for improving traffic signal control under heterogeneous traffic conditions.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7222716739",
+      "title": "Interfacial Reaction Products and Mn/Mo-Regulated TiC(001)/γ-Fe(001) Interfaces in Titanium–Steel Clad Plates: A First-Principles Investigation",
+      "authors": [
+        "Fan Gao",
+        "Fang Wang",
+        "Chao Chang"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Computers, materials & continua/Computers, materials & continua (Print)",
+      "doi": "https://doi.org/10.32604/cmc.2026.088563",
+      "url": "https://doi.org/10.32604/cmc.2026.088563",
+      "abstract": "Titanium–steel clad plates combine the corrosion resistance of titanium alloys with the strength and cost advantages of stainless steels, making them attractive for advanced structural applications. However, interfacial reactions during fabrication or service may lead to the formation of Fe–Ti intermetallic compounds and TiC, which strongly affect interfacial bonding and mechanical reliability. In this work, first-principles calculations were performed to investigate the structural stability, mechanical properties, and electronic bonding characteristics of typical interfacial reaction products, including FeTi, Fe2Ti, and TiC, in TC4/316L stainless steel clad systems. The results show that all three phases are thermodynamically and mechanically stable at 0 K. TiC exhibits the highest hardness and elastic modulus due to its strong Ti–C covalent bonding; however, its limited ductility may compromise interfacial deformation compatibility when it forms as a continuous brittle layer. In contrast, a stable and discontinuous TiC phase at the TiC/γ-Fe interface may provide favorable conditions for γ-Fe heterogeneous nucleation. The calculated segregation energies indicate that Mn and Mo tend to segregate at the TiC/γ-Fe interface. Among the considered configurations, the X-4 doping mode provides the highest work of adhesion, suggesting enhanced interfacial bonding. These results suggest that Mn and Mo can modify the local bonding environment of the TiC/γ-Fe interface and potentially enhance TiC-assisted γ-Fe interfacial stability when the favorable configuration is achieved. However, the overall performance of titanium–steel interfaces is also influenced by the concurrent formation and distribution of other interfacial reaction products. This study provides atomic-scale insight into the interfacial reaction products and alloying-element regulation mechanisms in titanium–steel clad plates.",
+      "summary": "Titanium–steel clad plates combine the corrosion resistance of titanium alloys with the strength and cost advantages of stainless steels, making them attractive for advanced structural applications. The results show that all three phases are thermodynamically and mechanically stable at 0 K. These results suggest that Mn and Mo can modify the local bonding environment of the TiC/γ-Fe interface and potentially enhance TiC-assisted γ-Fe interfacial stability when the favorable configuration is achieved.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "电子与封装"
+      ],
+      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7621,114 +7716,6 @@
         "电子与封装"
       ],
       "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7223261260",
-      "title": "Constructed a stable coordination polymer for highly efficient and selective capture of thorium",
-      "authors": [
-        "清华 胡",
-        "Yeliang gao",
-        "Guo Zhang Jin",
-        "limin liu"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Research on Chemical Intermediates",
-      "doi": "https://doi.org/10.1007/s11164-026-06178-7",
-      "url": "https://doi.org/10.1007/s11164-026-06178-7",
-      "abstract": "Abstract The efficient separation of thorium (Th) from chemically similar rare earth elements (REEs) is technically challenging. In this work, a stable coordination polymer (Ni-tfc-CP) was fabricated by adopting the strategy of in-situ incorporation of hydrophobic groups. Ni-tfc-CP exhibits excellent structural stability over a wide pH range of 2–11 and under high-temperature conditions up to 247°C. The abundant carboxyl oxygen active binding sites on the surface of Ni-tfc-CP, provides favorable environment for Th(IV) uptake. The maximum adsorption capacity was calculated to 518.9 mg g⁻¹, by fitting the equilibrium data to the Langmuir model. Moreover, it showed an ultra-fast adsorption rate and reached equilibrium within 5 minutes. Notably, competitive tests confirmed the superior selectivity of Ni-tfc-CP for Th(IV), with a high distribution coefficient of 6×10⁵ mL g⁻¹. This study provides meaningful guidance for the rational development of functional materials toward nuclide separation.",
-      "summary": "Abstract The efficient separation of thorium (Th) from chemically similar rare earth elements (REEs) is technically challenging. Moreover, it showed an ultra-fast adsorption rate and reached equilibrium within 5 minutes. This study provides meaningful guidance for the rational development of functional materials toward nuclide separation.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225771483",
-      "title": "Microwave assisted extraction and Mannich type modification of date palm trunk lignin: Structural, surface, and thermal characterizations",
-      "authors": [
-        "Deepak Verma",
-        "Hina Khan",
-        "Aatikah Meraj",
-        "Ismail Almanassra",
-        "Haif Al-Jomard",
-        "Mohini M. Sain",
-        "Mohammad Jawaid"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Industrial Crops and Products",
-      "doi": "https://doi.org/10.1016/j.indcrop.2026.124714",
-      "url": "https://doi.org/10.1016/j.indcrop.2026.124714",
-      "abstract": "This study involves the extraction of the lignin from the date palm trunk biomass using natural deep eutectic solvent (NADES) followed by microwave assisted method. The extracted lignin is first alkalized and modified using anhydrous ethylenediamine and formaldehyde at different mass ratios (alkalized lignin: EDA: formaldehyde), i.e., 1:1:1.08 (M1), 1:1:3.5 (M2), and 1:1:9 (M3). Different characterization techniques such as, FTIR, XRD, TGA, DTG, DSC, XPS, SEM, SEM-EDAX, and UV-DRS are used to evaluate the influence of progressive modification. FTIR analysis exhibited that modification results in changes in the functional groups, i.e., hydroxyl, ether, and amine. SEM analysis shows morphological transformation from the rough/fractured surface of control lignin to the progressively dense and agglomerated structures of modified lignin. SEM-EDAX observed the presence of nitrogen after modification. XPS analysis showed that after modification an increased surface nitrogen is observed consistent with amination. The XRD analysis showed that all samples are amorphous in nature and controlled by broad diffuse halos. The UV-DRS study exhibited that all samples possess the broad UV absorption of lignin. The progressive changes observed in the 280–300 nm and 300–400 nm. Hence, date palm trunk lignin can be potentially valorized using EDA: formaldehyde modification to get nitrogen functionalized lignin. The potential applications of the modified lignin may be suggested in adsorbents, bio-based resin, coatings, and lignin based advanced composites are considered as possible directions assuring steadfast performance testing.",
-      "summary": "This study involves the extraction of the lignin from the date palm trunk biomass using natural deep eutectic solvent (NADES) followed by microwave assisted method. Hence, date palm trunk lignin can be potentially valorized using EDA: formaldehyde modification to get nitrogen functionalized lignin. The potential applications of the modified lignin may be suggested in adsorbents, bio-based resin, coatings, and lignin based advanced composites are considered as possible directions assuring steadfast performance testing.",
-      "techniques": [
-        "DSC",
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225775130",
-      "title": "Printable Monolayer of Binary Polymer-Co-Grafted Au Nanoparticles for Nano-Floating-Gate Transistor Memory",
-      "authors": [
-        "Kailin Tang",
-        "Haihong Chen",
-        "Tianting Zha",
-        "Xi Mao",
-        "Wang Li",
-        "Wen Li",
-        "Mingdong Yi",
-        "Huamin Zhou"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Polymer science & technology.",
-      "doi": "https://doi.org/10.1021/polymscitech.6c00099",
-      "url": "https://doi.org/10.1021/polymscitech.6c00099",
-      "abstract": "Abstract Nano-floating-gate organic field-effect transistor (NFGOFET) memories are promising candidates for flexible, low-cost, and solution-processable nonvolatile memory devices. Their performance relies critically on the construction of a uniform nano-floating-gate/tunneling-dielectric (NFG/TD) layer, in which discrete nanoparticles serve as charge-storage sites and the surrounding polymer matrix functions as the tunneling dielectric. However, the solution processing of the upper organic semiconductor layer often causes solvent-induced erosion of polymer tunneling layers, disrupting the nanoparticle distribution and degrading charge transport and storage. Here, we report a solvent-resistant NFG/TD layer based on binary polymer-co-modified gold nanoparticles and in situ SiO2 interfacial engineering. Gold nanoparticles co-grafted with polystyrene and poly(4-vinylpyridine) form a printable monolayer in which polystyrene serves as the tunneling dielectric and poly(4-vinylpyridine) provides anchoring sites for TEOS hydrolysis. The SiO2 layer preserves the nanoparticle monolayer during active-layer printing and provides a stable inorganic tunneling barrier and a modifiable interface for improving semiconductor crystallization. This work establishes a general and scalable interfacial regulation strategy for the solution-process of printable multi-layered organic thin-film devices.",
-      "summary": "Abstract Nano-floating-gate organic field-effect transistor (NFGOFET) memories are promising candidates for flexible, low-cost, and solution-processable nonvolatile memory devices. Their performance relies critically on the construction of a uniform nano-floating-gate/tunneling-dielectric (NFG/TD) layer, in which discrete nanoparticles serve as charge-storage sites and the surrounding polymer matrix functions as the tunneling dielectric. This work establishes a general and scalable interfacial regulation strategy for the solution-process of printable multi-layered organic thin-film devices.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "高分子与复合材料"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注配方比较、结构—性能关系、固化和老化评价。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7225786542",
-      "title": "Predictive modeling of biochar pH using pyrolysis conditions and biomass elemental composition through machine learning approaches",
-      "authors": [
-        "Lulwah M. Alkwai",
-        "Shahad Almansour",
-        "Kusum Yadav",
-        "Debashis Dutta",
-        "Feras Alnaimat",
-        "Nargis Yousafzai"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Industrial Crops and Products",
-      "doi": "https://doi.org/10.1016/j.indcrop.2026.124731",
-      "url": "https://doi.org/10.1016/j.indcrop.2026.124731",
-      "abstract": "Accurate prediction of biochar pH prior to pyrolysis is critical for designing customized environmental materials, yet traditional black-box machine learning models fail to capture the complex, non-linear thermochemical mechanisms dictating alkalinity. This study aims to develop a highly accurate, mechanistically interpretable predictive framework for biochar pH by coupling ensemble machine learning algorithms with SHapley Additive exPlanations (SHAP). A comprehensive dataset of 248 diverse biomass samples was curated, utilizing initial elemental compositions and pyrolysis conditions (temperature and residence time) to train, optimize, and cross-validate seven predictive algorithms. The optimized Random Forest model significantly outperformed other architectures, demonstrating robust generalization and precision on unseen test data (R 2 of 0.703, MSE = 0.737, AARE% = 5.8%). Crucially, SHAP analysis moved beyond simple feature ranking to reveal specific directional impacts: elevated pyrolysis temperatures positively drive biochar pH by accelerating acidic functional group volatilization and concentrating basic ash minerals, whereas higher initial biomass carbon contents and prolonged residence times inversely suppress pH generation by promoting structural graphitization and reducing reactive basic sites. By translating statistical feature importance into actionable physical chemistry, this interpretable framework equips process engineers with a transparent, highly accurate tool to pre-determine and optimize biochar alkalinity without relying on exhaustive, energy-intensive experimental trials.",
-      "summary": "Accurate prediction of biochar pH prior to pyrolysis is critical for designing customized environmental materials, yet traditional black-box machine learning models fail to capture the complex, non-linear thermochemical mechanisms dictating alkalinity. This study aims to develop a highly accurate, mechanistically interpretable predictive framework for biochar pH by coupling ensemble machine learning algorithms with SHapley Additive exPlanations (SHAP). Crucially, SHAP analysis moved beyond simple feature ranking to reveal specific directional impacts: elevated pyrolysis temperatures positively drive biochar pH by accelerating acidic functional group volatilization and concentrating basic ash minerals, whereas higher initial biomass carbon contents and prolonged residence times inversely suppress pH generation by promoting structural graphitization and reducing reactive basic sites.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "循环利用与可持续材料"
-      ],
-      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     }
   ]
