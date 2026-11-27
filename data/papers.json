@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -341,7 +341,7 @@
         "Gurwinder Singh",
         "Rohan Bahadur",
         "Jae‐Hun Yang",
-        "Mukesh K. Choudhary",
+        "Mukesh Kumar Choudhary",
         "Ravindra Pandey",
         "Puspamitra Panigrahi",
         "Lijie Wang"
@@ -757,9 +757,9 @@
         "D. Handoko",
         "Dede Djuhana",
         "W. Ari Adi",
-        "U. Sudjadi",
+        "Usman Sudjadi",
         "M Masrukan",
-        "K M Alhasa"
+        "Kemal Maulana Alhasa"
       ],
       "publication_date": "2027-01-01",
       "journal": "International Journal of Engineering",
@@ -908,7 +908,7 @@
       "authors": [
         "O. S. Zubkova",
         "V. N. Kuchin",
-        "A. S. Mazur",
+        "Anton Stanislavovich Mazur",
         "Пягай Игорь Николаевич"
       ],
       "publication_date": "2027-01-01",
@@ -1029,7 +1029,7 @@
         "Payam Jalili",
         "Y. Wu",
         "Davood Domiri Ganji",
-        "B. Jalili"
+        "Bahram Jalili"
       ],
       "publication_date": "2027-01-01",
       "journal": "International Journal of Engineering",
@@ -1230,8 +1230,8 @@
         "Y. Cao",
         "A. M. Wahba",
         "Oleg Gaidai",
-        "M. I. Elamy",
-        "M. G. Hussien",
+        "Mamdouh Ibrahim Elamy",
+        "Mohamed G. Hussien",
         "M. S. EL-Wazery"
       ],
       "publication_date": "2027-01-01",
@@ -1280,7 +1280,7 @@
       "id": "https://openalex.org/W7219660427",
       "title": "A Machine Learning Approach for Cassava Leaf Disease Identification Using Constraint-Regularized Neural Networks and AJFO Meta-Optimization",
       "authors": [
-        "K. L. Devi",
+        "Katabathina Lakshmi Devi",
         "K. V. D. Kiran"
       ],
       "publication_date": "2027-01-01",
@@ -1304,7 +1304,7 @@
       "authors": [
         "Negar Ghasemi Chepi",
         "Ali Asghar Ghoreyshi",
-        "M. Nikzad"
+        "Maryam Nikzad"
       ],
       "publication_date": "2027-01-01",
       "journal": "International Journal of Engineering",
@@ -1374,10 +1374,10 @@
       "authors": [
         "Agung Mataram",
         "Muhammad Satya Putra Gantada",
-        "R. Dani",
-        "I. Sriyanti",
-        "J. D. Nasution",
-        "A. S. Mohruni",
+        "Rahma Dani",
+        "Ida Sriyanti",
+        "Jimmy Deswidawansyah Nasution",
+        "Amrifan Saladin Mohruni",
         "A. Firdaus",
         "Ahmad Zamheri"
       ],
