@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27",
+  "updated_at": "2026-11-28",
   "query": "(\"thermal analysis\" OR calorimetry OR DSC OR thermogravimetric OR TGA OR \"dynamic mechanical analysis\" OR DMA OR \"thermomechanical analysis\" OR TMA) AND (battery OR polymer OR composite OR adhesive OR packaging OR recycling OR pharmaceutical OR food OR biomaterial OR \"phase change material\" OR electronics OR safety OR degradation)",
   "papers": [
     {
@@ -855,7 +855,7 @@
       "title": "Balanced Risk Assessment and Management in Development of Hard-To-Recover Reserves Using Example of Heavy Oil",
       "authors": [
         "Т. В. Семенова",
-        "I. O. SOKOLOV",
+        "I. O. Sokolov",
         "Л. В. Медведева",
         "Elena Katysheva"
       ],
@@ -1512,10 +1512,10 @@
       "id": "https://openalex.org/W7223555401",
       "title": "Design and Optimization of a Yokeless Segmented Axial Flux Motor for High-Torque Applications",
       "authors": [
-        "A. A. Ebrahimian",
+        "Ali Akbar Ebrahimian",
         "Seyed Ehsan Abdollahi",
         "A. Sheikholeslami",
-        "J. Adabi"
+        "Jafar Adabi"
       ],
       "publication_date": "2027-01-01",
       "journal": "International Journal of Engineering",
@@ -1724,6 +1724,173 @@
         "电子与封装"
       ],
       "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7165136892",
+      "title": "Electrolyte and gas flow rate balance in flow cells for lithium-mediated ammonia electrosynthesis",
+      "authors": [
+        "Anna Mangini",
+        "Giulia Zagatti",
+        "Julia Amici",
+        "Sara García-Ballesteros",
+        "Federico Bella"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Faraday Discussions",
+      "doi": "https://doi.org/10.1039/d6fd00090h",
+      "url": "https://doi.org/10.1039/d6fd00090h",
+      "abstract": "The electrochemical lithium-mediated nitrogen reduction reaction (Li-NRR) has emerged as a leading approach for ammonia electrosynthesis under mild conditions, particularly in continuous flow-cell configurations. Despite the rapid progress of this strategy, as well as the remarkable efforts in electrolyte composition engineering and solid-electrolyte-interphase layer understanding, the impact of architecture-level parameters remains unclear and is often entangled with the intrinsic process reactivity and selectivity. Here, we systematically investigate the influence of electrolyte and nitrogen-gas flow rates on Li-NRR performance in a flow cell, attempting to decouple the effect of device-level parameters from reaction chemistry in determining activity, selectivity, and stability of the system. By balancing liquid and gas flows, we demonstrate stable device operation even at high electrolyte flow rates (18 mL min-1), allowing for a complete exchange of the electrolyte in the liquid chamber twice per minute. This electrolyte flow rate results in a simultaneous improvement of Faradaic efficiency, productivity, and ammonia recovery in the gas phase. Overall, our results highlight the critical influence of cell-architecture-related parameters on Li-NRR and emphasize the need to disentangle device engineering from electrolyte tailoring and electrochemical performance optimisation to enable a rational understanding of the mechanism understanding towards the translation of Li-NRR to a scalable process.",
+      "summary": "The electrochemical lithium-mediated nitrogen reduction reaction (Li-NRR) has emerged as a leading approach for ammonia electrosynthesis under mild conditions, particularly in continuous flow-cell configurations. Here, we systematically investigate the influence of electrolyte and nitrogen-gas flow rates on Li-NRR performance in a flow cell, attempting to decouple the effect of device-level parameters from reaction chemistry in determining activity, selectivity, and stability of the system. Overall, our results highlight the critical influence of cell-architecture-related parameters on Li-NRR and emphasize the need to disentangle device engineering from electrolyte tailoring and electrochemical performance optimisation to enable a rational understanding of the mechanism understanding towards the translation of Li-NRR to a scalable process.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225083500",
+      "title": "Spiers Memorial Lecture. Bridging electrochemical devices across Earth and space: A planetary perspective",
+      "authors": [
+        "Michael Hecht"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Faraday Discussions",
+      "doi": "https://doi.org/10.1039/d6fd00142d",
+      "url": "https://doi.org/10.1039/d6fd00142d",
+      "abstract": "This introductory talk will focus on the process of “bridging,” transitioning terres-trial electrochemical technology to applications in planetary exploration, drawing heavily from the author’s practical experiences. The goal is to...",
+      "summary": "This introductory talk will focus on the process of “bridging,” transitioning terres-trial electrochemical technology to applications in planetary exploration, drawing heavily from the author’s practical experiences. The goal is to...",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225094612",
+      "title": "Artificial Intelligence-Driven Quality by Design in Pharmaceutical Formulation Development: Applications, Challenges, and Future Perspectives",
+      "authors": [
+        "Niranjan Giri",
+        "Umesh Maske",
+        "Kailas Rathod",
+        "Quadri Sohel"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Journal of Pharmacy Practice and Community Medicine",
+      "doi": "https://doi.org/10.5530/jppcm.20270007",
+      "url": "https://doi.org/10.5530/jppcm.20270007",
+      "abstract": "The development of pharmaceutical formulations is changing. It is moving away from trial-anderror ways. Now modern approaches rely on science and data. Quality by Design or QbD offers a structured way to develop medicines. It starts with defining the Quality Target Product Profile or QTPP. Then it identifies Critical Quality Attributes or CQAs. It also looks at Critical Material Attributes or CMAs and Critical Process Parameters or CPPs. Design of Experiments or DoE helps in planning studies. This leads to the creation of a design space and a control strategy. Traditional QbD methods may not work well when variables are complex. They may not handle effects or strong interactions between factors. Artificial intelligence machine learning and predictive models can help. These tools can find patterns in data from experiments, formulations and manufacturing. This review looks at how AI fits into every stage of formulation development. It covers preformulation excipient selection, compatibility prediction, formulation optimization and predicting CQAs. It also includes identifying CMAs and CPPs. AI helps with process monitoring, Process Analytical Technology or PAT design space development and control strategy design. Applications are shown in solid dosage forms, modified-release systems, nanoparticulate and lipid-based formulations, continuous manufacturing, personalized medicines and 3D-printed medicines. Some challenges exist. These include data, overfitting models, models that are hard to understand lack of validation difficulties in scaling up regulatory issues and the need for diverse expertise. New ideas, like twins, continuous process verification, hybrid models that combine mechanics and AI generative AI and federated learning may push the field forward. In the end AI should support science not replace it. Experimental verification and mechanistic understanding are still essential.",
+      "summary": "The development of pharmaceutical formulations is changing. AI helps with process monitoring, Process Analytical Technology or PAT design space development and control strategy design. Applications are shown in solid dosage forms, modified-release systems, nanoparticulate and lipid-based formulations, continuous manufacturing, personalized medicines and 3D-printed medicines.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "食品与脂质",
+        "医药与生物材料"
+      ],
+      "application_hint": "可关注脂肪结晶、相变、氧化稳定性与加工窗口。 可关注晶型、相容性、变性、冻干或材料稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225825254",
+      "title": "Chromophore expansion controls photochemistry and energy storage in coordination crystals",
+      "authors": [
+        "Jeffrey Feng",
+        "Victoria Pham-Tran",
+        "Brianna N. Mandarino",
+        "Kayley R. Owens",
+        "Oscar R. Protić",
+        "William Robert Elliott",
+        "Peter J. Pallister",
+        "Katherine M. Marczenko"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Materials Chemistry Frontiers",
+      "doi": "https://doi.org/10.1039/d6qm00789a",
+      "url": "https://doi.org/10.1039/d6qm00789a",
+      "abstract": "A conserved Cd 2 (4-I-bz) 4 pseudo-paddlewheel scaffold was used to isolate the effect of chromophore expansion across styryl-, naphthylvinyl-, and anthracenylvinylpyridine ligands.",
+      "summary": "A conserved Cd 2 (4-I-bz) 4 pseudo-paddlewheel scaffold was used to isolate the effect of chromophore expansion across styryl-, naphthylvinyl-, and anthracenylvinylpyridine ligands.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225855280",
+      "title": "A Computational Fluid Dynamics Analysis on the Impacts of Different Materials, Thicknesses and Rotation Speeds on the Performance of a Parabolic Trough Solar Collector",
+      "authors": [
+        "N. Firouzi",
+        "A. K. Alzahrani",
+        "A. I. Raheem",
+        "A. Elfasakhany"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Journal of Applied Fluid Mechanics",
+      "doi": "https://doi.org/10.47176/jafm.20.1.4790",
+      "url": "https://doi.org/10.47176/jafm.20.1.4790",
+      "abstract": "The aim of this study is to develop a dynamic numerical model for a parabolic trough solar collector with a rotating absorber tube and to systematically investigate the combined effects of rotation speed, tube material, and wall thickness on its thermal performance. The main novelty is in the simultaneous investigation of three key design parameters—rotation speed (10 and 15 rad/s), absorber tube material (copper, brass, and nickel), and wall thickness (1.45, 1.65, and 1.85 mm)—which have not been studied collectively in previous literature. The simulations are analyzed by ANSYS. Because the non-uniform heat flux is not available in the ANSYS software, a user defined function (UDF) subroutine code for applying non-uniform heat flux is programmed. Results show that the rotation of the pipe has a major effect on the layers close to the wall, while the middle layers of the fluid are not influenced. Moreover, it is proven that as the fluid distance from the inlet increases, the rotational speed and consequently the maximum fluid velocity increase. This shows that the fluid gradually approaches its limiting velocity and that there is no significant change in the average velocity of the fluid inside the pipe as the pipe length increases. Besides, as the fluid progresses along the pipe, the rate of increase in its temperature gradually decreases and the fluid reaches a state close to a steady temperature. Finally, it is proven that among material alloys used, the copper tube has the best performance for heat penetration and creates the highest maximum temperature in the fluid.",
+      "summary": "The aim of this study is to develop a dynamic numerical model for a parabolic trough solar collector with a rotating absorber tube and to systematically investigate the combined effects of rotation speed, tube material, and wall thickness on its thermal performance. Results show that the rotation of the pipe has a major effect on the layers close to the wall, while the middle layers of the fluid are not influenced. Finally, it is proven that among material alloys used, the copper tube has the best performance for heat penetration and creates the highest maximum temperature in the fluid.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "其他潜在应用"
+      ],
+      "application_hint": "建议结合论文摘要判断其可迁移的检测或研发场景。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225859778",
+      "title": "Influence of Fuel Injection Pressure on Gasoline/Waste Oil Biodiesel–diesel Blend (B20) RCCI Combustion: An Experimental Study",
+      "authors": [
+        "A. Ghaedi",
+        "Omid Jahanian",
+        "Rouzbeh Shafaghat"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Journal of Applied Fluid Mechanics",
+      "doi": "https://doi.org/10.47176/jafm.20.1.4811",
+      "url": "https://doi.org/10.47176/jafm.20.1.4811",
+      "abstract": "Waste oil-derived biodiesel is a promising renewable fuel for advanced combustion concepts such as Reactivity Controlled Compression Ignition (RCCI). However, the influence of fuel injection pressure (FIP) on gasoline/biodiesel RCCI combustion has received limited experimental attention. In this study, the effect of FIP was experimentally investigated using a diesel–waste cooking oil biodiesel blend (B20) as the high-reactivity fuel and gasoline as the low-reactivity fuel. Experiments were conducted at 1050 rpm with a premixed fuel ratio of 27%, over FIPs ranging from 150 to 350 bar and at two start-of-injection (SOI) timings of 25° and 40° bTDC. The study highlights that the response of different engine characteristics to variations in FIP depends on SOI for some parameters, whereas others are largely insensitive to SOI. Engine performance, combustion characteristics, and exhaust emissions were evaluated. The results showed that increasing FIP over a relatively large range increased brake power by up to approximately 2.4 times the minimum value, whereas the in-cylinder pressure peak did not follow the same trend. In addition, among the FIPs associated with relatively high brake power, an FIP was identified that resulted in lower NOx emissions at both SOIs while providing the highest brake power at one SOI. These findings demonstrate the importance of considering both FIP and SOI when selecting injection conditions for gasoline/B20 RCCI combustion.",
+      "summary": "In this study, the effect of FIP was experimentally investigated using a diesel–waste cooking oil biodiesel blend (B20) as the high-reactivity fuel and gasoline as the low-reactivity fuel. Engine performance, combustion characteristics, and exhaust emissions were evaluated. The results showed that increasing FIP over a relatively large range increased brake power by up to approximately 2.4 times the minimum value, whereas the in-cylinder pressure peak did not follow the same trend.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "循环利用与可持续材料"
+      ],
+      "application_hint": "可关注回收料鉴别、组成定量、热解路线和批次稳定性。",
+      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
+    },
+    {
+      "id": "https://openalex.org/W7225883398",
+      "title": "GRADATION ASYMMETRY AS A DESIGN PARAMETER FOR FUNCTIONALLY GRADED PIEZOELECTRIC TIMOSHENKO BEAMS UNDER LORD-SHULMAN THERMAL SHOCK",
+      "authors": [
+        "Nawal A. Alshehri"
+      ],
+      "publication_date": "2027-01-01",
+      "journal": "Far East Journal of Mathematical Sciences (FJMS)",
+      "doi": "https://doi.org/10.17654/77251136",
+      "url": "https://doi.org/10.17654/77251136",
+      "abstract": "The transient response of Timoshenko beam made of a functionally graded piezoelectric material (FGPM) to an end thermal shock is examined within Lord-Shulman generalized thermoelasticity for power, sigmoid, exponential and symmetric through-thickness gradation laws of a PZT-4/PZT-5H pair. The fully coupled model, including pyroelectricity, is solved exactly in the axial coordinate through a quadratic eigenvalue formulation in the Laplace domain, and verified against an independent finite-difference scheme. Three dimensionless asymmetry indices are defined from the section coefficients. It is proved that any gradation symmetric about the midplane suppresses the deflection and the induced potential identically. In this case, the electrode charge equals that of a homogeneous beam of the face material, exactly in the uncoupled limit and to within the small thermoelastic coupling otherwise. For asymmetric laws, the peak deflection follows the empirical rule \\(w_{\\text {max }} \\approx\\left|\\eta_{M}\\right|(a-b \\bar{V})\\), with a coefficient of determination of 0.995 and a maximum relative error of 0.035, and keeps this form for other slenderness ratios, rise times and beam thicknesses. At fixed mean composition, the peak potential is proportional to the piezoelectric index. The sigmoid law gives the largest asymmetry, raising deflection and potential to about one and a half times those of the best power law profile. Once bending develops, asymmetry increases the peak surface stress, slightly under near-Fourier conduction but by a factor of up to 1.44 when the thermal and elastic wave speeds coincide. The physical scales and the validity of the continuum model are discussed.",
+      "summary": "The transient response of Timoshenko beam made of a functionally graded piezoelectric material (FGPM) to an end thermal shock is examined within Lord-Shulman generalized thermoelasticity for power, sigmoid, exponential and symmetric through-thickness gradation laws of a PZT-4/PZT-5H pair. Once bending develops, asymmetry increases the peak surface stress, slightly under near-Fourier conduction but by a factor of up to 1.44 when the thermal and elastic wave speeds coincide. The physical scales and the validity of the continuum model are discussed.",
+      "techniques": [
+        "热分析"
+      ],
+      "categories": [
+        "新能源与储能"
+      ],
+      "application_hint": "可关注材料筛选、热安全评价、相变储能或电池失效分析。",
       "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
     },
     {
@@ -7536,179 +7703,6 @@
       "url": "https://doi.org/10.1007/s41939-026-01280-0",
       "abstract": "Abstract This paper investigates the flow and heat transfer characteristics of a magnetohydrodynamic fluid flow in a porous channel. Model equations are derived from the Navier-Stokes equation and the energy equation. The energy equation in this study incorporates viscous dissipation, internal heat generation/absorption, and Joule heating. By applying suitable transformations, the conservative momentum and energy equation are transformed into non-linear ordinary differential equations (ODEs). A closed form solution to the model equations was obtained. By taking into account characteristics like Biot number, Reynolds number, Brinkman number, Magnetic parameter, and others, the investigation on the normalized shear stress at the walls, temperature profiles were possible with aid of Tables and graphical presentations. For practical and engineering purposes, local Nusselt number, skin friction and mass flow rate of the physical constraints was tabulated. This gives important insights about the systems behavior under various settings. The graphical results indicate that the velocity profile exhibits a decrease as the magnetic parameter, Reynolds number and upper wall slip increase. Temperature decreases as Peclet number and slip parameters increase. Heat source/sink and Joule heating were observed to significantly influence the temperature field while the Biot number acts as a modifier in the temperature field as it dictates points of reversals near the convective wall.",
       "summary": "Abstract This paper investigates the flow and heat transfer characteristics of a magnetohydrodynamic fluid flow in a porous channel. For practical and engineering purposes, local Nusselt number, skin friction and mass flow rate of the physical constraints was tabulated. The graphical results indicate that the velocity profile exhibits a decrease as the magnetic parameter, Reynolds number and upper wall slip increase.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7170502725",
-      "title": "Prolonged static aging of olefin-based inverse emulsion drilling fluids: temperature–time effects on rheology, stability, and filtration",
-      "authors": [
-        "GABRIEL REIS SIMPLÍCIO DE SOUZA",
-        "Heitor Otacílio Nogueira Altino",
-        "Elessandre Alves de Souza",
-        "Marcos A.S. Barrozo",
-        "Marina Seixas Pereira",
-        "Cláudio R. Duarte"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Brazilian Journal of Chemical Engineering",
-      "doi": "https://doi.org/10.1007/s43153-026-00738-5",
-      "url": "https://doi.org/10.1007/s43153-026-00738-5",
-      "abstract": "Abstract Synthetic-based drilling fluids (SBFs) formulated as olefin-based inverse emulsions are widely used in deepwater operations, where prolonged static intervals expose the fluid to high temperatures without shear. This study investigated the coupled effects of aging temperature (100–150 °C) and static exposure time (24–168 h) on the rheological behavior, emulsion stability, and filtration performance of an olefin-based synthetic drilling fluid using a Central Composite Design. The response surface models for the Herschel–Bulkley parameters were statistically significant (p≤0.05, R 2 =0.978–0.992). Yield stress exhibited a nonlinear response, decreasing by ~12% at intermediate conditions (125 °C, 96 h) relative to the unaged fluid, but dropping near zero at experimental boundaries. The consistency index reached values up to seven times higher at 142.7 °C after 147 h, while the flow behavior index decreased from 0.70 to 0.44. At a shear rate of 8 s⁻ 1 , apparent viscosity increased by 8% after 45 h and 18% after 147 h at 142.7 °C, reaching 30% at 150 °C after 96 h. Prolonged aging also promoted macroscopic phase separation and brine manifestation. Filtration behavior was nonlinear, and an additional test using the filtration-control additive aged at 150 °C for 96 h yielded only 1 mL of filtrate, suggesting thermal changes in the additive favored pore plugging and restricted fluid loss. Thermogravimetric analysis indicated thermal susceptibility of emulsifier and filtration-control components at approximately 102–120 °C. These results show that aging time is a critical factor governing the long-term performance of olefin-based synthetic drilling fluids.",
-      "summary": "This study investigated the coupled effects of aging temperature (100–150 °C) and static exposure time (24–168 h) on the rheological behavior, emulsion stability, and filtration performance of an olefin-based synthetic drilling fluid using a Central Composite Design. Filtration behavior was nonlinear, and an additional test using the filtration-control additive aged at 150 °C for 96 h yielded only 1 mL of filtrate, suggesting thermal changes in the additive favored pore plugging and restricted fluid loss. These results show that aging time is a critical factor governing the long-term performance of olefin-based synthetic drilling fluids.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "食品与脂质"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注脂肪结晶、相变、氧化稳定性与加工窗口。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7203692036",
-      "title": "Frailty and the incidence of major ocular diseases: a prospective cohort study integrating proteomic mediation analysis",
-      "authors": [
-        "Ziyu Wang",
-        "Zhimin Deng",
-        "Jiayu Wang",
-        "Ning Tao",
-        "Xuan Xiao",
-        "Cheng Pei"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "BMC Ophthalmology",
-      "doi": "https://doi.org/10.1186/s12886-026-05521-1",
-      "url": "https://doi.org/10.1186/s12886-026-05521-1",
-      "abstract": "Abstract Background The long-term association between frailty phenotype and major vision-threatening ocular diseases (age-related macular degeneration (AMD), diabetic retinopathy (DR), glaucoma, and cataract), as well as the underlying molecular mechanisms, remain unclear. Methods Cox proportional hazards models were used to assess the association between frailty status (classified as non-frail, prefrail, or frail) and the risk of four ocular diseases. Olink proteomics identified plasma proteins signatures associated with frailty status and ocular diseases. Mediation analysis assessed the overall and stage-specific (prefrail vs. frail) proteins as potential mediators. Results During a median follow-up of 15.7 years, prefrailty and frailty were associated with significantly elevated risks of AMD (Prefrail: HR = 1.17; Frail: HR = 1.49), DR (Prefrail: HR = 1.96; Frail: HR = 3.91), glaucoma (Prefrail: HR = 1.13; Frail: HR = 1.61), and cataract (Prefrail: HR = 1.16; Frail: HR = 1.49) (all P < 0.001). Proteomic profiling revealed 1,068 and 1,387 proteins associated with prefrailty and frailty, respectively, enriched in immune-inflammatory pathways (e.g., leukocyte migration). Similarly, proteins associated with all four ocular diseases were enriched in inflammatory and cell adhesion pathways. Mediation analysis further demonstrated that a spectrum of plasma proteins partially explained these associations, with a stage-specific escalation in the proportion of harmful mediators observed in DR. Conclusions These findings establish a significant link between frailty and common ocular diseases, unveiling a mediating role of systemic inflammatory and extracellular matrix proteins, with a progressive, stage-specific pattern in DR. These results highlight frailty as both a marker of shared pathways in systemic and ocular aging, and a potential integrated biomarker for interventions aimed at preventing vision loss.",
-      "summary": "Abstract Background The long-term association between frailty phenotype and major vision-threatening ocular diseases (age-related macular degeneration (AMD), diabetic retinopathy (DR), glaucoma, and cataract), as well as the underlying molecular mechanisms, remain unclear. Mediation analysis further demonstrated that a spectrum of plasma proteins partially explained these associations, with a stage-specific escalation in the proportion of harmful mediators observed in DR. These results highlight frailty as both a marker of shared pathways in systemic and ocular aging, and a potential integrated biomarker for interventions aimed at preventing vision loss.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "热安全与失效分析",
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注分解起始、反应顺序、放热风险与寿命预测。 可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7204722684",
-      "title": "Geoeconomic fragmentation and the erosion of TRIPS flexibilities in technology access and distributive justice in the Global South",
-      "authors": [
-        "Hamza Khan",
-        "Ahmar Afaq",
-        "Maryam Ishrat Beg"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Discover Global Society",
-      "doi": "https://doi.org/10.1007/s44282-026-00664-4",
-      "url": "https://doi.org/10.1007/s44282-026-00664-4",
-      "abstract": "Abstract The rise of geoeconomic fragmentation and techno-nationalism is fundamentally reshaping the global intellectual property (IP) regime. While the TRIPS Agreement was originally presented as a carefully balanced bargain that preserved flexibilities for developing countries, contemporary security-driven export controls, investment screening, industrial subsidies, and strategic technology restrictions are increasingly constraining those flexibilities. This paper critically examines how the securitisation of technology and the weaponisation of supply chains are eroding the policy space of Global South countries to access, adapt, and diffuse critical technologies in pharmaceuticals, green energy, digital infrastructure, and artificial intelligence. Drawing on international trade law, political economy, and distributive justice frameworks, the paper analyses the interplay between TRIPS Articles 7, 8, 31, and 66.2 and the expanding use of national security exceptions. It argues that the current trajectory risks transforming IP from a development tool into an instrument of technological hierarchy and proposes pathways for reclaiming regulatory sovereignty and reconstructing a more equitable technology governance architecture in a multipolar world.",
-      "summary": "Abstract The rise of geoeconomic fragmentation and techno-nationalism is fundamentally reshaping the global intellectual property (IP) regime. While the TRIPS Agreement was originally presented as a carefully balanced bargain that preserved flexibilities for developing countries, contemporary security-driven export controls, investment screening, industrial subsidies, and strategic technology restrictions are increasingly constraining those flexibilities. It argues that the current trajectory risks transforming IP from a development tool into an instrument of technological hierarchy and proposes pathways for reclaiming regulatory sovereignty and reconstructing a more equitable technology governance architecture in a multipolar world.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "医药与生物材料"
-      ],
-      "application_hint": "可关注晶型、相容性、变性、冻干或材料稳定性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7213361628",
-      "title": "Toward Property-Directed Catalytic Skeletal Editing of Functional Organic Materials",
-      "authors": [
-        "Taichi Koike",
-        "Sajan Pradhan",
-        "Kenichiro Itami"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "ACS Applied Catalysis",
-      "doi": "https://doi.org/10.1021/acsappcat.6c00182",
-      "url": "https://doi.org/10.1021/acsappcat.6c00182",
-      "abstract": "Abstract Late-stage skeletal editing has emerged as a useful strategy in synthetic and medicinal chemistry for altering molecular frameworks by atom insertion, deletion, replacement, or bond reorganization. Functional organic molecules and materials are commonly optimized through peripheral substitution and de novo framework construction. Direct modification of an existing skeleton provides a complementary means of tuning electronic structure, molecular shape, chirality, packing, and processability. Herein we examine catalytic skeletal editing with an emphasis on functional organic materials, specifically π-conjugated molecules, dyes, polymers, and covalent frameworks. Representative examples are evaluated in terms of catalytic status and experimentally demonstrated properties. Key requirements for broader application include site selectivity, element transfer, catalyst compatibility, and control of editing extent in extended materials. The emerging opportunity is to move skeletal editing from reaction-centered diversification toward catalyst-controlled, property-directed modification.",
-      "summary": "Abstract Late-stage skeletal editing has emerged as a useful strategy in synthetic and medicinal chemistry for altering molecular frameworks by atom insertion, deletion, replacement, or bond reorganization. Representative examples are evaluated in terms of catalytic status and experimentally demonstrated properties. Key requirements for broader application include site selectivity, element transfer, catalyst compatibility, and control of editing extent in extended materials.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "电子与封装"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注固化、Tg、热膨胀、界面应力与器件可靠性。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7214786535",
-      "title": "Mechanisms of Surface Degradation and Mechanical Property Deterioration in Haynes 230 Under High-Temperature Ultrahigh Vacuum",
-      "authors": [
-        "Shuting Yuan",
-        "Wanhuan Yang",
-        "Jichun Zou",
-        "Jiandong Kang",
-        "Binlin Hua",
-        "Yurui Chen",
-        "Shen Li",
-        "Weihua Zhong"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "High Temperature Corrosion of Materials",
-      "doi": "https://doi.org/10.1007/s11085-026-10481-4",
-      "url": "https://doi.org/10.1007/s11085-026-10481-4",
-      "abstract": "Abstract Haynes 230 alloy is widely used as a high-temperature structural material in hot-end components. To investigate the mechanisms underlying surface-defect evolution and mechanical-property degradation under high-temperature ultrahigh-vacuum conditions, exposure tests were conducted for up to 2000 h. Tensile tests were performed on as-received and exposed specimens at room temperature and 900 ℃. Scanning electron microscopy (SEM) revealed selective volatilization of alloying elements from the material surface at high temperature, accompanied by M 6 C carbide precipitation and grain-boundary sinking. Voids were also observed beneath the M 6 C carbide precipitates, while M 23 C 6 carbides precipitated along internal grain boundaries. After exposure, the yield strength and elongation decreased slightly at room temperature. This degradation was primarily attributed to preferential cracking of brittle M 6 C carbides and debonding of M 23 C 6 carbides from the matrix during loading, both of which promoted microcrack initiation. By contrast, pronounced mechanical degradation occurred during tensile testing at 900 ℃. Cr depletion inhibited the formation of a protective oxide scale, leaving the surface susceptible to continued oxidation. Concurrently, local stress concentrations associated with grain-boundary sinking promoted preferential cracking along grain boundaries. Once initiated, the cracks propagated readily, while oxygen diffused rapidly along the grain boundaries; together, these processes severely degraded the overall mechanical performance of the alloy.",
-      "summary": "Abstract Haynes 230 alloy is widely used as a high-temperature structural material in hot-end components. Scanning electron microscopy (SEM) revealed selective volatilization of alloying elements from the material surface at high temperature, accompanied by M 6 C carbide precipitation and grain-boundary sinking. Once initiated, the cracks propagated readily, while oxygen diffused rapidly along the grain boundaries; together, these processes severely degraded the overall mechanical performance of the alloy.",
-      "techniques": [
-        "热分析"
-      ],
-      "categories": [
-        "电子与封装",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注固化、Tg、热膨胀、界面应力与器件可靠性。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7215240657",
-      "title": "Mechanical and Thermal Characterization of Natural Composites for Sustainable Applications",
-      "authors": [
-        "Vinay Kumar"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Journal of Research and Applications in Mechanical Engineering",
-      "doi": "https://doi.org/10.14456/jrame.2026.22",
-      "url": "https://ph01.tci-thaijo.org/index.php/jrame/article/view/261201",
-      "abstract": "This study explores the development and mechanical characterization of sustainable hybrid composites reinforced with rockwool, conch shell powder, and flax fibers within an epoxy matrix. Two distinct composite formulations were fabricated: Rockwool/Conch/Epoxy (C-1) and Rockwool/Flax/Epoxy (C-2), each comprising 30 wt.% reinforcement (15 wt.% rockwool fibers and 15 wt.% conch powder or flax fibers) and 70 wt.% epoxy resin. The composites were produced using the hand lay-up method followed by compression molding. Comprehensive mechanical tests, including tensile and flexural strength assessments, were conducted in accordance with ASTM standards. Additionally, thermogravimetric analysis (TGA), water-absorption testing and scanning electron microscopy (SEM) were employed to evaluate thermal stability, moisture affinity, and microstructural characteristics. The results indicated that C-2 exhibited superior tensile and flexural strengths compared to C-1, attributed to the enhanced fiber–matrix bonding facilitated by flax fibers. Conversely, C-1 demonstrated better thermal stability but also higher water uptake, reflecting the porous, hydrophilic nature of conch shell particles. SEM analysis revealed effective dispersion of reinforcements and strong interfacial adhesion in C-2, whereas C-1 showed minor voids around conch particles. These findings highlight the potential of integrating natural and industrial waste materials to develop high-performance, eco-friendly composites with tailored mechanical, thermal, and moisture-management properties suitable for various structural applications.",
-      "summary": "This study explores the development and mechanical characterization of sustainable hybrid composites reinforced with rockwool, conch shell powder, and flax fibers within an epoxy matrix. SEM analysis revealed effective dispersion of reinforcements and strong interfacial adhesion in C-2, whereas C-1 showed minor voids around conch particles. These findings highlight the potential of integrating natural and industrial waste materials to develop high-performance, eco-friendly composites with tailored mechanical, thermal, and moisture-management properties suitable for various structural applications.",
-      "techniques": [
-        "TGA"
-      ],
-      "categories": [
-        "高分子与复合材料",
-        "热安全与失效分析"
-      ],
-      "application_hint": "可关注配方比较、结构—性能关系、固化和老化评价。 可关注分解起始、反应顺序、放热风险与寿命预测。",
-      "source_note": "题录与摘要来自 OpenAlex；概括为程序抽取式摘要，不使用 AI。"
-    },
-    {
-      "id": "https://openalex.org/W7215309538",
-      "title": "Numerical Simulation and Thermal Performance of a Novel Parabolic Solar Collector Panels",
-      "authors": [
-        "Werayoot Lahamornchaiyakul"
-      ],
-      "publication_date": "2026-11-12",
-      "journal": "Journal of Research and Applications in Mechanical Engineering",
-      "doi": "https://doi.org/10.14456/jrame.2026.21",
-      "url": "https://ph01.tci-thaijo.org/index.php/jrame/article/view/261240",
-      "abstract": "This study investigates the design of a novel parabolic solar collector. It examines the effects of solar radiation on the collector panels and the flow characteristics of water through the system. The design incorporates two solar collector panels, each measuring 2×1.5 meters, with 2-inch diameter water pipes extending 11 meters in total. The parabolic panels have a focal point positioned 0.25 meters above the collector surface. A computational fluid dynamics (CFD) analysis was performed for flow rates of 0.25, 0.50, 0.75 and 1.00 liters per minute. The computational domain consisted of 1,520,000 mesh elements for analyzing solar thermal energy and 130,000 elements for simulating heat transfer from the radiation panels to the water within the pipes. The optimal flow rate was found to be between 0.50 and 0.75 liters per minute. The results show that the designed parabolic heat collector achieves maximum thermal efficiencies of 36.03% and 41.57%, respectively.",
-      "summary": "This study investigates the design of a novel parabolic solar collector. The optimal flow rate was found to be between 0.50 and 0.75 liters per minute. The results show that the designed parabolic heat collector achieves maximum thermal efficiencies of 36.03% and 41.57%, respectively.",
       "techniques": [
         "热分析"
       ],
